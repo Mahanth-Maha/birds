@@ -3,3 +3,4 @@
 .ipynb_checkpoints/
 *.gitignore
 *.code-workspace
+*.google-cookie
