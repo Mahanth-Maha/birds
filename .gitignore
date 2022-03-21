@@ -2,6 +2,3 @@
 /.ipynb_checkpoints/
 .ipynb_checkpoints/
 *.gitignore
-
-# Dont track assets
-/assets
