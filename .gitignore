@@ -4,3 +4,6 @@
 *.gitignore
 *.code-workspace
 *.google-cookie
+*.~*
+*~$*
+/ananomousDa1a
