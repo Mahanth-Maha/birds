@@ -80,4 +80,5 @@ if __name__ == '__main__':
     ds = input('ds_name Nospace FileWhichAlreadyExists :')
     eol(f,t,ds)
     print('\n\nTime taken : ',datetime.now() - startTime)
+    driver.quit()
     
