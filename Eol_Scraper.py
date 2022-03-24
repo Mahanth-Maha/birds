@@ -51,7 +51,7 @@ def eol(fro,to,csv_file):
     list_of_bird_names = [ types_of_birds_df.loc[ _ ,'Common Bird Names'] for _ in range(1,types_of_birds_df.shape[0]) ]
     data_from_eol = {}
     re_search_on = [] 
-    writer = csv.writer(open('assets/'+ csv_file +'.csv',"a",newline=''))
+    writer = csv.writer(open('assets/'+ csv_file +'.csv',"w",newline=''))
     for bird_name in list_of_bird_names[fro:to]:
         try:
             data_from_eol[bird_name] = scrape_v_2(get_page_of_bird(bird_name))
