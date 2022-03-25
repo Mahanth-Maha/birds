@@ -12,7 +12,14 @@ import requests
 import time
 import random 
 from datetime import datetime
-
+import logging
+from numba import jit, cuda
+import numpy as np
+from timeit import default_timer as timer  
+# import code
+# code.interact(local=locals)
+# Create and configure logger
+# logging.basicConfig(filename="Log_"+log+".log",format='%(asctime)s %(message)s',filemode='a')
 # placeholder="Enter species name" 
 def get_page_of_bird_ebird(bird_name,driver):
     driver.get('https://ebird.org/explore')
@@ -57,13 +64,13 @@ def scrape_v_2_ebird(URL):
         return d
     return 'NODATA'
 
-
-def ebird(fro,to,csv_file,driver):
+# @jit
+def ebird_gpu(fro,to,csv_file,driver):
     types_of_birds_df = pd.read_csv('assets/birds.csv',index_col='ID')
     list_of_bird_names = [ types_of_birds_df.loc[ _ ,'Common Bird Names'] for _ in range(1,types_of_birds_df.shape[0]) ]
     data_from_ebird = {}
     re_search_on = [] 
-    writer = csv.writer(open('assets/'+ csv_file +'.csv',"a",newline=''))
+    writer = csv.writer(open('assets/'+ csv_file +'.csv',"a",newline='',encoding='utf-8'))
     for bird_name in list_of_bird_names[fro:to]:
         try:
             data_from_ebird[bird_name] = scrape_v_2_ebird(get_page_of_bird_ebird(bird_name,driver))
@@ -81,13 +88,38 @@ def ebird(fro,to,csv_file,driver):
             print('----------> Unknown Exceptions for Bird ',bird_name)
     print(re_search_on)
 
+
+def ebird(fro,to,csv_file,driver):
+    types_of_birds_df = pd.read_csv('assets/birds.csv',index_col='ID')
+    list_of_bird_names = [ types_of_birds_df.loc[ _ ,'Common Bird Names'] for _ in range(1,types_of_birds_df.shape[0]) ]
+    data_from_ebird = {}
+    re_search_on = [] 
+    writer = csv.writer(open('assets/'+ csv_file +'.csv',"a",newline='',encoding='utf-8'))
+    for bird_name in list_of_bird_names[fro:to]:
+        try:
+            data_from_ebird[bird_name] = scrape_v_2_ebird(get_page_of_bird_ebird(bird_name,driver))
+            try:
+                writer.writerow([bird_name,data_from_ebird[bird_name]])
+            except UnicodeEncodeError:
+                writer.writerow([list_of_bird_names.index(bird_name),data_from_ebird[bird_name]])
+            if (not data_from_ebird) or (data_from_ebird[bird_name]=='NODATA') :
+                re_search_on.append(bird_name)
+                print('[-] ',bird_name)
+            else:
+                print('[+] ',bird_name)
+        except Exception:
+            writer.writerow([bird_name,'NODATA'])
+            print('----------> Unknown Exceptions for Bird ',bird_name)
+    print(re_search_on)
+
+
 if __name__ == '__main__':
     startTime = datetime.now()
     driver = webdriver.Chrome('./chromedriver.exe')
     f = int(input('from :'))
     t = int(input('to :'))
     ds = input('ds_name Nospace FileWhichAlreadyExists :')
-    ebird(f,t,'ebird/'+ ds , driver)
+    ebird_gpu(f,t,'ebird/'+ ds , driver)
     print('\n\nTime taken : ',datetime.now() - startTime)
     driver.quit()
     
