@@ -1,0 +1,804 @@
+2022-03-26 01:49:13,076 - ERROR - [-] Unknown Exceptions for Bird Rednecked spurfowl
+2022-03-26 01:49:21,414 - ERROR - [-] Unknown Exceptions for Bird Rednecked stint
+2022-03-26 01:49:29,314 - ERROR - [-] Unknown Exceptions for Bird Rednecked tanager
+2022-03-26 01:49:36,829 - ERROR - [-] Unknown Exceptions for Bird Rednecked woodpecker
+2022-03-26 01:49:44,400 - ERROR - [-] Unknown Exceptions for Bird Redpate cisticola
+2022-03-26 01:49:57,066 - ERROR - [-] Unknown Exceptions for Bird Redruffed fruitcrow
+2022-03-26 01:50:05,562 - ERROR - [-] Unknown Exceptions for Bird Redrumped bush tyrant
+2022-03-26 01:50:14,047 - ERROR - [-] Unknown Exceptions for Bird Redrumped cacique
+2022-03-26 01:50:21,195 - ERROR - [-] Unknown Exceptions for Bird Redrumped parrot
+2022-03-26 01:50:29,465 - ERROR - [-] Unknown Exceptions for Bird Redrumped swallow
+2022-03-26 01:50:37,233 - ERROR - [-] Unknown Exceptions for Bird Redrumped tinkerbird
+2022-03-26 01:50:44,972 - ERROR - [-] Unknown Exceptions for Bird Redrumped wheatear
+2022-03-26 01:50:53,374 - ERROR - [-] Unknown Exceptions for Bird Redrumped woodpecker
+2022-03-26 01:51:03,072 - ERROR - [-] Unknown Exceptions for Bird Redshouldered blackbird
+2022-03-26 01:51:11,890 - ERROR - [-] Unknown Exceptions for Bird Redshouldered cuckooshrike
+2022-03-26 01:51:19,945 - ERROR - [-] Unknown Exceptions for Bird Redshouldered hawk
+2022-03-26 01:51:27,546 - ERROR - [-] Unknown Exceptions for Bird Redshouldered macaw
+2022-03-26 01:51:35,156 - ERROR - [-] Unknown Exceptions for Bird Redshouldered spinetail
+2022-03-26 01:51:46,362 - ERROR - [-] Unknown Exceptions for Bird Redshouldered tanager
+2022-03-26 01:51:54,078 - ERROR - [-] Unknown Exceptions for Bird Redshouldered vanga
+2022-03-26 01:52:01,698 - ERROR - [-] Unknown Exceptions for Bird Redspectacled amazon
+2022-03-26 01:52:11,730 - ERROR - [-] Unknown Exceptions for Bird Redstained woodpecker
+2022-03-26 01:52:20,093 - ERROR - [-] Unknown Exceptions for Bird Redtailed amazon
+2022-03-26 01:52:27,553 - ERROR - [-] Unknown Exceptions for Bird Redtailed ant thrush
+2022-03-26 01:52:35,141 - ERROR - [-] Unknown Exceptions for Bird Redtailed black cockatoo
+2022-03-26 01:52:44,771 - ERROR - [-] Unknown Exceptions for Bird Redtailed bristlebill
+2022-03-26 01:52:52,817 - ERROR - [-] Unknown Exceptions for Bird Redtailed comet
+2022-03-26 01:53:00,550 - ERROR - [-] Unknown Exceptions for Bird Redtailed greenbul
+2022-03-26 01:53:08,064 - ERROR - [-] Unknown Exceptions for Bird Redtailed hawk
+2022-03-26 01:53:15,789 - ERROR - [-] Unknown Exceptions for Bird Redtailed laughingthrush
+2022-03-26 01:53:23,058 - ERROR - [-] Unknown Exceptions for Bird Redtailed leaflove
+2022-03-26 01:53:31,002 - ERROR - [-] Unknown Exceptions for Bird Redtailed minla
+2022-03-26 01:53:38,372 - ERROR - [-] Unknown Exceptions for Bird Redtailed newtonia
+2022-03-26 01:53:46,179 - ERROR - [-] Unknown Exceptions for Bird Redtailed shrike
+2022-03-26 01:53:53,465 - ERROR - [-] Unknown Exceptions for Bird Redtailed tropicbird
+2022-03-26 01:54:01,669 - ERROR - [-] Unknown Exceptions for Bird Redtailed vanga
+2022-03-26 01:54:09,286 - ERROR - [-] Unknown Exceptions for Bird Redtailed wheatear
+2022-03-26 01:54:17,597 - ERROR - [-] Unknown Exceptions for Bird Redthighed sparrowhawk
+2022-03-26 01:54:37,210 - ERROR - [-] Unknown Exceptions for Bird Redthroated alethe
+2022-03-26 01:54:44,366 - ERROR - [-] Unknown Exceptions for Bird Redthroated ant tanager
+2022-03-26 01:54:52,296 - ERROR - [-] Unknown Exceptions for Bird Redthroated barbet
+2022-03-26 01:55:00,418 - ERROR - [-] Unknown Exceptions for Bird Redthroated beeeater
+2022-03-26 01:55:08,920 - ERROR - [-] Unknown Exceptions for Bird Redthroated caracara
+2022-03-26 01:55:16,287 - ERROR - [-] Unknown Exceptions for Bird Redthroated cliff swallow
+2022-03-26 01:55:23,969 - ERROR - [-] Unknown Exceptions for Bird Redthroated loon
+2022-03-26 01:55:33,068 - ERROR - [-] Unknown Exceptions for Bird Redthroated lorikeet
+2022-03-26 01:55:41,062 - ERROR - [-] Unknown Exceptions for Bird Redthroated parakeet
+2022-03-26 01:55:48,421 - ERROR - [-] Unknown Exceptions for Bird Redthroated parrotfinch
+2022-03-26 01:55:55,868 - ERROR - [-] Unknown Exceptions for Bird Redthroated piping guan
+2022-03-26 01:56:03,468 - ERROR - [-] Unknown Exceptions for Bird Redthroated pipit
+2022-03-26 01:56:11,603 - ERROR - [-] Unknown Exceptions for Bird Redthroated sunbird
+2022-03-26 01:56:18,925 - ERROR - [-] Unknown Exceptions for Bird Redthroated thrush
+2022-03-26 01:56:26,449 - ERROR - [-] Unknown Exceptions for Bird Redthroated tit
+2022-03-26 01:56:33,706 - ERROR - [-] Unknown Exceptions for Bird Redthroated twinspot
+2022-03-26 01:56:41,782 - ERROR - [-] Unknown Exceptions for Bird Redthroated wryneck
+2022-03-26 01:56:49,184 - ERROR - [-] Unknown Exceptions for Bird Redvented barbet
+2022-03-26 01:56:56,760 - ERROR - [-] Unknown Exceptions for Bird Redvented bulbul
+2022-03-26 01:57:04,236 - ERROR - [-] Unknown Exceptions for Bird Redvented cockatoo
+2022-03-26 01:57:11,783 - ERROR - [-] Unknown Exceptions for Bird Redvented malimbe
+2022-03-26 01:57:19,332 - ERROR - [-] Unknown Exceptions for Bird Redvested myzomela
+2022-03-26 01:57:27,323 - ERROR - [-] Unknown Exceptions for Bird Redwattled lapwing
+2022-03-26 01:57:37,325 - ERROR - [-] Unknown Exceptions for Bird Redwhiskered bulbul
+2022-03-26 01:58:01,257 - ERROR - [-] Unknown Exceptions for Bird Redwinged blackbird
+2022-03-26 01:58:09,204 - ERROR - [-] Unknown Exceptions for Bird Redwinged fairywren
+2022-03-26 01:58:16,981 - ERROR - [-] Unknown Exceptions for Bird Redwinged francolin
+2022-03-26 01:58:24,528 - ERROR - [-] Unknown Exceptions for Bird Redwinged grey warbler
+2022-03-26 01:58:31,753 - ERROR - [-] Unknown Exceptions for Bird Redwinged lark
+2022-03-26 01:58:38,896 - ERROR - [-] Unknown Exceptions for Bird Redwinged laughingthrush
+2022-03-26 01:58:46,916 - ERROR - [-] Unknown Exceptions for Bird Redwinged parrot
+2022-03-26 01:58:54,445 - ERROR - [-] Unknown Exceptions for Bird Redwinged prinia
+2022-03-26 01:59:01,800 - ERROR - [-] Unknown Exceptions for Bird Redwinged pytilia
+2022-03-26 01:59:09,763 - ERROR - [-] Unknown Exceptions for Bird Redwinged starling
+2022-03-26 01:59:17,636 - ERROR - [-] Unknown Exceptions for Bird Redwinged tinamou
+2022-03-26 01:59:25,651 - ERROR - [-] Unknown Exceptions for Bird Redwinged wood rail
+2022-03-26 01:59:33,747 - ERROR - [-] Unknown Exceptions for Bird Reed cormorant
+2022-03-26 02:01:27,071 - ERROR - [-] Unknown Exceptions for Bird Reichenows batis
+2022-03-26 02:02:25,551 - ERROR - [-] Unknown Exceptions for Bird Rennell parrot
+2022-03-26 02:03:02,613 - ERROR - [-] Unknown Exceptions for Bird Rennell whiteeye
+2022-03-26 02:04:17,958 - ERROR - [-] Unknown Exceptions for Bird Ribbontailed astrapia
+2022-03-26 02:05:18,818 - ERROR - [-] Unknown Exceptions for Bird Rimatara reed warbler
+2022-03-26 02:05:35,934 - ERROR - [-] Unknown Exceptions for Bird Ringbilled gull
+2022-03-26 02:06:38,728 - ERROR - [-] Unknown Exceptions for Bird Ringnecked dove
+2022-03-26 02:06:47,635 - ERROR - [-] Unknown Exceptions for Bird Ringnecked duck
+2022-03-26 02:06:55,031 - ERROR - [-] Unknown Exceptions for Bird Ringnecked francolin
+2022-03-26 02:07:02,212 - ERROR - [-] Unknown Exceptions for Bird Ringtailed pigeon
+2022-03-26 02:10:16,365 - ERROR - [-] Unknown Exceptions for Bird Robust whiteeye
+2022-03-26 02:10:52,873 - ERROR - [-] Unknown Exceptions for Bird Rock dove
+2022-03-26 02:12:25,872 - ERROR - [-] Unknown Exceptions for Bird Rock shag
+2022-03-26 02:13:09,286 - ERROR - [-] Unknown Exceptions for Bird Rockloving cisticola
+2022-03-26 02:13:51,288 - ERROR - [-] Unknown Exceptions for Bird Rodrigues night heron
+2022-03-26 02:14:00,498 - ERROR - [-] Unknown Exceptions for Bird Rodrigues owl
+2022-03-26 02:14:10,385 - ERROR - [-] Unknown Exceptions for Bird Rodrigues parrot
+2022-03-26 02:14:20,743 - ERROR - [-] Unknown Exceptions for Bird Rodrigues pigeon
+2022-03-26 02:14:31,257 - ERROR - [-] Unknown Exceptions for Bird Rodrigues rail
+2022-03-26 02:15:17,263 - ERROR - [-] Unknown Exceptions for Bird Romblon hawkowl
+2022-03-26 02:15:33,831 - ERROR - [-] Unknown Exceptions for Bird Rondonia woodcreeper
+2022-03-26 02:15:41,631 - ERROR - [-] Unknown Exceptions for Bird Rondônia bushbird
+2022-03-26 02:16:45,807 - ERROR - [-] Unknown Exceptions for Bird Roraiman warbler
+2022-03-26 02:17:22,069 - ERROR - [-] Unknown Exceptions for Bird Rosebellied bunting
+2022-03-26 02:17:29,902 - ERROR - [-] Unknown Exceptions for Bird Rosebreasted chat
+2022-03-26 02:17:37,250 - ERROR - [-] Unknown Exceptions for Bird Rosebreasted grosbeak
+2022-03-26 02:17:44,845 - ERROR - [-] Unknown Exceptions for Bird Rosecollared piha
+2022-03-26 02:17:52,297 - ERROR - [-] Unknown Exceptions for Bird Rosecrowned fruit dove
+2022-03-26 02:18:03,048 - ERROR - [-] Unknown Exceptions for Bird Rosecrowned parakeet
+2022-03-26 02:18:10,498 - ERROR - [-] Unknown Exceptions for Bird Rosefaced parrot
+2022-03-26 02:18:18,064 - ERROR - [-] Unknown Exceptions for Bird Rosefronted parakeet
+2022-03-26 02:18:25,137 - ERROR - [-] Unknown Exceptions for Bird Roseringed parakeet
+2022-03-26 02:18:32,934 - ERROR - [-] Unknown Exceptions for Bird Rosethroated becard
+2022-03-26 02:18:40,560 - ERROR - [-] Unknown Exceptions for Bird Rosethroated tanager
+2022-03-26 02:19:17,963 - ERROR - [-] Unknown Exceptions for Bird Rosy beeeater
+2022-03-26 02:19:55,512 - ERROR - [-] Unknown Exceptions for Bird Rosy thrushtanager
+2022-03-26 02:20:02,753 - ERROR - [-] Unknown Exceptions for Bird Rosybilled pochard
+2022-03-26 02:20:10,369 - ERROR - [-] Unknown Exceptions for Bird Rosyfaced lovebird
+2022-03-26 02:20:18,036 - ERROR - [-] Unknown Exceptions for Bird Rosypatched bushshrike
+2022-03-26 02:20:25,006 - ERROR - [-] Unknown Exceptions for Bird Rosythroated longclaw
+2022-03-26 02:20:32,407 - ERROR - [-] Unknown Exceptions for Bird Rota whiteeye
+2022-03-26 02:21:36,201 - ERROR - [-] Unknown Exceptions for Bird Roughcrested malkoha
+2022-03-26 02:21:43,944 - ERROR - [-] Unknown Exceptions for Bird Roughlegged buzzard
+2022-03-26 02:21:52,058 - ERROR - [-] Unknown Exceptions for Bird Roughlegged tyrannulet
+2022-03-26 02:21:59,966 - ERROR - [-] Unknown Exceptions for Bird Roundtailed manakin
+2022-03-26 02:23:33,549 - ERROR - [-] Unknown Exceptions for Bird Rubeho forest partridge
+2022-03-26 02:23:40,871 - ERROR - [-] Unknown Exceptions for Bird Rubeho warbler
+2022-03-26 02:23:48,364 - ERROR - [-] Unknown Exceptions for Bird Rubycheeked sunbird
+2022-03-26 02:23:55,530 - ERROR - [-] Unknown Exceptions for Bird Rubycrowned kinglet
+2022-03-26 02:24:02,348 - ERROR - [-] Unknown Exceptions for Bird Rubycrowned tanager
+2022-03-26 02:24:09,564 - ERROR - [-] Unknown Exceptions for Bird Rubythroated bulbul
+2022-03-26 02:24:17,166 - ERROR - [-] Unknown Exceptions for Bird Rubythroated hummingbird
+2022-03-26 02:24:24,154 - ERROR - [-] Unknown Exceptions for Bird Rubythroated myzomela
+2022-03-26 02:24:31,962 - ERROR - [-] Unknown Exceptions for Bird Rubytopaz hummingbird
+2022-03-26 02:25:06,759 - ERROR - [-] Unknown Exceptions for Bird Ruddy cuckoodove
+2022-03-26 02:25:22,974 - ERROR - [-] Unknown Exceptions for Bird Ruddy foliagegleaner
+2022-03-26 02:25:58,749 - ERROR - [-] Unknown Exceptions for Bird Ruddy quaildove
+2022-03-26 02:26:27,069 - ERROR - [-] Unknown Exceptions for Bird Ruddy todyflycatcher
+2022-03-26 02:27:04,840 - ERROR - [-] Unknown Exceptions for Bird Ruddybreasted crake
+2022-03-26 02:27:13,148 - ERROR - [-] Unknown Exceptions for Bird Ruddybreasted seedeater
+2022-03-26 02:27:20,705 - ERROR - [-] Unknown Exceptions for Bird Ruddycapped nightingalethrush
+2022-03-26 02:27:28,019 - ERROR - [-] Unknown Exceptions for Bird Ruddyheaded goose
+2022-03-26 02:27:35,172 - ERROR - [-] Unknown Exceptions for Bird Ruddytailed flycatcher
+2022-03-26 02:27:52,640 - ERROR - [-] Unknown Exceptions for Bird Rufescent darkeye
+2022-03-26 02:31:13,878 - ERROR - [-] Unknown Exceptions for Bird Rufous hawkcuckoo
+2022-03-26 02:33:29,820 - ERROR - [-] Unknown Exceptions for Bird Rufous scrubbird
+2022-03-26 02:35:30,816 - ERROR - [-] Unknown Exceptions for Bird Rufousandwhite wren
+2022-03-26 02:35:37,712 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked Inca finch
+2022-03-26 02:35:44,946 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked antvireo
+2022-03-26 02:35:51,894 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked fantail
+2022-03-26 02:35:59,680 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked honeyeater
+2022-03-26 02:36:06,498 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked sibia
+2022-03-26 02:36:13,858 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked stipplethroat
+2022-03-26 02:36:21,514 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked thrush
+2022-03-26 02:36:29,008 - ERROR - [-] Unknown Exceptions for Bird Rufousbacked wren
+2022-03-26 02:36:36,246 - ERROR - [-] Unknown Exceptions for Bird Rufousbanded honeyeater
+2022-03-26 02:36:43,813 - ERROR - [-] Unknown Exceptions for Bird Rufousbanded miner
+2022-03-26 02:36:50,952 - ERROR - [-] Unknown Exceptions for Bird Rufousbanded owl
+2022-03-26 02:36:58,341 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied antwren
+2022-03-26 02:37:04,930 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied bush tyrant
+2022-03-26 02:37:12,518 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied chachalaca
+2022-03-26 02:37:19,320 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied eagle
+2022-03-26 02:37:26,561 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied euphonia
+2022-03-26 02:37:33,570 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied helmetshrike
+2022-03-26 02:37:40,656 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied heron
+2022-03-26 02:37:48,217 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied kookaburra
+2022-03-26 02:37:55,593 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied mountain tanager
+2022-03-26 02:38:03,426 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied nighthawk
+2022-03-26 02:38:11,659 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied niltava
+2022-03-26 02:38:18,637 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied seedsnipe
+2022-03-26 02:38:26,280 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied swallow
+2022-03-26 02:38:33,605 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied thrush
+2022-03-26 02:38:41,100 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied tit
+2022-03-26 02:38:48,291 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied triller
+2022-03-26 02:38:55,896 - ERROR - [-] Unknown Exceptions for Bird Rufousbellied woodpecker
+2022-03-26 02:39:03,005 - ERROR - [-] Unknown Exceptions for Bird Rufousbooted rackettail
+2022-03-26 02:39:10,494 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted accentor
+2022-03-26 02:39:17,545 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted antpitta
+2022-03-26 02:39:24,744 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted antthrush
+2022-03-26 02:39:32,273 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted bush robin
+2022-03-26 02:39:39,442 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted chattyrant
+2022-03-26 02:39:46,120 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted flycatcher
+2022-03-26 02:39:54,015 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted hermit
+2022-03-26 02:40:01,144 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted leaftosser
+2022-03-26 02:40:08,619 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted piculet
+2022-03-26 02:40:15,792 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted sabrewing
+2022-03-26 02:40:24,138 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted sparrowhawk
+2022-03-26 02:40:31,273 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted spinetail
+2022-03-26 02:40:39,225 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted warbling finch
+2022-03-26 02:40:46,725 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted wood quail
+2022-03-26 02:40:54,293 - ERROR - [-] Unknown Exceptions for Bird Rufousbreasted wren
+2022-03-26 02:41:01,388 - ERROR - [-] Unknown Exceptions for Bird Rufousbrowed conebill
+2022-03-26 02:41:08,473 - ERROR - [-] Unknown Exceptions for Bird Rufousbrowed flycatcher
+2022-03-26 02:41:15,607 - ERROR - [-] Unknown Exceptions for Bird Rufousbrowed hemispingus
+2022-03-26 02:41:23,377 - ERROR - [-] Unknown Exceptions for Bird Rufousbrowed peppershrike
+2022-03-26 02:41:30,707 - ERROR - [-] Unknown Exceptions for Bird Rufousbrowed tyrannulet
+2022-03-26 02:41:38,676 - ERROR - [-] Unknown Exceptions for Bird Rufousbrowed wren
+2022-03-26 02:41:45,845 - ERROR - [-] Unknown Exceptions for Bird Rufousbrown solitaire
+2022-03-26 02:41:53,487 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped antshrike
+2022-03-26 02:42:00,902 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped antthrush
+2022-03-26 02:42:08,365 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped babbler
+2022-03-26 02:42:15,640 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped brushfinch
+2022-03-26 02:42:22,789 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped lark
+2022-03-26 02:42:30,242 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped motmot
+2022-03-26 02:42:38,149 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped nunlet
+2022-03-26 02:42:45,363 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped spinetail
+2022-03-26 02:42:53,069 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped thornbill
+2022-03-26 02:43:00,691 - ERROR - [-] Unknown Exceptions for Bird Rufouscapped warbler
+2022-03-26 02:43:07,742 - ERROR - [-] Unknown Exceptions for Bird Rufouscheeked laughingthrush
+2022-03-26 02:43:15,920 - ERROR - [-] Unknown Exceptions for Bird Rufouscheeked nightjar
+2022-03-26 02:43:24,018 - ERROR - [-] Unknown Exceptions for Bird Rufouscheeked tanager
+2022-03-26 02:43:31,145 - ERROR - [-] Unknown Exceptions for Bird Rufouschested flycatcher
+2022-03-26 02:43:38,346 - ERROR - [-] Unknown Exceptions for Bird Rufouschested plover
+2022-03-26 02:43:45,520 - ERROR - [-] Unknown Exceptions for Bird Rufouschested tanager
+2022-03-26 02:43:52,691 - ERROR - [-] Unknown Exceptions for Bird Rufouschinned laughingthrush
+2022-03-26 02:44:00,956 - ERROR - [-] Unknown Exceptions for Bird Rufouscollared kingfisher
+2022-03-26 02:44:08,154 - ERROR - [-] Unknown Exceptions for Bird Rufouscollared sparrow
+2022-03-26 02:44:15,176 - ERROR - [-] Unknown Exceptions for Bird Rufouscollared thrush
+2022-03-26 02:44:22,159 - ERROR - [-] Unknown Exceptions for Bird Rufouscrested coquette
+2022-03-26 02:44:29,587 - ERROR - [-] Unknown Exceptions for Bird Rufouscrested tanager
+2022-03-26 02:44:37,286 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned antpitta
+2022-03-26 02:44:45,013 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned babbler
+2022-03-26 02:44:52,440 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned elaenia
+2022-03-26 02:44:59,760 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned emuwren
+2022-03-26 02:45:07,544 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned eremomela
+2022-03-26 02:45:15,708 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned greenlet
+2022-03-26 02:45:24,053 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned laughingthrush
+2022-03-26 02:45:32,115 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned sparrow
+2022-03-26 02:45:40,581 - ERROR - [-] Unknown Exceptions for Bird Rufouscrowned todyflycatcher
+2022-03-26 02:45:47,658 - ERROR - [-] Unknown Exceptions for Bird Rufouseared brushfinch
+2022-03-26 02:45:54,725 - ERROR - [-] Unknown Exceptions for Bird Rufouseared warbler
+2022-03-26 02:46:01,706 - ERROR - [-] Unknown Exceptions for Bird Rufousfaced antbird
+2022-03-26 02:46:08,845 - ERROR - [-] Unknown Exceptions for Bird Rufousfaced antpitta
+2022-03-26 02:46:16,129 - ERROR - [-] Unknown Exceptions for Bird Rufousfaced crake
+2022-03-26 02:46:23,913 - ERROR - [-] Unknown Exceptions for Bird Rufousfaced warbler
+2022-03-26 02:46:30,592 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted antthrush
+2022-03-26 02:46:39,097 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted babbler
+2022-03-26 02:46:46,966 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted bushtit
+2022-03-26 02:46:54,735 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted laughingthrush
+2022-03-26 02:47:02,372 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted parakeet
+2022-03-26 02:47:10,206 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted prinia
+2022-03-26 02:47:19,138 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted tailorbird
+2022-03-26 02:47:26,376 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted thornbird
+2022-03-26 02:47:34,012 - ERROR - [-] Unknown Exceptions for Bird Rufousfronted wood quail
+2022-03-26 02:47:42,260 - ERROR - [-] Unknown Exceptions for Bird Rufousgaped hillstar
+2022-03-26 02:47:49,273 - ERROR - [-] Unknown Exceptions for Bird Rufousgorgeted flycatcher
+2022-03-26 02:47:57,592 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded chachalaca
+2022-03-26 02:48:05,013 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded ground roller
+2022-03-26 02:48:12,297 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded parrotbill
+2022-03-26 02:48:19,602 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded pygmy tyrant
+2022-03-26 02:48:28,046 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded robin
+2022-03-26 02:48:35,312 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded tailorbird
+2022-03-26 02:48:42,685 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded tanager
+2022-03-26 02:48:50,824 - ERROR - [-] Unknown Exceptions for Bird Rufousheaded woodpecker
+2022-03-26 02:48:58,577 - ERROR - [-] Unknown Exceptions for Bird Rufouslegged owl
+2022-03-26 02:49:06,006 - ERROR - [-] Unknown Exceptions for Bird Rufouslored tyrannulet
+2022-03-26 02:49:13,365 - ERROR - [-] Unknown Exceptions for Bird Rufousnaped bellbird
+2022-03-26 02:49:20,845 - ERROR - [-] Unknown Exceptions for Bird Rufousnaped greenlet
+2022-03-26 02:49:28,411 - ERROR - [-] Unknown Exceptions for Bird Rufousnaped ground tyrant
+2022-03-26 02:49:35,387 - ERROR - [-] Unknown Exceptions for Bird Rufousnaped lark
+2022-03-26 02:49:42,631 - ERROR - [-] Unknown Exceptions for Bird Rufousnaped tit
+2022-03-26 02:49:49,652 - ERROR - [-] Unknown Exceptions for Bird Rufousnecked foliagegleaner
+2022-03-26 02:49:56,961 - ERROR - [-] Unknown Exceptions for Bird Rufousnecked hornbill
+2022-03-26 02:50:04,874 - ERROR - [-] Unknown Exceptions for Bird Rufousnecked laughingthrush
+2022-03-26 02:50:13,556 - ERROR - [-] Unknown Exceptions for Bird Rufousnecked puffbird
+2022-03-26 02:50:21,709 - ERROR - [-] Unknown Exceptions for Bird Rufousnecked snowfinch
+2022-03-26 02:50:30,213 - ERROR - [-] Unknown Exceptions for Bird Rufousnecked sparrowhawk
+2022-03-26 02:50:37,654 - ERROR - [-] Unknown Exceptions for Bird Rufousnecked wood rail
+2022-03-26 02:50:46,683 - ERROR - [-] Unknown Exceptions for Bird Rufousrumped antwren
+2022-03-26 02:50:53,836 - ERROR - [-] Unknown Exceptions for Bird Rufousrumped foliagegleaner
+2022-03-26 02:51:01,435 - ERROR - [-] Unknown Exceptions for Bird Rufousrumped lark
+2022-03-26 02:51:08,582 - ERROR - [-] Unknown Exceptions for Bird Rufousrumped seedeater
+2022-03-26 02:51:16,515 - ERROR - [-] Unknown Exceptions for Bird Rufousshafted woodstar
+2022-03-26 02:51:24,129 - ERROR - [-] Unknown Exceptions for Bird Rufoussided broadbill
+2022-03-26 02:51:31,547 - ERROR - [-] Unknown Exceptions for Bird Rufoussided crake
+2022-03-26 02:51:38,751 - ERROR - [-] Unknown Exceptions for Bird Rufoussided gerygone
+2022-03-26 02:51:46,857 - ERROR - [-] Unknown Exceptions for Bird Rufoussided honeyeater
+2022-03-26 02:51:53,899 - ERROR - [-] Unknown Exceptions for Bird Rufoussided pygmy tyrant
+2022-03-26 02:52:01,628 - ERROR - [-] Unknown Exceptions for Bird Rufoussided warbling finch
+2022-03-26 02:52:09,415 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed antbird
+2022-03-26 02:52:17,045 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed antthrush
+2022-03-26 02:52:24,329 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed attila
+2022-03-26 02:52:32,005 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed babbler
+2022-03-26 02:52:39,979 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed fantail
+2022-03-26 02:52:47,434 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed flatbill
+2022-03-26 02:52:54,991 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed flycatcher
+2022-03-26 02:53:02,466 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed foliagegleaner
+2022-03-26 02:53:09,803 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed hawk
+2022-03-26 02:53:17,430 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed hummingbird
+2022-03-26 02:53:24,744 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed jacamar
+2022-03-26 02:53:32,650 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed jungle flycatcher
+2022-03-26 02:53:39,633 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed lark
+2022-03-26 02:53:47,550 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed palm thrush
+2022-03-26 02:53:54,562 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed plantcutter
+2022-03-26 02:54:02,100 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed robin
+2022-03-26 02:54:09,053 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed scrub robin
+2022-03-26 02:54:16,900 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed shama
+2022-03-26 02:54:24,194 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed stipplethroat
+2022-03-26 02:54:31,551 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed tailorbird
+2022-03-26 02:54:38,890 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed tyrant
+2022-03-26 02:54:46,719 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed weaver
+2022-03-26 02:54:54,496 - ERROR - [-] Unknown Exceptions for Bird Rufoustailed xenops
+2022-03-26 02:55:01,415 - ERROR - [-] Unknown Exceptions for Bird Rufousthighed hawk
+2022-03-26 02:55:09,109 - ERROR - [-] Unknown Exceptions for Bird Rufousthighed kite
+2022-03-26 02:55:16,604 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated antbird
+2022-03-26 02:55:23,905 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated bronze cuckoo
+2022-03-26 02:55:31,359 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated dipper
+2022-03-26 02:55:39,233 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated flycatcher
+2022-03-26 02:55:47,307 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated fulvetta
+2022-03-26 02:55:54,365 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated honeyeater
+2022-03-26 02:56:01,636 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated partridge
+2022-03-26 02:56:08,499 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated sapphire
+2022-03-26 02:56:16,294 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated solitaire
+2022-03-26 02:56:23,822 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated tanager
+2022-03-26 02:56:32,245 - ERROR - [-] Unknown Exceptions for Bird Rufousthroated wrenbabbler
+2022-03-26 02:56:41,627 - ERROR - [-] Unknown Exceptions for Bird Rufousvented chachalaca
+2022-03-26 02:56:49,591 - ERROR - [-] Unknown Exceptions for Bird Rufousvented grass babbler
+2022-03-26 02:56:56,564 - ERROR - [-] Unknown Exceptions for Bird Rufousvented ground cuckoo
+2022-03-26 02:57:04,418 - ERROR - [-] Unknown Exceptions for Bird Rufousvented laughingthrush
+2022-03-26 02:57:15,026 - ERROR - [-] Unknown Exceptions for Bird Rufousvented niltava
+2022-03-26 02:57:22,880 - ERROR - [-] Unknown Exceptions for Bird Rufousvented paradise flycatcher
+2022-03-26 02:57:30,045 - ERROR - [-] Unknown Exceptions for Bird Rufousvented tapaculo
+2022-03-26 02:57:37,756 - ERROR - [-] Unknown Exceptions for Bird Rufousvented tit
+2022-03-26 02:57:45,098 - ERROR - [-] Unknown Exceptions for Bird Rufousvented whitetip
+2022-03-26 02:57:53,078 - ERROR - [-] Unknown Exceptions for Bird Rufousvented yuhina
+2022-03-26 02:58:00,626 - ERROR - [-] Unknown Exceptions for Bird Rufouswebbed brilliant
+2022-03-26 02:58:09,001 - ERROR - [-] Unknown Exceptions for Bird Rufouswebbed bush tyrant
+2022-03-26 02:58:16,318 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged antshrike
+2022-03-26 02:58:23,368 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged antwren
+2022-03-26 02:58:30,479 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged buzzard
+2022-03-26 02:58:38,092 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged cisticola
+2022-03-26 02:58:45,831 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged fulvetta
+2022-03-26 02:58:53,531 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged ground cuckoo
+2022-03-26 02:59:00,801 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged illadopsis
+2022-03-26 02:59:08,033 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged philentoma
+2022-03-26 02:59:15,395 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged sparrow
+2022-03-26 02:59:23,008 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged sunbird
+2022-03-26 02:59:30,228 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged tanager
+2022-03-26 02:59:38,569 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged tyrannulet
+2022-03-26 02:59:45,814 - ERROR - [-] Unknown Exceptions for Bird Rufouswinged woodpecker
+2022-03-26 03:00:35,152 - ERROR - [-] Unknown Exceptions for Bird Russet nightingalethrush
+2022-03-26 03:00:54,243 - ERROR - [-] Unknown Exceptions for Bird Russetbacked jungle flycatcher
+2022-03-26 03:01:01,734 - ERROR - [-] Unknown Exceptions for Bird Russetbacked oropendola
+2022-03-26 03:01:10,374 - ERROR - [-] Unknown Exceptions for Bird Russetbellied spinetail
+2022-03-26 03:01:17,391 - ERROR - [-] Unknown Exceptions for Bird Russetcapped tesia
+2022-03-26 03:01:25,294 - ERROR - [-] Unknown Exceptions for Bird Russetcrowned crake
+2022-03-26 03:01:33,584 - ERROR - [-] Unknown Exceptions for Bird Russetcrowned motmot
+2022-03-26 03:01:40,756 - ERROR - [-] Unknown Exceptions for Bird Russetcrowned quaildove
+2022-03-26 03:01:47,774 - ERROR - [-] Unknown Exceptions for Bird Russetcrowned warbler
+2022-03-26 03:01:55,462 - ERROR - [-] Unknown Exceptions for Bird Russetmantled softtail
+2022-03-26 03:02:03,445 - ERROR - [-] Unknown Exceptions for Bird Russetnaped wood rail
+2022-03-26 03:02:11,872 - ERROR - [-] Unknown Exceptions for Bird Russettailed thrush
+2022-03-26 03:02:19,800 - ERROR - [-] Unknown Exceptions for Bird Russetthroated puffbird
+2022-03-26 03:02:27,314 - ERROR - [-] Unknown Exceptions for Bird Russetwinged schiffornis
+2022-03-26 03:02:34,552 - ERROR - [-] Unknown Exceptions for Bird Russetwinged spadebill
+2022-03-26 03:02:42,924 - ERROR - [-] Unknown Exceptions for Bird Rustandyellow tanager
+2022-03-26 03:03:08,535 - ERROR - [-] Unknown Exceptions for Bird Rusty bush lark
+2022-03-26 03:03:34,236 - ERROR - [-] Unknown Exceptions for Bird Rusty mousewarbler
+2022-03-26 03:04:31,089 - ERROR - [-] Unknown Exceptions for Bird Rustybacked antwren
+2022-03-26 03:04:38,493 - ERROR - [-] Unknown Exceptions for Bird Rustybacked monjita
+2022-03-26 03:04:46,012 - ERROR - [-] Unknown Exceptions for Bird Rustybacked spinetail
+2022-03-26 03:04:53,224 - ERROR - [-] Unknown Exceptions for Bird Rustybarred owl
+2022-03-26 03:05:00,400 - ERROR - [-] Unknown Exceptions for Bird Rustybellied brushfinch
+2022-03-26 03:05:08,392 - ERROR - [-] Unknown Exceptions for Bird Rustybellied shortwing
+2022-03-26 03:05:15,925 - ERROR - [-] Unknown Exceptions for Bird Rustybelted tapaculo
+2022-03-26 03:05:23,222 - ERROR - [-] Unknown Exceptions for Bird Rustybreasted antpitta
+2022-03-26 03:05:31,048 - ERROR - [-] Unknown Exceptions for Bird Rustybreasted cuckoo
+2022-03-26 03:05:38,320 - ERROR - [-] Unknown Exceptions for Bird Rustybreasted nunlet
+2022-03-26 03:05:45,883 - ERROR - [-] Unknown Exceptions for Bird Rustybreasted whistler
+2022-03-26 03:05:53,109 - ERROR - [-] Unknown Exceptions for Bird Rustybreasted wrenbabbler
+2022-03-26 03:06:00,309 - ERROR - [-] Unknown Exceptions for Bird Rustybrowed warbling finch
+2022-03-26 03:06:07,554 - ERROR - [-] Unknown Exceptions for Bird Rustycapped fulvetta
+2022-03-26 03:06:15,870 - ERROR - [-] Unknown Exceptions for Bird Rustycapped kingfisher
+2022-03-26 03:06:23,523 - ERROR - [-] Unknown Exceptions for Bird Rustycheeked scimitar babbler
+2022-03-26 03:06:31,243 - ERROR - [-] Unknown Exceptions for Bird Rustycollared seedeater
+2022-03-26 03:06:38,520 - ERROR - [-] Unknown Exceptions for Bird Rustycrowned babbler
+2022-03-26 03:06:46,087 - ERROR - [-] Unknown Exceptions for Bird Rustycrowned ground sparrow
+2022-03-26 03:06:54,014 - ERROR - [-] Unknown Exceptions for Bird Rustycrowned titspinetail
+2022-03-26 03:07:01,810 - ERROR - [-] Unknown Exceptions for Bird Rustyfaced parrot
+2022-03-26 03:07:08,894 - ERROR - [-] Unknown Exceptions for Bird Rustyflanked crake
+2022-03-26 03:07:16,397 - ERROR - [-] Unknown Exceptions for Bird Rustyflanked treecreeper
+2022-03-26 03:07:23,332 - ERROR - [-] Unknown Exceptions for Bird Rustyfronted barwing
+2022-03-26 03:07:30,731 - ERROR - [-] Unknown Exceptions for Bird Rustyfronted canastero
+2022-03-26 03:07:38,088 - ERROR - [-] Unknown Exceptions for Bird Rustyfronted todyflycatcher
+2022-03-26 03:07:46,154 - ERROR - [-] Unknown Exceptions for Bird Rustyheaded spinetail
+2022-03-26 03:07:53,029 - ERROR - [-] Unknown Exceptions for Bird Rustymargined flycatcher
+2022-03-26 03:08:00,422 - ERROR - [-] Unknown Exceptions for Bird Rustymargined guan
+2022-03-26 03:08:07,381 - ERROR - [-] Unknown Exceptions for Bird Rustynaped pitta
+2022-03-26 03:08:15,277 - ERROR - [-] Unknown Exceptions for Bird Rustynecked piculet
+2022-03-26 03:08:22,307 - ERROR - [-] Unknown Exceptions for Bird Rustytailed flycatcher
+2022-03-26 03:08:30,505 - ERROR - [-] Unknown Exceptions for Bird Rustythroated wrenbabbler
+2022-03-26 03:08:37,706 - ERROR - [-] Unknown Exceptions for Bird Rustytinged antpitta
+2022-03-26 03:08:45,015 - ERROR - [-] Unknown Exceptions for Bird Rustyvented canastero
+2022-03-26 03:08:51,957 - ERROR - [-] Unknown Exceptions for Bird Rustywinged barbtail
+2022-03-26 03:08:59,506 - ERROR - [-] Unknown Exceptions for Bird Rustywinged starling
+2022-03-26 03:09:25,531 - ERROR - [-] Unknown Exceptions for Bird Rwenzori doublecollared sunbird
+2022-03-26 03:10:13,497 - ERROR - [-] Unknown Exceptions for Bird Ryukyu wood pigeon
+2022-03-26 03:10:21,481 - ERROR - [-] Unknown Exceptions for Bird Ry\u016bky\u016b scops owl
+2022-03-26 03:10:29,062 - ERROR - [-] Unknown Exceptions for Bird Réunion bulbul
+2022-03-26 03:10:35,909 - ERROR - [-] Unknown Exceptions for Bird Réunion cuckooshrike
+2022-03-26 03:10:43,216 - ERROR - [-] Unknown Exceptions for Bird Réunion grey whiteeye
+2022-03-26 03:10:50,890 - ERROR - [-] Unknown Exceptions for Bird Réunion harrier
+2022-03-26 03:10:58,637 - ERROR - [-] Unknown Exceptions for Bird Réunion ibis
+2022-03-26 03:11:06,055 - ERROR - [-] Unknown Exceptions for Bird Réunion kestrel
+2022-03-26 03:11:14,117 - ERROR - [-] Unknown Exceptions for Bird Réunion night heron
+2022-03-26 03:11:21,972 - ERROR - [-] Unknown Exceptions for Bird Réunion olive whiteeye
+2022-03-26 03:11:29,054 - ERROR - [-] Unknown Exceptions for Bird Réunion owl
+2022-03-26 03:11:36,565 - ERROR - [-] Unknown Exceptions for Bird Réunion rail
+2022-03-26 03:11:43,666 - ERROR - [-] Unknown Exceptions for Bird Réunion sheldgoose
+2022-03-26 03:11:52,828 - ERROR - [-] Unknown Exceptions for Bird Réunion stonechat
+2022-03-26 03:12:01,056 - ERROR - [-] Unknown Exceptions for Bird Río Orinoco spinetail
+2022-03-26 03:12:17,293 - ERROR - [-] Unknown Exceptions for Bird Rüppells black chat
+2022-03-26 03:12:26,496 - ERROR - [-] Unknown Exceptions for Bird Rüppells korhaan
+2022-03-26 03:12:43,869 - ERROR - [-] Unknown Exceptions for Bird Rüppells robinchat
+2022-03-26 03:13:01,247 - ERROR - [-] Unknown Exceptions for Bird Rüppells vulture
+2022-03-26 03:14:25,369 - ERROR - [-] Unknown Exceptions for Bird Saddlebilled stork
+2022-03-26 03:14:59,872 - ERROR - [-] Unknown Exceptions for Bird Saffronbilled sparrow
+2022-03-26 03:15:08,266 - ERROR - [-] Unknown Exceptions for Bird Saffroncowled blackbird
+2022-03-26 03:15:15,487 - ERROR - [-] Unknown Exceptions for Bird Saffroncrested tyrantmanakin
+2022-03-26 03:15:22,913 - ERROR - [-] Unknown Exceptions for Bird Saffroncrowned tanager
+2022-03-26 03:15:32,801 - ERROR - [-] Unknown Exceptions for Bird Saffronheaded parrot
+2022-03-26 03:16:20,110 - ERROR - [-] Unknown Exceptions for Bird Saint Helena crake
+2022-03-26 03:16:27,417 - ERROR - [-] Unknown Exceptions for Bird Saint Helena cuckoo
+2022-03-26 03:16:35,421 - ERROR - [-] Unknown Exceptions for Bird Saint Helena hoopoe
+2022-03-26 03:16:42,859 - ERROR - [-] Unknown Exceptions for Bird Saint Helena petrel
+2022-03-26 03:16:51,073 - ERROR - [-] Unknown Exceptions for Bird Saint Helena plover
+2022-03-26 03:16:59,050 - ERROR - [-] Unknown Exceptions for Bird Saint Helena rail
+2022-03-26 03:17:06,838 - ERROR - [-] Unknown Exceptions for Bird Saint Lucia amazon
+2022-03-26 03:17:14,114 - ERROR - [-] Unknown Exceptions for Bird Saint Lucia black finch
+2022-03-26 03:17:21,366 - ERROR - [-] Unknown Exceptions for Bird Saint Lucia oriole
+2022-03-26 03:17:29,443 - ERROR - [-] Unknown Exceptions for Bird Saint Lucia warbler
+2022-03-26 03:17:36,743 - ERROR - [-] Unknown Exceptions for Bird Saint Vincent amazon
+2022-03-26 03:19:04,325 - ERROR - [-] Unknown Exceptions for Bird Salmoncrested cockatoo
+2022-03-26 03:19:54,501 - ERROR - [-] Unknown Exceptions for Bird Salvadoris nightjar
+2022-03-26 03:20:11,272 - ERROR - [-] Unknown Exceptions for Bird Salvadoris seedeater
+2022-03-26 03:21:52,610 - ERROR - [-] Unknown Exceptions for Bird Samoan whiteeye
+2022-03-26 03:22:00,620 - ERROR - [-] Unknown Exceptions for Bird Samoan woodhen
+2022-03-26 03:22:24,300 - ERROR - [-] Unknown Exceptions for Bird San Cristóbal flycatcher
+2022-03-26 03:22:32,794 - ERROR - [-] Unknown Exceptions for Bird San Cristóbal mockingbird
+2022-03-26 03:22:59,159 - ERROR - [-] Unknown Exceptions for Bird Sand martin  Bank swallow
+2022-03-26 03:23:16,283 - ERROR - [-] Unknown Exceptions for Bird Sandcoloured nighthawk
+2022-03-26 03:24:29,990 - ERROR - [-] Unknown Exceptions for Bird Sanfords whiteeye
+2022-03-26 03:25:03,749 - ERROR - [-] Unknown Exceptions for Bird Sangihe shrikethrush
+2022-03-26 03:25:10,521 - ERROR - [-] Unknown Exceptions for Bird Sangihe whiteeye
+2022-03-26 03:25:17,766 - ERROR - [-] Unknown Exceptions for Bird Sangkar whiteeye
+2022-03-26 03:25:40,691 - ERROR - [-] Unknown Exceptions for Bird Santa Cruz whiteeye
+2022-03-26 03:26:37,473 - ERROR - [-] Unknown Exceptions for Bird Santa Marta foliagegleaner
+2022-03-26 03:26:44,731 - ERROR - [-] Unknown Exceptions for Bird Santa Marta mountain tanager
+2022-03-26 03:28:07,262 - ERROR - [-] Unknown Exceptions for Bird Sao Francisco black tyrant
+2022-03-26 03:28:14,493 - ERROR - [-] Unknown Exceptions for Bird Sao Francisco black tyrant1
+2022-03-26 03:28:41,621 - ERROR - [-] Unknown Exceptions for Bird Sapphire quaildove
+2022-03-26 03:28:49,429 - ERROR - [-] Unknown Exceptions for Bird Sapphirebellied hummingbird
+2022-03-26 03:28:56,881 - ERROR - [-] Unknown Exceptions for Bird Sapphirerumped parrotlet
+2022-03-26 03:29:04,509 - ERROR - [-] Unknown Exceptions for Bird Sapphirespangled emerald
+2022-03-26 03:29:11,760 - ERROR - [-] Unknown Exceptions for Bird Sapphirethroated hummingbird
+2022-03-26 03:29:18,432 - ERROR - [-] Unknown Exceptions for Bird Sapphirevented puffleg
+2022-03-26 03:29:44,583 - ERROR - [-] Unknown Exceptions for Bird Sassis olive greenbul
+2022-03-26 03:29:51,948 - ERROR - [-] Unknown Exceptions for Bird Satanic nightjar
+2022-03-26 03:31:55,692 - ERROR - [-] Unknown Exceptions for Bird Sawbilled hermit
+2022-03-26 03:32:31,323 - ERROR - [-] Unknown Exceptions for Bird Scalecrested pygmy tyrant
+2022-03-26 03:34:36,648 - ERROR - [-] Unknown Exceptions for Bird Scalefeathered malkoha
+2022-03-26 03:34:44,191 - ERROR - [-] Unknown Exceptions for Bird Scalethroated earthcreeper
+2022-03-26 03:34:51,258 - ERROR - [-] Unknown Exceptions for Bird Scalethroated hermit
+2022-03-26 03:34:57,892 - ERROR - [-] Unknown Exceptions for Bird Scallopbreasted antpitta
+2022-03-26 03:36:04,354 - ERROR - [-] Unknown Exceptions for Bird Scaly spurfowl
+2022-03-26 03:36:20,848 - ERROR - [-] Unknown Exceptions for Bird Scalybellied woodpecker
+2022-03-26 03:36:27,788 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted bulbul
+2022-03-26 03:36:35,314 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted cupwing
+2022-03-26 03:36:42,274 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted honeyeater
+2022-03-26 03:36:49,435 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted hummingbird
+2022-03-26 03:36:56,428 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted illadopsis
+2022-03-26 03:37:03,841 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted kingfisher
+2022-03-26 03:37:11,395 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted lorikeet
+2022-03-26 03:37:18,860 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted munia
+2022-03-26 03:37:26,388 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted thrasher
+2022-03-26 03:37:34,748 - ERROR - [-] Unknown Exceptions for Bird Scalybreasted woodpecker
+2022-03-26 03:37:42,290 - ERROR - [-] Unknown Exceptions for Bird Scalycrowned babbler
+2022-03-26 03:37:49,714 - ERROR - [-] Unknown Exceptions for Bird Scalycrowned honeyeater
+2022-03-26 03:37:56,993 - ERROR - [-] Unknown Exceptions for Bird Scalyfeathered weaver
+2022-03-26 03:38:04,597 - ERROR - [-] Unknown Exceptions for Bird Scalyheaded parrot
+2022-03-26 03:38:11,529 - ERROR - [-] Unknown Exceptions for Bird Scalynaped amazon
+2022-03-26 03:38:18,908 - ERROR - [-] Unknown Exceptions for Bird Scalynaped pigeon
+2022-03-26 03:38:25,791 - ERROR - [-] Unknown Exceptions for Bird Scalysided merganser
+2022-03-26 03:38:33,487 - ERROR - [-] Unknown Exceptions for Bird Scalythroated foliagegleaner
+2022-03-26 03:38:40,558 - ERROR - [-] Unknown Exceptions for Bird Scalythroated honeyguide
+2022-03-26 03:38:47,471 - ERROR - [-] Unknown Exceptions for Bird Scalythroated leaftosser
+2022-03-26 03:39:11,267 - ERROR - [-] Unknown Exceptions for Bird Scarlet flycatcher
+2022-03-26 03:40:13,096 - ERROR - [-] Unknown Exceptions for Bird Scarletandwhite tanager
+2022-03-26 03:40:19,530 - ERROR - [-] Unknown Exceptions for Bird Scarletbacked flowerpecker
+2022-03-26 03:40:26,466 - ERROR - [-] Unknown Exceptions for Bird Scarletbacked woodpecker
+2022-03-26 03:40:33,446 - ERROR - [-] Unknown Exceptions for Bird Scarletbanded barbet
+2022-03-26 03:40:40,536 - ERROR - [-] Unknown Exceptions for Bird Scarletbellied mountain tanager
+2022-03-26 03:40:47,555 - ERROR - [-] Unknown Exceptions for Bird Scarletbreasted dacnis
+2022-03-26 03:40:54,777 - ERROR - [-] Unknown Exceptions for Bird Scarletbreasted flowerpecker
+2022-03-26 03:41:01,928 - ERROR - [-] Unknown Exceptions for Bird Scarletbreasted fruit dove
+2022-03-26 03:41:08,879 - ERROR - [-] Unknown Exceptions for Bird Scarletbreasted fruiteater
+2022-03-26 03:41:15,765 - ERROR - [-] Unknown Exceptions for Bird Scarletbrowed tanager
+2022-03-26 03:41:23,117 - ERROR - [-] Unknown Exceptions for Bird Scarletchested parrot
+2022-03-26 03:41:30,249 - ERROR - [-] Unknown Exceptions for Bird Scarletchested sunbird
+2022-03-26 03:41:37,842 - ERROR - [-] Unknown Exceptions for Bird Scarletcollared flowerpecker
+2022-03-26 03:41:44,837 - ERROR - [-] Unknown Exceptions for Bird Scarletcrowned barbet
+2022-03-26 03:41:52,001 - ERROR - [-] Unknown Exceptions for Bird Scarletfaced liocichla
+2022-03-26 03:41:59,194 - ERROR - [-] Unknown Exceptions for Bird Scarletfronted parakeet
+2022-03-26 03:42:08,422 - ERROR - [-] Unknown Exceptions for Bird Scarletheaded blackbird
+2022-03-26 03:42:15,528 - ERROR - [-] Unknown Exceptions for Bird Scarletheaded flowerpecker
+2022-03-26 03:42:22,644 - ERROR - [-] Unknown Exceptions for Bird Scarlethooded barbet
+2022-03-26 03:42:29,783 - ERROR - [-] Unknown Exceptions for Bird Scarlethorned manakin
+2022-03-26 03:42:37,383 - ERROR - [-] Unknown Exceptions for Bird Scarletrumped cacique
+2022-03-26 03:42:44,602 - ERROR - [-] Unknown Exceptions for Bird Scarletrumped tanager
+2022-03-26 03:42:52,512 - ERROR - [-] Unknown Exceptions for Bird Scarletrumped trogon
+2022-03-26 03:42:59,603 - ERROR - [-] Unknown Exceptions for Bird Scarletshouldered parrotlet
+2022-03-26 03:43:06,780 - ERROR - [-] Unknown Exceptions for Bird Scarletthighed dacnis
+2022-03-26 03:43:13,724 - ERROR - [-] Unknown Exceptions for Bird Scarletthroated tanager
+2022-03-26 03:43:21,094 - ERROR - [-] Unknown Exceptions for Bird Scarlettufted sunbird
+2022-03-26 03:44:25,497 - ERROR - [-] Unknown Exceptions for Bird Scimitarbilled woodcreeper
+2022-03-26 03:44:32,896 - ERROR - [-] Unknown Exceptions for Bird Scimitarwinged piha
+2022-03-26 03:44:48,782 - ERROR - [-] Unknown Exceptions for Bird Scissortailed flycatcher
+2022-03-26 03:44:59,313 - ERROR - [-] Unknown Exceptions for Bird Scissortailed hummingbird
+2022-03-26 03:45:08,685 - ERROR - [-] Unknown Exceptions for Bird Scissortailed kite
+2022-03-26 03:45:15,848 - ERROR - [-] Unknown Exceptions for Bird Scissortailed nightjar
+2022-03-26 03:46:05,252 - ERROR - [-] Unknown Exceptions for Bird Sclaters nightingalethrush
+2022-03-26 03:46:29,749 - ERROR - [-] Unknown Exceptions for Bird Sclaters wren
+2022-03-26 03:46:36,663 - ERROR - [-] Unknown Exceptions for Bird Scopolis shearwater
+2022-03-26 03:47:21,719 - ERROR - [-] Unknown Exceptions for Bird Scribbletailed canastero
+2022-03-26 03:49:19,709 - ERROR - [-] Unknown Exceptions for Bird Seesee partridge
+2022-03-26 03:51:25,772 - ERROR - [-] Unknown Exceptions for Bird Senegal thickknee
+2022-03-26 03:51:51,979 - ERROR - [-] Unknown Exceptions for Bird Sepiabrown wren
+2022-03-26 03:51:59,301 - ERROR - [-] Unknown Exceptions for Bird Sepiacapped flycatcher
+2022-03-26 03:52:06,533 - ERROR - [-] Unknown Exceptions for Bird SepikRamu shrikethrush
+2022-03-26 03:53:47,876 - ERROR - [-] Unknown Exceptions for Bird Seram whiteeye
+2022-03-26 03:54:23,650 - ERROR - [-] Unknown Exceptions for Bird Serra do Mar tyrantmanakin
+2022-03-26 03:54:31,430 - ERROR - [-] Unknown Exceptions for Bird Serra finch
+2022-03-26 03:54:38,757 - ERROR - [-] Unknown Exceptions for Bird Sevencolored tanager
+2022-03-26 03:54:46,220 - ERROR - [-] Unknown Exceptions for Bird Seychelles black parrot
+2022-03-26 03:55:33,759 - ERROR - [-] Unknown Exceptions for Bird Seychelles magpierobin
+2022-03-26 03:56:38,076 - ERROR - [-] Unknown Exceptions for Bird Seychelles whiteeye
+2022-03-26 03:56:45,699 - ERROR - [-] Unknown Exceptions for Bird Shade bush warbler
+2022-03-26 03:56:52,609 - ERROR - [-] Unknown Exceptions for Bird Shafttailed whydah
+2022-03-26 03:56:59,477 - ERROR - [-] Unknown Exceptions for Bird Sharpbeaked ground finch
+2022-03-26 03:57:15,684 - ERROR - [-] Unknown Exceptions for Bird Sharpbilled canastero
+2022-03-26 03:57:22,942 - ERROR - [-] Unknown Exceptions for Bird Sharpbilled treehunter
+2022-03-26 03:57:59,413 - ERROR - [-] Unknown Exceptions for Bird Sharpes greenbul
+2022-03-26 03:58:34,617 - ERROR - [-] Unknown Exceptions for Bird Sharpshinned hawk
+2022-03-26 03:58:41,927 - ERROR - [-] Unknown Exceptions for Bird Sharptailed grass tyrant
+2022-03-26 03:58:48,899 - ERROR - [-] Unknown Exceptions for Bird Sharptailed grouse
+2022-03-26 03:58:56,468 - ERROR - [-] Unknown Exceptions for Bird Sharptailed ibis
+2022-03-26 03:59:02,942 - ERROR - [-] Unknown Exceptions for Bird Sharptailed sandpiper
+2022-03-26 03:59:28,657 - ERROR - [-] Unknown Exceptions for Bird Sharptailed starling
+2022-03-26 03:59:36,592 - ERROR - [-] Unknown Exceptions for Bird Sharptailed streamcreeper
+2022-03-26 03:59:43,340 - ERROR - [-] Unknown Exceptions for Bird Sheartailed grey tyrant
+2022-03-26 03:59:58,908 - ERROR - [-] Unknown Exceptions for Bird Shelleys eagleowl
+2022-03-26 04:02:19,161 - ERROR - [-] Unknown Exceptions for Bird Shiningblue kingfisher
+2022-03-26 04:02:26,370 - ERROR - [-] Unknown Exceptions for Bird Shininggreen hummingbird
+2022-03-26 04:03:10,997 - ERROR - [-] Unknown Exceptions for Bird Shortbearded honeyeater
+2022-03-26 04:03:17,871 - ERROR - [-] Unknown Exceptions for Bird Shortbilled canastero
+2022-03-26 04:03:25,633 - ERROR - [-] Unknown Exceptions for Bird Shortbilled dowitcher
+2022-03-26 04:03:33,015 - ERROR - [-] Unknown Exceptions for Bird Shortbilled honeycreeper
+2022-03-26 04:03:40,044 - ERROR - [-] Unknown Exceptions for Bird Shortbilled leaftosser
+2022-03-26 04:03:46,654 - ERROR - [-] Unknown Exceptions for Bird Shortbilled miner
+2022-03-26 04:03:53,659 - ERROR - [-] Unknown Exceptions for Bird Shortbilled minivet
+2022-03-26 04:04:00,493 - ERROR - [-] Unknown Exceptions for Bird Shortbilled pigeon
+2022-03-26 04:04:07,880 - ERROR - [-] Unknown Exceptions for Bird Shortbilled pipit
+2022-03-26 04:04:15,190 - ERROR - [-] Unknown Exceptions for Bird Shortclawed lark
+2022-03-26 04:04:22,199 - ERROR - [-] Unknown Exceptions for Bird Shortcrested coquette
+2022-03-26 04:04:28,842 - ERROR - [-] Unknown Exceptions for Bird Shortcrested flycatcher
+2022-03-26 04:04:35,730 - ERROR - [-] Unknown Exceptions for Bird Shortcrested monarch
+2022-03-26 04:04:42,078 - ERROR - [-] Unknown Exceptions for Bird Shorteared owl
+2022-03-26 04:04:48,932 - ERROR - [-] Unknown Exceptions for Bird Shortlegged ground roller
+2022-03-26 04:04:55,481 - ERROR - [-] Unknown Exceptions for Bird Shorttailed albatross
+2022-03-26 04:05:02,497 - ERROR - [-] Unknown Exceptions for Bird Shorttailed antthrush
+2022-03-26 04:05:09,451 - ERROR - [-] Unknown Exceptions for Bird Shorttailed babbler
+2022-03-26 04:05:16,728 - ERROR - [-] Unknown Exceptions for Bird Shorttailed emerald
+2022-03-26 04:05:23,429 - ERROR - [-] Unknown Exceptions for Bird Shorttailed field tyrant
+2022-03-26 04:05:30,658 - ERROR - [-] Unknown Exceptions for Bird Shorttailed finch
+2022-03-26 04:05:37,467 - ERROR - [-] Unknown Exceptions for Bird Shorttailed grasswren
+2022-03-26 04:05:44,302 - ERROR - [-] Unknown Exceptions for Bird Shorttailed hawk
+2022-03-26 04:05:51,539 - ERROR - [-] Unknown Exceptions for Bird Shorttailed lark
+2022-03-26 04:05:59,108 - ERROR - [-] Unknown Exceptions for Bird Shorttailed nighthawk
+2022-03-26 04:06:06,090 - ERROR - [-] Unknown Exceptions for Bird Shorttailed paradigalla
+2022-03-26 04:06:13,137 - ERROR - [-] Unknown Exceptions for Bird Shorttailed parrot
+2022-03-26 04:06:19,956 - ERROR - [-] Unknown Exceptions for Bird Shorttailed parrotbill
+2022-03-26 04:06:27,051 - ERROR - [-] Unknown Exceptions for Bird Shorttailed pipit
+2022-03-26 04:06:34,202 - ERROR - [-] Unknown Exceptions for Bird Shorttailed pygmy tyrant
+2022-03-26 04:06:41,468 - ERROR - [-] Unknown Exceptions for Bird Shorttailed scimitar babbler
+2022-03-26 04:06:48,382 - ERROR - [-] Unknown Exceptions for Bird Shorttailed shearwater
+2022-03-26 04:06:55,402 - ERROR - [-] Unknown Exceptions for Bird Shorttailed starling
+2022-03-26 04:07:03,201 - ERROR - [-] Unknown Exceptions for Bird Shorttailed swift
+2022-03-26 04:07:10,143 - ERROR - [-] Unknown Exceptions for Bird Shorttailed woodstar
+2022-03-26 04:07:17,210 - ERROR - [-] Unknown Exceptions for Bird Shorttoed coucal
+2022-03-26 04:07:24,521 - ERROR - [-] Unknown Exceptions for Bird Shorttoed rock thrush
+2022-03-26 04:07:32,492 - ERROR - [-] Unknown Exceptions for Bird Shorttoed snake eagle
+2022-03-26 04:07:40,250 - ERROR - [-] Unknown Exceptions for Bird Shorttoed treecreeper
+2022-03-26 04:07:47,312 - ERROR - [-] Unknown Exceptions for Bird Shortwinged cisticola
+2022-03-26 04:07:54,648 - ERROR - [-] Unknown Exceptions for Bird Shovelbilled kookaburra
+2022-03-26 04:08:01,548 - ERROR - [-] Unknown Exceptions for Bird Shrikelike tanager
+2022-03-26 04:08:08,490 - ERROR - [-] Unknown Exceptions for Bird Shy albatross
+2022-03-26 04:08:31,155 - ERROR - [-] Unknown Exceptions for Bird Siamese partridge
+2022-03-26 04:09:40,802 - ERROR - [-] Unknown Exceptions for Bird Siberian nuthatch
+2022-03-26 04:11:27,589 - ERROR - [-] Unknown Exceptions for Bird Sicklebilled vanga
+2022-03-26 04:11:35,157 - ERROR - [-] Unknown Exceptions for Bird Sicklewinged chat
+2022-03-26 04:11:42,428 - ERROR - [-] Unknown Exceptions for Bird Sicklewinged guan
+2022-03-26 04:11:49,387 - ERROR - [-] Unknown Exceptions for Bird Sicklewinged nightjar
+2022-03-26 04:13:07,422 - ERROR - [-] Unknown Exceptions for Bird Sikkim wedgebilled babbler
+2022-03-26 04:13:14,337 - ERROR - [-] Unknown Exceptions for Bird Silkytailed nightjar
+2022-03-26 04:13:21,233 - ERROR - [-] Unknown Exceptions for Bird Sillems mountain finch
+2022-03-26 04:14:08,579 - ERROR - [-] Unknown Exceptions for Bird Silverbacked butcherbird
+2022-03-26 04:14:15,908 - ERROR - [-] Unknown Exceptions for Bird Silverbacked needletail
+2022-03-26 04:14:23,887 - ERROR - [-] Unknown Exceptions for Bird Silverbacked tanager
+2022-03-26 04:14:30,561 - ERROR - [-] Unknown Exceptions for Bird Silverbeaked tanager
+2022-03-26 04:14:47,001 - ERROR - [-] Unknown Exceptions for Bird Silverbreasted broadbill
+2022-03-26 04:14:53,451 - ERROR - [-] Unknown Exceptions for Bird Silvercapped fruit dove
+2022-03-26 04:15:00,661 - ERROR - [-] Unknown Exceptions for Bird Silvercrowned friarbird
+2022-03-26 04:15:08,430 - ERROR - [-] Unknown Exceptions for Bird Silvereared honeyeater
+2022-03-26 04:15:15,503 - ERROR - [-] Unknown Exceptions for Bird Silvereared laughingthrush
+2022-03-26 04:15:24,334 - ERROR - [-] Unknown Exceptions for Bird Silvereared mesia
+2022-03-26 04:15:50,894 - ERROR - [-] Unknown Exceptions for Bird Silverrumped spinetail
+2022-03-26 04:15:58,093 - ERROR - [-] Unknown Exceptions for Bird Silverthroated bushtit
+2022-03-26 04:16:04,944 - ERROR - [-] Unknown Exceptions for Bird Silverthroated tanager
+2022-03-26 04:16:12,603 - ERROR - [-] Unknown Exceptions for Bird Silvertipped imperial pigeon
+2022-03-26 04:16:37,393 - ERROR - [-] Unknown Exceptions for Bird Silverycheeked antshrike
+2022-03-26 04:16:44,307 - ERROR - [-] Unknown Exceptions for Bird Silverycheeked hornbill
+2022-03-26 04:16:51,491 - ERROR - [-] Unknown Exceptions for Bird Silveryflanked antwren
+2022-03-26 04:16:58,662 - ERROR - [-] Unknown Exceptions for Bird Silveryfronted tapaculo
+2022-03-26 04:17:05,875 - ERROR - [-] Unknown Exceptions for Bird Silverythroated jay
+2022-03-26 04:17:13,168 - ERROR - [-] Unknown Exceptions for Bird Silverythroated spinetail
+2022-03-26 04:17:20,443 - ERROR - [-] Unknown Exceptions for Bird Simeulue parrot
+2022-03-26 04:18:25,322 - ERROR - [-] Unknown Exceptions for Bird Sincorá antwren
+2022-03-26 04:18:52,159 - ERROR - [-] Unknown Exceptions for Bird Singing bush lark
+2022-03-26 04:19:38,950 - ERROR - [-] Unknown Exceptions for Bird Sinú parakeet
+2022-03-26 04:19:46,647 - ERROR - [-] Unknown Exceptions for Bird Sira barbet
+2022-03-26 04:20:20,459 - ERROR - [-] Unknown Exceptions for Bird Sjöstedts barred owlet
+2022-03-26 04:20:54,661 - ERROR - [-] Unknown Exceptions for Bird Slatecolored antbird
+2022-03-26 04:21:01,767 - ERROR - [-] Unknown Exceptions for Bird Slatecolored boubou
+2022-03-26 04:21:09,003 - ERROR - [-] Unknown Exceptions for Bird Slatecolored fox sparrow
+2022-03-26 04:21:16,233 - ERROR - [-] Unknown Exceptions for Bird Slatecolored hawk
+2022-03-26 04:21:23,257 - ERROR - [-] Unknown Exceptions for Bird Slatecolored solitaire
+2022-03-26 04:21:30,578 - ERROR - [-] Unknown Exceptions for Bird Slatecoloured grosbeak
+2022-03-26 04:21:38,349 - ERROR - [-] Unknown Exceptions for Bird Slatecoloured seedeater
+2022-03-26 04:21:45,565 - ERROR - [-] Unknown Exceptions for Bird Slatethroated gnatcatcher
+2022-03-26 04:21:52,818 - ERROR - [-] Unknown Exceptions for Bird Slatethroated whitestart
+2022-03-26 04:23:47,500 - ERROR - [-] Unknown Exceptions for Bird Slaty robin
+2022-03-26 04:24:22,628 - ERROR - [-] Unknown Exceptions for Bird Slatybacked chattyrant
+2022-03-26 04:24:29,994 - ERROR - [-] Unknown Exceptions for Bird Slatybacked flycatcher
+2022-03-26 04:24:37,068 - ERROR - [-] Unknown Exceptions for Bird Slatybacked forest falcon
+2022-03-26 04:24:44,797 - ERROR - [-] Unknown Exceptions for Bird Slatybacked forktail
+2022-03-26 04:24:52,119 - ERROR - [-] Unknown Exceptions for Bird Slatybacked gull
+2022-03-26 04:24:59,394 - ERROR - [-] Unknown Exceptions for Bird Slatybacked hemispingus
+2022-03-26 04:25:06,754 - ERROR - [-] Unknown Exceptions for Bird Slatybacked jungle flycatcher
+2022-03-26 04:25:15,486 - ERROR - [-] Unknown Exceptions for Bird Slatybacked nightingalethrush
+2022-03-26 04:25:23,111 - ERROR - [-] Unknown Exceptions for Bird Slatybacked thornbill
+2022-03-26 04:25:30,771 - ERROR - [-] Unknown Exceptions for Bird Slatybacked thrush
+2022-03-26 04:25:37,579 - ERROR - [-] Unknown Exceptions for Bird Slatybellied tesia
+2022-03-26 04:25:44,867 - ERROR - [-] Unknown Exceptions for Bird Slatyblue flycatcher
+2022-03-26 04:25:52,441 - ERROR - [-] Unknown Exceptions for Bird Slatybreasted rail
+2022-03-26 04:25:59,581 - ERROR - [-] Unknown Exceptions for Bird Slatybreasted tinamou
+2022-03-26 04:26:07,496 - ERROR - [-] Unknown Exceptions for Bird Slatybreasted wood rail
+2022-03-26 04:26:15,064 - ERROR - [-] Unknown Exceptions for Bird Slatycapped flycatcher
+2022-03-26 04:26:21,976 - ERROR - [-] Unknown Exceptions for Bird Slatycapped shrikevireo
+2022-03-26 04:26:28,784 - ERROR - [-] Unknown Exceptions for Bird Slatycrowned antpitta
+2022-03-26 04:26:35,874 - ERROR - [-] Unknown Exceptions for Bird Slatyheaded longbill
+2022-03-26 04:26:43,122 - ERROR - [-] Unknown Exceptions for Bird Slatyheaded parakeet
+2022-03-26 04:26:50,322 - ERROR - [-] Unknown Exceptions for Bird Slatyheaded todyflycatcher
+2022-03-26 04:26:57,636 - ERROR - [-] Unknown Exceptions for Bird Slatylegged crake
+2022-03-26 04:27:05,192 - ERROR - [-] Unknown Exceptions for Bird Slatymantled goshawk
+2022-03-26 04:27:12,117 - ERROR - [-] Unknown Exceptions for Bird Slatytailed trogon
+2022-03-26 04:27:19,602 - ERROR - [-] Unknown Exceptions for Bird Slatywinged foliagegleaner
+2022-03-26 04:27:45,844 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled babbler
+2022-03-26 04:27:52,941 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled crow
+2022-03-26 04:28:00,616 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled curlew
+2022-03-26 04:28:08,149 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled finch
+2022-03-26 04:28:16,198 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled flufftail
+2022-03-26 04:28:23,921 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled grackle
+2022-03-26 04:28:31,126 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled greenbul
+2022-03-26 04:28:38,426 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled gull
+2022-03-26 04:28:45,772 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled inezia
+2022-03-26 04:28:52,371 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled kite
+2022-03-26 04:28:59,113 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled miner
+2022-03-26 04:29:06,403 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled oriole
+2022-03-26 04:29:14,578 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled parakeet
+2022-03-26 04:29:21,697 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled prion
+2022-03-26 04:29:28,802 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled scimitar babbler
+2022-03-26 04:29:36,139 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled starling
+2022-03-26 04:29:44,272 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled thornbill
+2022-03-26 04:29:51,590 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled vulture
+2022-03-26 04:29:59,503 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled weaver
+2022-03-26 04:30:06,391 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled whiteeye
+2022-03-26 04:30:13,737 - ERROR - [-] Unknown Exceptions for Bird Slenderbilled xenops
+2022-03-26 04:30:20,609 - ERROR - [-] Unknown Exceptions for Bird Slenderfooted tyrannulet
+2022-03-26 04:30:27,788 - ERROR - [-] Unknown Exceptions for Bird Slendertailed nightjar
+2022-03-26 04:30:34,892 - ERROR - [-] Unknown Exceptions for Bird Slendertailed woodstar
+2022-03-26 04:30:42,111 - ERROR - [-] Unknown Exceptions for Bird Small Lifou whiteeye
+2022-03-26 04:31:34,328 - ERROR - [-] Unknown Exceptions for Bird Smallbilled elaenia
+2022-03-26 04:31:41,318 - ERROR - [-] Unknown Exceptions for Bird Smallbilled tinamou
+2022-03-26 04:31:47,828 - ERROR - [-] Unknown Exceptions for Bird Smallheaded elaenia
+2022-03-26 04:32:13,977 - ERROR - [-] Unknown Exceptions for Bird Smokecolored pewee
+2022-03-26 04:32:51,767 - ERROR - [-] Unknown Exceptions for Bird Smokybrown woodpecker
+2022-03-26 04:32:58,098 - ERROR - [-] Unknown Exceptions for Bird Smokyfronted todyflycatcher
+2022-03-26 04:33:05,014 - ERROR - [-] Unknown Exceptions for Bird Smoothbilled ani
+2022-03-26 04:33:49,257 - ERROR - [-] Unknown Exceptions for Bird Snethlages todytyrant
+2022-03-26 04:34:14,509 - ERROR - [-] Unknown Exceptions for Bird Snow Mountains robin
+2022-03-26 04:35:16,130 - ERROR - [-] Unknown Exceptions for Bird Snowcapped manakin
+2022-03-26 04:36:09,488 - ERROR - [-] Unknown Exceptions for Bird Snowybellied hummingbird
+2022-03-26 04:36:17,730 - ERROR - [-] Unknown Exceptions for Bird Snowybrowed flycatcher
+2022-03-26 04:36:24,623 - ERROR - [-] Unknown Exceptions for Bird Snowycheeked laughingthrush
+2022-03-26 04:36:31,438 - ERROR - [-] Unknown Exceptions for Bird Snowycrowned robinchat
+2022-03-26 04:36:38,837 - ERROR - [-] Unknown Exceptions for Bird Snowycrowned tern
+2022-03-26 04:36:45,865 - ERROR - [-] Unknown Exceptions for Bird Snowythroated babbler
+2022-03-26 04:36:53,711 - ERROR - [-] Unknown Exceptions for Bird Snowythroated kingbird
+2022-03-26 04:38:55,195 - ERROR - [-] Unknown Exceptions for Bird Socotra goldenwinged grosbeak
+2022-03-26 04:39:47,863 - ERROR - [-] Unknown Exceptions for Bird Socotra whiteeye
+2022-03-26 04:39:54,807 - ERROR - [-] Unknown Exceptions for Bird Softplumaged petrel
+2022-03-26 04:41:17,114 - ERROR - [-] Unknown Exceptions for Bird Solomons cockatoo
+2022-03-26 04:41:43,616 - ERROR - [-] Unknown Exceptions for Bird Solomons monarch
+2022-03-26 04:42:01,074 - ERROR - [-] Unknown Exceptions for Bird Solomons robin
+2022-03-26 04:42:08,160 - ERROR - [-] Unknown Exceptions for Bird Solomons whiteeye
+2022-03-26 04:42:14,996 - ERROR - [-] Unknown Exceptions for Bird Somali beeeater
+2022-03-26 04:42:22,153 - ERROR - [-] Unknown Exceptions for Bird Somali bulbul
+2022-03-26 04:43:17,477 - ERROR - [-] Unknown Exceptions for Bird Somali goldenwinged grosbeak
+2022-03-26 04:43:54,560 - ERROR - [-] Unknown Exceptions for Bird Somali shorttoed lark
+2022-03-26 04:45:36,564 - ERROR - [-] Unknown Exceptions for Bird Song parrot
+2022-03-26 04:47:22,875 - ERROR - [-] Unknown Exceptions for Bird Sooty bushtit
+2022-03-26 04:47:59,138 - ERROR - [-] Unknown Exceptions for Bird Sooty fox sparrow
+2022-03-26 04:48:34,852 - ERROR - [-] Unknown Exceptions for Bird Sooty honeyeater
+2022-03-26 04:50:15,375 - ERROR - [-] Unknown Exceptions for Bird Sootycapped babbler
+2022-03-26 04:50:22,522 - ERROR - [-] Unknown Exceptions for Bird Sootycapped bush tanager
+2022-03-26 04:50:30,424 - ERROR - [-] Unknown Exceptions for Bird Sootycapped hermit
+2022-03-26 04:50:37,380 - ERROR - [-] Unknown Exceptions for Bird Sootycapped puffbird
+2022-03-26 04:50:44,896 - ERROR - [-] Unknown Exceptions for Bird Sootycrowned flycatcher
+2022-03-26 04:50:51,693 - ERROR - [-] Unknown Exceptions for Bird Sootyfaced finch
+2022-03-26 04:50:59,036 - ERROR - [-] Unknown Exceptions for Bird Sootyfronted spinetail
+2022-03-26 04:51:05,867 - ERROR - [-] Unknown Exceptions for Bird Sootyheaded bulbul
+2022-03-26 04:51:13,388 - ERROR - [-] Unknown Exceptions for Bird Sootyheaded tyrannulet
+2022-03-26 04:51:20,534 - ERROR - [-] Unknown Exceptions for Bird Sootyheaded wren
+2022-03-26 04:51:46,998 - ERROR - [-] Unknown Exceptions for Bird South African cliff swallow
+2022-03-26 04:52:03,655 - ERROR - [-] Unknown Exceptions for Bird South American paintedsnipe
+2022-03-26 04:52:57,964 - ERROR - [-] Unknown Exceptions for Bird South Island k\u014dkako
+2022-03-26 04:53:53,017 - ERROR - [-] Unknown Exceptions for Bird South Island takah\u0113
+2022-03-26 04:54:19,185 - ERROR - [-] Unknown Exceptions for Bird South Pare whiteeye
+2022-03-26 04:55:02,317 - ERROR - [-] Unknown Exceptions for Bird Southern banded snake eagle
+2022-03-26 04:55:37,048 - ERROR - [-] Unknown Exceptions for Bird Southern black korhaan
+2022-03-26 04:56:20,840 - ERROR - [-] Unknown Exceptions for Bird Southern brownthroated weaver
+2022-03-26 04:56:27,656 - ERROR - [-] Unknown Exceptions for Bird Southern carmine beeeater
+2022-03-26 04:56:43,729 - ERROR - [-] Unknown Exceptions for Bird Southern chestnuttailed antbird
+2022-03-26 04:57:00,876 - ERROR - [-] Unknown Exceptions for Bird Southern dark newtonia
+2022-03-26 04:57:08,331 - ERROR - [-] Unknown Exceptions for Bird Southern doublecollared sunbird
+2022-03-26 04:57:54,609 - ERROR - [-] Unknown Exceptions for Bird Southern greyheaded sparrow
+2022-03-26 04:58:01,703 - ERROR - [-] Unknown Exceptions for Bird Southern grosbeakcanary
+2022-03-26 04:59:07,027 - ERROR - [-] Unknown Exceptions for Bird Southern mealy amazon
+2022-03-26 04:59:14,731 - ERROR - [-] Unknown Exceptions for Bird Southern mountain cacique
+2022-03-26 04:59:22,234 - ERROR - [-] Unknown Exceptions for Bird Southern nightingalewren
+2022-03-26 04:59:57,566 - ERROR - [-] Unknown Exceptions for Bird Southern redbilled hornbill
+2022-03-26 05:00:15,367 - ERROR - [-] Unknown Exceptions for Bird Southern roughwinged swallow
+2022-03-26 05:00:22,774 - ERROR - [-] Unknown Exceptions for Bird Southern royal albatross
+2022-03-26 05:01:36,715 - ERROR - [-] Unknown Exceptions for Bird Southern whitecrowned shrike
+2022-03-26 05:01:53,038 - ERROR - [-] Unknown Exceptions for Bird Southern whitefaced owl
+2022-03-26 05:02:00,678 - ERROR - [-] Unknown Exceptions for Bird Southern whitefringed antwren
+2022-03-26 05:02:07,946 - ERROR - [-] Unknown Exceptions for Bird Southern yellow whiteeye
+2022-03-26 05:02:16,060 - ERROR - [-] Unknown Exceptions for Bird Southern yellowbilled hornbill
+2022-03-26 05:02:23,251 - ERROR - [-] Unknown Exceptions for Bird Southern yellowthroat
+2022-03-26 05:02:39,765 - ERROR - [-] Unknown Exceptions for Bird Spanglecheeked tanager
+2022-03-26 05:03:35,338 - ERROR - [-] Unknown Exceptions for Bird Spanish imperial eagle
+2022-03-26 05:04:03,418 - ERROR - [-] Unknown Exceptions for Bird Sparklingtailed woodstar
+2022-03-26 05:04:10,162 - ERROR - [-] Unknown Exceptions for Bird Specklebreasted antpitta
+2022-03-26 05:04:17,299 - ERROR - [-] Unknown Exceptions for Bird Specklebreasted woodpecker
+2022-03-26 05:04:24,381 - ERROR - [-] Unknown Exceptions for Bird Specklebreasted wren
+2022-03-26 05:04:31,948 - ERROR - [-] Unknown Exceptions for Bird Specklechested piculet
+2022-03-26 05:04:39,408 - ERROR - [-] Unknown Exceptions for Bird Speckled antshrike
+2022-03-26 05:06:03,914 - ERROR - [-] Unknown Exceptions for Bird Speckled reed warbler
+2022-03-26 05:06:58,385 - ERROR - [-] Unknown Exceptions for Bird Specklefaced parrot
+2022-03-26 05:07:06,043 - ERROR - [-] Unknown Exceptions for Bird Specklefronted weaver
+2022-03-26 05:07:13,214 - ERROR - [-] Unknown Exceptions for Bird Specklethroated woodpecker
+2022-03-26 05:07:50,216 - ERROR - [-] Unknown Exceptions for Bird Spectacled cormorant
+2022-03-26 05:10:00,118 - ERROR - [-] Unknown Exceptions for Bird Spectacled tern
+2022-03-26 05:11:02,332 - ERROR - [-] Unknown Exceptions for Bird Spectacled whitestart
+2022-03-26 05:11:28,557 - ERROR - [-] Unknown Exceptions for Bird Spikeheeled lark
+2022-03-26 05:12:12,288 - ERROR - [-] Unknown Exceptions for Bird Spinycheeked honeyeater
+2022-03-26 05:13:45,745 - ERROR - [-] Unknown Exceptions for Bird Spoonbilled sandpiper
+2022-03-26 05:13:52,701 - ERROR - [-] Unknown Exceptions for Bird Spotbacked antbird
+2022-03-26 05:14:00,636 - ERROR - [-] Unknown Exceptions for Bird Spotbacked antshrike
+2022-03-26 05:14:07,928 - ERROR - [-] Unknown Exceptions for Bird Spotbacked antwren
+2022-03-26 05:14:14,663 - ERROR - [-] Unknown Exceptions for Bird Spotbellied bobwhite
+2022-03-26 05:14:22,683 - ERROR - [-] Unknown Exceptions for Bird Spotbellied eagleowl
+2022-03-26 05:14:29,846 - ERROR - [-] Unknown Exceptions for Bird Spotbilled ground tyrant
+2022-03-26 05:14:37,136 - ERROR - [-] Unknown Exceptions for Bird Spotbilled pelican
+2022-03-26 05:14:43,917 - ERROR - [-] Unknown Exceptions for Bird Spotbilled toucanet
+2022-03-26 05:14:51,473 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted antvireo
+2022-03-26 05:14:58,798 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted heleia
+2022-03-26 05:15:06,568 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted ibis
+2022-03-26 05:15:13,918 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted lapwing
+2022-03-26 05:15:21,927 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted laughingthrush
+2022-03-26 05:15:29,480 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted oriole
+2022-03-26 05:15:36,723 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted parrotbill
+2022-03-26 05:15:43,977 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted scimitar babbler
+2022-03-26 05:15:51,248 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted thornbird
+2022-03-26 05:15:58,955 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted woodpecker
+2022-03-26 05:16:06,360 - ERROR - [-] Unknown Exceptions for Bird Spotbreasted wren
+2022-03-26 05:16:13,514 - ERROR - [-] Unknown Exceptions for Bird Spotcrowned antvireo
+2022-03-26 05:16:20,735 - ERROR - [-] Unknown Exceptions for Bird Spotcrowned barbet
+2022-03-26 05:16:27,895 - ERROR - [-] Unknown Exceptions for Bird Spotcrowned euphonia
+2022-03-26 05:16:35,241 - ERROR - [-] Unknown Exceptions for Bird Spotcrowned woodcreeper
+2022-03-26 05:16:42,484 - ERROR - [-] Unknown Exceptions for Bird Spotflanked barbet
+2022-03-26 05:16:50,751 - ERROR - [-] Unknown Exceptions for Bird Spotflanked gallinule
+2022-03-26 05:16:57,537 - ERROR - [-] Unknown Exceptions for Bird Spotfronted swift
+2022-03-26 05:17:23,436 - ERROR - [-] Unknown Exceptions for Bird Spotnecked babbler
+2022-03-26 05:17:31,565 - ERROR - [-] Unknown Exceptions for Bird Spotnecked bulbul
+2022-03-26 05:17:38,865 - ERROR - [-] Unknown Exceptions for Bird Spottailed antwren
+2022-03-26 05:17:46,890 - ERROR - [-] Unknown Exceptions for Bird Spottailed nightjar
+2022-03-26 05:17:54,824 - ERROR - [-] Unknown Exceptions for Bird Spottailed sparrowhawk
+2022-03-26 05:19:54,999 - ERROR - [-] Unknown Exceptions for Bird Spotted eagleowl
