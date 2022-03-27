@@ -5,7 +5,7 @@ def get_infobox(url):
     page = requests.get(url)
     bs = BeautifulSoup(page.content, "html.parser")
 
-    table = bs.find('table', class_ ='infobox')
+    table = bs.find('table', class_ ='infobox biota')
     result = {}
     row_count = 0
     if table is None:
@@ -13,8 +13,6 @@ def get_infobox(url):
     else:
         for tr in table.find_all('tr'):
             if tr.find('th'):
-                pass
-            else:
                 row_count += 1
         if row_count > 1:
             if tr is not None:
