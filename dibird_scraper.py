@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 URL = "https://dibird.com/species/greyandbuff-woodpecker/"
-def scrape(URL,bird_name):
+def scrape(URL):
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, "html.parser")
     table1 = soup.find("table",class_="table table-bordered")
