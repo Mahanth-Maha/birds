@@ -48,14 +48,23 @@ if __name__ == '__main__':
     dibird = pd.DataFrame(columns=['Common Name','Conservation status','Synonyms','Old latin name for bird','Order','Family', 'Genus','Breeding region','Breeding subregion','Link'])
     f = int(input('from :'))
     t = int(input('to :'))
-    ds = 'ebird_'+str(f)+'_'+str(t)
+    ds = 'dibird_'+str(f)+'_'+str(t)
     logging.basicConfig(filename="assets/rescrape_dibird/Log_"+ds+".log",format='%(asctime)s - %(levelname)s - %(message)s',filemode='a')
+    failed =[]
     for bird_name in list_of_bird_names[f:t]:
-        bird_name = '-'.join(bird_name.lower().split(' '))
-        URL_d = f"https://dibird.com/species/{bird_name}/"
-        temp_df = scrape_dibird(URL_d,bird_name,dibird)
-        dibird = pd.concat([dibird,temp_df])
+        try:
+            bird_name = '-'.join(bird_name.lower().split(' '))
+            URL_d = f"https://dibird.com/species/{bird_name}/"
+            temp_df = scrape_dibird(URL_d,bird_name,dibird)
+            dibird = pd.concat([dibird,temp_df])
+            print('[+] '+bird_name)
+        except Exception:
+            failed.append(bird_name)
+            print('[+] '+bird_name)
     dibird.to_pickle("assets/rescrape_dibird/Pick_"+ds+".pkl")
     dibird.to_csv("assets/rescrape_dibird/csv_"+ds+".csv")
+    pd.DataFrame(failed).to_csv("assets/rescrape_dibird/Failed_"+ds+".csv")
     logging.info('\n\nTime taken : ',datetime.now() - startTime)
     print('\n\nTime taken : ',datetime.now() - startTime) 
+
+'''conda activate indicwiki & cd Documents\birds & python Dibird_Scrape_Optim.py'''
