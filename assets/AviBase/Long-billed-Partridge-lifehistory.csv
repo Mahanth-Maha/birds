@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-E2456BC2","DISTRIB","ANNUAL","Species distribution","Geographical range","Dry bamboo forests of Malay Peninsula, Sumatra and Borneo","","","","","Clements 2004",""
+"avibase-E2456BC2","DISTRIB","REALM","Species distribution","Realm","Indo_Malay","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-E2456BC2","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-E2456BC2","HABITAT","DESCR","Habitat","Habitat description","drier forest, esp.bamboo;lowlands-1200m","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"
+"avibase-E2456BC2","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-E2456BC2","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

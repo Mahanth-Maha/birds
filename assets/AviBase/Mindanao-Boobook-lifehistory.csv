@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-0D540398","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: Philippines","","","","","IOC 3.1","http://worldbirdnames.org/"
+"avibase-0D540398","DISTRIB","REALM","Species distribution","Realm","Indo_Malay","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-0D540398","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Carnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-0D540398","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

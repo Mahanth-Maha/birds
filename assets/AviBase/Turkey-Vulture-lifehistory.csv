@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-CC843F64","DISTRIB","ANNUAL","Species distribution","Geographical range","North America from the Mississippi Valley east and from southern Canada and New England south to the Gulf and Florida coasts. Somewhat migratory in the north.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-CC843F64","DISTRIB","ANNUAL","Species distribution","Geographical range","E North America","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-CC843F64","DISTRIB","ANNUAL","Species distribution","Geographical range","e North America","","","","","IOC 12.1","http://www.worldbirdnames.org/"

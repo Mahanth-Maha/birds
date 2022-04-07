@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-E658FF66","DISTRIB","ANNUAL","Species distribution","Geographical range","Temperate zone of central Peru in the region about Cuzco.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-E658FF66","DISTRIB","ANNUAL","Species distribution","Geographical range","Andes of se Peru (Cuzco)","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-E658FF66","HABITAT","DESCR","Habitat","Habitat description","The altitude of collection localities were between 2,150 and 3,400 m above sea-level. At the present time it is not clear which habitat is inhabited by alticola.","","","","","Arndt 2006",""

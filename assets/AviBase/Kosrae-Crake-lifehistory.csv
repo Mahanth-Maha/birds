@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-9DAE5526","DISTRIB","ANNUAL","Species distribution","Geographical range","Known only from two specimens from Kusai Island, Caroline Group.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-9DAE5526","DISTRIB","ANNUAL","Species distribution","Geographical range","Kosrea I. (Micronesia). Extinct; last reported 1828","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-9DAE5526","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-9DAE5526","HABITAT","DESCR","Habitat","Habitat description","dark wet forest, taro patches.Probably extinct, last record 1827","","","","","Sibley 1996",""

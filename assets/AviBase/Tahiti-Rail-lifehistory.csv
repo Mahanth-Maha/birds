@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-6872F033","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct. Formerly occurred on Tahiti.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-6872F033","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Tahiti and adj. e Society Is.; last reported 1800","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-6872F033","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-6872F033","HABITAT","DESCR","Habitat","Habitat description","?marshes.Extinct Tahiti after 1844, on Mehetia, 1930s","","","","","Sibley 1996",""

@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-3DB6BC8C","BODY","MASS_F","Body measurements","Body mass (females)","20.4","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-3DB6BC8C","BODY","MASS_M","Body measurements","Body mass (males)","22.5","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-3DB6BC8C","REPROD","SYSTEM","Reproduction","Reproductive system","monogamy (<5% polygyny)","","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"

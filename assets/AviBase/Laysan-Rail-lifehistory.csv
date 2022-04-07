@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-2699DCAF","DISTRIB","ANNUAL","Species distribution","Geographical range","Laysan Island, Pacific Ocean,","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-2699DCAF","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-2699DCAF","HABITAT","DESCR","Habitat","Habitat description","Grass tussocks and scattered vegetation in sandy areas, foraging often in more open areas. ","","","","","AOU Checklist","http://www.aou.org/checklist/north/print.php"
+"avibase-2699DCAF","HABITAT","DESCR","Habitat","Habitat description","grass, reedbeds.Extinct ca. 1944","","","","","Sibley 1996",""

@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-A26C9D6B","DISTRIB","ANNUAL","Species distribution","Geographical range","Resident: Round Is (Mauritius); vagrant: Azores.","","","","-1","africanbirdclub.org","http://africanbirdclub.org/resources/checklist.html"
+"avibase-A26C9D6B","HABITAT","DESCR","Habitat","Habitat description","Pelagic Waters; nests on bare rock under overhanging ledges or plants on islands. ","","","","","AOU Checklist","http://www.aou.org/checklist/north/print.php"
+"avibase-A26C9D6B","HABITAT","DESCR","Habitat","Habitat description","ocean","","","","","Sibley 1996",""
+"avibase-A26C9D6B","REPROD","CLUTCHSZ","Reproduction","Clutch size","1","","","","","http://www.birdzilla.com","http://www.birdzilla.com/"

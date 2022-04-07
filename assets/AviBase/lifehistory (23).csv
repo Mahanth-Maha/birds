@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-B0878F3B","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: widespread","","","","","IOC 1.01","http://worldbirdnames.org/"
+"avibase-B0878F3B","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-B0878F3B","HABITAT","DESCR","Habitat","Habitat description","undergrowth in evergreen forest;mountains 1000-1800m","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"

@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-14B3CABD","DISTRIB","ANNUAL","Species distribution","Geographical range","Reunion, Madagascar and Comoro Islands","","","","","Clements 2004",""
+"avibase-14B3CABD","DISTRIB","ANNUAL","Species distribution","Geographical range","Resident, marshes: Madagascar, Comoros (macrosceles); Réunion (maillardi).","","","","-1","africanbirdclub.org","http://africanbirdclub.org/resources/checklist.html"
+"avibase-14B3CABD","DISTRIB","ANNUAL","Species distribution","Geographical range","Africa: Madagascar region","","","","","IOC 1.01","http://worldbirdnames.org/"
+"avibase-14B3CABD","HABITAT","DESCR","Habitat","Habitat description","marshes, wet grasslands;lowlands-1800m","","","","","Sibley 1996",""

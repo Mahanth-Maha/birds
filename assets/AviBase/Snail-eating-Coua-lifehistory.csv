@@ -1,0 +1,6 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-CBAC0BBC","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly occurred on the island of Sainte Marie and opposite mainland of eastern Madagascar, probably from the head of Antongil Bay southward to Tamatave. Now extirpated on the former island and said to be confined only to a few patches of forest between Fito and Maroantsetra. 1","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-CBAC0BBC","DISTRIB","ANNUAL","Species distribution","Geographical range","Resident, forest: small area NE Madagascar (extinct).","","","","-1","africanbirdclub.org","http://africanbirdclub.org/resources/checklist.html"
+"avibase-CBAC0BBC","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Madagascar. Extinct; last reported 1834","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-CBAC0BBC","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-CBAC0BBC","HABITAT","DESCR","Habitat","Habitat description","humid forest.Last record 1834.","","","","","Sibley 1996",""

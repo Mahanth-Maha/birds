@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-D3D73C81","BODY","MASS_F","Body measurements","Body mass (females)","16.6","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-D3D73C81","BODY","MASS_M","Body measurements","Body mass (males)","17.5","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-D3D73C81","EGGS","MASS","Eggs","Egg mass","2.33","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-D3D73C81","REPROD","SYSTEM","Reproduction","Reproductive system","monogamy (<5% polygyny)","","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"

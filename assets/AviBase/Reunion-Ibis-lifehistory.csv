@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-14762870","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly inhabited the Island of Reunion. Now extinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-14762870","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Réunion I. Extinct; last reported 1715","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-14762870","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-14762870","HABITAT","DESCR","Habitat","Habitat description","forest floor.Extinct 1700","","","","","Sibley 1996",""

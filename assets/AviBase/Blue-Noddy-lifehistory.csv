@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-6FCA2B6F","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-6FCA2B6F","HABITAT","DESCR","Habitat","Habitat description","Pelagic Waters; nests in recesses and shallow cavities on rocky islands, and in the open on sandy islets. ","","","","","AOU Checklist","http://www.aou.org/checklist/north/print.php"
+"avibase-6FCA2B6F","HABITAT","DESCR","Habitat","Habitat description","ocean, br sandy beaches, coastal cliffs","","","","","Sibley 1996",""

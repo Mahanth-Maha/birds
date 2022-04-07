@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-174E5BDB","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Stephens Island, Cook Strait, New Zealand. Ex- tinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-174E5BDB","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Stephens I. (New Zealand). Extinct; last reported 1894","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-174E5BDB","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-174E5BDB","HABITAT","DESCR","Habitat","Habitat description","?rocky areas.Extinct since 1894","","","","","Sibley 1996",""

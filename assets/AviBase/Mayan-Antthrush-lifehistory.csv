@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-0098E8DB","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-0098E8DB","HABITAT","ALT","Habitat","Altitude","","m","","1400","-1","Birdlife's Worldbird Database",""
+"avibase-0098E8DB","HABITAT","DESCR","Habitat","Habitat description","Tropical Lowland Evergreen Forest, River-edge Forest (0-1500 m; Tropical and Subtropical zones). ","","","","","AOU Checklist","http://www.aou.org/checklist/north/print.php"

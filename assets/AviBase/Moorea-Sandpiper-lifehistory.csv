@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-F1D2DE72","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct. Formerly Moorea (Society Islands); not reported since it was discovered in 1777","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-F1D2DE72","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-F1D2DE72","HABITAT","DESCR","Habitat","Habitat description","beaches, shores.Extinct ca 1773","","","","","Sibley 1996",""

@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-B1595B76","DISTRIB","ANNUAL","Species distribution","Geographical range","Australasia: New Guinea","","","","","IOC 2.05","http://worldbirdnames.org/"
+"avibase-B1595B76","DISTRIB","REALM","Species distribution","Realm","Australian","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-B1595B76","HABITAT","DESCR","Habitat","Habitat description","Forest; 0-850 m","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"
+"avibase-B1595B76","FOOD","FORAGINGNICHE","Food and feeding habits","Foraging niche","Generalist","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-B1595B76","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Carnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-B1595B76","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Invertivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

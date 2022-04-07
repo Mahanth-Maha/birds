@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-E4AA60C7","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Mauritius. Extinct; likely extinct since late 1600s","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-E4AA60C7","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-E4AA60C7","HABITAT","DESCR","Habitat","Habitat description","Extinct 1698","","","","","Sibley 1996",""

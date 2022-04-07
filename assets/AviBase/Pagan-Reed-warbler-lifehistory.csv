@@ -1,0 +1,6 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-BBD2AC0C","DISTRIB","ANNUAL","Species distribution","Geographical range","Micronesia, Marianas Islands: Pagan.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-BBD2AC0C","DISTRIB","ANNUAL","Species distribution","Geographical range","Pagan (Mariana Islands); extinct","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-BBD2AC0C","BODY","MASS","Body measurements","Body mass","32.225","g","27.5","36.5","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-BBD2AC0C","BODY","MASS_M","Body measurements","Body mass (males)","36.45","g","36.4","36.5","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-BBD2AC0C","BODY","MASS_U","Body measurements","Body mass (sex unknown)","27.775","g","27.5","28.05","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"

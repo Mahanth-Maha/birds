@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-2EA32BC2","DISTRIB","ANNUAL","Species distribution","Geographical range","South America: Peru, Bolivia","","","","","IOC 2.09","http://worldbirdnames.org/"
+"avibase-2EA32BC2","DISTRIB","REALM","Species distribution","Realm","Neotropic","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-2EA32BC2","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-2EA32BC2","HABITAT","ALT","Habitat","Altitude","","m","450","1200","-1","Birdlife's Worldbird Database",""
+"avibase-2EA32BC2","HABITAT","DESCR","Habitat","Habitat description","dense humid lower montane forest, with heavy rainfall, and adjacent lowland evegreen forest, usually in rugged hilly country;450-1200m.Above 550m for much of year but descends in dry season.","","","","","Sibley 1996",""
+"avibase-2EA32BC2","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-2EA32BC2","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

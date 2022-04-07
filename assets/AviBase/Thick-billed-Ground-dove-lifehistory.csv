@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-71BE72FC","DISTRIB","ANNUAL","Species distribution","Geographical range","Confined to San Crist6bal.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-71BE72FC","DISTRIB","ANNUAL","Species distribution","Geographical range","Sol, Guadalcanal, Makira, Malaita, Ramos","","","","-1","www.birdsofmelanesia.net","http://www.birdsofmelanesia.net/"
+"avibase-71BE72FC","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Solomon Islands (Ramos and Makira). Extinct; last reported 1927","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-71BE72FC","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-71BE72FC","HABITAT","ALT","Habitat","Altitude","","m","","300","-1","Birdlife's Worldbird Database",""
+"avibase-71BE72FC","HABITAT","DESCR","Habitat","Habitat description","forest;lowlands-300m, not recorded since 1927","","","","","Sibley 1996",""

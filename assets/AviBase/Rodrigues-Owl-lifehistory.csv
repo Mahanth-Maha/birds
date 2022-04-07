@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-180ED7CC","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Rodrigues Island. Extinct; last account from 1726","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-180ED7CC","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-180ED7CC","HABITAT","DESCR","Habitat","Habitat description","Extinct 1726","","","","","Sibley 1996",""

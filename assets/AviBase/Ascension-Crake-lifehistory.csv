@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-350C5D1E","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct. Formerly occurred on Ascension Island; may have survived until 1815","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-350C5D1E","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-350C5D1E","HABITAT","DESCR","Habitat","Habitat description","Extinct ca.1656","","","","","Sibley 1996",""

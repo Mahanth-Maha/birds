@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-CC732CD0","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: s Vietnam, s Laos, peninsular Malaysia, Sumatra","","","","","IOC 2.03","http://worldbirdnames.org/"
+"avibase-CC732CD0","DISTRIB","REALM","Species distribution","Realm","Indo_Malay","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-CC732CD0","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-CC732CD0","HABITAT","DESCR","Habitat","Habitat description","forest;mountains 600-2000m","","","","","Sibley 1996",""
+"avibase-CC732CD0","FOOD","FORAGINGNICHE","Food and feeding habits","Foraging niche","Fugivore glean","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-CC732CD0","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-CC732CD0","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Frugivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

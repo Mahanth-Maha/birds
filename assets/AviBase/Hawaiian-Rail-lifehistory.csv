@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-FC472EB7","DISTRIB","ANNUAL","Species distribution","Geographical range","Known from a single specimen in the Leyden Museum. Extinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-FC472EB7","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-FC472EB7","HABITAT","DESCR","Habitat","Habitat description","Open country below the forest belt, presumably in grassy areas. ","","","","","AOU Checklist","http://www.aou.org/checklist/north/print.php"
+"avibase-FC472EB7","HABITAT","DESCR","Habitat","Habitat description","forest clearings, grassland in heavy forest.Extinct, last report 1884","","","","","Sibley 1996",""

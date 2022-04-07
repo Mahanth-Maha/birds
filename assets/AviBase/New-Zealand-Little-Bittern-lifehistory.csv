@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-29F77F09","DISTRIB","ANNUAL","Species distribution","Geographical range","Australia from northern and eastern Queensland, New South Wales, and Victoria to South Australia and Western Australia (southwestern part north to Murchison River). Recorded from southern New Guinea (Fly River) and Lord Howe Island. Former straggler to South Island, New Zealand.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-29F77F09","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly South I. (New Zealand). Probably extinct","","","","","Clements 6","http://www.birds.cornell.edu/clementschecklist"
+"avibase-29F77F09","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-29F77F09","HABITAT","DESCR","Habitat","Habitat description","reedbeds, swamps","","","","","Sibley 1996",""

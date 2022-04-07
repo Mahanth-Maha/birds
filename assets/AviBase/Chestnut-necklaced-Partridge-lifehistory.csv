@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-BF3C4E4E","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: Malay Peninsula, Sumatra, Borneo","","","","","IOC 3.1","http://worldbirdnames.org/"
+"avibase-BF3C4E4E","DISTRIB","REALM","Species distribution","Realm","Indo_Malay","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-BF3C4E4E","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-BF3C4E4E","HABITAT","DESCR","Habitat","Habitat description","dense lowland jungle and foothills with dense evergreen forest, also secondary or logged forest;to 300m in Borneo and 500m in Tonkin","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"
+"avibase-BF3C4E4E","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-BF3C4E4E","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

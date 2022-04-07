@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-760F8CC4","DISTRIB","REALM","Species distribution","Realm","Nearctic","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-760F8CC4","HABITAT","DESCR","Habitat","Habitat description","Tropical Deciduous Forest, Gallery Forest (0-2100 m; Tropical and lower Subtropical zones). ","","","","","AOU Checklist","http://www.aou.org/checklist/north/print.php"
+"avibase-760F8CC4","HABITAT","DESCR","Habitat","Habitat description","arid to semi-arid brushy woodland, scrub, semi-open areas with scattered trees.","","","","","Sibley 1996",""
+"avibase-760F8CC4","FOOD","FORAGINGNICHE","Food and feeding habits","Foraging niche","Nectarivore aerial","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-760F8CC4","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-760F8CC4","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Nectarivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-760F8CC4","REPROD","CLUTCHSZ","Reproduction","Clutch size","2","","","","","http://www.birdzilla.com","http://www.birdzilla.com/"

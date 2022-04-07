@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-59B2EED1","DISTRIB","ANNUAL","Species distribution","Geographical range","Latin America: Honduras to n Peru, nw Amazonia","","","","","IOC 3.5","http://worldbirdnames.org/"
+"avibase-59B2EED1","DISTRIB","REALM","Species distribution","Realm","Neotropic","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-59B2EED1","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-59B2EED1","HABITAT","ALT","Habitat","Altitude","","m","","900","-1","Birdlife's Worldbird Database",""
+"avibase-59B2EED1","FOOD","FORAGINGNICHE","Food and feeding habits","Foraging niche","Invertivore sally ground","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-59B2EED1","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Carnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-59B2EED1","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Invertivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-5D14080C","DISTRIB","ANNUAL","Species distribution","Geographical range","Resident, savanna and semi-desert: S Morocco; Senegal - Ethiopia, Somalia - C Tanzania; S Angola, N South Africa - E Zimbabwe, SW Mozambique; (molybdophanes S Ethiopia, Somalia - N and E Kenya).","","","","-1","africanbirdclub.org","http://africanbirdclub.org/resources/checklist.html"
+"avibase-5D14080C","DISTRIB","ANNUAL","Species distribution","Geographical range","Savanna of Africa s of the Sahara","","","","","Clements 2004",""
+"avibase-5D14080C","DISTRIB","REALM","Species distribution","Realm","Afrotropic","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-5D14080C","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-5D14080C","HABITAT","DESCR","Habitat","Habitat description","Farms","","","","","agric.ncape.gov.za","http://agric.ncape.gov.za/Ornithology/NorthernCapebirdlist.htm"
+"avibase-5D14080C","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-5D14080C","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

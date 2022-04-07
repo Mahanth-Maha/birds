@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-C7B5B804","DISTRIB","ANNUAL","Species distribution","Geographical range","Confined to the Island of Rodriguez. Now beUeved to be extinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-C7B5B804","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Mascarene Is. Extinct; last reported 1875","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-C7B5B804","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-C7B5B804","HABITAT","DESCR","Habitat","Habitat description","?forest, ?scrub;last recorded 1874","","","","","Sibley 1996",""

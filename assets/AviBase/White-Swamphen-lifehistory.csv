@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-1A365A3F","DISTRIB","ANNUAL","Species distribution","Geographical range","Lord Howe Island. Extinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-1A365A3F","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Lord Howe I. Extinct; last reported 1834","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-1A365A3F","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-1A365A3F","HABITAT","DESCR","Habitat","Habitat description","?swamps.Extinct by 1834","","","","","Sibley 1996",""

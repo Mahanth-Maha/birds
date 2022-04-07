@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-C9ABB9E7","HABITAT","DESCR","Habitat","Habitat description","ocean","","","","","Sibley 1996",""
+"avibase-C9ABB9E7","REPROD","CLUTCHSZ","Reproduction","Clutch size","1","","","","","http://www.birdzilla.com","http://www.birdzilla.com/"
+"avibase-C9ABB9E7","REPROD","FLEDGING","Reproduction","Fledging period","72","","","","","http://www.birdzilla.com","http://www.birdzilla.com/"
+"avibase-C9ABB9E7","REPROD","INCUBATION","Reproduction","Incubation period","51","","","","","http://www.birdzilla.com","http://www.birdzilla.com/"

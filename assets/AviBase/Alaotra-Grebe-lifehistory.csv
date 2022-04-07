@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-16E62DC4","DISTRIB","ANNUAL","Species distribution","Geographical range","Confined to Lake Alaotra, Madagascar.^","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-16E62DC4","DISTRIB","ANNUAL","Species distribution","Geographical range","Probably extinct: was confined to L. Alaotra, Madagascar.","","","","-1","africanbirdclub.org","http://africanbirdclub.org/resources/checklist.html"
+"avibase-16E62DC4","DISTRIB","ANNUAL","Species distribution","Geographical range","Lake Alaotra, Madagascar. Extinct; last reported 1950","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-16E62DC4","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-16E62DC4","HABITAT","ALT","Habitat","Altitude","","m","750","750","-1","Birdlife's Worldbird Database",""
+"avibase-16E62DC4","HABITAT","DESCR","Habitat","Habitat description","lakes;almost extinct through hybridization with T.ruficollis","","","","","Sibley 1996",""

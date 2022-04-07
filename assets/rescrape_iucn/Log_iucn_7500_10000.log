@@ -1,0 +1,2343 @@
+2022-04-05 22:53:31,116 - ERROR - Unknown Exceptions for Bird-Black-headed Rufous-warbler
+2022-04-05 22:53:56,302 - ERROR - Unknown Exceptions for Bird-Black-faced Rufous-warbler
+2022-04-05 22:54:15,505 - ERROR - Unknown Exceptions for Bird-Striated Prinia
+2022-04-05 22:54:33,547 - ERROR - Unknown Exceptions for Bird-Brown Prinia
+2022-04-05 22:54:52,671 - ERROR - Unknown Exceptions for Bird-Black-throated Prinia
+2022-04-05 22:55:11,174 - ERROR - Unknown Exceptions for Bird-Rufous-crowned Prinia
+2022-04-05 22:55:27,498 - ERROR - Unknown Exceptions for Bird-Hill Prinia
+2022-04-05 22:55:46,832 - ERROR - Unknown Exceptions for Bird-Grey-crowned Prinia
+2022-04-05 22:56:07,087 - ERROR - Unknown Exceptions for Bird-Rufous-fronted Prinia
+2022-04-05 22:56:23,241 - ERROR - Unknown Exceptions for Bird-Rufescent Prinia
+2022-04-05 22:56:37,547 - ERROR - Unknown Exceptions for Bird-Grey-breasted Prinia
+2022-04-05 22:56:52,377 - ERROR - Unknown Exceptions for Bird-Graceful Prinia
+2022-04-05 22:57:10,957 - ERROR - Unknown Exceptions for Bird-Jungle Prinia
+2022-04-05 22:57:28,333 - ERROR - Unknown Exceptions for Bird-Bar-winged Prinia
+2022-04-05 22:57:45,328 - ERROR - Unknown Exceptions for Bird-Yellow-bellied Prinia
+2022-04-05 22:57:59,260 - ERROR - Unknown Exceptions for Bird-Chinese Prinia
+2022-04-05 22:58:16,905 - ERROR - Unknown Exceptions for Bird-Ashy Prinia
+2022-04-05 22:58:33,210 - ERROR - Unknown Exceptions for Bird-Plain Prinia
+2022-04-05 22:58:49,213 - ERROR - Unknown Exceptions for Bird-Tawny-flanked Prinia
+2022-04-05 22:59:05,677 - ERROR - Unknown Exceptions for Bird-Pale Prinia
+2022-04-05 22:59:22,107 - ERROR - Unknown Exceptions for Bird-River Prinia
+2022-04-05 22:59:39,803 - ERROR - Unknown Exceptions for Bird-Black-chested Prinia
+2022-04-05 23:00:04,465 - ERROR - Unknown Exceptions for Bird-Karoo Prinia
+2022-04-05 23:00:19,846 - ERROR - Unknown Exceptions for Bird-Drakensberg Prinia
+2022-04-05 23:00:43,860 - ERROR - Unknown Exceptions for Bird-Sao Tome Prinia
+2022-04-05 23:01:05,080 - ERROR - Unknown Exceptions for Bird-Banded Prinia
+2022-04-05 23:01:25,539 - ERROR - Unknown Exceptions for Bird-Red-winged Prinia
+2022-04-05 23:01:42,288 - ERROR - Unknown Exceptions for Bird-Red-fronted Prinia
+2022-04-05 23:01:58,547 - ERROR - Unknown Exceptions for Bird-Common Tailorbird
+2022-04-05 23:02:15,233 - ERROR - Unknown Exceptions for Bird-Rufous-fronted Tailorbird
+2022-04-05 23:02:31,121 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Tailorbird
+2022-04-05 23:02:46,377 - ERROR - Unknown Exceptions for Bird-Dark-necked Tailorbird
+2022-04-05 23:03:01,100 - ERROR - Unknown Exceptions for Bird-Ashy Tailorbird
+2022-04-05 23:03:17,122 - ERROR - Unknown Exceptions for Bird-Cambodian Tailorbird
+2022-04-05 23:03:33,230 - ERROR - Unknown Exceptions for Bird-Olive-backed Tailorbird
+2022-04-05 23:03:48,662 - ERROR - Unknown Exceptions for Bird-Green-backed Tailorbird
+2022-04-05 23:04:04,420 - ERROR - Unknown Exceptions for Bird-Chestnut-crowned Tailorbird
+2022-04-05 23:04:26,478 - ERROR - Unknown Exceptions for Bird-Yellow-breasted Tailorbird
+2022-04-05 23:04:40,957 - ERROR - Unknown Exceptions for Bird-Black-headed Tailorbird
+2022-04-05 23:04:57,723 - ERROR - Unknown Exceptions for Bird-White-eared Tailorbird
+2022-04-05 23:05:13,916 - ERROR - Unknown Exceptions for Bird-Grey-backed Tailorbird
+2022-04-05 23:05:29,443 - ERROR - Unknown Exceptions for Bird-Madagascar Brush-warbler
+2022-04-05 23:05:45,448 - ERROR - Unknown Exceptions for Bird-Subdesert Brush-warbler
+2022-04-05 23:06:01,659 - ERROR - Unknown Exceptions for Bird-Grand Comoro Brush-warbler
+2022-04-05 23:06:22,558 - ERROR - Unknown Exceptions for Bird-Moheli Brush-warbler
+2022-04-05 23:06:39,266 - ERROR - Unknown Exceptions for Bird-Aldabra Brush-warbler
+2022-04-05 23:06:55,203 - ERROR - Unknown Exceptions for Bird-Papyrus Yellow Warbler
+2022-04-05 23:07:17,722 - ERROR - Unknown Exceptions for Bird-Zambian Yellow Warbler
+2022-04-05 23:07:34,276 - ERROR - Unknown Exceptions for Bird-Thick-billed Warbler
+2022-04-05 23:07:51,508 - ERROR - Unknown Exceptions for Bird-Booted Warbler
+2022-04-05 23:08:09,364 - ERROR - Unknown Exceptions for Bird-Sykes's Warbler
+2022-04-05 23:08:26,298 - ERROR - Unknown Exceptions for Bird-Olivaceous Warbler
+2022-04-05 23:08:41,075 - ERROR - Unknown Exceptions for Bird-Isabelline Warbler
+2022-04-05 23:08:54,593 - ERROR - Unknown Exceptions for Bird-African Yellow Warbler
+2022-04-05 23:09:09,723 - ERROR - Unknown Exceptions for Bird-Mountain Yellow Warbler
+2022-04-05 23:09:23,250 - ERROR - Unknown Exceptions for Bird-Upcher's Warbler
+2022-04-05 23:09:37,837 - ERROR - Unknown Exceptions for Bird-Olive-tree Warbler
+2022-04-05 23:09:51,043 - ERROR - Unknown Exceptions for Bird-Melodious Warbler
+2022-04-05 23:10:05,197 - ERROR - Unknown Exceptions for Bird-Icterine Warbler
+2022-04-05 23:10:21,374 - ERROR - Unknown Exceptions for Bird-Black-browed Reed-warbler
+2022-04-05 23:10:38,860 - ERROR - Unknown Exceptions for Bird-Streaked Reed-warbler
+2022-04-05 23:10:56,638 - ERROR - Unknown Exceptions for Bird-Aquatic Warbler
+2022-04-05 23:11:14,244 - ERROR - Unknown Exceptions for Bird-Moustached Warbler
+2022-04-05 23:11:28,438 - ERROR - Unknown Exceptions for Bird-Sedge Warbler
+2022-04-05 23:11:44,868 - ERROR - Unknown Exceptions for Bird-Large-billed Reed-warbler
+2022-04-05 23:11:58,915 - ERROR - Unknown Exceptions for Bird-Blyth's Reed-warbler
+2022-04-05 23:12:16,628 - ERROR - Unknown Exceptions for Bird-Marsh Warbler
+2022-04-05 23:12:32,131 - ERROR - Unknown Exceptions for Bird-Common Reed-warbler
+2022-04-05 23:12:45,745 - ERROR - Unknown Exceptions for Bird-Paddyfield Warbler
+2022-04-05 23:13:00,714 - ERROR - Unknown Exceptions for Bird-Blunt-winged Warbler
+2022-04-05 23:13:18,447 - ERROR - Unknown Exceptions for Bird-White-browed Reed-warbler
+2022-04-05 23:13:34,688 - ERROR - Unknown Exceptions for Bird-Basra Reed-warbler
+2022-04-05 23:13:51,073 - ERROR - Unknown Exceptions for Bird-Lesser Swamp-warbler
+2022-04-05 23:14:05,672 - ERROR - Unknown Exceptions for Bird-Greater Swamp-warbler
+2022-04-05 23:14:20,694 - ERROR - Unknown Exceptions for Bird-Cape Verde Swamp-warbler
+2022-04-05 23:14:36,728 - ERROR - Unknown Exceptions for Bird-Madagascar Swamp-warbler
+2022-04-05 23:14:55,168 - ERROR - Unknown Exceptions for Bird-Seychelles Warbler
+2022-04-05 23:15:10,034 - ERROR - Unknown Exceptions for Bird-Rodrigues Warbler
+2022-04-05 23:15:23,733 - ERROR - Unknown Exceptions for Bird-Great Reed-warbler
+2022-04-05 23:15:41,159 - ERROR - Unknown Exceptions for Bird-Oriental Reed-warbler
+2022-04-05 23:16:34,472 - ERROR - Unknown Exceptions for Bird-Clamorous Reed-warbler
+2022-04-05 23:16:48,463 - ERROR - Unknown Exceptions for Bird-Australasian Reed-warbler
+2022-04-05 23:17:05,823 - ERROR - Unknown Exceptions for Bird-Guam Reed-warbler
+2022-04-05 23:17:22,644 - ERROR - Unknown Exceptions for Bird-Saipan Reed-warbler
+2022-04-05 23:17:36,224 - ERROR - Unknown Exceptions for Bird-Aguijan Reed-warbler
+2022-04-05 23:17:51,515 - ERROR - Unknown Exceptions for Bird-Caroline Reed-warbler
+2022-04-05 23:18:07,447 - ERROR - Unknown Exceptions for Bird-Kiritimati Reed-warbler
+2022-04-05 23:18:22,375 - ERROR - Unknown Exceptions for Bird-Southern Marquesan Reed-warbler
+2022-04-05 23:18:36,610 - ERROR - Unknown Exceptions for Bird-Pagan Reed-warbler
+2022-04-05 23:18:50,851 - ERROR - Unknown Exceptions for Bird-Mangareva Reed-warbler
+2022-04-05 23:19:06,751 - ERROR - Unknown Exceptions for Bird-Nauru Reed-warbler
+2022-04-05 23:19:21,164 - ERROR - Unknown Exceptions for Bird-Millerbird
+2022-04-05 23:19:35,201 - ERROR - Unknown Exceptions for Bird-Pitcairn Reed-warbler
+2022-04-05 23:19:50,511 - ERROR - Unknown Exceptions for Bird-Henderson Reed-warbler
+2022-04-05 23:20:08,777 - ERROR - Unknown Exceptions for Bird-Cook Reed-warbler
+2022-04-05 23:20:24,380 - ERROR - Unknown Exceptions for Bird-Rimatara Reed-warbler
+2022-04-05 23:20:40,607 - ERROR - Unknown Exceptions for Bird-Forster's Reed-warbler
+2022-04-05 23:20:54,503 - ERROR - Unknown Exceptions for Bird-Tahiti Reed-warbler
+2022-04-05 23:21:10,212 - ERROR - Unknown Exceptions for Bird-Moorea Reed-warbler
+2022-04-05 23:21:25,494 - ERROR - Unknown Exceptions for Bird-Northern Marquesan Reed-warbler
+2022-04-05 23:21:41,653 - ERROR - Unknown Exceptions for Bird-Tuamotu Reed-warbler
+2022-04-05 23:21:55,670 - ERROR - Unknown Exceptions for Bird-Nepal Cupwing
+2022-04-05 23:22:09,451 - ERROR - Unknown Exceptions for Bird-Pygmy Cupwing
+2022-04-05 23:22:30,835 - ERROR - Unknown Exceptions for Bird-Scaly-breasted Cupwing
+2022-04-05 23:22:47,447 - ERROR - Unknown Exceptions for Bird-Taiwan Cupwing
+2022-04-05 23:23:02,474 - ERROR - Unknown Exceptions for Bird-Gray's Grasshopper-warbler
+2022-04-05 23:23:17,599 - ERROR - Unknown Exceptions for Bird-Sakhalin Grasshopper-warbler
+2022-04-05 23:23:34,673 - ERROR - Unknown Exceptions for Bird-Marsh Grassbird
+2022-04-05 23:23:49,601 - ERROR - Unknown Exceptions for Bird-Pallas's Grasshopper-warbler
+2022-04-05 23:24:03,189 - ERROR - Unknown Exceptions for Bird-Middendorff's Grasshopper-warbler
+2022-04-05 23:24:17,975 - ERROR - Unknown Exceptions for Bird-Pleske's Grasshopper-warbler
+2022-04-05 23:24:38,834 - ERROR - Unknown Exceptions for Bird-Lanceolated Warbler
+2022-04-05 23:24:55,552 - ERROR - Unknown Exceptions for Bird-Savi's Warbler
+2022-04-05 23:25:08,544 - ERROR - Unknown Exceptions for Bird-River Warbler
+2022-04-05 23:25:24,118 - ERROR - Unknown Exceptions for Bird-Brown Grasshopper-warbler
+2022-04-05 23:25:41,920 - ERROR - Unknown Exceptions for Bird-Chinese Grasshopper-warbler
+2022-04-05 23:25:58,399 - ERROR - Unknown Exceptions for Bird-Long-billed Grasshopper-warbler
+2022-04-05 23:26:13,246 - ERROR - Unknown Exceptions for Bird-Common Grasshopper-warbler
+2022-04-05 23:26:28,378 - ERROR - Unknown Exceptions for Bird-Long-tailed Grasshopper-warbler
+2022-04-05 23:26:42,469 - ERROR - Unknown Exceptions for Bird-Friendly Grasshopper-warbler
+2022-04-05 23:26:56,951 - ERROR - Unknown Exceptions for Bird-Chestnut-backed Grasshopper-warbler
+2022-04-05 23:27:11,904 - ERROR - Unknown Exceptions for Bird-Baikal Grasshopper-warbler
+2022-04-05 23:27:25,231 - ERROR - Unknown Exceptions for Bird-Himalayan Grasshopper-warbler
+2022-04-05 23:27:39,238 - ERROR - Unknown Exceptions for Bird-Spotted Grasshopper-warbler
+2022-04-05 23:27:53,387 - ERROR - Unknown Exceptions for Bird-Taiwan Grasshopper-warbler
+2022-04-05 23:28:08,801 - ERROR - Unknown Exceptions for Bird-Sunda Grasshopper-warbler
+2022-04-05 23:28:25,110 - ERROR - Unknown Exceptions for Bird-Russet Grasshopper-warbler
+2022-04-05 23:28:40,256 - ERROR - Unknown Exceptions for Bird-Sichuan Grasshopper-warbler
+2022-04-05 23:28:55,581 - ERROR - Unknown Exceptions for Bird-Benguet Grasshopper-warbler
+2022-04-05 23:29:11,459 - ERROR - Unknown Exceptions for Bird-Bamboo Warbler
+2022-04-05 23:29:27,707 - ERROR - Unknown Exceptions for Bird-Striated Grassbird
+2022-04-05 23:29:42,700 - ERROR - Unknown Exceptions for Bird-Broad-tailed Grassbird
+2022-04-05 23:29:58,767 - ERROR - Unknown Exceptions for Bird-Bristled Grassbird
+2022-04-05 23:30:13,892 - ERROR - Unknown Exceptions for Bird-Fan-tailed Grassbird
+2022-04-05 23:30:28,597 - ERROR - Unknown Exceptions for Bird-Brown Emu-tail
+2022-04-05 23:30:43,029 - ERROR - Unknown Exceptions for Bird-Madagascar Grassbird
+2022-04-05 23:30:57,343 - ERROR - Unknown Exceptions for Bird-Knysna Warbler
+2022-04-05 23:31:11,975 - ERROR - Unknown Exceptions for Bird-Grauer's Swamp-warbler
+2022-04-05 23:31:26,276 - ERROR - Unknown Exceptions for Bird-Dja River Swamp-warbler
+2022-04-05 23:31:42,686 - ERROR - Unknown Exceptions for Bird-Highland Rush-warbler
+2022-04-05 23:31:57,444 - ERROR - Unknown Exceptions for Bird-Little Rush-warbler
+2022-04-05 23:32:14,442 - ERROR - Unknown Exceptions for Bird-White-winged Swamp-warbler
+2022-04-05 23:32:29,406 - ERROR - Unknown Exceptions for Bird-Barratt's Warbler
+2022-04-05 23:32:44,264 - ERROR - Unknown Exceptions for Bird-Bangwa Warbler
+2022-04-05 23:32:57,521 - ERROR - Unknown Exceptions for Bird-Evergreen-forest Warbler
+2022-04-05 23:33:11,835 - ERROR - Unknown Exceptions for Bird-Cinnamon Bracken-warbler
+2022-04-05 23:33:25,609 - ERROR - Unknown Exceptions for Bird-Malia
+2022-04-05 23:33:41,075 - ERROR - Unknown Exceptions for Bird-Brown Songlark
+2022-04-05 23:33:56,082 - ERROR - Unknown Exceptions for Bird-Rufous Songlark
+2022-04-05 23:34:11,403 - ERROR - Unknown Exceptions for Bird-Buff-banded Bushbird
+2022-04-05 23:34:27,631 - ERROR - Unknown Exceptions for Bird-Tawny Grassbird
+2022-04-05 23:34:43,380 - ERROR - Unknown Exceptions for Bird-Papuan Grassbird
+2022-04-05 23:35:00,512 - ERROR - Unknown Exceptions for Bird-Little Grassbird
+2022-04-05 23:35:14,574 - ERROR - Unknown Exceptions for Bird-New Zealand Fernbird
+2022-04-05 23:35:28,484 - ERROR - Unknown Exceptions for Bird-Snares Fernbird
+2022-04-05 23:35:42,569 - ERROR - Unknown Exceptions for Bird-Chatham Fernbird
+2022-04-05 23:35:55,307 - ERROR - Unknown Exceptions for Bird-Spinifexbird
+2022-04-05 23:36:09,501 - ERROR - Unknown Exceptions for Bird-Fly River Grassbird
+2022-04-05 23:36:24,479 - ERROR - Unknown Exceptions for Bird-New Caledonian Thicketbird
+2022-04-05 23:36:38,488 - ERROR - Unknown Exceptions for Bird-New Britain Thicketbird
+2022-04-05 23:36:53,461 - ERROR - Unknown Exceptions for Bird-Bougainville Thicketbird
+2022-04-05 23:37:08,439 - ERROR - Unknown Exceptions for Bird-Guadalcanal Thicketbird
+2022-04-05 23:37:22,245 - ERROR - Unknown Exceptions for Bird-Santo Thicketbird
+2022-04-05 23:37:37,309 - ERROR - Unknown Exceptions for Bird-Rusty Thicketbird
+2022-04-05 23:37:52,272 - ERROR - Unknown Exceptions for Bird-Long-legged Thicketbird
+2022-04-05 23:38:07,670 - ERROR - Unknown Exceptions for Bird-Sri Lanka Warbler
+2022-04-05 23:38:23,703 - ERROR - Unknown Exceptions for Bird-Cordillera Ground-warbler
+2022-04-05 23:38:40,119 - ERROR - Unknown Exceptions for Bird-Sierra Madre Ground-warbler
+2022-04-05 23:38:53,520 - ERROR - Unknown Exceptions for Bird-Bicol Ground-warbler
+2022-04-05 23:39:09,162 - ERROR - Unknown Exceptions for Bird-Donacobius
+2022-04-05 23:39:23,464 - ERROR - Unknown Exceptions for Bird-White-throated Oxylabes
+2022-04-05 23:39:38,683 - ERROR - Unknown Exceptions for Bird-Long-billed Tetraka
+2022-04-05 23:39:53,720 - ERROR - Unknown Exceptions for Bird-Wedge-tailed Tetraka
+2022-04-05 23:40:08,221 - ERROR - Unknown Exceptions for Bird-Thamnornis
+2022-04-05 23:40:23,368 - ERROR - Unknown Exceptions for Bird-Spectacled Tetraka
+2022-04-05 23:40:37,756 - ERROR - Unknown Exceptions for Bird-Appert's Tetraka
+2022-04-05 23:40:51,453 - ERROR - Unknown Exceptions for Bird-Grey-crowned Tetraka
+2022-04-05 23:41:06,440 - ERROR - Unknown Exceptions for Bird-Dusky Tetraka
+2022-04-05 23:41:20,315 - ERROR - Unknown Exceptions for Bird-Madagascar Yellowbrow
+2022-04-05 23:41:34,397 - ERROR - Unknown Exceptions for Bird-Cryptic Warbler
+2022-04-05 23:41:51,770 - ERROR - Unknown Exceptions for Bird-Rand's Warbler
+2022-04-05 23:42:07,509 - ERROR - Unknown Exceptions for Bird-African River Martin
+2022-04-05 23:42:22,461 - ERROR - Unknown Exceptions for Bird-White-eyed River Martin
+2022-04-05 23:42:37,175 - ERROR - Unknown Exceptions for Bird-White-backed Swallow
+2022-04-05 23:42:52,737 - ERROR - Unknown Exceptions for Bird-Grey-rumped Swallow
+2022-04-05 23:43:08,754 - ERROR - Unknown Exceptions for Bird-Square-tailed Saw-wing
+2022-04-05 23:43:28,243 - ERROR - Unknown Exceptions for Bird-Mountain Saw-wing
+2022-04-05 23:43:44,610 - ERROR - Unknown Exceptions for Bird-White-headed Saw-wing
+2022-04-05 23:43:58,517 - ERROR - Unknown Exceptions for Bird-Black Saw-wing
+2022-04-05 23:44:15,160 - ERROR - Unknown Exceptions for Bird-Fanti Saw-wing
+2022-04-05 23:44:30,726 - ERROR - Unknown Exceptions for Bird-Northern House Martin
+2022-04-05 23:44:45,440 - ERROR - Unknown Exceptions for Bird-Eastern House Martin
+2022-04-05 23:45:02,489 - ERROR - Unknown Exceptions for Bird-Asian House Martin
+2022-04-05 23:45:18,489 - ERROR - Unknown Exceptions for Bird-Nepal House Martin
+2022-04-05 23:45:32,378 - ERROR - Unknown Exceptions for Bird-Forest Swallow
+2022-04-05 23:45:47,381 - ERROR - Unknown Exceptions for Bird-Red-throated Swallow
+2022-04-05 23:46:03,461 - ERROR - Unknown Exceptions for Bird-Preuss's Swallow
+2022-04-05 23:46:18,592 - ERROR - Unknown Exceptions for Bird-Red Sea Swallow
+2022-04-05 23:46:32,829 - ERROR - Unknown Exceptions for Bird-South African Swallow
+2022-04-05 23:46:47,409 - ERROR - Unknown Exceptions for Bird-Streak-throated Swallow
+2022-04-05 23:47:00,120 - ERROR - Unknown Exceptions for Bird-Fairy Martin
+2022-04-05 23:47:15,611 - ERROR - Unknown Exceptions for Bird-Tree Martin
+2022-04-05 23:47:30,135 - ERROR - Unknown Exceptions for Bird-Cliff Swallow
+2022-04-05 23:47:42,565 - ERROR - Unknown Exceptions for Bird-Cave Swallow
+2022-04-05 23:47:59,512 - ERROR - Unknown Exceptions for Bird-Chestnut-collared Swallow
+2022-04-05 23:48:14,240 - ERROR - Unknown Exceptions for Bird-Lesser Striped Swallow
+2022-04-05 23:48:26,958 - ERROR - Unknown Exceptions for Bird-Rufous-chested Swallow
+2022-04-05 23:48:41,478 - ERROR - Unknown Exceptions for Bird-Mosque Swallow
+2022-04-05 23:48:58,155 - ERROR - Unknown Exceptions for Bird-Greater Striped Swallow
+2022-04-05 23:49:13,813 - ERROR - Unknown Exceptions for Bird-Red-rumped Swallow
+2022-04-05 23:49:28,945 - ERROR - Unknown Exceptions for Bird-Sri Lanka Swallow
+2022-04-05 23:49:44,485 - ERROR - Unknown Exceptions for Bird-Black-and-rufous Swallow
+2022-04-05 23:49:59,971 - ERROR - Unknown Exceptions for Bird-Blue Swallow
+2022-04-05 23:50:15,848 - ERROR - Unknown Exceptions for Bird-House Swallow
+2022-04-05 23:50:30,743 - ERROR - Unknown Exceptions for Bird-Tahiti Swallow
+2022-04-05 23:50:56,638 - ERROR - Unknown Exceptions for Bird-Welcome Swallow
+2022-04-05 23:51:13,259 - ERROR - Unknown Exceptions for Bird-White-throated Swallow
+2022-04-05 23:51:30,340 - ERROR - Unknown Exceptions for Bird-Wire-tailed Swallow
+2022-04-05 23:51:46,990 - ERROR - Unknown Exceptions for Bird-White-bibbed Swallow
+2022-04-05 23:52:03,443 - ERROR - Unknown Exceptions for Bird-Barn Swallow
+2022-04-05 23:52:19,396 - ERROR - Unknown Exceptions for Bird-Angola Swallow
+2022-04-05 23:52:36,175 - ERROR - Unknown Exceptions for Bird-Red-chested Swallow
+2022-04-05 23:52:51,748 - ERROR - Unknown Exceptions for Bird-Ethiopian Swallow
+2022-04-05 23:53:08,073 - ERROR - Unknown Exceptions for Bird-Pied-winged Swallow
+2022-04-05 23:53:23,648 - ERROR - Unknown Exceptions for Bird-White-tailed Swallow
+2022-04-05 23:53:38,598 - ERROR - Unknown Exceptions for Bird-Pearl-breasted Swallow
+2022-04-05 23:53:53,617 - ERROR - Unknown Exceptions for Bird-Eurasian Crag Martin
+2022-04-05 23:54:08,782 - ERROR - Unknown Exceptions for Bird-Pale Rock Martin
+2022-04-05 23:54:22,494 - ERROR - Unknown Exceptions for Bird-Red-throated Rock Martin
+2022-04-05 23:54:37,536 - ERROR - Unknown Exceptions for Bird-Large Rock Martin
+2022-04-05 23:54:52,805 - ERROR - Unknown Exceptions for Bird-Dusky Crag Martin
+2022-04-05 23:55:07,560 - ERROR - Unknown Exceptions for Bird-Banded Martin
+2022-04-05 23:55:22,835 - ERROR - Unknown Exceptions for Bird-Mascarene Martin
+2022-04-05 23:55:38,546 - ERROR - Unknown Exceptions for Bird-Brazza's Martin
+2022-04-05 23:55:54,908 - ERROR - Unknown Exceptions for Bird-African Plain Martin
+2022-04-05 23:56:10,575 - ERROR - Unknown Exceptions for Bird-Madagascar Plain Martin
+2022-04-05 23:56:25,612 - ERROR - Unknown Exceptions for Bird-Asian Plain Martin
+2022-04-05 23:56:41,499 - ERROR - Unknown Exceptions for Bird-Congo Sand Martin
+2022-04-05 23:56:57,663 - ERROR - Unknown Exceptions for Bird-Collared Sand Martin
+2022-04-05 23:57:13,628 - ERROR - Unknown Exceptions for Bird-Pale Sand Martin
+2022-04-05 23:57:28,885 - ERROR - Unknown Exceptions for Bird-Tree Swallow
+2022-04-05 23:57:44,847 - ERROR - Unknown Exceptions for Bird-Violet-green Swallow
+2022-04-05 23:58:01,634 - ERROR - Unknown Exceptions for Bird-Golden Swallow
+2022-04-05 23:58:17,797 - ERROR - Unknown Exceptions for Bird-Bahama Swallow
+2022-04-05 23:58:32,721 - ERROR - Unknown Exceptions for Bird-Tumbes Swallow
+2022-04-05 23:58:52,814 - ERROR - Unknown Exceptions for Bird-Mangrove Swallow
+2022-04-05 23:59:09,656 - ERROR - Unknown Exceptions for Bird-White-winged Swallow
+2022-04-05 23:59:24,694 - ERROR - Unknown Exceptions for Bird-White-rumped Swallow
+2022-04-05 23:59:38,712 - ERROR - Unknown Exceptions for Bird-Chilean Swallow
+2022-04-05 23:59:54,900 - ERROR - Unknown Exceptions for Bird-Brown-chested Martin
+2022-04-06 00:00:11,347 - ERROR - Unknown Exceptions for Bird-Peruvian Martin
+2022-04-06 00:00:25,356 - ERROR - Unknown Exceptions for Bird-Galapagos Martin
+2022-04-06 00:00:40,552 - ERROR - Unknown Exceptions for Bird-Purple Martin
+2022-04-06 00:01:00,948 - ERROR - Unknown Exceptions for Bird-Caribbean Martin
+2022-04-06 00:01:18,231 - ERROR - Unknown Exceptions for Bird-Cuban Martin
+2022-04-06 00:01:34,935 - ERROR - Unknown Exceptions for Bird-Sinaloa Martin
+2022-04-06 00:01:51,141 - ERROR - Unknown Exceptions for Bird-Grey-breasted Martin
+2022-04-06 00:02:09,170 - ERROR - Unknown Exceptions for Bird-Southern Martin
+2022-04-06 00:02:23,714 - ERROR - Unknown Exceptions for Bird-Northern Rough-winged Swallow
+2022-04-06 00:02:39,062 - ERROR - Unknown Exceptions for Bird-Yucatan Rough-winged Swallow
+2022-04-06 00:02:54,363 - ERROR - Unknown Exceptions for Bird-Southern Rough-winged Swallow
+2022-04-06 00:03:09,622 - ERROR - Unknown Exceptions for Bird-Blue-and-white Swallow
+2022-04-06 00:03:23,658 - ERROR - Unknown Exceptions for Bird-Black-collared Swallow
+2022-04-06 00:03:39,375 - ERROR - Unknown Exceptions for Bird-Tawny-headed Swallow
+2022-04-06 00:03:52,459 - ERROR - Unknown Exceptions for Bird-White-banded Swallow
+2022-04-06 00:04:04,836 - ERROR - Unknown Exceptions for Bird-Black-capped Swallow
+2022-04-06 00:04:24,373 - ERROR - Unknown Exceptions for Bird-White-thighed Swallow
+2022-04-06 00:04:39,510 - ERROR - Unknown Exceptions for Bird-Brown-bellied Swallow
+2022-04-06 00:04:53,756 - ERROR - Unknown Exceptions for Bird-Pale-footed Swallow
+2022-04-06 00:05:09,541 - ERROR - Unknown Exceptions for Bird-Andean Swallow
+2022-04-06 00:05:24,591 - ERROR - Unknown Exceptions for Bird-Slender-billed Greenbul
+2022-04-06 00:05:39,639 - ERROR - Unknown Exceptions for Bird-Golden Greenbul
+2022-04-06 00:05:53,374 - ERROR - Unknown Exceptions for Bird-Sombre Greenbul
+2022-04-06 00:06:07,369 - ERROR - Unknown Exceptions for Bird-Black-collared Bulbul
+2022-04-06 00:06:26,502 - ERROR - Unknown Exceptions for Bird-Red-tailed Bristlebill
+2022-04-06 00:06:41,738 - ERROR - Unknown Exceptions for Bird-Green-tailed Bristlebill
+2022-04-06 00:06:54,416 - ERROR - Unknown Exceptions for Bird-Yellow-eyed Bristlebill
+2022-04-06 00:07:09,636 - ERROR - Unknown Exceptions for Bird-Yellow-lored Bristlebill
+2022-04-06 00:07:24,313 - ERROR - Unknown Exceptions for Bird-Grey-headed Bristlebill
+2022-04-06 00:07:39,160 - ERROR - Unknown Exceptions for Bird-Yellow-throated Greenbul
+2022-04-06 00:07:53,681 - ERROR - Unknown Exceptions for Bird-Pale-throated Greenbul
+2022-04-06 00:08:07,170 - ERROR - Unknown Exceptions for Bird-Spotted Greenbul
+2022-04-06 00:08:21,278 - ERROR - Unknown Exceptions for Bird-Swamp Palm Bulbul
+2022-04-06 00:08:35,423 - ERROR - Unknown Exceptions for Bird-Honeyguide Greenbul
+2022-04-06 00:08:54,467 - ERROR - Unknown Exceptions for Bird-White-tailed Greenbul
+2022-04-06 00:09:10,442 - ERROR - Unknown Exceptions for Bird-Joyful Greenbul
+2022-04-06 00:09:25,398 - ERROR - Unknown Exceptions for Bird-Prigogine's Greenbul
+2022-04-06 00:09:40,366 - ERROR - Unknown Exceptions for Bird-Yellow-bellied Greenbul
+2022-04-06 00:09:54,347 - ERROR - Unknown Exceptions for Bird-Falkenstein's Greenbul
+2022-04-06 00:10:08,492 - ERROR - Unknown Exceptions for Bird-Simple Greenbul
+2022-04-06 00:10:23,342 - ERROR - Unknown Exceptions for Bird-Olive-headed Bulbul
+2022-04-06 00:10:38,178 - ERROR - Unknown Exceptions for Bird-Stripe-cheeked Bulbul
+2022-04-06 00:10:52,111 - ERROR - Unknown Exceptions for Bird-Eastern Mountain Greenbul
+2022-04-06 00:11:05,466 - ERROR - Unknown Exceptions for Bird-Yellow-throated Mountain Greenbul
+2022-04-06 00:11:19,490 - ERROR - Unknown Exceptions for Bird-Uluguru Mountain Greenbul
+2022-04-06 00:11:33,359 - ERROR - Unknown Exceptions for Bird-Black-browed Mountain Greenbul
+2022-04-06 00:11:51,404 - ERROR - Unknown Exceptions for Bird-Cameroon Mountain Greenbul
+2022-04-06 00:12:06,610 - ERROR - Unknown Exceptions for Bird-Western Mountain Greenbul
+2022-04-06 00:12:20,554 - ERROR - Unknown Exceptions for Bird-Shelley's Greenbul
+2022-04-06 00:12:34,911 - ERROR - Unknown Exceptions for Bird-Yellow-whiskered Greenbul
+2022-04-06 00:12:50,586 - ERROR - Unknown Exceptions for Bird-Little Greenbul
+2022-04-06 00:13:05,494 - ERROR - Unknown Exceptions for Bird-Grey Greenbul
+2022-04-06 00:13:19,991 - ERROR - Unknown Exceptions for Bird-Ansorge's Greenbul
+2022-04-06 00:13:32,413 - ERROR - Unknown Exceptions for Bird-Plain Greenbul
+2022-04-06 00:13:46,374 - ERROR - Unknown Exceptions for Bird-Western Bearded Greenbul
+2022-04-06 00:14:01,510 - ERROR - Unknown Exceptions for Bird-Eastern Bearded Greenbul
+2022-04-06 00:14:15,386 - ERROR - Unknown Exceptions for Bird-Red-tailed Greenbul
+2022-04-06 00:14:28,773 - ERROR - Unknown Exceptions for Bird-Yellow-bearded Greenbul
+2022-04-06 00:14:46,927 - ERROR - Unknown Exceptions for Bird-White-bearded Greenbul
+2022-04-06 00:15:00,460 - ERROR - Unknown Exceptions for Bird-Lowland Tiny Greenbul
+2022-04-06 00:15:14,831 - ERROR - Unknown Exceptions for Bird-Montane Tiny Greenbul
+2022-04-06 00:15:27,658 - ERROR - Unknown Exceptions for Bird-Xavier's Greenbul
+2022-04-06 00:15:42,953 - ERROR - Unknown Exceptions for Bird-Icterine Greenbul
+2022-04-06 00:15:58,454 - ERROR - Unknown Exceptions for Bird-White-throated Greenbul
+2022-04-06 00:16:12,573 - ERROR - Unknown Exceptions for Bird-Angola Greenbul
+2022-04-06 00:16:27,365 - ERROR - Unknown Exceptions for Bird-Terrestrial Brownbul
+2022-04-06 00:16:40,610 - ERROR - Unknown Exceptions for Bird-Fischer's Greenbul
+2022-04-06 00:16:55,538 - ERROR - Unknown Exceptions for Bird-Northern Brownbul
+2022-04-06 00:17:13,850 - ERROR - Unknown Exceptions for Bird-Grey-olive Greenbul
+2022-04-06 00:17:29,157 - ERROR - Unknown Exceptions for Bird-Cabanis's Greenbul
+2022-04-06 00:17:41,505 - ERROR - Unknown Exceptions for Bird-Toro Olive Greenbul
+2022-04-06 00:17:56,600 - ERROR - Unknown Exceptions for Bird-Yellow-streaked Greenbul
+2022-04-06 00:18:12,280 - ERROR - Unknown Exceptions for Bird-Grey-headed Greenbul
+2022-04-06 00:18:26,556 - ERROR - Unknown Exceptions for Bird-Pale-olive Greenbul
+2022-04-06 00:18:41,646 - ERROR - Unknown Exceptions for Bird-Sassi's Olive Greenbul
+2022-04-06 00:18:56,389 - ERROR - Unknown Exceptions for Bird-Baumann's Greenbul
+2022-04-06 00:19:10,499 - ERROR - Unknown Exceptions for Bird-Cameroon Olive Greenbul
+2022-04-06 00:19:25,658 - ERROR - Unknown Exceptions for Bird-Leaf-love
+2022-04-06 00:19:39,481 - ERROR - Unknown Exceptions for Bird-Hairy-backed Bulbul
+2022-04-06 00:19:52,836 - ERROR - Unknown Exceptions for Bird-Hook-billed Bulbul
+2022-04-06 00:20:08,537 - ERROR - Unknown Exceptions for Bird-White-throated Bulbul
+2022-04-06 00:20:23,386 - ERROR - Unknown Exceptions for Bird-Grey-crowned Bulbul
+2022-04-06 00:20:37,452 - ERROR - Unknown Exceptions for Bird-Puff-throated Bulbul
+2022-04-06 00:20:52,430 - ERROR - Unknown Exceptions for Bird-Ochraceous Bulbul
+2022-04-06 00:21:07,633 - ERROR - Unknown Exceptions for Bird-Chestnut-vented Bulbul
+2022-04-06 00:21:20,789 - ERROR - Unknown Exceptions for Bird-Grey-cheeked Bulbul
+2022-04-06 00:21:33,992 - ERROR - Unknown Exceptions for Bird-Brown-cheeked Bulbul
+2022-04-06 00:21:47,459 - ERROR - Unknown Exceptions for Bird-Palawan Bulbul
+2022-04-06 00:22:00,451 - ERROR - Unknown Exceptions for Bird-Yellow-bellied Bulbul
+2022-04-06 00:22:14,657 - ERROR - Unknown Exceptions for Bird-Finsch's Bulbul
+2022-04-06 00:22:29,619 - ERROR - Unknown Exceptions for Bird-Olive Bulbul
+2022-04-06 00:22:44,281 - ERROR - Unknown Exceptions for Bird-Grey-eyed Bulbul
+2022-04-06 00:22:59,667 - ERROR - Unknown Exceptions for Bird-Buff-vented Bulbul
+2022-04-06 00:23:15,642 - ERROR - Unknown Exceptions for Bird-Sulphur-bellied Bulbul
+2022-04-06 00:23:30,401 - ERROR - Unknown Exceptions for Bird-Cream-striped Bulbul
+2022-04-06 00:23:44,287 - ERROR - Unknown Exceptions for Bird-Ashy Bulbul
+2022-04-06 00:23:58,658 - ERROR - Unknown Exceptions for Bird-Chestnut Bulbul
+2022-04-06 00:24:12,698 - ERROR - Unknown Exceptions for Bird-Cinereous Bulbul
+2022-04-06 00:24:26,776 - ERROR - Unknown Exceptions for Bird-Green-winged Bulbul
+2022-04-06 00:24:40,371 - ERROR - Unknown Exceptions for Bird-Nicobar Bulbul
+2022-04-06 00:24:54,398 - ERROR - Unknown Exceptions for Bird-Mountain Bulbul
+2022-04-06 00:25:08,754 - ERROR - Unknown Exceptions for Bird-Streaked Bulbul
+2022-04-06 00:25:24,741 - ERROR - Unknown Exceptions for Bird-Sumatran Bulbul
+2022-04-06 00:25:38,493 - ERROR - Unknown Exceptions for Bird-Javan Bulbul
+2022-04-06 00:25:53,834 - ERROR - Unknown Exceptions for Bird-Zamboanga Bulbul
+2022-04-06 00:26:08,853 - ERROR - Unknown Exceptions for Bird-Yellowish Bulbul
+2022-04-06 00:26:23,228 - ERROR - Unknown Exceptions for Bird-Camiguin Bulbul
+2022-04-06 00:26:37,320 - ERROR - Unknown Exceptions for Bird-Sulu Bulbul
+2022-04-06 00:26:52,718 - ERROR - Unknown Exceptions for Bird-Streak-breasted Bulbul
+2022-04-06 00:27:07,787 - ERROR - Unknown Exceptions for Bird-Philippine Bulbul
+2022-04-06 00:27:21,287 - ERROR - Unknown Exceptions for Bird-Brown-eared Bulbul
+2022-04-06 00:27:34,299 - ERROR - Unknown Exceptions for Bird-Seychelles Bulbul
+2022-04-06 00:27:47,232 - ERROR - Unknown Exceptions for Bird-Reunion Bulbul
+2022-04-06 00:28:05,285 - ERROR - Unknown Exceptions for Bird-Mauritius Bulbul
+2022-04-06 00:28:20,287 - ERROR - Unknown Exceptions for Bird-Madagascar Bulbul
+2022-04-06 00:28:34,248 - ERROR - Unknown Exceptions for Bird-Grand Comoro Bulbul
+2022-04-06 00:28:48,256 - ERROR - Unknown Exceptions for Bird-Moheli Bulbul
+2022-04-06 00:29:01,096 - ERROR - Unknown Exceptions for Bird-Square-tailed Bulbul
+2022-04-06 00:29:14,302 - ERROR - Unknown Exceptions for Bird-Black Bulbul
+2022-04-06 00:29:26,089 - ERROR - Unknown Exceptions for Bird-Banggai Golden Bulbul
+2022-04-06 00:29:43,811 - ERROR - Unknown Exceptions for Bird-Sula Golden Bulbul
+2022-04-06 00:29:56,582 - ERROR - Unknown Exceptions for Bird-Togian Golden Bulbul
+2022-04-06 00:30:11,387 - ERROR - Unknown Exceptions for Bird-Sangihe Golden Bulbul
+2022-04-06 00:30:25,429 - ERROR - Unknown Exceptions for Bird-Halmahera Golden Bulbul
+2022-04-06 00:30:39,746 - ERROR - Unknown Exceptions for Bird-Obi Golden Bulbul
+2022-04-06 00:30:53,906 - ERROR - Unknown Exceptions for Bird-Buru Golden Bulbul
+2022-04-06 00:31:07,796 - ERROR - Unknown Exceptions for Bird-Seram Golden Bulbul
+2022-04-06 00:31:20,975 - ERROR - Unknown Exceptions for Bird-White-headed Bulbul
+2022-04-06 00:31:35,979 - ERROR - Unknown Exceptions for Bird-Crested Finchbill
+2022-04-06 00:31:52,321 - ERROR - Unknown Exceptions for Bird-Collared Finchbill
+2022-04-06 00:32:06,276 - ERROR - Unknown Exceptions for Bird-Striated Bulbul
+2022-04-06 00:32:19,148 - ERROR - Unknown Exceptions for Bird-Black-capped Bulbul
+2022-04-06 00:32:33,134 - ERROR - Unknown Exceptions for Bird-Flame-throated Bulbul
+2022-04-06 00:32:47,040 - ERROR - Unknown Exceptions for Bird-Black-crested Bulbul
+2022-04-06 00:33:00,938 - ERROR - Unknown Exceptions for Bird-Ruby-throated Bulbul
+2022-04-06 00:33:14,894 - ERROR - Unknown Exceptions for Bird-Bornean Bulbul
+2022-04-06 00:33:28,515 - ERROR - Unknown Exceptions for Bird-Scaly-breasted Bulbul
+2022-04-06 00:33:42,272 - ERROR - Unknown Exceptions for Bird-Grey-bellied Bulbul
+2022-04-06 00:33:54,249 - ERROR - Unknown Exceptions for Bird-Spectacled Bulbul
+2022-04-06 00:34:07,561 - ERROR - Unknown Exceptions for Bird-Straw-headed Bulbul
+2022-04-06 00:34:22,309 - ERROR - Unknown Exceptions for Bird-Spot-necked Bulbul
+2022-04-06 00:34:37,721 - ERROR - Unknown Exceptions for Bird-Red-whiskered Bulbul
+2022-04-06 00:34:51,505 - ERROR - Unknown Exceptions for Bird-Brown-breasted Bulbul
+2022-04-06 00:35:05,183 - ERROR - Unknown Exceptions for Bird-Light-vented Bulbul
+2022-04-06 00:35:20,379 - ERROR - Unknown Exceptions for Bird-Styan's Bulbul
+2022-04-06 00:35:34,231 - ERROR - Unknown Exceptions for Bird-Himalayan Bulbul
+2022-04-06 00:35:47,833 - ERROR - Unknown Exceptions for Bird-White-eared Bulbul
+2022-04-06 00:36:01,243 - ERROR - Unknown Exceptions for Bird-Red-vented Bulbul
+2022-04-06 00:36:15,062 - ERROR - Unknown Exceptions for Bird-Sooty-headed Bulbul
+2022-04-06 00:36:28,361 - ERROR - Unknown Exceptions for Bird-White-spectacled Bulbul
+2022-04-06 00:36:44,257 - ERROR - Unknown Exceptions for Bird-Black-fronted Bulbul
+2022-04-06 00:36:58,422 - ERROR - Unknown Exceptions for Bird-Cape Bulbul
+2022-04-06 00:37:11,538 - ERROR - Unknown Exceptions for Bird-Common Bulbul
+2022-04-06 00:37:25,461 - ERROR - Unknown Exceptions for Bird-Blue-wattled Bulbul
+2022-04-06 00:37:39,523 - ERROR - Unknown Exceptions for Bird-Aceh Bulbul
+2022-04-06 00:37:54,231 - ERROR - Unknown Exceptions for Bird-Orange-spotted Bulbul
+2022-04-06 00:38:08,024 - ERROR - Unknown Exceptions for Bird-Pale-eyed Bulbul
+2022-04-06 00:38:21,833 - ERROR - Unknown Exceptions for Bird-Stripe-throated Bulbul
+2022-04-06 00:38:38,351 - ERROR - Unknown Exceptions for Bird-Yellow-throated Bulbul
+2022-04-06 00:38:52,324 - ERROR - Unknown Exceptions for Bird-Yellow-eared Bulbul
+2022-04-06 00:39:06,614 - ERROR - Unknown Exceptions for Bird-Flavescent Bulbul
+2022-04-06 00:39:19,343 - ERROR - Unknown Exceptions for Bird-Pale-faced Bulbul
+2022-04-06 00:39:33,567 - ERROR - Unknown Exceptions for Bird-Yellow-vented Bulbul
+2022-04-06 00:39:47,288 - ERROR - Unknown Exceptions for Bird-White-browed Bulbul
+2022-04-06 00:40:02,104 - ERROR - Unknown Exceptions for Bird-Olive-winged Bulbul
+2022-04-06 00:40:15,813 - ERROR - Unknown Exceptions for Bird-Ashy-fronted Bulbul
+2022-04-06 00:40:30,077 - ERROR - Unknown Exceptions for Bird-Streak-eared Bulbul
+2022-04-06 00:40:43,180 - ERROR - Unknown Exceptions for Bird-Cream-vented Bulbul
+2022-04-06 00:40:57,014 - ERROR - Unknown Exceptions for Bird-Cream-eyed Bulbul
+2022-04-06 00:41:11,090 - ERROR - Unknown Exceptions for Bird-Red-eyed Bulbul
+2022-04-06 00:41:26,316 - ERROR - Unknown Exceptions for Bird-Bare-faced Bulbul
+2022-04-06 00:41:41,638 - ERROR - Unknown Exceptions for Bird-Puff-backed Bulbul
+2022-04-06 00:41:54,816 - ERROR - Unknown Exceptions for Bird-Black-and-white Bulbul
+2022-04-06 00:42:09,274 - ERROR - Unknown Exceptions for Bird-Black-headed Bulbul
+2022-04-06 00:42:24,562 - ERROR - Unknown Exceptions for Bird-Andaman Bulbul
+2022-04-06 00:42:38,307 - ERROR - Unknown Exceptions for Bird-Grey-headed Bulbul
+2022-04-06 00:42:51,179 - ERROR - Unknown Exceptions for Bird-Yellow-wattled Bulbul
+2022-04-06 00:43:04,963 - ERROR - Unknown Exceptions for Bird-Yellow-browed Bulbul
+2022-04-06 00:43:21,731 - ERROR - Unknown Exceptions for Bird-Eastern Bonelli's Warbler
+2022-04-06 00:43:37,490 - ERROR - Unknown Exceptions for Bird-Western Bonelli's Warbler
+2022-04-06 00:43:54,332 - ERROR - Unknown Exceptions for Bird-Wood Warbler
+2022-04-06 00:44:09,334 - ERROR - Unknown Exceptions for Bird-Chinese Leaf-warbler
+2022-04-06 00:44:23,853 - ERROR - Unknown Exceptions for Bird-Brooks's Leaf-warbler
+2022-04-06 00:44:37,688 - ERROR - Unknown Exceptions for Bird-Yellow-browed Warbler
+2022-04-06 00:44:51,221 - ERROR - Unknown Exceptions for Bird-Hume's Leaf-warbler
+2022-04-06 00:45:06,107 - ERROR - Unknown Exceptions for Bird-Lemon-rumped Leaf-warbler
+2022-04-06 00:45:18,486 - ERROR - Unknown Exceptions for Bird-Sichuan Leaf-warbler
+2022-04-06 00:45:31,584 - ERROR - Unknown Exceptions for Bird-Gansu Leaf-warbler
+2022-04-06 00:45:44,985 - ERROR - Unknown Exceptions for Bird-Pallas's Leaf-warbler
+2022-04-06 00:45:59,707 - ERROR - Unknown Exceptions for Bird-Buff-barred Warbler
+2022-04-06 00:46:14,262 - ERROR - Unknown Exceptions for Bird-Ashy-throated Warbler
+2022-04-06 00:46:28,930 - ERROR - Unknown Exceptions for Bird-Dusky Warbler
+2022-04-06 00:46:43,268 - ERROR - Unknown Exceptions for Bird-Smoky Warbler
+2022-04-06 00:46:56,409 - ERROR - Unknown Exceptions for Bird-Buff-throated Warbler
+2022-04-06 00:47:10,491 - ERROR - Unknown Exceptions for Bird-Willow Warbler
+2022-04-06 00:47:24,345 - ERROR - Unknown Exceptions for Bird-Iberian Chiffchaff
+2022-04-06 00:47:37,780 - ERROR - Unknown Exceptions for Bird-Common Chiffchaff
+2022-04-06 00:47:50,859 - ERROR - Unknown Exceptions for Bird-Siberian Chiffchaff
+2022-04-06 00:48:03,783 - ERROR - Unknown Exceptions for Bird-Canary Islands Chiffchaff
+2022-04-06 00:48:18,975 - ERROR - Unknown Exceptions for Bird-Mountain Chiffchaff
+2022-04-06 00:48:31,143 - ERROR - Unknown Exceptions for Bird-Plain Leaf-warbler
+2022-04-06 00:48:45,403 - ERROR - Unknown Exceptions for Bird-Tytler's Leaf-warbler
+2022-04-06 00:49:03,264 - ERROR - Unknown Exceptions for Bird-Sulphur-bellied Warbler
+2022-04-06 00:49:17,146 - ERROR - Unknown Exceptions for Bird-Tickell's Leaf-warbler
+2022-04-06 00:49:31,844 - ERROR - Unknown Exceptions for Bird-Yellow-streaked Warbler
+2022-04-06 00:49:47,608 - ERROR - Unknown Exceptions for Bird-Radde's Warbler
+2022-04-06 00:50:01,091 - ERROR - Unknown Exceptions for Bird-White-spectacled Warbler
+2022-04-06 00:50:15,455 - ERROR - Unknown Exceptions for Bird-Grey-cheeked Warbler
+2022-04-06 00:50:31,177 - ERROR - Unknown Exceptions for Bird-Green-crowned Warbler
+2022-04-06 00:50:45,008 - ERROR - Unknown Exceptions for Bird-Grey-crowned Warbler
+2022-04-06 00:50:59,197 - ERROR - Unknown Exceptions for Bird-Martens's Warbler
+2022-04-06 00:51:13,107 - ERROR - Unknown Exceptions for Bird-Alström's Warbler
+2022-04-06 00:51:27,600 - ERROR - Unknown Exceptions for Bird-Bianchi's Warbler
+2022-04-06 00:51:40,885 - ERROR - Unknown Exceptions for Bird-Whistler's Warbler
+2022-04-06 00:51:54,194 - ERROR - Unknown Exceptions for Bird-Lemon-throated Leaf-warbler
+2022-04-06 00:52:08,171 - ERROR - Unknown Exceptions for Bird-Philippine Leaf-warbler
+2022-04-06 00:52:21,230 - ERROR - Unknown Exceptions for Bird-Eastern Crowned Warbler
+2022-04-06 00:52:33,727 - ERROR - Unknown Exceptions for Bird-Ijima's Leaf-warbler
+2022-04-06 00:52:48,307 - ERROR - Unknown Exceptions for Bird-Brown Woodland-warbler
+2022-04-06 00:53:01,698 - ERROR - Unknown Exceptions for Bird-Uganda Woodland-warbler
+2022-04-06 00:53:17,574 - ERROR - Unknown Exceptions for Bird-Black-capped Woodland-warbler
+2022-04-06 00:53:31,516 - ERROR - Unknown Exceptions for Bird-Red-faced Woodland-warbler
+2022-04-06 00:53:46,239 - ERROR - Unknown Exceptions for Bird-Laura's Woodland-warbler
+2022-04-06 00:53:59,117 - ERROR - Unknown Exceptions for Bird-Yellow-throated Woodland-warbler
+2022-04-06 00:54:12,337 - ERROR - Unknown Exceptions for Bird-Chestnut-crowned Warbler
+2022-04-06 00:54:26,907 - ERROR - Unknown Exceptions for Bird-Sumatran Warbler
+2022-04-06 00:54:42,245 - ERROR - Unknown Exceptions for Bird-Javan Warbler
+2022-04-06 00:54:56,335 - ERROR - Unknown Exceptions for Bird-Yellow-breasted Warbler
+2022-04-06 00:55:11,447 - ERROR - Unknown Exceptions for Bird-Emei Leaf-warbler
+2022-04-06 00:55:25,472 - ERROR - Unknown Exceptions for Bird-Green Warbler
+2022-04-06 00:55:39,465 - ERROR - Unknown Exceptions for Bird-Greenish Warbler
+2022-04-06 00:55:53,389 - ERROR - Unknown Exceptions for Bird-Two-barred Warbler
+2022-04-06 00:56:07,245 - ERROR - Unknown Exceptions for Bird-Arctic Warbler
+2022-04-06 00:56:21,163 - ERROR - Unknown Exceptions for Bird-Kamchatka Leaf-warbler
+2022-04-06 00:56:35,229 - ERROR - Unknown Exceptions for Bird-Japanese Leaf-warbler
+2022-04-06 00:56:49,296 - ERROR - Unknown Exceptions for Bird-Sakhalin Leaf-warbler
+2022-04-06 00:57:02,200 - ERROR - Unknown Exceptions for Bird-Pale-legged Leaf-warbler
+2022-04-06 00:57:16,264 - ERROR - Unknown Exceptions for Bird-Large-billed Leaf-warbler
+2022-04-06 00:57:29,832 - ERROR - Unknown Exceptions for Bird-Limestone Leaf-warbler
+2022-04-06 00:57:43,184 - ERROR - Unknown Exceptions for Bird-Yellow-vented Warbler
+2022-04-06 00:57:56,315 - ERROR - Unknown Exceptions for Bird-Sulphur-breasted Warbler
+2022-04-06 00:58:09,982 - ERROR - Unknown Exceptions for Bird-Claudia's Leaf-warbler
+2022-04-06 00:58:23,237 - ERROR - Unknown Exceptions for Bird-Blyth's Leaf-warbler
+2022-04-06 00:58:38,477 - ERROR - Unknown Exceptions for Bird-Western Crowned Leaf-warbler
+2022-04-06 00:58:52,051 - ERROR - Unknown Exceptions for Bird-Hartert's Leaf-warbler
+2022-04-06 00:59:04,933 - ERROR - Unknown Exceptions for Bird-Mountain Warbler
+2022-04-06 00:59:30,196 - ERROR - Unknown Exceptions for Bird-Sulawesi Leaf-warbler
+2022-04-06 00:59:43,442 - ERROR - Unknown Exceptions for Bird-Island Leaf-warbler
+2022-04-06 00:59:57,435 - ERROR - Unknown Exceptions for Bird-Biak Leaf-warbler
+2022-04-06 01:00:11,116 - ERROR - Unknown Exceptions for Bird-Numfor Leaf-warbler
+2022-04-06 01:00:24,555 - ERROR - Unknown Exceptions for Bird-Timor Leaf-warbler
+2022-04-06 01:00:37,251 - ERROR - Unknown Exceptions for Bird-Rote Leaf-warbler
+2022-04-06 01:00:51,313 - ERROR - Unknown Exceptions for Bird-Kolombangara Leaf-warbler
+2022-04-06 01:01:04,263 - ERROR - Unknown Exceptions for Bird-Hainan Leaf-warbler
+2022-04-06 01:01:18,625 - ERROR - Unknown Exceptions for Bird-Grey-hooded Warbler
+2022-04-06 01:01:33,305 - ERROR - Unknown Exceptions for Bird-White-tailed Leaf-warbler
+2022-04-06 01:01:49,828 - ERROR - Unknown Exceptions for Bird-Kloss's Leaf-warbler
+2022-04-06 01:02:05,512 - ERROR - Unknown Exceptions for Bird-Little Yellow Flycatcher
+2022-04-06 01:02:20,699 - ERROR - Unknown Exceptions for Bird-Chestnut-capped Flycatcher
+2022-04-06 01:02:34,418 - ERROR - Unknown Exceptions for Bird-Livingstone's Flycatcher
+2022-04-06 01:02:48,228 - ERROR - Unknown Exceptions for Bird-Streaked Scrub-warbler
+2022-04-06 01:03:01,142 - ERROR - Unknown Exceptions for Bird-Slaty-bellied Tesia
+2022-04-06 01:03:19,185 - ERROR - Unknown Exceptions for Bird-Grey-bellied Tesia
+2022-04-06 01:03:35,186 - ERROR - Unknown Exceptions for Bird-Javan Tesia
+2022-04-06 01:03:49,071 - ERROR - Unknown Exceptions for Bird-Russet-capped Tesia
+2022-04-06 01:04:03,354 - ERROR - Unknown Exceptions for Bird-Chestnut-crowned Bush-warbler
+2022-04-06 01:04:17,411 - ERROR - Unknown Exceptions for Bird-Grey-sided Bush-warbler
+2022-04-06 01:04:37,420 - ERROR - Unknown Exceptions for Bird-Chestnut-headed Tesia
+2022-04-06 01:04:51,378 - ERROR - Unknown Exceptions for Bird-Cetti's Warbler
+2022-04-06 01:05:05,611 - ERROR - Unknown Exceptions for Bird-Neumann's Warbler
+2022-04-06 01:05:19,498 - ERROR - Unknown Exceptions for Bird-Pale-footed Bush-warbler
+2022-04-06 01:05:34,396 - ERROR - Unknown Exceptions for Bird-Asian Stubtail
+2022-04-06 01:05:47,952 - ERROR - Unknown Exceptions for Bird-Bornean Stubtail
+2022-04-06 01:06:01,397 - ERROR - Unknown Exceptions for Bird-Timor Stubtail
+2022-04-06 01:06:15,448 - ERROR - Unknown Exceptions for Bird-Yellow-bellied Warbler
+2022-04-06 01:06:30,384 - ERROR - Unknown Exceptions for Bird-Rufous-faced Warbler
+2022-04-06 01:06:45,307 - ERROR - Unknown Exceptions for Bird-Black-faced Warbler
+2022-04-06 01:06:59,271 - ERROR - Unknown Exceptions for Bird-Mountain Tailorbird
+2022-04-06 01:07:13,504 - ERROR - Unknown Exceptions for Bird-Rufous-headed Tailorbird
+2022-04-06 01:07:26,865 - ERROR - Unknown Exceptions for Bird-Broad-billed Warbler
+2022-04-06 01:07:40,256 - ERROR - Unknown Exceptions for Bird-Brownish-flanked Bush-warbler
+2022-04-06 01:07:52,739 - ERROR - Unknown Exceptions for Bird-Hume's Bush-warbler
+2022-04-06 01:08:09,360 - ERROR - Unknown Exceptions for Bird-Yellowish-bellied Bush-warbler
+2022-04-06 01:08:24,290 - ERROR - Unknown Exceptions for Bird-Aberrant Bush-warbler
+2022-04-06 01:08:38,004 - ERROR - Unknown Exceptions for Bird-Philippine Bush-warbler
+2022-04-06 01:08:55,023 - ERROR - Unknown Exceptions for Bird-Korean Bush-warbler
+2022-04-06 01:09:10,335 - ERROR - Unknown Exceptions for Bird-Japanese Bush-warbler
+2022-04-06 01:09:26,287 - ERROR - Unknown Exceptions for Bird-Palau Bush-warbler
+2022-04-06 01:09:41,454 - ERROR - Unknown Exceptions for Bird-Tanimbar Bush-warbler
+2022-04-06 01:09:54,959 - ERROR - Unknown Exceptions for Bird-Shade Bush-warbler
+2022-04-06 01:10:08,271 - ERROR - Unknown Exceptions for Bird-Bougainville Bush-warbler
+2022-04-06 01:10:20,771 - ERROR - Unknown Exceptions for Bird-Fiji Bush-warbler
+2022-04-06 01:10:35,460 - ERROR - Unknown Exceptions for Bird-Green Hylia
+2022-04-06 01:10:49,184 - ERROR - Unknown Exceptions for Bird-Tit-hylia
+2022-04-06 01:11:02,916 - ERROR - Unknown Exceptions for Bird-White-browed Tit-warbler
+2022-04-06 01:11:16,407 - ERROR - Unknown Exceptions for Bird-Crested Tit-warbler
+2022-04-06 01:11:29,264 - ERROR - Unknown Exceptions for Bird-American Bushtit
+2022-04-06 01:11:42,267 - ERROR - Unknown Exceptions for Bird-Red-headed Tit
+2022-04-06 01:11:55,280 - ERROR - Unknown Exceptions for Bird-Black-throated Tit
+2022-04-06 01:12:20,601 - ERROR - Unknown Exceptions for Bird-Grey-crowned Tit
+2022-04-06 01:12:34,214 - ERROR - Unknown Exceptions for Bird-White-cheeked Tit
+2022-04-06 01:12:48,357 - ERROR - Unknown Exceptions for Bird-White-throated Tit
+2022-04-06 01:13:05,829 - ERROR - Unknown Exceptions for Bird-Black-browed Tit
+2022-04-06 01:13:18,517 - ERROR - Unknown Exceptions for Bird-Rufous-fronted Tit
+2022-04-06 01:13:32,252 - ERROR - Unknown Exceptions for Bird-Sooty Tit
+2022-04-06 01:13:46,417 - ERROR - Unknown Exceptions for Bird-Long-tailed Tit
+2022-04-06 01:13:59,933 - ERROR - Unknown Exceptions for Bird-Silver-throated Tit
+2022-04-06 01:14:13,250 - ERROR - Unknown Exceptions for Bird-Pygmy Tit
+2022-04-06 01:14:27,587 - ERROR - Unknown Exceptions for Bird-Eurasian Blackcap
+2022-04-06 01:14:41,154 - ERROR - Unknown Exceptions for Bird-Garden Warbler
+2022-04-06 01:14:58,656 - ERROR - Unknown Exceptions for Bird-Dohrn's Warbler
+2022-04-06 01:15:13,326 - ERROR - Unknown Exceptions for Bird-Abyssinian Catbird
+2022-04-06 01:15:27,282 - ERROR - Unknown Exceptions for Bird-Ruwenzori Hill-babbler
+2022-04-06 01:15:41,903 - ERROR - Unknown Exceptions for Bird-African Hill-babbler
+2022-04-06 01:15:57,196 - ERROR - Unknown Exceptions for Bird-Bush Blackcap
+2022-04-06 01:16:11,250 - ERROR - Unknown Exceptions for Bird-African Desert Warbler
+2022-04-06 01:16:25,853 - ERROR - Unknown Exceptions for Bird-Asian Desert Warbler
+2022-04-06 01:16:39,413 - ERROR - Unknown Exceptions for Bird-Barred Warbler
+2022-04-06 01:16:51,762 - ERROR - Unknown Exceptions for Bird-Layard's Warbler
+2022-04-06 01:17:05,337 - ERROR - Unknown Exceptions for Bird-Banded Warbler
+2022-04-06 01:17:22,608 - ERROR - Unknown Exceptions for Bird-Chestnut-vented Warbler
+2022-04-06 01:17:35,705 - ERROR - Unknown Exceptions for Bird-Arabian Warbler
+2022-04-06 01:17:50,293 - ERROR - Unknown Exceptions for Bird-Western Orphean Warbler
+2022-04-06 01:18:04,262 - ERROR - Unknown Exceptions for Bird-Eastern Orphean Warbler
+2022-04-06 01:18:18,033 - ERROR - Unknown Exceptions for Bird-Yemen Warbler
+2022-04-06 01:18:33,964 - ERROR - Unknown Exceptions for Bird-Brown Warbler
+2022-04-06 01:18:48,630 - ERROR - Unknown Exceptions for Bird-Lesser Whitethroat
+2022-04-06 01:19:03,141 - ERROR - Unknown Exceptions for Bird-Menetries's Warbler
+2022-04-06 01:19:17,853 - ERROR - Unknown Exceptions for Bird-Cyprus Warbler
+2022-04-06 01:19:32,801 - ERROR - Unknown Exceptions for Bird-Sardinian Warbler
+2022-04-06 01:19:46,342 - ERROR - Unknown Exceptions for Bird-Subalpine Warbler
+2022-04-06 01:20:00,309 - ERROR - Unknown Exceptions for Bird-Moltoni's Warbler
+2022-04-06 01:20:14,930 - ERROR - Unknown Exceptions for Bird-Rüppell's Warbler
+2022-04-06 01:20:29,654 - ERROR - Unknown Exceptions for Bird-Common Whitethroat
+2022-04-06 01:20:44,420 - ERROR - Unknown Exceptions for Bird-Spectacled Warbler
+2022-04-06 01:20:58,188 - ERROR - Unknown Exceptions for Bird-Marmora's Warbler
+2022-04-06 01:21:11,534 - ERROR - Unknown Exceptions for Bird-Balearic Warbler
+2022-04-06 01:21:24,071 - ERROR - Unknown Exceptions for Bird-Dartford Warbler
+2022-04-06 01:21:37,919 - ERROR - Unknown Exceptions for Bird-Tristram's Warbler
+2022-04-06 01:21:55,671 - ERROR - Unknown Exceptions for Bird-Fire-tailed Myzornis
+2022-04-06 01:22:11,516 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Babbler
+2022-04-06 01:22:26,298 - ERROR - Unknown Exceptions for Bird-Golden-breasted Fulvetta
+2022-04-06 01:22:40,326 - ERROR - Unknown Exceptions for Bird-Yellow-eyed Babbler
+2022-04-06 01:22:53,590 - ERROR - Unknown Exceptions for Bird-Jerdon's Babbler
+2022-04-06 01:23:06,203 - ERROR - Unknown Exceptions for Bird-Tarim Hill-warbler
+2022-04-06 01:23:20,629 - ERROR - Unknown Exceptions for Bird-Beijing Hill-warbler
+2022-04-06 01:23:33,878 - ERROR - Unknown Exceptions for Bird-White-browed Fulvetta
+2022-04-06 01:23:48,399 - ERROR - Unknown Exceptions for Bird-Brown-throated Fulvetta
+2022-04-06 01:24:00,957 - ERROR - Unknown Exceptions for Bird-Manipur Fulvetta
+2022-04-06 01:24:14,198 - ERROR - Unknown Exceptions for Bird-Grey-hooded Fulvetta
+2022-04-06 01:24:28,271 - ERROR - Unknown Exceptions for Bird-Taiwan Fulvetta
+2022-04-06 01:24:42,644 - ERROR - Unknown Exceptions for Bird-Chinese Fulvetta
+2022-04-06 01:24:56,467 - ERROR - Unknown Exceptions for Bird-Spectacled Fulvetta
+2022-04-06 01:25:10,060 - ERROR - Unknown Exceptions for Bird-Indochinese Fulvetta
+2022-04-06 01:25:23,849 - ERROR - Unknown Exceptions for Bird-Wrentit
+2022-04-06 01:25:37,460 - ERROR - Unknown Exceptions for Bird-Black-breasted Parrotbill
+2022-04-06 01:25:51,370 - ERROR - Unknown Exceptions for Bird-Spot-breasted Parrotbill
+2022-04-06 01:26:04,263 - ERROR - Unknown Exceptions for Bird-Reed Parrotbill
+2022-04-06 01:26:18,381 - ERROR - Unknown Exceptions for Bird-White-breasted Parrotbill
+2022-04-06 01:26:33,383 - ERROR - Unknown Exceptions for Bird-Rufous-headed Parrotbill
+2022-04-06 01:26:47,227 - ERROR - Unknown Exceptions for Bird-Grey-headed Parrotbill
+2022-04-06 01:27:00,194 - ERROR - Unknown Exceptions for Bird-Black-headed Parrotbill
+2022-04-06 01:27:12,867 - ERROR - Unknown Exceptions for Bird-Great Parrotbill
+2022-04-06 01:27:27,283 - ERROR - Unknown Exceptions for Bird-Three-toed Parrotbill
+2022-04-06 01:27:41,307 - ERROR - Unknown Exceptions for Bird-Brown Parrotbill
+2022-04-06 01:27:56,362 - ERROR - Unknown Exceptions for Bird-Short-tailed Parrotbill
+2022-04-06 01:28:10,444 - ERROR - Unknown Exceptions for Bird-Fulvous Parrotbill
+2022-04-06 01:28:23,292 - ERROR - Unknown Exceptions for Bird-Black-throated Parrotbill
+2022-04-06 01:28:36,259 - ERROR - Unknown Exceptions for Bird-Golden Parrotbill
+2022-04-06 01:28:54,446 - ERROR - Unknown Exceptions for Bird-Pale-billed Parrotbill
+2022-04-06 01:29:09,286 - ERROR - Unknown Exceptions for Bird-Spectacled Parrotbill
+2022-04-06 01:29:23,399 - ERROR - Unknown Exceptions for Bird-Vinous-throated Parrotbill
+2022-04-06 01:29:37,489 - ERROR - Unknown Exceptions for Bird-Brown-winged Parrotbill
+2022-04-06 01:29:52,190 - ERROR - Unknown Exceptions for Bird-Yunnan Parrotbill
+2022-04-06 01:30:05,372 - ERROR - Unknown Exceptions for Bird-Ashy-throated Parrotbill
+2022-04-06 01:30:17,448 - ERROR - Unknown Exceptions for Bird-Grey-hooded Parrotbill
+2022-04-06 01:30:32,232 - ERROR - Unknown Exceptions for Bird-Rusty-throated Parrotbill
+2022-04-06 01:30:46,177 - ERROR - Unknown Exceptions for Bird-White-collared Yuhina
+2022-04-06 01:30:59,349 - ERROR - Unknown Exceptions for Bird-Chestnut-crested Yuhina
+2022-04-06 01:31:13,304 - ERROR - Unknown Exceptions for Bird-Striated Yuhina
+2022-04-06 01:31:26,485 - ERROR - Unknown Exceptions for Bird-Indochinese Yuhina
+2022-04-06 01:31:40,384 - ERROR - Unknown Exceptions for Bird-Black-chinned Yuhina
+2022-04-06 01:31:55,310 - ERROR - Unknown Exceptions for Bird-Taiwan Yuhina
+2022-04-06 01:32:09,184 - ERROR - Unknown Exceptions for Bird-Whiskered Yuhina
+2022-04-06 01:32:22,297 - ERROR - Unknown Exceptions for Bird-Burmese Yuhina
+2022-04-06 01:32:35,364 - ERROR - Unknown Exceptions for Bird-White-naped Yuhina
+2022-04-06 01:32:50,059 - ERROR - Unknown Exceptions for Bird-Rufous-vented Yuhina
+2022-04-06 01:33:05,236 - ERROR - Unknown Exceptions for Bird-Stripe-throated Yuhina
+2022-04-06 01:33:19,297 - ERROR - Unknown Exceptions for Bird-Flame-templed Babbler
+2022-04-06 01:33:34,218 - ERROR - Unknown Exceptions for Bird-Visayan Pygmy Babbler
+2022-04-06 01:33:46,497 - ERROR - Unknown Exceptions for Bird-Mindanao Pygmy Babbler
+2022-04-06 01:33:59,605 - ERROR - Unknown Exceptions for Bird-Rusty-crowned Babbler
+2022-04-06 01:34:13,041 - ERROR - Unknown Exceptions for Bird-Black-crowned Babbler
+2022-04-06 01:34:26,314 - ERROR - Unknown Exceptions for Bird-Golden-crowned Babbler
+2022-04-06 01:34:42,185 - ERROR - Unknown Exceptions for Bird-Palawan Striped Babbler
+2022-04-06 01:34:54,402 - ERROR - Unknown Exceptions for Bird-Luzon Striped Babbler
+2022-04-06 01:35:07,243 - ERROR - Unknown Exceptions for Bird-Panay Striped Babbler
+2022-04-06 01:35:21,319 - ERROR - Unknown Exceptions for Bird-Negros Striped Babbler
+2022-04-06 01:35:34,387 - ERROR - Unknown Exceptions for Bird-Chestnut-faced Babbler
+2022-04-06 01:35:48,215 - ERROR - Unknown Exceptions for Bird-Golden White-eye
+2022-04-06 01:36:05,817 - ERROR - Unknown Exceptions for Bird-Bonin White-eye
+2022-04-06 01:36:20,361 - ERROR - Unknown Exceptions for Bird-Yellow-spectacled White-eye
+2022-04-06 01:36:34,184 - ERROR - Unknown Exceptions for Bird-Cream-browed White-eye
+2022-04-06 01:36:48,659 - ERROR - Unknown Exceptions for Bird-Thick-billed White-eye
+2022-04-06 01:37:02,269 - ERROR - Unknown Exceptions for Bird-Pygmy White-eye
+2022-04-06 01:37:19,471 - ERROR - Unknown Exceptions for Bird-Streak-headed White-eye
+2022-04-06 01:37:34,503 - ERROR - Unknown Exceptions for Bird-Mindanao White-eye
+2022-04-06 01:37:48,084 - ERROR - Unknown Exceptions for Bird-Javan Grey-throated White-eye
+2022-04-06 01:38:02,316 - ERROR - Unknown Exceptions for Bird-Grey-hooded White-eye
+2022-04-06 01:38:16,482 - ERROR - Unknown Exceptions for Bird-Crested White-eye
+2022-04-06 01:38:28,685 - ERROR - Unknown Exceptions for Bird-Spot-breasted White-eye
+2022-04-06 01:38:42,119 - ERROR - Unknown Exceptions for Bird-Teardrop White-eye
+2022-04-06 01:38:54,909 - ERROR - Unknown Exceptions for Bird-Long-billed White-eye
+2022-04-06 01:39:08,670 - ERROR - Unknown Exceptions for Bird-Giant White-eye
+2022-04-06 01:39:22,158 - ERROR - Unknown Exceptions for Bird-Bicoloured White-eye
+2022-04-06 01:39:35,316 - ERROR - Unknown Exceptions for Bird-Sri Lanka White-eye
+2022-04-06 01:39:49,380 - ERROR - Unknown Exceptions for Bird-Yellowish White-eye
+2022-04-06 01:40:00,489 - ERROR - Unknown Exceptions for Bird-Black-capped White-eye
+2022-04-06 01:40:13,299 - ERROR - Unknown Exceptions for Bird-Abyssinian White-eye
+2022-04-06 01:40:26,341 - ERROR - Unknown Exceptions for Bird-Chestnut-flanked White-eye
+2022-04-06 01:40:39,349 - ERROR - Unknown Exceptions for Bird-Swinhoe's White-eye
+2022-04-06 01:40:55,849 - ERROR - Unknown Exceptions for Bird-Mountain Black-eye
+2022-04-06 01:41:09,771 - ERROR - Unknown Exceptions for Bird-Everett's White-eye
+2022-04-06 01:41:24,280 - ERROR - Unknown Exceptions for Bird-Lowland White-eye
+2022-04-06 01:41:40,255 - ERROR - Unknown Exceptions for Bird-Mountain White-eye
+2022-04-06 01:41:53,468 - ERROR - Unknown Exceptions for Bird-Indian White-eye
+2022-04-06 01:42:08,335 - ERROR - Unknown Exceptions for Bird-Hume's White-eye
+2022-04-06 01:42:22,132 - ERROR - Unknown Exceptions for Bird-Mount Karthala White-eye
+2022-04-06 01:42:35,220 - ERROR - Unknown Exceptions for Bird-Marianne White-eye
+2022-04-06 01:42:49,336 - ERROR - Unknown Exceptions for Bird-Reunion Olive White-eye
+2022-04-06 01:43:06,393 - ERROR - Unknown Exceptions for Bird-Mauritius Olive White-eye
+2022-04-06 01:43:20,171 - ERROR - Unknown Exceptions for Bird-Mauritius Grey White-eye
+2022-04-06 01:43:34,348 - ERROR - Unknown Exceptions for Bird-Reunion Grey White-eye
+2022-04-06 01:43:48,256 - ERROR - Unknown Exceptions for Bird-Mount Cameroon Speirops
+2022-04-06 01:44:02,364 - ERROR - Unknown Exceptions for Bird-Bioko Speirops
+2022-04-06 01:44:16,249 - ERROR - Unknown Exceptions for Bird-Ethiopian White-eye
+2022-04-06 01:44:27,666 - ERROR - Unknown Exceptions for Bird-Kafa White-eye
+2022-04-06 01:44:43,892 - ERROR - Unknown Exceptions for Bird-Kulal White-eye
+2022-04-06 01:44:57,509 - ERROR - Unknown Exceptions for Bird-Kilimanjaro White-eye
+2022-04-06 01:45:11,393 - ERROR - Unknown Exceptions for Bird-Kikuyu White-eye
+2022-04-06 01:45:25,537 - ERROR - Unknown Exceptions for Bird-Principe White-eye
+2022-04-06 01:45:39,378 - ERROR - Unknown Exceptions for Bird-Annobon White-eye
+2022-04-06 01:45:53,301 - ERROR - Unknown Exceptions for Bird-Sao Tome White-eye
+2022-04-06 01:46:10,547 - ERROR - Unknown Exceptions for Bird-Black-capped Speirops
+2022-04-06 01:46:25,367 - ERROR - Unknown Exceptions for Bird-Principe Speirops
+2022-04-06 01:46:38,190 - ERROR - Unknown Exceptions for Bird-Mbulu White-eye
+2022-04-06 01:46:52,548 - ERROR - Unknown Exceptions for Bird-Kenya White-eye
+2022-04-06 01:47:06,269 - ERROR - Unknown Exceptions for Bird-Taita White-eye
+2022-04-06 01:47:19,218 - ERROR - Unknown Exceptions for Bird-South Pare White-eye
+2022-04-06 01:47:34,195 - ERROR - Unknown Exceptions for Bird-African Yellow White-eye
+2022-04-06 01:47:47,236 - ERROR - Unknown Exceptions for Bird-Cape White-eye
+2022-04-06 01:48:01,141 - ERROR - Unknown Exceptions for Bird-Pemba White-eye
+2022-04-06 01:48:14,274 - ERROR - Unknown Exceptions for Bird-Orange River White-eye
+2022-04-06 01:48:28,380 - ERROR - Unknown Exceptions for Bird-Seychelles White-eye
+2022-04-06 01:48:45,475 - ERROR - Unknown Exceptions for Bird-Madagascar White-eye
+2022-04-06 01:48:58,838 - ERROR - Unknown Exceptions for Bird-Chestnut-sided White-eye
+2022-04-06 01:49:13,216 - ERROR - Unknown Exceptions for Bird-Kirk's White-eye
+2022-04-06 01:49:25,788 - ERROR - Unknown Exceptions for Bird-Javan White-eye
+2022-04-06 01:49:37,890 - ERROR - Unknown Exceptions for Bird-Lemon-bellied White-eye
+2022-04-06 01:49:52,253 - ERROR - Unknown Exceptions for Bird-Black-crowned White-eye
+2022-04-06 01:50:05,340 - ERROR - Unknown Exceptions for Bird-Black-ringed White-eye
+2022-04-06 01:50:17,479 - ERROR - Unknown Exceptions for Bird-Togian White-eye
+2022-04-06 01:50:29,845 - ERROR - Unknown Exceptions for Bird-Sangihe White-eye
+2022-04-06 01:50:43,210 - ERROR - Unknown Exceptions for Bird-Pale-bellied White-eye
+2022-04-06 01:51:01,368 - ERROR - Unknown Exceptions for Bird-Cream-throated White-eye
+2022-04-06 01:51:15,194 - ERROR - Unknown Exceptions for Bird-Seram White-eye
+2022-04-06 01:51:29,175 - ERROR - Unknown Exceptions for Bird-Ambon White-eye
+2022-04-06 01:51:43,255 - ERROR - Unknown Exceptions for Bird-Buru White-eye
+2022-04-06 01:51:57,138 - ERROR - Unknown Exceptions for Bird-Sangkar White-eye
+2022-04-06 01:52:11,337 - ERROR - Unknown Exceptions for Bird-Ashy-bellied White-eye
+2022-04-06 01:52:24,340 - ERROR - Unknown Exceptions for Bird-Australian Yellow White-eye
+2022-04-06 01:52:42,421 - ERROR - Unknown Exceptions for Bird-Silvereye
+2022-04-06 01:52:57,287 - ERROR - Unknown Exceptions for Bird-Vella Lavella White-eye
+2022-04-06 01:53:11,275 - ERROR - Unknown Exceptions for Bird-Capped White-eye
+2022-04-06 01:53:24,276 - ERROR - Unknown Exceptions for Bird-Oya Tabu White-eye
+2022-04-06 01:53:37,390 - ERROR - Unknown Exceptions for Bird-Vanuatu White-eye
+2022-04-06 01:53:53,475 - ERROR - Unknown Exceptions for Bird-Bare-eyed White-eye
+2022-04-06 01:54:07,193 - ERROR - Unknown Exceptions for Bird-Vanikoro White-eye
+2022-04-06 01:54:19,923 - ERROR - Unknown Exceptions for Bird-Sanford's White-eye
+2022-04-06 01:54:33,093 - ERROR - Unknown Exceptions for Bird-Fiji White-eye
+2022-04-06 01:54:47,278 - ERROR - Unknown Exceptions for Bird-Bismarck White-eye
+2022-04-06 01:55:01,319 - ERROR - Unknown Exceptions for Bird-Green-fronted White-eye
+2022-04-06 01:55:21,285 - ERROR - Unknown Exceptions for Bird-Tagula White-eye
+2022-04-06 01:55:34,292 - ERROR - Unknown Exceptions for Bird-Biak White-eye
+2022-04-06 01:55:48,261 - ERROR - Unknown Exceptions for Bird-Black-fronted White-eye
+2022-04-06 01:56:04,262 - ERROR - Unknown Exceptions for Bird-Grey-throated White-eye
+2022-04-06 01:56:18,335 - ERROR - Unknown Exceptions for Bird-Yap Olive White-eye
+2022-04-06 01:56:30,475 - ERROR - Unknown Exceptions for Bird-Dusky White-eye
+2022-04-06 01:56:43,136 - ERROR - Unknown Exceptions for Bird-Kosrae White-eye
+2022-04-06 01:56:56,246 - ERROR - Unknown Exceptions for Bird-Pohnpei White-eye
+2022-04-06 01:57:10,429 - ERROR - Unknown Exceptions for Bird-Rota White-eye
+2022-04-06 01:57:24,913 - ERROR - Unknown Exceptions for Bird-Malaita White-eye
+2022-04-06 01:57:37,770 - ERROR - Unknown Exceptions for Bird-Santa Cruz White-eye
+2022-04-06 01:57:50,384 - ERROR - Unknown Exceptions for Bird-Yellow-throated White-eye
+2022-04-06 01:58:07,973 - ERROR - Unknown Exceptions for Bird-Bougainville White-eye
+2022-04-06 01:58:24,328 - ERROR - Unknown Exceptions for Bird-New Guinea White-eye
+2022-04-06 01:58:38,535 - ERROR - Unknown Exceptions for Bird-Pearl-bellied White-eye
+2022-04-06 01:58:51,269 - ERROR - Unknown Exceptions for Bird-Gizo White-eye
+2022-04-06 01:59:05,421 - ERROR - Unknown Exceptions for Bird-Golden-bellied White-eye
+2022-04-06 01:59:19,273 - ERROR - Unknown Exceptions for Bird-Ranongga White-eye
+2022-04-06 01:59:33,264 - ERROR - Unknown Exceptions for Bird-Solomons White-eye
+2022-04-06 01:59:48,299 - ERROR - Unknown Exceptions for Bird-Kolombangara White-eye
+2022-04-06 02:00:00,343 - ERROR - Unknown Exceptions for Bird-Louisiade White-eye
+2022-04-06 02:00:15,498 - ERROR - Unknown Exceptions for Bird-Christmas White-eye
+2022-04-06 02:00:33,306 - ERROR - Unknown Exceptions for Bird-Saipan White-eye
+2022-04-06 02:00:48,534 - ERROR - Unknown Exceptions for Bird-Citrine White-eye
+2022-04-06 02:01:02,423 - ERROR - Unknown Exceptions for Bird-Bridled White-eye
+2022-04-06 02:01:17,451 - ERROR - Unknown Exceptions for Bird-Yap Plain White-eye
+2022-04-06 02:01:36,570 - ERROR - Unknown Exceptions for Bird-Large Lifou White-eye
+2022-04-06 02:01:51,477 - ERROR - Unknown Exceptions for Bird-White-chested White-eye
+2022-04-06 02:02:06,305 - ERROR - Unknown Exceptions for Bird-Samoan White-eye
+2022-04-06 02:02:20,911 - ERROR - Unknown Exceptions for Bird-Robust White-eye
+2022-04-06 02:02:34,505 - ERROR - Unknown Exceptions for Bird-Slender-billed White-eye
+2022-04-06 02:02:48,763 - ERROR - Unknown Exceptions for Bird-Small Lifou White-eye
+2022-04-06 02:03:02,531 - ERROR - Unknown Exceptions for Bird-Green-backed White-eye
+2022-04-06 02:03:19,259 - ERROR - Unknown Exceptions for Bird-Rennell White-eye
+2022-04-06 02:03:35,482 - ERROR - Unknown Exceptions for Bird-Rufous-throated Wren-babbler
+2022-04-06 02:03:50,512 - ERROR - Unknown Exceptions for Bird-Rusty-throated Wren-babbler
+2022-04-06 02:04:16,849 - ERROR - Unknown Exceptions for Bird-Bar-winged Wren-babbler
+2022-04-06 02:04:31,686 - ERROR - Unknown Exceptions for Bird-Naga Wren-babbler
+2022-04-06 02:04:46,558 - ERROR - Unknown Exceptions for Bird-Chin Hills Wren-babbler
+2022-04-06 02:05:01,870 - ERROR - Unknown Exceptions for Bird-Grey-bellied Wren-babbler
+2022-04-06 02:05:16,071 - ERROR - Unknown Exceptions for Bird-Pale-throated Wren-babbler
+2022-04-06 02:05:32,369 - ERROR - Unknown Exceptions for Bird-Tawny-breasted Wren-babbler
+2022-04-06 02:05:47,388 - ERROR - Unknown Exceptions for Bird-Black Laughingthrush
+2022-04-06 02:06:02,439 - ERROR - Unknown Exceptions for Bird-Bare-headed Laughingthrush
+2022-04-06 02:06:15,533 - ERROR - Unknown Exceptions for Bird-Red-billed Scimitar-babbler
+2022-04-06 02:06:29,646 - ERROR - Unknown Exceptions for Bird-Coral-billed Scimitar-babbler
+2022-04-06 02:06:43,717 - ERROR - Unknown Exceptions for Bird-Brown-crowned Scimitar-babbler
+2022-04-06 02:06:59,953 - ERROR - Unknown Exceptions for Bird-Slender-billed Scimitar-babbler
+2022-04-06 02:07:14,217 - ERROR - Unknown Exceptions for Bird-Indian Scimitar-babbler
+2022-04-06 02:07:29,493 - ERROR - Unknown Exceptions for Bird-Sri Lanka Scimitar-babbler
+2022-04-06 02:07:44,474 - ERROR - Unknown Exceptions for Bird-White-browed Scimitar-babbler
+2022-04-06 02:07:57,238 - ERROR - Unknown Exceptions for Bird-Chestnut-backed Scimitar-babbler
+2022-04-06 02:08:11,643 - ERROR - Unknown Exceptions for Bird-Streak-breasted Scimitar-babbler
+2022-04-06 02:08:25,891 - ERROR - Unknown Exceptions for Bird-Taiwan Scimitar-babbler
+2022-04-06 02:08:40,944 - ERROR - Unknown Exceptions for Bird-Large Scimitar-babbler
+2022-04-06 02:08:55,677 - ERROR - Unknown Exceptions for Bird-Rusty-cheeked Scimitar-babbler
+2022-04-06 02:09:10,647 - ERROR - Unknown Exceptions for Bird-Spot-breasted Scimitar-babbler
+2022-04-06 02:09:24,339 - ERROR - Unknown Exceptions for Bird-Black-streaked Scimitar-babbler
+2022-04-06 02:09:39,439 - ERROR - Unknown Exceptions for Bird-Grey-sided Scimitar-babbler
+2022-04-06 02:09:53,893 - ERROR - Unknown Exceptions for Bird-Black-necklaced Scimitar-babbler
+2022-04-06 02:10:09,353 - ERROR - Unknown Exceptions for Bird-White-breasted Babbler
+2022-04-06 02:10:23,571 - ERROR - Unknown Exceptions for Bird-Black-throated Babbler
+2022-04-06 02:10:39,390 - ERROR - Unknown Exceptions for Bird-Chestnut-rumped Babbler
+2022-04-06 02:10:54,751 - ERROR - Unknown Exceptions for Bird-Grey-throated Babbler
+2022-04-06 02:11:10,909 - ERROR - Unknown Exceptions for Bird-Blackish-breasted Babbler
+2022-04-06 02:11:26,582 - ERROR - Unknown Exceptions for Bird-Chevron-breasted Babbler
+2022-04-06 02:11:41,760 - ERROR - Unknown Exceptions for Bird-Grey-headed Babbler
+2022-04-06 02:11:56,676 - ERROR - Unknown Exceptions for Bird-White-necked Babbler
+2022-04-06 02:12:09,624 - ERROR - Unknown Exceptions for Bird-Sooty Babbler
+2022-04-06 02:12:23,577 - ERROR - Unknown Exceptions for Bird-Nonggang Babbler
+2022-04-06 02:12:35,608 - ERROR - Unknown Exceptions for Bird-Spot-necked Babbler
+2022-04-06 02:12:51,485 - ERROR - Unknown Exceptions for Bird-Snowy-throated Babbler
+2022-04-06 02:13:16,375 - ERROR - Unknown Exceptions for Bird-White-bibbed Babbler
+2022-04-06 02:13:49,238 - ERROR - Unknown Exceptions for Bird-Tawny-bellied Babbler
+2022-04-06 02:14:15,812 - ERROR - Unknown Exceptions for Bird-Dark-fronted Babbler
+2022-04-06 02:14:42,097 - ERROR - Unknown Exceptions for Bird-Chestnut-capped Babbler
+2022-04-06 02:15:02,459 - ERROR - Unknown Exceptions for Bird-Pin-striped Tit-babbler
+2022-04-06 02:15:16,986 - ERROR - Unknown Exceptions for Bird-Bold-striped Tit-babbler
+2022-04-06 02:15:31,088 - ERROR - Unknown Exceptions for Bird-Grey-cheeked Tit-babbler
+2022-04-06 02:15:45,509 - ERROR - Unknown Exceptions for Bird-Kangean Tit-babbler
+2022-04-06 02:15:59,535 - ERROR - Unknown Exceptions for Bird-Grey-faced Tit-babbler
+2022-04-06 02:16:13,904 - ERROR - Unknown Exceptions for Bird-Brown Tit-babbler
+2022-04-06 02:16:29,071 - ERROR - Unknown Exceptions for Bird-Fluffy-backed Tit-babbler
+2022-04-06 02:16:43,655 - ERROR - Unknown Exceptions for Bird-Golden Babbler
+2022-04-06 02:16:57,954 - ERROR - Unknown Exceptions for Bird-Chestnut-winged Babbler
+2022-04-06 02:17:12,752 - ERROR - Unknown Exceptions for Bird-Grey-hooded Babbler
+2022-04-06 02:17:27,044 - ERROR - Unknown Exceptions for Bird-Crescent-chested Babbler
+2022-04-06 02:17:41,195 - ERROR - Unknown Exceptions for Bird-Black-chinned Babbler
+2022-04-06 02:17:54,974 - ERROR - Unknown Exceptions for Bird-Rufous-capped Babbler
+2022-04-06 02:18:09,775 - ERROR - Unknown Exceptions for Bird-Rufous-fronted Babbler
+2022-04-06 02:18:31,817 - ERROR - Unknown Exceptions for Bird-Sooty-capped Babbler
+2022-04-06 02:18:47,638 - ERROR - Unknown Exceptions for Bird-Grey-breasted Babbler
+2022-04-06 02:19:02,625 - ERROR - Unknown Exceptions for Bird-Scaly-crowned Babbler
+2022-04-06 02:19:17,509 - ERROR - Unknown Exceptions for Bird-Rufous-crowned Babbler
+2022-04-06 02:19:31,565 - ERROR - Unknown Exceptions for Bird-Melodious Babbler
+2022-04-06 02:19:45,983 - ERROR - Unknown Exceptions for Bird-Moustached Babbler
+2022-04-06 02:20:00,983 - ERROR - Unknown Exceptions for Bird-White-hooded Babbler
+2022-04-06 02:20:16,969 - ERROR - Unknown Exceptions for Bird-Collared Babbler
+2022-04-06 02:20:32,730 - ERROR - Unknown Exceptions for Bird-Dusky Fulvetta
+2022-04-06 02:20:47,924 - ERROR - Unknown Exceptions for Bird-Rusty-capped Fulvetta
+2022-04-06 02:21:02,776 - ERROR - Unknown Exceptions for Bird-Rufous-throated Fulvetta
+2022-04-06 02:21:16,856 - ERROR - Unknown Exceptions for Bird-Yellow-throated Fulvetta
+2022-04-06 02:21:30,814 - ERROR - Unknown Exceptions for Bird-Rufous-winged Fulvetta
+2022-04-06 02:21:44,363 - ERROR - Unknown Exceptions for Bird-Black-crowned Fulvetta
+2022-04-06 02:21:59,082 - ERROR - Unknown Exceptions for Bird-Golden-fronted Fulvetta
+2022-04-06 02:22:12,481 - ERROR - Unknown Exceptions for Bird-Rufous-vented Grass-babbler
+2022-04-06 02:22:30,015 - ERROR - Unknown Exceptions for Bird-Swamp Grass-babbler
+2022-04-06 02:22:45,651 - ERROR - Unknown Exceptions for Bird-Brown Illadopsis
+2022-04-06 02:23:00,757 - ERROR - Unknown Exceptions for Bird-Pale-breasted Illadopsis
+2022-04-06 02:23:15,125 - ERROR - Unknown Exceptions for Bird-Grey-breasted Illadopsis
+2022-04-06 02:23:29,607 - ERROR - Unknown Exceptions for Bird-Mountain Illadopsis
+2022-04-06 02:23:43,627 - ERROR - Unknown Exceptions for Bird-Black-capped Illadopsis
+2022-04-06 02:23:59,329 - ERROR - Unknown Exceptions for Bird-Scaly-breasted Illadopsis
+2022-04-06 02:24:13,220 - ERROR - Unknown Exceptions for Bird-Spotted Illadopsis
+2022-04-06 02:24:27,423 - ERROR - Unknown Exceptions for Bird-Puvel's Illadopsis
+2022-04-06 02:24:42,026 - ERROR - Unknown Exceptions for Bird-Rufous-winged Illadopsis
+2022-04-06 02:24:58,249 - ERROR - Unknown Exceptions for Bird-Puff-throated Babbler
+2022-04-06 02:25:16,078 - ERROR - Unknown Exceptions for Bird-Black-capped Babbler
+2022-04-06 02:25:31,768 - ERROR - Unknown Exceptions for Bird-Rufous-browed Babbler
+2022-04-06 02:25:47,913 - ERROR - Unknown Exceptions for Bird-Brown-capped Babbler
+2022-04-06 02:26:02,102 - ERROR - Unknown Exceptions for Bird-Marsh Babbler
+2022-04-06 02:26:16,659 - ERROR - Unknown Exceptions for Bird-Spot-throated Babbler
+2022-04-06 02:26:30,227 - ERROR - Unknown Exceptions for Bird-Ashy-headed Babbler
+2022-04-06 02:26:44,669 - ERROR - Unknown Exceptions for Bird-Short-tailed Babbler
+2022-04-06 02:26:59,400 - ERROR - Unknown Exceptions for Bird-Ferruginous Babbler
+2022-04-06 02:27:13,922 - ERROR - Unknown Exceptions for Bird-White-chested Babbler
+2022-04-06 02:27:28,077 - ERROR - Unknown Exceptions for Bird-Sulawesi Babbler
+2022-04-06 02:27:43,666 - ERROR - Unknown Exceptions for Bird-Sumatran Babbler
+2022-04-06 02:27:58,135 - ERROR - Unknown Exceptions for Bird-Temminck's Babbler
+2022-04-06 02:28:12,897 - ERROR - Unknown Exceptions for Bird-Buff-breasted Babbler
+2022-04-06 02:28:26,944 - ERROR - Unknown Exceptions for Bird-Bagobo Babbler
+2022-04-06 02:28:40,916 - ERROR - Unknown Exceptions for Bird-Striped Wren-babbler
+2022-04-06 02:28:54,731 - ERROR - Unknown Exceptions for Bird-Abbott's Babbler
+2022-04-06 02:29:09,240 - ERROR - Unknown Exceptions for Bird-Horsfield's Babbler
+2022-04-06 02:29:23,959 - ERROR - Unknown Exceptions for Bird-Black-browed Babbler
+2022-04-06 02:29:38,329 - ERROR - Unknown Exceptions for Bird-Greyish Limestone-babbler
+2022-04-06 02:29:52,693 - ERROR - Unknown Exceptions for Bird-Rufous Limestone-babbler
+2022-04-06 02:30:08,917 - ERROR - Unknown Exceptions for Bird-Streaked Wren-babbler
+2022-04-06 02:30:23,627 - ERROR - Unknown Exceptions for Bird-Mountain Wren-babbler
+2022-04-06 02:30:37,610 - ERROR - Unknown Exceptions for Bird-Rusty-breasted Wren-babbler
+2022-04-06 02:30:52,025 - ERROR - Unknown Exceptions for Bird-Large Wren-babbler
+2022-04-06 02:31:06,750 - ERROR - Unknown Exceptions for Bird-Black-throated Wren-babbler
+2022-04-06 02:31:21,234 - ERROR - Unknown Exceptions for Bird-Marbled Wren-babbler
+2022-04-06 02:31:36,257 - ERROR - Unknown Exceptions for Bird-Bornean Wren-babbler
+2022-04-06 02:31:49,625 - ERROR - Unknown Exceptions for Bird-Striated Wren-babbler
+2022-04-06 02:32:03,679 - ERROR - Unknown Exceptions for Bird-Falcated Wren-babbler
+2022-04-06 02:32:23,692 - ERROR - Unknown Exceptions for Bird-Eyebrowed Wren-babbler
+2022-04-06 02:32:38,177 - ERROR - Unknown Exceptions for Bird-Naung Mung Wren-babbler
+2022-04-06 02:32:52,962 - ERROR - Unknown Exceptions for Bird-Indochinese Wren-babbler
+2022-04-06 02:33:06,720 - ERROR - Unknown Exceptions for Bird-Long-billed Wren-babbler
+2022-04-06 02:33:21,984 - ERROR - Unknown Exceptions for Bird-White-throated Wren-babbler
+2022-04-06 02:33:36,147 - ERROR - Unknown Exceptions for Bird-Sumatran Wren-babbler
+2022-04-06 02:33:51,870 - ERROR - Unknown Exceptions for Bird-Indian Grass-babbler
+2022-04-06 02:34:05,708 - ERROR - Unknown Exceptions for Bird-Chinese Grass-babbler
+2022-04-06 02:34:20,425 - ERROR - Unknown Exceptions for Bird-Brown Fulvetta
+2022-04-06 02:34:35,810 - ERROR - Unknown Exceptions for Bird-Black-browed Fulvetta
+2022-04-06 02:34:53,673 - ERROR - Unknown Exceptions for Bird-Brown-cheeked Fulvetta
+2022-04-06 02:35:47,016 - ERROR - Unknown Exceptions for Bird-Nepal Fulvetta
+2022-04-06 02:37:14,454 - ERROR - Unknown Exceptions for Bird-Grey-cheeked Fulvetta
+2022-04-06 02:37:28,317 - ERROR - Unknown Exceptions for Bird-Mountain Fulvetta
+2022-04-06 02:37:41,702 - ERROR - Unknown Exceptions for Bird-Javan Fulvetta
+2022-04-06 02:37:55,443 - ERROR - Unknown Exceptions for Bird-Striated Laughingthrush
+2022-04-06 02:38:09,055 - ERROR - Unknown Exceptions for Bird-Himalayan Cutia
+2022-04-06 02:38:24,055 - ERROR - Unknown Exceptions for Bird-Vietnamese Cutia
+2022-04-06 02:38:39,977 - ERROR - Unknown Exceptions for Bird-Large Grey Babbler
+2022-04-06 02:38:54,211 - ERROR - Unknown Exceptions for Bird-Ashy-headed Laughingthrush
+2022-04-06 02:39:08,692 - ERROR - Unknown Exceptions for Bird-Rufous Babbler
+2022-04-06 02:39:23,286 - ERROR - Unknown Exceptions for Bird-Slender-billed Babbler
+2022-04-06 02:39:37,138 - ERROR - Unknown Exceptions for Bird-White-throated Babbler
+2022-04-06 02:39:56,107 - ERROR - Unknown Exceptions for Bird-Jungle Babbler
+2022-04-06 02:40:11,202 - ERROR - Unknown Exceptions for Bird-Orange-billed Babbler
+2022-04-06 02:40:25,626 - ERROR - Unknown Exceptions for Bird-Black-winged Babbler
+2022-04-06 02:40:39,711 - ERROR - Unknown Exceptions for Bird-Yellow-billed Babbler
+2022-04-06 02:40:54,011 - ERROR - Unknown Exceptions for Bird-Striated Babbler
+2022-04-06 02:41:08,362 - ERROR - Unknown Exceptions for Bird-Common Babbler
+2022-04-06 02:41:26,561 - ERROR - Unknown Exceptions for Bird-Iraq Babbler
+2022-04-06 02:41:42,091 - ERROR - Unknown Exceptions for Bird-Arabian Babbler
+2022-04-06 02:41:56,269 - ERROR - Unknown Exceptions for Bird-Fulvous Babbler
+2022-04-06 02:42:11,234 - ERROR - Unknown Exceptions for Bird-Rufous Chatterer
+2022-04-06 02:42:24,908 - ERROR - Unknown Exceptions for Bird-Scaly Chatterer
+2022-04-06 02:42:39,064 - ERROR - Unknown Exceptions for Bird-Spiny Babbler
+2022-04-06 02:42:55,044 - ERROR - Unknown Exceptions for Bird-White-throated Mountain-babbler
+2022-04-06 02:43:09,829 - ERROR - Unknown Exceptions for Bird-Red-collared Mountain-babbler
+2022-04-06 02:43:23,910 - ERROR - Unknown Exceptions for Bird-Chapin's Mountain-babbler
+2022-04-06 02:43:38,306 - ERROR - Unknown Exceptions for Bird-Grey-hooded Capuchin Babbler
+2022-04-06 02:43:53,672 - ERROR - Unknown Exceptions for Bird-Black-crowned Capuchin Babbler
+2022-04-06 02:44:08,575 - ERROR - Unknown Exceptions for Bird-Grey-caped Capuchin Babbler
+2022-04-06 02:44:23,282 - ERROR - Unknown Exceptions for Bird-Black-lored Babbler
+2022-04-06 02:44:38,156 - ERROR - Unknown Exceptions for Bird-Black-faced Babbler
+2022-04-06 02:44:51,549 - ERROR - Unknown Exceptions for Bird-Dusky Babbler
+2022-04-06 02:45:04,875 - ERROR - Unknown Exceptions for Bird-Blackcap Babbler
+2022-04-06 02:45:18,119 - ERROR - Unknown Exceptions for Bird-White-headed Babbler
+2022-04-06 02:45:32,341 - ERROR - Unknown Exceptions for Bird-Brown Babbler
+2022-04-06 02:45:46,584 - ERROR - Unknown Exceptions for Bird-Arrow-marked Babbler
+2022-04-06 02:45:59,939 - ERROR - Unknown Exceptions for Bird-Scaly Babbler
+2022-04-06 02:46:14,257 - ERROR - Unknown Exceptions for Bird-White-rumped Babbler
+2022-04-06 02:46:29,981 - ERROR - Unknown Exceptions for Bird-Hartlaub's Babbler
+2022-04-06 02:46:44,956 - ERROR - Unknown Exceptions for Bird-Hinde's Babbler
+2022-04-06 02:46:59,154 - ERROR - Unknown Exceptions for Bird-Northern Pied Babbler
+2022-04-06 02:47:13,516 - ERROR - Unknown Exceptions for Bird-Southern Pied Babbler
+2022-04-06 02:47:27,359 - ERROR - Unknown Exceptions for Bird-Bare-cheeked Babbler
+2022-04-06 02:47:40,248 - ERROR - Unknown Exceptions for Bird-Chinese Hwamei
+2022-04-06 02:47:54,613 - ERROR - Unknown Exceptions for Bird-Taiwan Hwamei
+2022-04-06 02:48:09,445 - ERROR - Unknown Exceptions for Bird-Spot-breasted Laughingthrush
+2022-04-06 02:48:25,553 - ERROR - Unknown Exceptions for Bird-Orange-breasted Laughingthrush
+2022-04-06 02:48:39,713 - ERROR - Unknown Exceptions for Bird-Rufous-fronted Laughingthrush
+2022-04-06 02:48:53,999 - ERROR - Unknown Exceptions for Bird-Lesser Necklaced Laughingthrush
+2022-04-06 02:49:07,574 - ERROR - Unknown Exceptions for Bird-White-crested Laughingthrush
+2022-04-06 02:49:23,185 - ERROR - Unknown Exceptions for Bird-Sumatran Laughingthrush
+2022-04-06 02:49:37,372 - ERROR - Unknown Exceptions for Bird-Sunda Laughingthrush
+2022-04-06 02:49:51,828 - ERROR - Unknown Exceptions for Bird-Black-hooded Laughingthrush
+2022-04-06 02:50:06,065 - ERROR - Unknown Exceptions for Bird-Grey Laughingthrush
+2022-04-06 02:50:26,535 - ERROR - Unknown Exceptions for Bird-Rufous-cheeked Laughingthrush
+2022-04-06 02:50:41,878 - ERROR - Unknown Exceptions for Bird-White-necked Laughingthrush
+2022-04-06 02:50:57,153 - ERROR - Unknown Exceptions for Bird-Cambodian Laughingthrush
+2022-04-06 02:51:10,993 - ERROR - Unknown Exceptions for Bird-Barred Laughingthrush
+2022-04-06 02:51:24,241 - ERROR - Unknown Exceptions for Bird-White-speckled Laughingthrush
+2022-04-06 02:51:36,914 - ERROR - Unknown Exceptions for Bird-Giant Laughingthrush
+2022-04-06 02:51:50,811 - ERROR - Unknown Exceptions for Bird-Spotted Laughingthrush
+2022-04-06 02:52:05,306 - ERROR - Unknown Exceptions for Bird-Snowy-cheeked Laughingthrush
+2022-04-06 02:52:20,427 - ERROR - Unknown Exceptions for Bird-Western Moustached Laughingthrush
+2022-04-06 02:52:39,686 - ERROR - Unknown Exceptions for Bird-Eastern Moustached Laughingthrush
+2022-04-06 02:52:54,603 - ERROR - Unknown Exceptions for Bird-Rufous-chinned Laughingthrush
+2022-04-06 02:53:10,212 - ERROR - Unknown Exceptions for Bird-Chestnut-eared Laughingthrush
+2022-04-06 02:53:24,495 - ERROR - Unknown Exceptions for Bird-White-browed Laughingthrush
+2022-04-06 02:53:38,238 - ERROR - Unknown Exceptions for Bird-Masked Laughingthrush
+2022-04-06 02:53:56,819 - ERROR - Unknown Exceptions for Bird-Plain Laughingthrush
+2022-04-06 02:54:11,242 - ERROR - Unknown Exceptions for Bird-Chestnut-backed Laughingthrush
+2022-04-06 02:54:25,134 - ERROR - Unknown Exceptions for Bird-Black-throated Laughingthrush
+2022-04-06 02:54:39,848 - ERROR - Unknown Exceptions for Bird-Hainan Laughingthrush
+2022-04-06 02:54:54,869 - ERROR - Unknown Exceptions for Bird-White-cheeked Laughingthrush
+2022-04-06 02:55:09,014 - ERROR - Unknown Exceptions for Bird-Chestnut-capped Laughingthrush
+2022-04-06 02:55:22,647 - ERROR - Unknown Exceptions for Bird-Chestnut-hooded Laughingthrush
+2022-04-06 02:55:36,330 - ERROR - Unknown Exceptions for Bird-Greater Necklaced Laughingthrush
+2022-04-06 02:55:51,875 - ERROR - Unknown Exceptions for Bird-Mount Victoria Babax
+2022-04-06 02:56:07,576 - ERROR - Unknown Exceptions for Bird-Chinese Babax
+2022-04-06 02:56:22,872 - ERROR - Unknown Exceptions for Bird-Giant Babax
+2022-04-06 02:56:36,549 - ERROR - Unknown Exceptions for Bird-Tibetan Babax
+2022-04-06 02:56:50,348 - ERROR - Unknown Exceptions for Bird-White-throated Laughingthrush
+2022-04-06 02:57:04,215 - ERROR - Unknown Exceptions for Bird-Rufous-crowned Laughingthrush
+2022-04-06 02:57:18,530 - ERROR - Unknown Exceptions for Bird-Grey-sided Laughingthrush
+2022-04-06 02:57:32,563 - ERROR - Unknown Exceptions for Bird-Buffy Laughingthrush
+2022-04-06 02:57:47,934 - ERROR - Unknown Exceptions for Bird-Rusty Laughingthrush
+2022-04-06 02:58:02,050 - ERROR - Unknown Exceptions for Bird-Rufous-necked Laughingthrush
+2022-04-06 02:58:16,691 - ERROR - Unknown Exceptions for Bird-Yellow-throated Laughingthrush
+2022-04-06 02:58:30,525 - ERROR - Unknown Exceptions for Bird-Blue-crowned Laughingthrush
+2022-04-06 02:58:44,723 - ERROR - Unknown Exceptions for Bird-Wynaad Laughingthrush
+2022-04-06 02:58:58,681 - ERROR - Unknown Exceptions for Bird-Rufous-vented Laughingthrush
+2022-04-06 02:59:13,654 - ERROR - Unknown Exceptions for Bird-Scaly Laughingthrush
+2022-04-06 02:59:32,349 - ERROR - Unknown Exceptions for Bird-Brown-capped Laughingthrush
+2022-04-06 02:59:48,397 - ERROR - Unknown Exceptions for Bird-Blue-winged Laughingthrush
+2022-04-06 03:00:04,054 - ERROR - Unknown Exceptions for Bird-Streaked Laughingthrush
+2022-04-06 03:00:18,635 - ERROR - Unknown Exceptions for Bird-Bhutan Laughingthrush
+2022-04-06 03:00:32,799 - ERROR - Unknown Exceptions for Bird-Striped Laughingthrush
+2022-04-06 03:00:46,186 - ERROR - Unknown Exceptions for Bird-Variegated Laughingthrush
+2022-04-06 03:01:00,823 - ERROR - Unknown Exceptions for Bird-Black-faced Laughingthrush
+2022-04-06 03:01:14,053 - ERROR - Unknown Exceptions for Bird-White-whiskered Laughingthrush
+2022-04-06 03:01:28,264 - ERROR - Unknown Exceptions for Bird-Elliot's Laughingthrush
+2022-04-06 03:01:41,403 - ERROR - Unknown Exceptions for Bird-Brown-cheeked Laughingthrush
+2022-04-06 03:01:56,034 - ERROR - Unknown Exceptions for Bird-Red-tailed Laughingthrush
+2022-04-06 03:02:12,548 - ERROR - Unknown Exceptions for Bird-Red-winged Laughingthrush
+2022-04-06 03:02:27,962 - ERROR - Unknown Exceptions for Bird-Chestnut-crowned Laughingthrush
+2022-04-06 03:02:42,623 - ERROR - Unknown Exceptions for Bird-Assam Laughingthrush
+2022-04-06 03:02:57,113 - ERROR - Unknown Exceptions for Bird-Silver-eared Laughingthrush
+2022-04-06 03:03:11,391 - ERROR - Unknown Exceptions for Bird-Golden-winged Laughingthrush
+2022-04-06 03:03:25,055 - ERROR - Unknown Exceptions for Bird-Malay Laughingthrush
+2022-04-06 03:03:38,722 - ERROR - Unknown Exceptions for Bird-Collared Laughingthrush
+2022-04-06 03:03:52,810 - ERROR - Unknown Exceptions for Bird-Palani Chilappan
+2022-04-06 03:04:06,530 - ERROR - Unknown Exceptions for Bird-Ashambu Chilappan
+2022-04-06 03:04:20,425 - ERROR - Unknown Exceptions for Bird-Banasura Chilappan
+2022-04-06 03:04:33,870 - ERROR - Unknown Exceptions for Bird-Nilgiri Chilappan
+2022-04-06 03:04:47,036 - ERROR - Unknown Exceptions for Bird-White-eared Sibia
+2022-04-06 03:05:00,012 - ERROR - Unknown Exceptions for Bird-Long-tailed Sibia
+2022-04-06 03:05:13,893 - ERROR - Unknown Exceptions for Bird-Beautiful Sibia
+2022-04-06 03:05:26,474 - ERROR - Unknown Exceptions for Bird-Rufous Sibia
+2022-04-06 03:05:39,963 - ERROR - Unknown Exceptions for Bird-Dark-backed Sibia
+2022-04-06 03:05:53,214 - ERROR - Unknown Exceptions for Bird-Black-headed Sibia
+2022-04-06 03:06:08,875 - ERROR - Unknown Exceptions for Bird-Grey Sibia
+2022-04-06 03:06:24,541 - ERROR - Unknown Exceptions for Bird-Silver-eared Mesia
+2022-04-06 03:06:39,002 - ERROR - Unknown Exceptions for Bird-Sumatran Mesia
+2022-04-06 03:06:53,361 - ERROR - Unknown Exceptions for Bird-Red-billed Leiothrix
+2022-04-06 03:07:07,087 - ERROR - Unknown Exceptions for Bird-Rufous-backed Sibia
+2022-04-06 03:07:21,158 - ERROR - Unknown Exceptions for Bird-Red-tailed Minla
+2022-04-06 03:07:35,451 - ERROR - Unknown Exceptions for Bird-Red-faced Liocichla
+2022-04-06 03:07:49,145 - ERROR - Unknown Exceptions for Bird-Scarlet-faced Liocichla
+2022-04-06 03:08:03,436 - ERROR - Unknown Exceptions for Bird-Bugun Liocichla
+2022-04-06 03:08:17,617 - ERROR - Unknown Exceptions for Bird-Emei Shan Liocichla
+2022-04-06 03:08:31,036 - ERROR - Unknown Exceptions for Bird-Taiwan Liocichla
+2022-04-06 03:08:44,997 - ERROR - Unknown Exceptions for Bird-Hoary-throated Barwing
+2022-04-06 03:09:04,169 - ERROR - Unknown Exceptions for Bird-Streak-throated Barwing
+2022-04-06 03:09:18,385 - ERROR - Unknown Exceptions for Bird-Streaked Barwing
+2022-04-06 03:09:32,302 - ERROR - Unknown Exceptions for Bird-Taiwan Barwing
+2022-04-06 03:09:47,787 - ERROR - Unknown Exceptions for Bird-Blue-winged Minla
+2022-04-06 03:10:03,214 - ERROR - Unknown Exceptions for Bird-Bar-throated Minla
+2022-04-06 03:10:16,716 - ERROR - Unknown Exceptions for Bird-Rusty-fronted Barwing
+2022-04-06 03:10:30,337 - ERROR - Unknown Exceptions for Bird-Western Spectacled Barwing
+2022-04-06 03:10:50,274 - ERROR - Unknown Exceptions for Bird-Eastern Spectacled Barwing
+2022-04-06 03:11:06,586 - ERROR - Unknown Exceptions for Bird-Black-crowned Barwing
+2022-04-06 03:11:21,455 - ERROR - Unknown Exceptions for Bird-Grey-crowned Crocias
+2022-04-06 03:11:35,449 - ERROR - Unknown Exceptions for Bird-Spotted Crocias
+2022-04-06 03:11:49,587 - ERROR - Unknown Exceptions for Bird-Sichuan Treecreeper
+2022-04-06 03:12:04,557 - ERROR - Unknown Exceptions for Bird-Rusty-flanked Treecreeper
+2022-04-06 03:12:20,015 - ERROR - Unknown Exceptions for Bird-Sikkim Treecreeper
+2022-04-06 03:12:33,882 - ERROR - Unknown Exceptions for Bird-Manipur Treecreeper
+2022-04-06 03:12:47,872 - ERROR - Unknown Exceptions for Bird-Bar-tailed Treecreeper
+2022-04-06 03:13:02,566 - ERROR - Unknown Exceptions for Bird-Short-toed Treecreeper
+2022-04-06 03:13:17,071 - ERROR - Unknown Exceptions for Bird-American Treecreeper
+2022-04-06 03:13:31,756 - ERROR - Unknown Exceptions for Bird-Hodgson's Treecreeper
+2022-04-06 03:13:52,436 - ERROR - Unknown Exceptions for Bird-Eurasian Treecreeper
+2022-04-06 03:14:07,454 - ERROR - Unknown Exceptions for Bird-Eurasian Nuthatch
+2022-04-06 03:14:22,378 - ERROR - Unknown Exceptions for Bird-Siberian Nuthatch
+2022-04-06 03:14:36,729 - ERROR - Unknown Exceptions for Bird-Chestnut-vented Nuthatch
+2022-04-06 03:14:50,224 - ERROR - Unknown Exceptions for Bird-Kashmir Nuthatch
+2022-04-06 03:15:04,122 - ERROR - Unknown Exceptions for Bird-Indian Nuthatch
+2022-04-06 03:15:18,601 - ERROR - Unknown Exceptions for Bird-Chestnut-bellied Nuthatch
+2022-04-06 03:15:32,370 - ERROR - Unknown Exceptions for Bird-Burmese Nuthatch
+2022-04-06 03:15:46,573 - ERROR - Unknown Exceptions for Bird-White-tailed Nuthatch
+2022-04-06 03:16:00,575 - ERROR - Unknown Exceptions for Bird-White-browed Nuthatch
+2022-04-06 03:16:20,378 - ERROR - Unknown Exceptions for Bird-Pygmy Nuthatch
+2022-04-06 03:16:35,340 - ERROR - Unknown Exceptions for Bird-Brown-headed Nuthatch
+2022-04-06 03:16:50,716 - ERROR - Unknown Exceptions for Bird-Bahama Nuthatch
+2022-04-06 03:17:05,788 - ERROR - Unknown Exceptions for Bird-Corsican Nuthatch
+2022-04-06 03:17:18,965 - ERROR - Unknown Exceptions for Bird-Algerian Nuthatch
+2022-04-06 03:17:32,258 - ERROR - Unknown Exceptions for Bird-Krueper's Nuthatch
+2022-04-06 03:17:46,192 - ERROR - Unknown Exceptions for Bird-Yunnan Nuthatch
+2022-04-06 03:17:59,976 - ERROR - Unknown Exceptions for Bird-Red-breasted Nuthatch
+2022-04-06 03:18:14,261 - ERROR - Unknown Exceptions for Bird-Snowy-browed Nuthatch
+2022-04-06 03:18:28,689 - ERROR - Unknown Exceptions for Bird-White-cheeked Nuthatch
+2022-04-06 03:18:42,175 - ERROR - Unknown Exceptions for Bird-Przevalski's Nuthatch
+2022-04-06 03:18:55,505 - ERROR - Unknown Exceptions for Bird-White-breasted Nuthatch
+2022-04-06 03:19:10,280 - ERROR - Unknown Exceptions for Bird-Western Rock Nuthatch
+2022-04-06 03:19:24,516 - ERROR - Unknown Exceptions for Bird-Eastern Rock Nuthatch
+2022-04-06 03:19:38,071 - ERROR - Unknown Exceptions for Bird-Velvet-fronted Nuthatch
+2022-04-06 03:19:51,663 - ERROR - Unknown Exceptions for Bird-Yellow-billed Nuthatch
+2022-04-06 03:20:06,818 - ERROR - Unknown Exceptions for Bird-Sulphur-billed Nuthatch
+2022-04-06 03:20:22,623 - ERROR - Unknown Exceptions for Bird-Blue Nuthatch
+2022-04-06 03:20:37,776 - ERROR - Unknown Exceptions for Bird-Giant Nuthatch
+2022-04-06 03:20:51,902 - ERROR - Unknown Exceptions for Bird-Beautiful Nuthatch
+2022-04-06 03:21:05,412 - ERROR - Unknown Exceptions for Bird-Wallcreeper
+2022-04-06 03:21:19,362 - ERROR - Unknown Exceptions for Bird-African Spotted Creeper
+2022-04-06 03:21:33,239 - ERROR - Unknown Exceptions for Bird-Indian Spotted Creeper
+2022-04-06 03:21:54,009 - ERROR - Unknown Exceptions for Bird-Collared Gnatwren
+2022-04-06 03:22:09,200 - ERROR - Unknown Exceptions for Bird-Tawny-faced Gnatwren
+2022-04-06 03:22:23,914 - ERROR - Unknown Exceptions for Bird-Long-billed Gnatwren
+2022-04-06 03:22:37,387 - ERROR - Unknown Exceptions for Bird-Blue-grey Gnatcatcher
+2022-04-06 03:22:51,366 - ERROR - Unknown Exceptions for Bird-Cuban Gnatcatcher
+2022-04-06 03:23:05,896 - ERROR - Unknown Exceptions for Bird-California Gnatcatcher
+2022-04-06 03:23:20,306 - ERROR - Unknown Exceptions for Bird-Black-tailed Gnatcatcher
+2022-04-06 03:23:33,762 - ERROR - Unknown Exceptions for Bird-Black-capped Gnatcatcher
+2022-04-06 03:23:47,615 - ERROR - Unknown Exceptions for Bird-White-lored Gnatcatcher
+2022-04-06 03:24:02,287 - ERROR - Unknown Exceptions for Bird-Tropical Gnatcatcher
+2022-04-06 03:24:16,154 - ERROR - Unknown Exceptions for Bird-Maranon Gnatcatcher
+2022-04-06 03:24:30,076 - ERROR - Unknown Exceptions for Bird-Creamy-bellied Gnatcatcher
+2022-04-06 03:24:43,403 - ERROR - Unknown Exceptions for Bird-Guianan Gnatcatcher
+2022-04-06 03:24:59,108 - ERROR - Unknown Exceptions for Bird-Slate-throated Gnatcatcher
+2022-04-06 03:25:20,060 - ERROR - Unknown Exceptions for Bird-Masked Gnatcatcher
+2022-04-06 03:25:34,997 - ERROR - Unknown Exceptions for Bird-Rock Wren
+2022-04-06 03:25:50,061 - ERROR - Unknown Exceptions for Bird-Northern Nightingale-wren
+2022-04-06 03:26:04,218 - ERROR - Unknown Exceptions for Bird-Southern Nightingale-wren
+2022-04-06 03:26:18,400 - ERROR - Unknown Exceptions for Bird-Flutist Wren
+2022-04-06 03:26:32,546 - ERROR - Unknown Exceptions for Bird-Wing-banded Wren
+2022-04-06 03:26:47,034 - ERROR - Unknown Exceptions for Bird-Canyon Wren
+2022-04-06 03:27:07,320 - ERROR - Unknown Exceptions for Bird-Sumichrast's Wren
+2022-04-06 03:27:22,278 - ERROR - Unknown Exceptions for Bird-Nava's Wren
+2022-04-06 03:27:35,984 - ERROR - Unknown Exceptions for Bird-Grey-mantled Wren
+2022-04-06 03:27:49,853 - ERROR - Unknown Exceptions for Bird-Tooth-billed Wren
+2022-04-06 03:28:05,298 - ERROR - Unknown Exceptions for Bird-Zapata Wren
+2022-04-06 03:28:18,662 - ERROR - Unknown Exceptions for Bird-Pacific Wren
+2022-04-06 03:28:32,878 - ERROR - Unknown Exceptions for Bird-Winter Wren
+2022-04-06 03:28:46,407 - ERROR - Unknown Exceptions for Bird-Northern Wren
+2022-04-06 03:29:07,095 - ERROR - Unknown Exceptions for Bird-Clarion Wren
+2022-04-06 03:29:21,712 - ERROR - Unknown Exceptions for Bird-House Wren
+2022-04-06 03:29:36,659 - ERROR - Unknown Exceptions for Bird-Cozumel Wren
+2022-04-06 03:29:50,655 - ERROR - Unknown Exceptions for Bird-Cobb's Wren
+2022-04-06 03:30:04,568 - ERROR - Unknown Exceptions for Bird-Rufous-browed Wren
+2022-04-06 03:30:22,059 - ERROR - Unknown Exceptions for Bird-Ochraceous Wren
+2022-04-06 03:30:39,467 - ERROR - Unknown Exceptions for Bird-Mountain Wren
+2022-04-06 03:30:56,752 - ERROR - Unknown Exceptions for Bird-Santa Marta Wren
+2022-04-06 03:31:13,716 - ERROR - Unknown Exceptions for Bird-Tepui Wren
+2022-04-06 03:31:35,906 - ERROR - Unknown Exceptions for Bird-Socorro Wren
+2022-04-06 03:31:53,906 - ERROR - Unknown Exceptions for Bird-Timberline Wren
+2022-04-06 03:32:09,109 - ERROR - Unknown Exceptions for Bird-Sedge Wren
+2022-04-06 03:32:24,527 - ERROR - Unknown Exceptions for Bird-Grass Wren
+2022-04-06 03:32:40,641 - ERROR - Unknown Exceptions for Bird-Merida Wren
+2022-04-06 03:32:57,293 - ERROR - Unknown Exceptions for Bird-Apolinar's Wren
+2022-04-06 03:33:19,879 - ERROR - Unknown Exceptions for Bird-Marsh Wren
+2022-04-06 03:33:38,607 - ERROR - Unknown Exceptions for Bird-Carolina Wren
+2022-04-06 03:33:55,717 - ERROR - Unknown Exceptions for Bird-White-browed Wren
+2022-04-06 03:34:13,348 - ERROR - Unknown Exceptions for Bird-Bewick's Wren
+2022-04-06 03:34:29,160 - ERROR - Unknown Exceptions for Bird-Stripe-backed Wren
+2022-04-06 03:34:45,635 - ERROR - Unknown Exceptions for Bird-Fasciated Wren
+2022-04-06 03:35:01,726 - ERROR - Unknown Exceptions for Bird-Band-backed Wren
+2022-04-06 03:35:18,082 - ERROR - Unknown Exceptions for Bird-Grey-barred Wren
+2022-04-06 03:35:34,736 - ERROR - Unknown Exceptions for Bird-White-headed Wren
+2022-04-06 03:35:51,446 - ERROR - Unknown Exceptions for Bird-Thrush-like Wren
+2022-04-06 03:36:09,030 - ERROR - Unknown Exceptions for Bird-Spotted Wren
+2022-04-06 03:36:25,965 - ERROR - Unknown Exceptions for Bird-Sclater's Wren
+2022-04-06 03:36:42,434 - ERROR - Unknown Exceptions for Bird-Rufous-naped Wren
+2022-04-06 03:37:02,533 - ERROR - Unknown Exceptions for Bird-Rufous-backed Wren
+2022-04-06 03:37:19,766 - ERROR - Unknown Exceptions for Bird-Bicolored Wren
+2022-04-06 03:37:36,935 - ERROR - Unknown Exceptions for Bird-Giant Wren
+2022-04-06 03:37:54,528 - ERROR - Unknown Exceptions for Bird-Cactus Wren
+2022-04-06 03:38:12,922 - ERROR - Unknown Exceptions for Bird-Yucatan Wren
+2022-04-06 03:38:29,807 - ERROR - Unknown Exceptions for Bird-Boucard's Wren
+2022-04-06 03:38:48,172 - ERROR - Unknown Exceptions for Bird-Black-bellied Wren
+2022-04-06 03:39:04,620 - ERROR - Unknown Exceptions for Bird-Plain-tailed Wren
+2022-04-06 03:39:20,751 - ERROR - Unknown Exceptions for Bird-Grey-browed Wren
+2022-04-06 03:39:34,863 - ERROR - Unknown Exceptions for Bird-Inca Wren
+2022-04-06 03:39:52,096 - ERROR - Unknown Exceptions for Bird-Whiskered Wren
+2022-04-06 03:40:09,374 - ERROR - Unknown Exceptions for Bird-Coraya Wren
+2022-04-06 03:40:25,681 - ERROR - Unknown Exceptions for Bird-Moustached Wren
+2022-04-06 03:40:42,323 - ERROR - Unknown Exceptions for Bird-Black-throated Wren
+2022-04-06 03:40:58,943 - ERROR - Unknown Exceptions for Bird-Sooty-headed Wren
+2022-04-06 03:41:15,120 - ERROR - Unknown Exceptions for Bird-Happy Wren
+2022-04-06 03:41:32,910 - ERROR - Unknown Exceptions for Bird-Colombian Wren
+2022-04-06 03:41:50,204 - ERROR - Unknown Exceptions for Bird-Speckle-breasted Wren
+2022-04-06 03:42:09,379 - ERROR - Unknown Exceptions for Bird-Maranon Wren
+2022-04-06 03:42:26,297 - ERROR - Unknown Exceptions for Bird-Rufous-breasted Wren
+2022-04-06 03:42:43,113 - ERROR - Unknown Exceptions for Bird-Spot-breasted Wren
+2022-04-06 03:43:00,464 - ERROR - Unknown Exceptions for Bird-Banded Wren
+2022-04-06 03:43:17,889 - ERROR - Unknown Exceptions for Bird-Rufous-and-white Wren
+2022-04-06 03:43:41,376 - ERROR - Unknown Exceptions for Bird-Antioquia Wren
+2022-04-06 03:43:58,246 - ERROR - Unknown Exceptions for Bird-Niceforo's Wren
+2022-04-06 03:44:15,322 - ERROR - Unknown Exceptions for Bird-Sinaloa Wren
+2022-04-06 03:44:31,886 - ERROR - Unknown Exceptions for Bird-Rufous Wren
+2022-04-06 03:44:48,354 - ERROR - Unknown Exceptions for Bird-Sharpe's Wren
+2022-04-06 03:45:05,017 - ERROR - Unknown Exceptions for Bird-Peruvian Wren
+2022-04-06 03:45:22,907 - ERROR - Unknown Exceptions for Bird-Fulvous Wren
+2022-04-06 03:45:42,685 - ERROR - Unknown Exceptions for Bird-Stripe-throated Wren
+2022-04-06 03:46:00,168 - ERROR - Unknown Exceptions for Bird-Stripe-breasted Wren
+2022-04-06 03:46:17,709 - ERROR - Unknown Exceptions for Bird-Superciliated Wren
+2022-04-06 03:46:35,653 - ERROR - Unknown Exceptions for Bird-Buff-breasted Wren
+2022-04-06 03:46:51,678 - ERROR - Unknown Exceptions for Bird-Long-billed Wren
+2022-04-06 03:47:07,730 - ERROR - Unknown Exceptions for Bird-Fawn-breasted Wren
+2022-04-06 03:47:23,280 - ERROR - Unknown Exceptions for Bird-Riverside Wren
+2022-04-06 03:47:39,563 - ERROR - Unknown Exceptions for Bird-Bay Wren
+2022-04-06 03:47:58,082 - ERROR - Unknown Exceptions for Bird-Plain Wren
+2022-04-06 03:48:15,462 - ERROR - Unknown Exceptions for Bird-Canebrake Wren
+2022-04-06 03:48:32,256 - ERROR - Unknown Exceptions for Bird-Grey Wren
+2022-04-06 03:48:49,107 - ERROR - Unknown Exceptions for Bird-White-bellied Wren
+2022-04-06 03:49:05,200 - ERROR - Unknown Exceptions for Bird-White-breasted Wood-wren
+2022-04-06 03:49:21,280 - ERROR - Unknown Exceptions for Bird-Bar-winged Wood-wren
+2022-04-06 03:49:38,817 - ERROR - Unknown Exceptions for Bird-Grey-breasted Wood-wren
+2022-04-06 03:50:00,736 - ERROR - Unknown Exceptions for Bird-Hermit Wood-wren
+2022-04-06 03:50:18,657 - ERROR - Unknown Exceptions for Bird-Munchique Wood-wren
+2022-04-06 03:50:36,148 - ERROR - Unknown Exceptions for Bird-Northern Chestnut-breasted Wren
+2022-04-06 03:50:53,408 - ERROR - Unknown Exceptions for Bird-Southern Chestnut-breasted Wren
+2022-04-06 03:51:09,433 - ERROR - Unknown Exceptions for Bird-Song Wren
+2022-04-06 03:51:25,872 - ERROR - Unknown Exceptions for Bird-Musician Wren
+2022-04-06 03:51:44,420 - ERROR - Unknown Exceptions for Bird-White-throated Dipper
+2022-04-06 03:52:01,415 - ERROR - Unknown Exceptions for Bird-Brown Dipper
+2022-04-06 03:52:19,234 - ERROR - Unknown Exceptions for Bird-American Dipper
+2022-04-06 03:52:34,977 - ERROR - Unknown Exceptions for Bird-White-capped Dipper
+2022-04-06 03:52:50,945 - ERROR - Unknown Exceptions for Bird-Rufous-throated Dipper
+2022-04-06 03:53:07,409 - ERROR - Unknown Exceptions for Bird-Red-billed Oxpecker
+2022-04-06 03:53:24,509 - ERROR - Unknown Exceptions for Bird-Yellow-billed Oxpecker
+2022-04-06 03:53:42,367 - ERROR - Unknown Exceptions for Bird-Common Starling
+2022-04-06 03:53:59,063 - ERROR - Unknown Exceptions for Bird-Spotless Starling
+2022-04-06 03:54:16,664 - ERROR - Unknown Exceptions for Bird-Wattled Starling
+2022-04-06 03:54:33,307 - ERROR - Unknown Exceptions for Bird-Rosy Starling
+2022-04-06 03:54:49,833 - ERROR - Unknown Exceptions for Bird-Purple-backed Starling
+2022-04-06 03:55:05,747 - ERROR - Unknown Exceptions for Bird-Chestnut-cheeked Starling
+2022-04-06 03:55:25,928 - ERROR - Unknown Exceptions for Bird-Asian Pied Starling
+2022-04-06 03:55:43,076 - ERROR - Unknown Exceptions for Bird-Javan Pied Starling
+2022-04-06 03:55:59,575 - ERROR - Unknown Exceptions for Bird-Black-collared Starling
+2022-04-06 03:56:16,429 - ERROR - Unknown Exceptions for Bird-White-faced Starling
+2022-04-06 03:56:35,055 - ERROR - Unknown Exceptions for Bird-Bali Myna
+2022-04-06 03:56:57,413 - ERROR - Unknown Exceptions for Bird-Reunion Starling
+2022-04-06 03:57:12,986 - ERROR - Unknown Exceptions for Bird-Rodrigues Starling
+2022-04-06 03:57:29,018 - ERROR - Unknown Exceptions for Bird-White-shouldered Starling
+2022-04-06 03:57:45,849 - ERROR - Unknown Exceptions for Bird-Brahminy Starling
+2022-04-06 03:58:01,835 - ERROR - Unknown Exceptions for Bird-Chestnut-tailed Starling
+2022-04-06 03:58:18,270 - ERROR - Unknown Exceptions for Bird-White-headed Starling
+2022-04-06 03:58:36,969 - ERROR - Unknown Exceptions for Bird-Red-billed Starling
+2022-04-06 03:58:54,572 - ERROR - Unknown Exceptions for Bird-White-cheeked Starling
+2022-04-06 03:59:12,035 - ERROR - Unknown Exceptions for Bird-Common Myna
+2022-04-06 03:59:30,028 - ERROR - Unknown Exceptions for Bird-Bank Myna
+2022-04-06 03:59:47,754 - ERROR - Unknown Exceptions for Bird-Burmese Myna
+2022-04-06 04:00:06,264 - ERROR - Unknown Exceptions for Bird-Vinous-breasted Myna
+2022-04-06 04:00:23,666 - ERROR - Unknown Exceptions for Bird-Black-winged Myna
+2022-04-06 04:00:39,652 - ERROR - Unknown Exceptions for Bird-Jungle Myna
+2022-04-06 04:00:57,293 - ERROR - Unknown Exceptions for Bird-Pale-bellied Myna
+2022-04-06 04:01:14,953 - ERROR - Unknown Exceptions for Bird-Javan Myna
+2022-04-06 04:01:36,900 - ERROR - Unknown Exceptions for Bird-Collared Myna
+2022-04-06 04:01:53,207 - ERROR - Unknown Exceptions for Bird-Great Myna
+2022-04-06 04:02:11,372 - ERROR - Unknown Exceptions for Bird-Crested Myna
+2022-04-06 04:02:28,468 - ERROR - Unknown Exceptions for Bird-Slender-billed Starling
+2022-04-06 04:02:46,602 - ERROR - Unknown Exceptions for Bird-Pale-winged Starling
+2022-04-06 04:03:05,680 - ERROR - Unknown Exceptions for Bird-Neumann's Starling
+2022-04-06 04:03:24,144 - ERROR - Unknown Exceptions for Bird-Red-winged Starling
+2022-04-06 04:03:40,644 - ERROR - Unknown Exceptions for Bird-Chestnut-winged Starling
+2022-04-06 04:03:58,527 - ERROR - Unknown Exceptions for Bird-Waller's Starling
+2022-04-06 04:04:15,513 - ERROR - Unknown Exceptions for Bird-White-billed Starling
+2022-04-06 04:04:32,400 - ERROR - Unknown Exceptions for Bird-Tristram's Starling
+2022-04-06 04:04:49,174 - ERROR - Unknown Exceptions for Bird-Bristle-crowned Starling
+2022-04-06 04:05:08,279 - ERROR - Unknown Exceptions for Bird-Socotra Starling
+2022-04-06 04:05:24,484 - ERROR - Unknown Exceptions for Bird-Somali Starling
+2022-04-06 04:05:41,622 - ERROR - Unknown Exceptions for Bird-Spot-winged Starling
+2022-04-06 04:05:57,141 - ERROR - Unknown Exceptions for Bird-Babbling Starling
+2022-04-06 04:06:13,974 - ERROR - Unknown Exceptions for Bird-White-collared Starling
+2022-04-06 04:06:29,860 - ERROR - Unknown Exceptions for Bird-Magpie Starling
+2022-04-06 04:06:46,214 - ERROR - Unknown Exceptions for Bird-Sharpe's Starling
+2022-04-06 04:07:03,341 - ERROR - Unknown Exceptions for Bird-Stuhlmann's Starling
+2022-04-06 04:07:20,347 - ERROR - Unknown Exceptions for Bird-Kenrick's Starling
+2022-04-06 04:07:37,663 - ERROR - Unknown Exceptions for Bird-Narrow-tailed Starling
+2022-04-06 04:07:54,841 - ERROR - Unknown Exceptions for Bird-Abbott's Starling
+2022-04-06 04:08:11,361 - ERROR - Unknown Exceptions for Bird-Hildebrandt's Starling
+2022-04-06 04:08:28,887 - ERROR - Unknown Exceptions for Bird-Shelley's Starling
+2022-04-06 04:08:46,146 - ERROR - Unknown Exceptions for Bird-Burchell's Starling
+2022-04-06 04:09:06,178 - ERROR - Unknown Exceptions for Bird-Long-tailed Glossy Starling
+2022-04-06 04:09:23,544 - ERROR - Unknown Exceptions for Bird-Rüppell's Starling
+2022-04-06 04:09:40,199 - ERROR - Unknown Exceptions for Bird-Benguela Long-tailed Starling
+2022-04-06 04:09:57,515 - ERROR - Unknown Exceptions for Bird-Cunene Long-tailed Starling
+2022-04-06 04:10:17,512 - ERROR - Unknown Exceptions for Bird-Meves's Long-tailed Starling
+2022-04-06 04:10:35,112 - ERROR - Unknown Exceptions for Bird-Ashy Starling
+2022-04-06 04:10:52,014 - ERROR - Unknown Exceptions for Bird-Principe Starling
+2022-04-06 04:11:08,928 - ERROR - Unknown Exceptions for Bird-Splendid Starling
+2022-04-06 04:11:26,762 - ERROR - Unknown Exceptions for Bird-Golden-breasted Starling
+2022-04-06 04:11:44,176 - ERROR - Unknown Exceptions for Bird-Superb Starling
+2022-04-06 04:12:02,128 - ERROR - Unknown Exceptions for Bird-Chestnut-bellied Starling
+2022-04-06 04:12:18,827 - ERROR - Unknown Exceptions for Bird-African Pied Starling
+2022-04-06 04:12:35,650 - ERROR - Unknown Exceptions for Bird-White-crowned Starling
+2022-04-06 04:12:52,686 - ERROR - Unknown Exceptions for Bird-Fischer's Starling
+2022-04-06 04:13:09,828 - ERROR - Unknown Exceptions for Bird-Sharp-tailed Starling
+2022-04-06 04:13:26,767 - ERROR - Unknown Exceptions for Bird-Lesser Blue-eared Starling
+2022-04-06 04:13:43,085 - ERROR - Unknown Exceptions for Bird-Purple Starling
+2022-04-06 04:14:05,792 - ERROR - Unknown Exceptions for Bird-Bronze-tailed Starling
+2022-04-06 04:14:23,807 - ERROR - Unknown Exceptions for Bird-Cape Starling
+2022-04-06 04:14:40,621 - ERROR - Unknown Exceptions for Bird-Greater Blue-eared Starling
+2022-04-06 04:14:58,857 - ERROR - Unknown Exceptions for Bird-Emerald Starling
+2022-04-06 04:15:17,041 - ERROR - Unknown Exceptions for Bird-Madagascar Starling
+2022-04-06 04:15:33,642 - ERROR - Unknown Exceptions for Bird-Violet-backed Starling
+2022-04-06 04:15:50,114 - ERROR - Unknown Exceptions for Bird-Purple-headed Starling
+2022-04-06 04:16:11,659 - ERROR - Unknown Exceptions for Bird-Copper-tailed Starling
+2022-04-06 04:16:29,831 - ERROR - Unknown Exceptions for Bird-Black-bellied Starling
+2022-04-06 04:16:46,768 - ERROR - Unknown Exceptions for Bird-Stripe-headed Rhabdornis
+2022-04-06 04:17:03,758 - ERROR - Unknown Exceptions for Bird-Grand Rhabdornis
+2022-04-06 04:17:21,396 - ERROR - Unknown Exceptions for Bird-Visayan Rhabdornis
+2022-04-06 04:17:41,578 - ERROR - Unknown Exceptions for Bird-Stripe-breasted Rhabdornis
+2022-04-06 04:17:58,556 - ERROR - Unknown Exceptions for Bird-Sulawesi Myna
+2022-04-06 04:18:15,608 - ERROR - Unknown Exceptions for Bird-Helmeted Myna
+2022-04-06 04:18:32,923 - ERROR - Unknown Exceptions for Bird-Long-crested Myna
+2022-04-06 04:18:49,855 - ERROR - Unknown Exceptions for Bird-Apo Myna
+2022-04-06 04:19:08,113 - ERROR - Unknown Exceptions for Bird-Northern White-necked Myna
+2022-04-06 04:19:26,352 - ERROR - Unknown Exceptions for Bird-Southern White-necked Myna
+2022-04-06 04:19:44,898 - ERROR - Unknown Exceptions for Bird-Bare-eyed Myna
+2022-04-06 04:20:01,535 - ERROR - Unknown Exceptions for Bird-Coleto
+2022-04-06 04:20:18,135 - ERROR - Unknown Exceptions for Bird-Yellow-faced Myna
+2022-04-06 04:20:34,736 - ERROR - Unknown Exceptions for Bird-Long-tailed Myna
+2022-04-06 04:20:52,333 - ERROR - Unknown Exceptions for Bird-Golden Myna
+2022-04-06 04:21:14,100 - ERROR - Unknown Exceptions for Bird-Sri Lanka Hill Myna
+2022-04-06 04:21:30,509 - ERROR - Unknown Exceptions for Bird-Southern Hill Myna
+2022-04-06 04:21:48,463 - ERROR - Unknown Exceptions for Bird-Common Hill Myna
+2022-04-06 04:22:04,868 - ERROR - Unknown Exceptions for Bird-Tenggara Hill Myna
+2022-04-06 04:22:22,377 - ERROR - Unknown Exceptions for Bird-Nias Hill Myna
+2022-04-06 04:22:40,729 - ERROR - Unknown Exceptions for Bird-Golden-crested Myna
+2022-04-06 04:22:58,098 - ERROR - Unknown Exceptions for Bird-Fiery-browed Starling
+2022-04-06 04:23:15,973 - ERROR - Unknown Exceptions for Bird-Grosbeak Starling
+2022-04-06 04:23:35,905 - ERROR - Unknown Exceptions for Bird-Metallic Starling
+2022-04-06 04:23:53,505 - ERROR - Unknown Exceptions for Bird-Purple-chinned Starling
+2022-04-06 04:24:11,493 - ERROR - Unknown Exceptions for Bird-Yellow-eyed Starling
+2022-04-06 04:24:28,342 - ERROR - Unknown Exceptions for Bird-Singing Starling
+2022-04-06 04:24:45,119 - ERROR - Unknown Exceptions for Bird-Tanimbar Starling
+2022-04-06 04:25:01,762 - ERROR - Unknown Exceptions for Bird-Atoll Starling
+2022-04-06 04:25:19,013 - ERROR - Unknown Exceptions for Bird-Rennell Starling
+2022-04-06 04:25:35,835 - ERROR - Unknown Exceptions for Bird-Long-tailed Starling
+2022-04-06 04:25:52,514 - ERROR - Unknown Exceptions for Bird-White-eyed Starling
+2022-04-06 04:26:08,958 - ERROR - Unknown Exceptions for Bird-Brown-winged Starling
+2022-04-06 04:26:26,006 - ERROR - Unknown Exceptions for Bird-Makira Starling
+2022-04-06 04:26:45,381 - ERROR - Unknown Exceptions for Bird-Rusty-winged Starling
+2022-04-06 04:27:03,182 - ERROR - Unknown Exceptions for Bird-Striated Starling
+2022-04-06 04:27:20,172 - ERROR - Unknown Exceptions for Bird-Mountain Starling
+2022-04-06 04:27:38,964 - ERROR - Unknown Exceptions for Bird-Asian Glossy Starling
+2022-04-06 04:27:58,978 - ERROR - Unknown Exceptions for Bird-Moluccan Starling
+2022-04-06 04:28:16,184 - ERROR - Unknown Exceptions for Bird-Short-tailed Starling
+2022-04-06 04:28:33,385 - ERROR - Unknown Exceptions for Bird-Micronesian Starling
+2022-04-06 04:28:52,008 - ERROR - Unknown Exceptions for Bird-Pohnpei Starling
+2022-04-06 04:29:09,545 - ERROR - Unknown Exceptions for Bird-Polynesian Starling
+2022-04-06 04:29:26,962 - ERROR - Unknown Exceptions for Bird-Samoan Starling
+2022-04-06 04:29:45,018 - ERROR - Unknown Exceptions for Bird-Kosrae Starling
+2022-04-06 04:30:07,204 - ERROR - Unknown Exceptions for Bird-Rarotonga Starling
+2022-04-06 04:30:24,188 - ERROR - Unknown Exceptions for Bird-Raiatea Starling
+2022-04-06 04:30:41,548 - ERROR - Unknown Exceptions for Bird-Mysterious Starling
+2022-04-06 04:30:59,601 - ERROR - Unknown Exceptions for Bird-Norfolk Starling
+2022-04-06 04:31:18,276 - ERROR - Unknown Exceptions for Bird-Blue Mockingbird
+2022-04-06 04:31:35,176 - ERROR - Unknown Exceptions for Bird-Blue-and-white Mockingbird
+2022-04-06 04:31:52,762 - ERROR - Unknown Exceptions for Bird-Black Catbird
+2022-04-06 04:32:09,616 - ERROR - Unknown Exceptions for Bird-Grey Catbird
+2022-04-06 04:32:26,653 - ERROR - Unknown Exceptions for Bird-White-breasted Thrasher
+2022-04-06 04:32:43,406 - ERROR - Unknown Exceptions for Bird-Scaly-breasted Thrasher
+2022-04-06 04:33:00,866 - ERROR - Unknown Exceptions for Bird-Pearly-eyed Thrasher
+2022-04-06 04:33:18,023 - ERROR - Unknown Exceptions for Bird-Brown Trembler
+2022-04-06 04:33:39,193 - ERROR - Unknown Exceptions for Bird-Grey Trembler
+2022-04-06 04:33:55,504 - ERROR - Unknown Exceptions for Bird-Chilean Mockingbird
+2022-04-06 04:34:12,271 - ERROR - Unknown Exceptions for Bird-Patagonian Mockingbird
+2022-04-06 04:34:30,329 - ERROR - Unknown Exceptions for Bird-Chalk-browed Mockingbird
+2022-04-06 04:34:46,544 - ERROR - Unknown Exceptions for Bird-White-banded Mockingbird
+2022-04-06 04:35:03,561 - ERROR - Unknown Exceptions for Bird-Brown-backed Mockingbird
+2022-04-06 04:35:21,878 - ERROR - Unknown Exceptions for Bird-Long-tailed Mockingbird
+2022-04-06 04:35:38,948 - ERROR - Unknown Exceptions for Bird-Northern Mockingbird
+2022-04-06 04:35:56,779 - ERROR - Unknown Exceptions for Bird-Tropical Mockingbird
+2022-04-06 04:36:15,134 - ERROR - Unknown Exceptions for Bird-Socorro Mockingbird
+2022-04-06 04:36:34,143 - ERROR - Unknown Exceptions for Bird-Bahama Mockingbird
+2022-04-06 04:36:52,161 - ERROR - Unknown Exceptions for Bird-Floreana Mockingbird
+2022-04-06 04:37:09,224 - ERROR - Unknown Exceptions for Bird-Galapagos Mockingbird
+2022-04-06 04:37:26,480 - ERROR - Unknown Exceptions for Bird-Espanola Mockingbird
+2022-04-06 04:37:44,637 - ERROR - Unknown Exceptions for Bird-San Cristobal Mockingbird
+2022-04-06 04:38:03,405 - ERROR - Unknown Exceptions for Bird-Sage Thrasher
+2022-04-06 04:38:20,111 - ERROR - Unknown Exceptions for Bird-Curve-billed Thrasher
+2022-04-06 04:38:40,106 - ERROR - Unknown Exceptions for Bird-Ocellated Thrasher
+2022-04-06 04:38:56,876 - ERROR - Unknown Exceptions for Bird-Brown Thrasher
+2022-04-06 04:39:14,518 - ERROR - Unknown Exceptions for Bird-Long-billed Thrasher
+2022-04-06 04:39:32,807 - ERROR - Unknown Exceptions for Bird-Cozumel Thrasher
+2022-04-06 04:39:50,875 - ERROR - Unknown Exceptions for Bird-Bendire's Thrasher
+2022-04-06 04:40:08,485 - ERROR - Unknown Exceptions for Bird-Grey Thrasher
+2022-04-06 04:40:26,459 - ERROR - Unknown Exceptions for Bird-California Thrasher
+2022-04-06 04:40:44,497 - ERROR - Unknown Exceptions for Bird-Crissal Thrasher
+2022-04-06 04:41:00,919 - ERROR - Unknown Exceptions for Bird-Le Conte's Thrasher
+2022-04-06 04:41:20,439 - ERROR - Unknown Exceptions for Bird-Western Bluebird
+2022-04-06 04:41:38,321 - ERROR - Unknown Exceptions for Bird-Eastern Bluebird
+2022-04-06 04:41:56,029 - ERROR - Unknown Exceptions for Bird-Mountain Bluebird
+2022-04-06 04:42:13,779 - ERROR - Unknown Exceptions for Bird-Grandala
+2022-04-06 04:42:31,750 - ERROR - Unknown Exceptions for Bird-Red-tailed Ant-thrush
+2022-04-06 04:42:55,572 - ERROR - Unknown Exceptions for Bird-White-tailed Ant-thrush
+2022-04-06 04:43:15,026 - ERROR - Unknown Exceptions for Bird-Rufous Flycatcher-thrush
+2022-04-06 04:43:32,296 - ERROR - Unknown Exceptions for Bird-Finsch's Flycatcher-thrush
+2022-04-06 04:43:50,853 - ERROR - Unknown Exceptions for Bird-Townsend's Solitaire
+2022-04-06 04:44:09,037 - ERROR - Unknown Exceptions for Bird-Kamao
+2022-04-06 04:44:25,544 - ERROR - Unknown Exceptions for Bird-Amaui
+2022-04-06 04:44:43,332 - ERROR - Unknown Exceptions for Bird-Olomao
+2022-04-06 04:45:01,650 - ERROR - Unknown Exceptions for Bird-Omao
+2022-04-06 04:45:24,265 - ERROR - Unknown Exceptions for Bird-Puaiohi
+2022-04-06 04:45:43,914 - ERROR - Unknown Exceptions for Bird-Cuban Solitaire
+2022-04-06 04:46:01,685 - ERROR - Unknown Exceptions for Bird-Rufous-throated Solitaire
+2022-04-06 04:46:19,301 - ERROR - Unknown Exceptions for Bird-Brown-backed Solitaire
+2022-04-06 04:46:35,612 - ERROR - Unknown Exceptions for Bird-Slate-colored Solitaire
+2022-04-06 04:46:52,735 - ERROR - Unknown Exceptions for Bird-Black-faced Solitaire
+2022-04-06 04:47:12,485 - ERROR - Unknown Exceptions for Bird-Varied Solitaire
+2022-04-06 04:47:30,447 - ERROR - Unknown Exceptions for Bird-Andean Solitaire
+2022-04-06 04:47:49,034 - ERROR - Unknown Exceptions for Bird-Geomalia
+2022-04-06 04:48:05,909 - ERROR - Unknown Exceptions for Bird-Long-tailed Thrush
+2022-04-06 04:48:22,618 - ERROR - Unknown Exceptions for Bird-Alpine Thrush
+2022-04-06 04:48:43,781 - ERROR - Unknown Exceptions for Bird-Sichuan Forest Thrush
+2022-04-06 04:49:02,132 - ERROR - Unknown Exceptions for Bird-Himalayan Forest Thrush
+2022-04-06 04:49:20,733 - ERROR - Unknown Exceptions for Bird-Dark-sided Thrush
+2022-04-06 04:49:37,330 - ERROR - Unknown Exceptions for Bird-Long-billed Thrush
+2022-04-06 04:49:54,598 - ERROR - Unknown Exceptions for Bird-Everett's Thrush
+2022-04-06 04:50:11,900 - ERROR - Unknown Exceptions for Bird-Sunda Thrush
+2022-04-06 04:50:29,441 - ERROR - Unknown Exceptions for Bird-White's Thrush
+2022-04-06 04:50:50,242 - ERROR - Unknown Exceptions for Bird-Amami Thrush
+2022-04-06 04:51:10,523 - ERROR - Unknown Exceptions for Bird-Scaly Thrush
+2022-04-06 04:51:29,737 - ERROR - Unknown Exceptions for Bird-Fawn-breasted Thrush
+2022-04-06 04:51:46,982 - ERROR - Unknown Exceptions for Bird-Guadalcanal Thrush
+2022-04-06 04:52:05,192 - ERROR - Unknown Exceptions for Bird-Makira Thrush
+2022-04-06 04:52:21,028 - ERROR - Unknown Exceptions for Bird-Bassian Thrush
+2022-04-06 04:52:37,847 - ERROR - Unknown Exceptions for Bird-Russet-tailed Thrush
+2022-04-06 04:52:54,807 - ERROR - Unknown Exceptions for Bird-New Britain Thrush
+2022-04-06 04:53:12,982 - ERROR - Unknown Exceptions for Bird-Bougainville Thrush
+2022-04-06 04:53:30,207 - ERROR - Unknown Exceptions for Bird-Bonin Thrush
+2022-04-06 04:53:50,562 - ERROR - Unknown Exceptions for Bird-Varied Thrush
+2022-04-06 04:54:09,613 - ERROR - Unknown Exceptions for Bird-Black Solitaire
+2022-04-06 04:54:27,479 - ERROR - Unknown Exceptions for Bird-White-eared Solitaire
+2022-04-06 04:54:45,117 - ERROR - Unknown Exceptions for Bird-Chestnut-throated Solitaire
+2022-04-06 04:55:02,247 - ERROR - Unknown Exceptions for Bird-Peruvian Solitaire
+2022-04-06 04:55:20,779 - ERROR - Unknown Exceptions for Bird-Guianan Solitaire
+2022-04-06 04:55:38,397 - ERROR - Unknown Exceptions for Bird-Rufous-brown Solitaire
+2022-04-06 04:55:56,375 - ERROR - Unknown Exceptions for Bird-Aztec Thrush
+2022-04-06 04:56:19,840 - ERROR - Unknown Exceptions for Bird-Wood Thrush
+2022-04-06 04:56:40,213 - ERROR - Unknown Exceptions for Bird-Swainson's Thrush
+2022-04-06 04:56:58,420 - ERROR - Unknown Exceptions for Bird-Russet-backed Thrush
+2022-04-06 04:57:16,955 - ERROR - Unknown Exceptions for Bird-Veery
+2022-04-06 04:57:33,597 - ERROR - Unknown Exceptions for Bird-Grey-cheeked Thrush
+2022-04-06 04:57:50,235 - ERROR - Unknown Exceptions for Bird-Bicknell's Thrush
+2022-04-06 04:58:07,679 - ERROR - Unknown Exceptions for Bird-Hermit Thrush
+2022-04-06 04:58:25,510 - ERROR - Unknown Exceptions for Bird-Russet Nightingale-thrush
+2022-04-06 04:58:41,844 - ERROR - Unknown Exceptions for Bird-Ruddy-capped Nightingale-thrush
+2022-04-06 04:58:57,826 - ERROR - Unknown Exceptions for Bird-Black-billed Nightingale-thrush
+2022-04-06 04:59:19,009 - ERROR - Unknown Exceptions for Bird-Orange-billed Nightingale-thrush
+2022-04-06 04:59:36,464 - ERROR - Unknown Exceptions for Bird-Black-headed Nightingale-thrush
+2022-04-06 04:59:53,362 - ERROR - Unknown Exceptions for Bird-Gould's Nightingale-thrush
+2022-04-06 05:00:10,372 - ERROR - Unknown Exceptions for Bird-Sclater's Nightingale-thrush
+2022-04-06 05:00:28,279 - ERROR - Unknown Exceptions for Bird-Slaty-backed Nightingale-thrush
+2022-04-06 05:00:45,073 - ERROR - Unknown Exceptions for Bird-Fruithunter
+2022-04-06 05:01:06,222 - ERROR - Unknown Exceptions for Bird-Purple Cochoa
+2022-04-06 05:01:24,201 - ERROR - Unknown Exceptions for Bird-Green Cochoa
+2022-04-06 05:01:41,184 - ERROR - Unknown Exceptions for Bird-Sumatran Cochoa
+2022-04-06 05:01:58,182 - ERROR - Unknown Exceptions for Bird-Javan Cochoa
+2022-04-06 05:02:14,629 - ERROR - Unknown Exceptions for Bird-Siberian Thrush
+2022-04-06 05:02:31,845 - ERROR - Unknown Exceptions for Bird-Pied Thrush
+2022-04-06 05:02:48,969 - ERROR - Unknown Exceptions for Bird-Spotted Ground-thrush
+2022-04-06 05:03:06,482 - ERROR - Unknown Exceptions for Bird-Spot-winged Thrush
+2022-04-06 05:03:24,493 - ERROR - Unknown Exceptions for Bird-Orange-headed Thrush
+2022-04-06 05:03:43,713 - ERROR - Unknown Exceptions for Bird-Ashy Thrush
+2022-04-06 05:04:01,428 - ERROR - Unknown Exceptions for Bird-Red-backed Thrush
+2022-04-06 05:04:18,271 - ERROR - Unknown Exceptions for Bird-Red-and-black Thrush
+2022-04-06 05:04:35,986 - ERROR - Unknown Exceptions for Bird-Slaty-backed Thrush
+2022-04-06 05:04:52,432 - ERROR - Unknown Exceptions for Bird-Orange-banded Thrush
+2022-04-06 05:05:09,037 - ERROR - Unknown Exceptions for Bird-Chestnut-backed Thrush
+2022-04-06 05:05:31,048 - ERROR - Unknown Exceptions for Bird-Chestnut-capped Thrush
+2022-04-06 05:05:49,069 - ERROR - Unknown Exceptions for Bird-Enggano Thrush
+2022-04-06 05:06:06,108 - ERROR - Unknown Exceptions for Bird-Buru Thrush
+2022-04-06 05:06:24,219 - ERROR - Unknown Exceptions for Bird-Seram Thrush
+2022-04-06 05:06:41,344 - ERROR - Unknown Exceptions for Bird-Orange Ground-thrush
+2022-04-06 05:06:59,075 - ERROR - Unknown Exceptions for Bird-Oberländer's Ground-thrush
+2022-04-06 05:07:16,545 - ERROR - Unknown Exceptions for Bird-Crossley's Ground-thrush
+2022-04-06 05:07:34,265 - ERROR - Unknown Exceptions for Bird-Abyssinian Ground-thrush
+2022-04-06 05:07:51,475 - ERROR - Unknown Exceptions for Bird-Black-eared Ground-thrush
+2022-04-06 05:08:10,922 - ERROR - Unknown Exceptions for Bird-Grey Ground-thrush
+2022-04-06 05:08:29,189 - ERROR - Unknown Exceptions for Bird-Chinese Thrush
+2022-04-06 05:08:46,844 - ERROR - Unknown Exceptions for Bird-Ethiopian Thrush
+2022-04-06 05:09:04,873 - ERROR - Unknown Exceptions for Bird-Groundscraper Thrush
+2022-04-06 05:09:22,746 - ERROR - Unknown Exceptions for Bird-Mistle Thrush
+2022-04-06 05:09:40,028 - ERROR - Unknown Exceptions for Bird-Song Thrush
+2022-04-06 05:09:56,840 - ERROR - Unknown Exceptions for Bird-Abyssinian Thrush
+2022-04-06 05:10:15,626 - ERROR - Unknown Exceptions for Bird-Taita Thrush
+2022-04-06 05:10:33,405 - ERROR - Unknown Exceptions for Bird-Usambara Thrush
+2022-04-06 05:10:49,548 - ERROR - Unknown Exceptions for Bird-Redwing
+2022-04-06 05:11:07,212 - ERROR - Unknown Exceptions for Bird-Mountain Thrush
+2022-04-06 05:11:25,195 - ERROR - Unknown Exceptions for Bird-Eurasian Blackbird
+2022-04-06 05:11:42,474 - ERROR - Unknown Exceptions for Bird-Pale-breasted Thrush
+2022-04-06 05:11:59,294 - ERROR - Unknown Exceptions for Bird-Cocoa Thrush
+2022-04-06 05:12:32,038 - ERROR - Unknown Exceptions for Bird-Hauxwell's Thrush
+2022-04-06 05:12:49,682 - ERROR - Unknown Exceptions for Bird-Yellow-legged Thrush
+2022-04-06 05:13:06,382 - ERROR - Unknown Exceptions for Bird-Lawrence's Thrush
+2022-04-06 05:13:24,894 - ERROR - Unknown Exceptions for Bird-Pale-vented Thrush
+2022-04-06 05:13:43,016 - ERROR - Unknown Exceptions for Bird-White-throated Thrush
+2022-04-06 05:14:01,465 - ERROR - Unknown Exceptions for Bird-White-necked Thrush
+2022-04-06 05:14:19,320 - ERROR - Unknown Exceptions for Bird-Rufous-bellied Thrush
+2022-04-06 05:14:37,684 - ERROR - Unknown Exceptions for Bird-Ecuadorian Thrush
+2022-04-06 05:14:55,406 - ERROR - Unknown Exceptions for Bird-Clay-colored Thrush
+2022-04-06 05:15:12,475 - ERROR - Unknown Exceptions for Bird-Unicolored Thrush
+2022-04-06 05:15:29,257 - ERROR - Unknown Exceptions for Bird-Varzea Thrush
+2022-04-06 05:15:47,213 - ERROR - Unknown Exceptions for Bird-Spectacled Thrush
+2022-04-06 05:16:05,743 - ERROR - Unknown Exceptions for Bird-Chinese Blackbird
+2022-04-06 05:16:24,035 - ERROR - Unknown Exceptions for Bird-Somali Thrush
+2022-04-06 05:16:42,220 - ERROR - Unknown Exceptions for Bird-Bare-eyed Thrush
+2022-04-06 05:17:00,479 - ERROR - Unknown Exceptions for Bird-Comoro Thrush
+2022-04-06 05:17:17,183 - ERROR - Unknown Exceptions for Bird-Kurrichane Thrush
+2022-04-06 05:17:34,632 - ERROR - Unknown Exceptions for Bird-Yemen Thrush
+2022-04-06 05:17:52,075 - ERROR - Unknown Exceptions for Bird-Olive Thrush
+2022-04-06 05:18:09,389 - ERROR - Unknown Exceptions for Bird-Karoo Thrush
+2022-04-06 05:18:27,654 - ERROR - Unknown Exceptions for Bird-Forest Thrush
+2022-04-06 05:18:46,085 - ERROR - Unknown Exceptions for Bird-Pale-eyed Thrush
+2022-04-06 05:19:03,284 - ERROR - Unknown Exceptions for Bird-White-eyed Thrush
+2022-04-06 05:19:19,844 - ERROR - Unknown Exceptions for Bird-La Selle Thrush
+2022-04-06 05:19:37,251 - ERROR - Unknown Exceptions for Bird-Black Thrush
+2022-04-06 05:19:53,488 - ERROR - Unknown Exceptions for Bird-Sooty Thrush
+2022-04-06 05:20:10,322 - ERROR - Unknown Exceptions for Bird-American Robin
+2022-04-06 05:20:27,373 - ERROR - Unknown Exceptions for Bird-San Lucas Robin
+2022-04-06 05:20:45,329 - ERROR - Unknown Exceptions for Bird-Rufous-collared Thrush
+2022-04-06 05:21:02,430 - ERROR - Unknown Exceptions for Bird-Rufous-backed Thrush
+2022-04-06 05:21:21,482 - ERROR - Unknown Exceptions for Bird-Austral Thrush
+2022-04-06 05:21:39,640 - ERROR - Unknown Exceptions for Bird-Plumbeous-backed Thrush
+2022-04-06 05:21:56,731 - ERROR - Unknown Exceptions for Bird-Chestnut-bellied Thrush
+2022-04-06 05:22:16,155 - ERROR - Unknown Exceptions for Bird-Black-hooded Thrush
+2022-04-06 05:22:33,210 - ERROR - Unknown Exceptions for Bird-Chiguanco Thrush
+2022-04-06 05:22:50,850 - ERROR - Unknown Exceptions for Bird-Sombre Thrush
+2022-04-06 05:23:07,677 - ERROR - Unknown Exceptions for Bird-Great Thrush
+2022-04-06 05:23:24,745 - ERROR - Unknown Exceptions for Bird-Andean Slaty Thrush
+2022-04-06 05:23:41,345 - ERROR - Unknown Exceptions for Bird-Eastern Slaty Thrush
+2022-04-06 05:24:00,579 - ERROR - Unknown Exceptions for Bird-Glossy-black Thrush
+2022-04-06 05:24:17,895 - ERROR - Unknown Exceptions for Bird-Tristan Thrush
+2022-04-06 05:24:34,992 - ERROR - Unknown Exceptions for Bird-Creamy-bellied Thrush
+2022-04-06 05:24:54,397 - ERROR - Unknown Exceptions for Bird-Black-billed Thrush
+2022-04-06 05:25:12,647 - ERROR - Unknown Exceptions for Bird-Floodplain Thrush
+2022-04-06 05:25:29,996 - ERROR - Unknown Exceptions for Bird-Campina Thrush
+2022-04-06 05:25:46,683 - ERROR - Unknown Exceptions for Bird-Maranon Thrush
+2022-04-06 05:26:07,174 - ERROR - Unknown Exceptions for Bird-Principe Thrush
+2022-04-06 05:26:24,022 - ERROR - Unknown Exceptions for Bird-Sao Tome Thrush
+2022-04-06 05:26:40,247 - ERROR - Unknown Exceptions for Bird-White-chinned Thrush
+2022-04-06 05:26:58,596 - ERROR - Unknown Exceptions for Bird-Grand Cayman Thrush
+2022-04-06 05:27:16,805 - ERROR - Unknown Exceptions for Bird-Northern Red-legged Thrush
+2022-04-06 05:27:34,360 - ERROR - Unknown Exceptions for Bird-Western Red-legged Thrush
+2022-04-06 05:27:52,832 - ERROR - Unknown Exceptions for Bird-Eastern Red-legged Thrush
+2022-04-06 05:28:12,879 - ERROR - Unknown Exceptions for Bird-African Thrush
+2022-04-06 05:28:30,368 - ERROR - Unknown Exceptions for Bird-Taiwan Thrush
+2022-04-06 05:28:48,203 - ERROR - Unknown Exceptions for Bird-Grey-winged Blackbird
+2022-04-06 05:29:08,194 - ERROR - Unknown Exceptions for Bird-Indian Blackbird
+2022-04-06 05:29:25,993 - ERROR - Unknown Exceptions for Bird-Japanese Thrush
+2022-04-06 05:29:42,663 - ERROR - Unknown Exceptions for Bird-Grey-backed Thrush
+2022-04-06 05:29:59,838 - ERROR - Unknown Exceptions for Bird-Black-breasted Thrush
+2022-04-06 05:30:20,683 - ERROR - Unknown Exceptions for Bird-Tickell's Thrush
+2022-04-06 05:30:37,637 - ERROR - Unknown Exceptions for Bird-Eyebrowed Thrush
+2022-04-06 05:30:56,117 - ERROR - Unknown Exceptions for Bird-Grey-sided Thrush
+2022-04-06 05:31:13,914 - ERROR - Unknown Exceptions for Bird-Izu Thrush
+2022-04-06 05:31:30,507 - ERROR - Unknown Exceptions for Bird-Brown-headed Thrush
+2022-04-06 05:31:48,229 - ERROR - Unknown Exceptions for Bird-Pale Thrush
+2022-04-06 05:32:04,814 - ERROR - Unknown Exceptions for Bird-Island Thrush
+2022-04-06 05:32:26,192 - ERROR - Unknown Exceptions for Bird-White-backed Thrush
+2022-04-06 05:32:43,672 - ERROR - Unknown Exceptions for Bird-Tibetan Blackbird
+2022-04-06 05:33:01,207 - ERROR - Unknown Exceptions for Bird-Fieldfare
+2022-04-06 05:33:19,010 - ERROR - Unknown Exceptions for Bird-White-collared Blackbird
+2022-04-06 05:33:36,080 - ERROR - Unknown Exceptions for Bird-Chestnut Thrush
+2022-04-06 05:33:55,061 - ERROR - Unknown Exceptions for Bird-Ring Ouzel
+2022-04-06 05:34:13,200 - ERROR - Unknown Exceptions for Bird-Naumann's Thrush
+2022-04-06 05:34:29,722 - ERROR - Unknown Exceptions for Bird-Dusky Thrush
+2022-04-06 05:34:48,511 - ERROR - Unknown Exceptions for Bird-Black-throated Thrush
+2022-04-06 05:35:05,001 - ERROR - Unknown Exceptions for Bird-Rufous-throated Thrush
+2022-04-06 05:35:22,383 - ERROR - Unknown Exceptions for Bird-Sulawesi Thrush
+2022-04-06 05:35:39,369 - ERROR - Unknown Exceptions for Bird-White-tailed Alethe
+2022-04-06 05:35:56,709 - ERROR - Unknown Exceptions for Bird-Fire-crested Alethe
+2022-04-06 05:36:14,758 - ERROR - Unknown Exceptions for Bird-Karoo Scrub-robin
+2022-04-06 05:36:32,392 - ERROR - Unknown Exceptions for Bird-Brown Scrub-robin
+2022-04-06 05:36:49,831 - ERROR - Unknown Exceptions for Bird-Forest Scrub-robin
+2022-04-06 05:37:07,341 - ERROR - Unknown Exceptions for Bird-Bearded Scrub-robin
+2022-04-06 05:37:23,832 - ERROR - Unknown Exceptions for Bird-Miombo Scrub-robin
+2022-04-06 05:37:45,144 - ERROR - Unknown Exceptions for Bird-Kalahari Scrub-robin
+2022-04-06 05:38:03,115 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Scrub-robin
+2022-04-06 05:38:21,355 - ERROR - Unknown Exceptions for Bird-Black Scrub-robin
+2022-04-06 05:38:38,952 - ERROR - Unknown Exceptions for Bird-Brown-backed Scrub-robin
+2022-04-06 05:38:57,364 - ERROR - Unknown Exceptions for Bird-White-browed Scrub-robin
+2022-04-06 05:39:15,749 - ERROR - Unknown Exceptions for Bird-Philippine Magpie-robin
+2022-04-06 05:39:34,344 - ERROR - Unknown Exceptions for Bird-Pelzeln's Magpie-robin
+2022-04-06 05:39:51,497 - ERROR - Unknown Exceptions for Bird-Madagascar Magpie-robin
+2022-04-06 05:40:09,690 - ERROR - Unknown Exceptions for Bird-Seychelles Magpie-robin
+2022-04-06 05:40:32,558 - ERROR - Unknown Exceptions for Bird-Oriental Magpie-robin
+2022-04-06 05:40:50,401 - ERROR - Unknown Exceptions for Bird-Indian Robin
+2022-04-06 05:41:07,504 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Shama
+2022-04-06 05:41:26,789 - ERROR - Unknown Exceptions for Bird-White-browed Shama
+2022-04-06 05:41:47,057 - ERROR - Unknown Exceptions for Bird-Visayan Shama
+2022-04-06 05:42:04,802 - ERROR - Unknown Exceptions for Bird-White-rumped Shama
+2022-04-06 05:42:21,308 - ERROR - Unknown Exceptions for Bird-Andaman Shama
+2022-04-06 05:42:38,118 - ERROR - Unknown Exceptions for Bird-White-vented Shama
+2022-04-06 05:42:54,551 - ERROR - Unknown Exceptions for Bird-Black Shama
+2022-04-06 05:43:12,659 - ERROR - Unknown Exceptions for Bird-Grey-streaked Flycatcher
+2022-04-06 05:43:30,685 - ERROR - Unknown Exceptions for Bird-Dark-sided Flycatcher
+2022-04-06 05:43:48,091 - ERROR - Unknown Exceptions for Bird-Ferruginous Flycatcher
+2022-04-06 05:44:04,924 - ERROR - Unknown Exceptions for Bird-Brown-breasted Flycatcher
+2022-04-06 05:44:21,207 - ERROR - Unknown Exceptions for Bird-Asian Brown Flycatcher
+2022-04-06 05:44:40,377 - ERROR - Unknown Exceptions for Bird-Ashy-breasted Flycatcher
+2022-04-06 05:44:58,867 - ERROR - Unknown Exceptions for Bird-Sumba Brown Flycatcher
+2022-04-06 05:45:15,949 - ERROR - Unknown Exceptions for Bird-Little Grey Flycatcher
+2022-04-06 05:45:33,728 - ERROR - Unknown Exceptions for Bird-African Dusky Flycatcher
+2022-04-06 05:45:51,097 - ERROR - Unknown Exceptions for Bird-Yellow-footed Flycatcher
+2022-04-06 05:46:14,690 - ERROR - Unknown Exceptions for Bird-Gambaga Flycatcher
+2022-04-06 05:46:32,427 - ERROR - Unknown Exceptions for Bird-Spotted Flycatcher
+2022-04-06 05:46:49,676 - ERROR - Unknown Exceptions for Bird-Swamp Flycatcher
+2022-04-06 05:47:09,632 - ERROR - Unknown Exceptions for Bird-Cassin's Flycatcher
+2022-04-06 05:47:26,922 - ERROR - Unknown Exceptions for Bird-Böhm's Flycatcher
+2022-04-06 05:47:44,545 - ERROR - Unknown Exceptions for Bird-Sooty Flycatcher
+2022-04-06 05:48:02,743 - ERROR - Unknown Exceptions for Bird-Ussher's Flycatcher
+2022-04-06 05:48:21,306 - ERROR - Unknown Exceptions for Bird-Dusky-blue Flycatcher
+2022-04-06 05:48:38,656 - ERROR - Unknown Exceptions for Bird-African Grey Flycatcher
+2022-04-06 05:48:58,315 - ERROR - Unknown Exceptions for Bird-Mariqua Flycatcher
+2022-04-06 05:49:14,767 - ERROR - Unknown Exceptions for Bird-Pale Flycatcher
+2022-04-06 05:49:31,733 - ERROR - Unknown Exceptions for Bird-Chat-flycatcher
+2022-04-06 05:49:49,134 - ERROR - Unknown Exceptions for Bird-White-browed Forest-flycatcher
+2022-04-06 05:50:06,751 - ERROR - Unknown Exceptions for Bird-African Forest-flycatcher
+2022-04-06 05:50:26,461 - ERROR - Unknown Exceptions for Bird-Grey Tit-flycatcher
+2022-04-06 05:50:43,348 - ERROR - Unknown Exceptions for Bird-Grey-throated Tit-flycatcher
+2022-04-06 05:51:00,811 - ERROR - Unknown Exceptions for Bird-Ashy Flycatcher
+2022-04-06 05:51:20,052 - ERROR - Unknown Exceptions for Bird-Tessmann's Flycatcher
+2022-04-06 05:51:38,258 - ERROR - Unknown Exceptions for Bird-Olivaceous Flycatcher
+2022-04-06 05:51:57,328 - ERROR - Unknown Exceptions for Bird-Chapin's Flycatcher
+2022-04-06 05:52:14,844 - ERROR - Unknown Exceptions for Bird-Humblot's Flycatcher
+2022-04-06 05:52:31,630 - ERROR - Unknown Exceptions for Bird-Fiscal Flycatcher
+2022-04-06 05:52:49,617 - ERROR - Unknown Exceptions for Bird-Herero Chat
+2022-04-06 05:53:07,539 - ERROR - Unknown Exceptions for Bird-Silverbird
+2022-04-06 05:53:24,276 - ERROR - Unknown Exceptions for Bird-Abyssinian Slaty-flycatcher
+2022-04-06 05:53:46,610 - ERROR - Unknown Exceptions for Bird-Angola Slaty-flycatcher
+2022-04-06 05:54:04,632 - ERROR - Unknown Exceptions for Bird-White-eyed Slaty-flycatcher
+2022-04-06 05:54:21,087 - ERROR - Unknown Exceptions for Bird-Yellow-eyed Black-flycatcher
+2022-04-06 05:54:39,112 - ERROR - Unknown Exceptions for Bird-Nimba Flycatcher
+2022-04-06 05:54:56,228 - ERROR - Unknown Exceptions for Bird-Northern Black-flycatcher
+2022-04-06 05:55:13,787 - ERROR - Unknown Exceptions for Bird-Southern Black-flycatcher
+2022-04-06 05:55:33,378 - ERROR - Unknown Exceptions for Bird-Rufous-bellied Niltava
+2022-04-06 05:55:50,752 - ERROR - Unknown Exceptions for Bird-Small Niltava
+2022-04-06 05:56:07,714 - ERROR - Unknown Exceptions for Bird-Rufous-vented Niltava
+2022-04-06 05:56:25,682 - ERROR - Unknown Exceptions for Bird-Large Vivid Niltava
+2022-04-06 05:56:42,155 - ERROR - Unknown Exceptions for Bird-Small Vivid Niltava
+2022-04-06 05:56:59,446 - ERROR - Unknown Exceptions for Bird-Fujian Niltava
+2022-04-06 05:57:20,905 - ERROR - Unknown Exceptions for Bird-Large Niltava
+2022-04-06 05:57:38,586 - ERROR - Unknown Exceptions for Bird-Zappey's Flycatcher
+2022-04-06 05:57:56,514 - ERROR - Unknown Exceptions for Bird-Blue-and-white Flycatcher
+2022-04-06 05:58:19,856 - ERROR - Unknown Exceptions for Bird-Nilgiri Flycatcher
+2022-04-06 05:58:37,640 - ERROR - Unknown Exceptions for Bird-Rufous-vented Flycatcher
+2022-04-06 05:58:54,781 - ERROR - Unknown Exceptions for Bird-Indigo Flycatcher
+2022-04-06 05:59:13,165 - ERROR - Unknown Exceptions for Bird-Dull-blue Flycatcher
+2022-04-06 05:59:31,392 - ERROR - Unknown Exceptions for Bird-Verditer Flycatcher
+2022-04-06 05:59:47,487 - ERROR - Unknown Exceptions for Bird-Turquoise Flycatcher
+2022-04-06 06:00:05,383 - ERROR - Unknown Exceptions for Bird-Streaky-breasted Jungle-flycatcher
+2022-04-06 06:00:24,727 - ERROR - Unknown Exceptions for Bird-White-gorgeted Flycatcher
+2022-04-06 06:00:39,669 - ERROR - Unknown Exceptions for Bird-Rufous-browed Flycatcher
+2022-04-06 06:00:55,476 - ERROR - Unknown Exceptions for Bird-Russet-backed Jungle-flycatcher
+2022-04-06 06:01:13,472 - ERROR - Unknown Exceptions for Bird-Sumba Jungle-flycatcher
+2022-04-06 06:01:30,807 - ERROR - Unknown Exceptions for Bird-Nicobar Jungle-flycatcher
+2022-04-06 06:01:50,096 - ERROR - Unknown Exceptions for Bird-Brown-chested Jungle-flycatcher
+2022-04-06 06:02:07,726 - ERROR - Unknown Exceptions for Bird-Fulvous-chested Jungle-flycatcher
+2022-04-06 06:02:28,744 - ERROR - Unknown Exceptions for Bird-Grey-chested Jungle-flycatcher
+2022-04-06 06:02:46,963 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Jungle-flycatcher
+2022-04-06 06:03:05,426 - ERROR - Unknown Exceptions for Bird-Henna-tailed Jungle-flycatcher
+2022-04-06 06:03:23,746 - ERROR - Unknown Exceptions for Bird-Pale Blue-flycatcher
+2022-04-06 06:03:42,915 - ERROR - Unknown Exceptions for Bird-Rück's Blue-flycatcher
+2022-04-06 06:04:01,865 - ERROR - Unknown Exceptions for Bird-Blue-breasted Blue-flycatcher
+2022-04-06 06:04:19,436 - ERROR - Unknown Exceptions for Bird-Rufous-breasted Blue-flycatcher
+2022-04-06 06:04:37,065 - ERROR - Unknown Exceptions for Bird-White-bellied Blue-flycatcher
+2022-04-06 06:04:55,114 - ERROR - Unknown Exceptions for Bird-Pale-chinned Flycatcher
+2022-04-06 06:05:14,765 - ERROR - Unknown Exceptions for Bird-Large Blue-flycatcher
+2022-04-06 06:05:32,962 - ERROR - Unknown Exceptions for Bird-Hill Blue-flycatcher
+2022-04-06 06:05:49,938 - ERROR - Unknown Exceptions for Bird-Palawan Blue-flycatcher
+2022-04-06 06:06:06,817 - ERROR - Unknown Exceptions for Bird-Tickell's Blue-flycatcher
+2022-04-06 06:06:23,829 - ERROR - Unknown Exceptions for Bird-Indochinese Blue-flycatcher
+2022-04-06 06:06:41,007 - ERROR - Unknown Exceptions for Bird-Large-billed Blue-flycatcher
+2022-04-06 06:06:58,853 - ERROR - Unknown Exceptions for Bird-Bornean Blue-flycatcher
+2022-04-06 06:07:16,397 - ERROR - Unknown Exceptions for Bird-Chinese Blue-flycatcher
+2022-04-06 06:07:33,987 - ERROR - Unknown Exceptions for Bird-Hainan Blue-flycatcher
+2022-04-06 06:07:53,417 - ERROR - Unknown Exceptions for Bird-Blue-throated Blue-flycatcher
+2022-04-06 06:08:10,652 - ERROR - Unknown Exceptions for Bird-Malay Blue-flycatcher
+2022-04-06 06:08:28,680 - ERROR - Unknown Exceptions for Bird-Mangrove Blue-flycatcher
+2022-04-06 06:08:45,103 - ERROR - Unknown Exceptions for Bird-Sulawesi Blue-flycatcher
+2022-04-06 06:09:00,939 - ERROR - Unknown Exceptions for Bird-Tanahjampea Blue-flycatcher
+2022-04-06 06:09:18,073 - ERROR - Unknown Exceptions for Bird-Timor Blue-flycatcher
+2022-04-06 06:09:37,456 - ERROR - Unknown Exceptions for Bird-Blue-fronted Flycatcher
+2022-04-06 06:09:58,399 - ERROR - Unknown Exceptions for Bird-Matinan Flycatcher
+2022-04-06 06:10:16,117 - ERROR - Unknown Exceptions for Bird-White-tailed Flycatcher
+2022-04-06 06:10:33,323 - ERROR - Unknown Exceptions for Bird-Angola Cave-chat
+2022-04-06 06:10:50,876 - ERROR - Unknown Exceptions for Bird-Cape Robin-chat
+2022-04-06 06:11:07,670 - ERROR - Unknown Exceptions for Bird-Mbulu Robin-chat
+2022-04-06 06:11:24,568 - ERROR - Unknown Exceptions for Bird-Rusty-flanked Robin-chat
+2022-04-06 06:11:40,769 - ERROR - Unknown Exceptions for Bird-Olive-flanked Robin-chat
+2022-04-06 06:11:59,323 - ERROR - Unknown Exceptions for Bird-Archer's Robin-chat
+2022-04-06 06:12:16,287 - ERROR - Unknown Exceptions for Bird-White-throated Robin-chat
+2022-04-06 06:12:37,871 - ERROR - Unknown Exceptions for Bird-European Robin
+2022-04-06 06:12:55,397 - ERROR - Unknown Exceptions for Bird-White-starred Robin
+2022-04-06 06:13:12,420 - ERROR - Unknown Exceptions for Bird-Mountain Robin-chat
+2022-04-06 06:13:30,936 - ERROR - Unknown Exceptions for Bird-White-bellied Robin-chat
+2022-04-06 06:13:47,818 - ERROR - Unknown Exceptions for Bird-Swynnerton's Robin
+2022-04-06 06:14:05,755 - ERROR - Unknown Exceptions for Bird-Red-throated Alethe
+2022-04-06 06:14:23,453 - ERROR - Unknown Exceptions for Bird-Brown-chested Alethe
+2022-04-06 06:14:39,924 - ERROR - Unknown Exceptions for Bird-White-chested Alethe
+2022-04-06 06:14:57,283 - ERROR - Unknown Exceptions for Bird-Thyolo Alethe
+2022-04-06 06:15:14,436 - ERROR - Unknown Exceptions for Bird-Blue-shouldered Robin-chat
+2022-04-06 06:15:34,586 - ERROR - Unknown Exceptions for Bird-Rüppell's Robin-Chat
+2022-04-06 06:15:52,623 - ERROR - Unknown Exceptions for Bird-White-browed Robin-chat
+2022-04-06 06:16:09,977 - ERROR - Unknown Exceptions for Bird-Red-capped Robin-chat
+2022-04-06 06:16:27,222 - ERROR - Unknown Exceptions for Bird-Chorister Robin-chat
+2022-04-06 06:16:45,208 - ERROR - Unknown Exceptions for Bird-White-headed Robin-chat
+2022-04-06 06:17:02,310 - ERROR - Unknown Exceptions for Bird-Snowy-crowned Robin-chat
+2022-04-06 06:17:19,057 - ERROR - Unknown Exceptions for Bird-White-crowned Robin-chat
+2022-04-06 06:17:39,365 - ERROR - Unknown Exceptions for Bird-Orange-breasted Forest-robin
+2022-04-06 06:17:57,030 - ERROR - Unknown Exceptions for Bird-Yellow-breasted Forest-robin
+2022-04-06 06:18:15,145 - ERROR - Unknown Exceptions for Bird-Olive-backed Forest-robin
+2022-04-06 06:18:31,964 - ERROR - Unknown Exceptions for Bird-Collared Palm-thrush
+2022-04-06 06:18:49,017 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Palm-thrush
+2022-04-06 06:19:05,779 - ERROR - Unknown Exceptions for Bird-Spotted Palm-thrush
+2022-04-06 06:19:24,007 - ERROR - Unknown Exceptions for Bird-Usambara Akalat
+2022-04-06 06:19:40,544 - ERROR - Unknown Exceptions for Bird-Iringa Akalat
+2022-04-06 06:19:57,828 - ERROR - Unknown Exceptions for Bird-Rubeho Akalat
+2022-04-06 06:20:16,172 - ERROR - Unknown Exceptions for Bird-Gabela Akalat
+2022-04-06 06:20:33,184 - ERROR - Unknown Exceptions for Bird-Equatorial Akalat
+2022-04-06 06:20:50,418 - ERROR - Unknown Exceptions for Bird-Lowland Akalat
+2022-04-06 06:21:07,697 - ERROR - Unknown Exceptions for Bird-East Coast Akalat
+2022-04-06 06:21:26,373 - ERROR - Unknown Exceptions for Bird-Sharpe's Akalat
+2022-04-06 06:21:45,856 - ERROR - Unknown Exceptions for Bird-Grey-winged Akalat
+2022-04-06 06:22:02,272 - ERROR - Unknown Exceptions for Bird-Short-tailed Akalat
+2022-04-06 06:22:19,456 - ERROR - Unknown Exceptions for Bird-Bocage's Akalat
+2022-04-06 06:22:40,804 - ERROR - Unknown Exceptions for Bird-Minahasa Shortwing
+2022-04-06 06:23:05,744 - ERROR - Unknown Exceptions for Bird-Great Shortwing
+2022-04-06 06:23:24,363 - ERROR - Unknown Exceptions for Bird-Eyebrowed Jungle-flycatcher
+2022-04-06 06:23:42,827 - ERROR - Unknown Exceptions for Bird-White-throated Jungle-flycatcher
+2022-04-06 06:23:59,998 - ERROR - Unknown Exceptions for Bird-White-browed Jungle-flycatcher
+2022-04-06 06:24:16,650 - ERROR - Unknown Exceptions for Bird-Slaty-backed Jungle-flycatcher
+2022-04-06 06:24:37,433 - ERROR - Unknown Exceptions for Bird-Gould's Shortwing
+2022-04-06 06:24:57,837 - ERROR - Unknown Exceptions for Bird-Rusty-bellied Shortwing
+2022-04-06 06:25:16,128 - ERROR - Unknown Exceptions for Bird-Lesser Shortwing
+2022-04-06 06:25:36,505 - ERROR - Unknown Exceptions for Bird-Himalayan Shortwing
+2022-04-06 06:25:53,696 - ERROR - Unknown Exceptions for Bird-Chinese Shortwing
+2022-04-06 06:26:10,383 - ERROR - Unknown Exceptions for Bird-Taiwan Shortwing
+2022-04-06 06:26:27,198 - ERROR - Unknown Exceptions for Bird-Philippine Shortwing
+2022-04-06 06:26:45,180 - ERROR - Unknown Exceptions for Bird-Bornean Shortwing
+2022-04-06 06:27:04,947 - ERROR - Unknown Exceptions for Bird-Sumatran Shortwing
+2022-04-06 06:27:22,650 - ERROR - Unknown Exceptions for Bird-Javan Shortwing
+2022-04-06 06:27:38,859 - ERROR - Unknown Exceptions for Bird-Flores Shortwing
+2022-04-06 06:27:56,792 - ERROR - Unknown Exceptions for Bird-Rufous-headed Robin
+2022-04-06 06:28:14,315 - ERROR - Unknown Exceptions for Bird-Indian Blue Robin
+2022-04-06 06:28:32,027 - ERROR - Unknown Exceptions for Bird-Siberian Blue Robin
+2022-04-06 06:28:52,673 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Robin
+2022-04-06 06:29:10,642 - ERROR - Unknown Exceptions for Bird-Japanese Robin
+2022-04-06 06:29:29,708 - ERROR - Unknown Exceptions for Bird-Izu Robin
+2022-04-06 06:29:48,937 - ERROR - Unknown Exceptions for Bird-Ryukyu Robin
+2022-04-06 06:30:07,292 - ERROR - Unknown Exceptions for Bird-Okinawa Robin
+2022-04-06 06:30:24,297 - ERROR - Unknown Exceptions for Bird-White-throated Robin
+2022-04-06 06:30:42,038 - ERROR - Unknown Exceptions for Bird-White-bellied Redstart
+2022-04-06 06:31:02,034 - ERROR - Unknown Exceptions for Bird-Bluethroat
+2022-04-06 06:31:19,550 - ERROR - Unknown Exceptions for Bird-Thrush Nightingale
+2022-04-06 06:31:37,100 - ERROR - Unknown Exceptions for Bird-Common Nightingale
+2022-04-06 06:32:00,416 - ERROR - Unknown Exceptions for Bird-Firethroat
+2022-04-06 06:32:21,161 - ERROR - Unknown Exceptions for Bird-Blackthroat
+2022-04-06 06:32:37,903 - ERROR - Unknown Exceptions for Bird-Siberian Rubythroat
+2022-04-06 06:32:55,262 - ERROR - Unknown Exceptions for Bird-Himalayan Rubythroat
+2022-04-06 06:33:11,740 - ERROR - Unknown Exceptions for Bird-Chinese Rubythroat
+2022-04-06 06:33:25,874 - ERROR - Unknown Exceptions for Bird-White-tailed Blue Robin
+2022-04-06 06:33:42,263 - ERROR - Unknown Exceptions for Bird-Cambodian Blue Robin
+2022-04-06 06:34:00,538 - ERROR - Unknown Exceptions for Bird-Sunda Blue Robin
+2022-04-06 06:34:17,719 - ERROR - Unknown Exceptions for Bird-Nilgiri Blue Sholakili
+2022-04-06 06:34:34,535 - ERROR - Unknown Exceptions for Bird-White-bellied Sholakili
+2022-04-06 06:34:51,859 - ERROR - Unknown Exceptions for Bird-Rufous-breasted Bush-robin
+2022-04-06 06:35:12,154 - ERROR - Unknown Exceptions for Bird-Orange-flanked Bush-robin
+2022-04-06 06:35:30,036 - ERROR - Unknown Exceptions for Bird-Himalayan Bush-robin
+2022-04-06 06:35:48,777 - ERROR - Unknown Exceptions for Bird-White-browed Bush-robin
+2022-04-06 06:36:05,611 - ERROR - Unknown Exceptions for Bird-Collared Bush-robin
+2022-04-06 06:36:22,146 - ERROR - Unknown Exceptions for Bird-Golden Bush-robin
+2022-04-06 06:36:38,062 - ERROR - Unknown Exceptions for Bird-Little Forktail
+2022-04-06 06:36:56,935 - ERROR - Unknown Exceptions for Bird-Slaty-backed Forktail
+2022-04-06 06:37:15,200 - ERROR - Unknown Exceptions for Bird-Sunda Forktail
+2022-04-06 06:37:31,981 - ERROR - Unknown Exceptions for Bird-Chestnut-naped Forktail
+2022-04-06 06:37:46,718 - ERROR - Unknown Exceptions for Bird-Black-backed Forktail
+2022-04-06 06:38:03,399 - ERROR - Unknown Exceptions for Bird-White-crowned Forktail
+2022-04-06 06:38:20,155 - ERROR - Unknown Exceptions for Bird-Spotted Forktail
+2022-04-06 06:38:39,662 - ERROR - Unknown Exceptions for Bird-Blue-fronted Robin
+2022-04-06 06:38:59,915 - ERROR - Unknown Exceptions for Bird-Sri Lanka Whistling-thrush
+2022-04-06 06:39:18,887 - ERROR - Unknown Exceptions for Bird-Shiny Whistling-thrush
+2022-04-06 06:39:37,158 - ERROR - Unknown Exceptions for Bird-Javan Whistling-thrush
+2022-04-06 06:39:57,325 - ERROR - Unknown Exceptions for Bird-Sumatran Whistling-thrush
+2022-04-06 06:40:13,707 - ERROR - Unknown Exceptions for Bird-Bornean Whistling-thrush
+2022-04-06 06:40:31,122 - ERROR - Unknown Exceptions for Bird-Malay Whistling-thrush
+2022-04-06 06:40:48,429 - ERROR - Unknown Exceptions for Bird-Malabar Whistling-thrush
+2022-04-06 06:41:08,157 - ERROR - Unknown Exceptions for Bird-Taiwan Whistling-thrush
+2022-04-06 06:41:24,335 - ERROR - Unknown Exceptions for Bird-Blue Whistling-thrush
+2022-04-06 06:41:41,860 - ERROR - Unknown Exceptions for Bird-Yellow-rumped Flycatcher
+2022-04-06 06:42:04,311 - ERROR - Unknown Exceptions for Bird-Green-backed Flycatcher
+2022-04-06 06:42:23,252 - ERROR - Unknown Exceptions for Bird-Narcissus Flycatcher
+2022-04-06 06:42:40,802 - ERROR - Unknown Exceptions for Bird-Ryukyu Flycatcher
+2022-04-06 06:42:55,122 - ERROR - Unknown Exceptions for Bird-Mugimaki Flycatcher
+2022-04-06 06:43:13,100 - ERROR - Unknown Exceptions for Bird-Slaty-backed Flycatcher
+2022-04-06 06:43:29,511 - ERROR - Unknown Exceptions for Bird-Slaty-blue Flycatcher
+2022-04-06 06:43:49,342 - ERROR - Unknown Exceptions for Bird-Snowy-browed Flycatcher
+2022-04-06 06:44:06,747 - ERROR - Unknown Exceptions for Bird-Pygmy Blue-flycatcher
+2022-04-06 06:44:25,347 - ERROR - Unknown Exceptions for Bird-Rufous-gorgeted Flycatcher
+2022-04-06 06:44:42,421 - ERROR - Unknown Exceptions for Bird-Sapphire Flycatcher
+2022-04-06 06:44:59,806 - ERROR - Unknown Exceptions for Bird-Ultramarine Flycatcher
+2022-04-06 06:45:16,953 - ERROR - Unknown Exceptions for Bird-Little Pied Flycatcher
+2022-04-06 06:45:33,021 - ERROR - Unknown Exceptions for Bird-Rusty-tailed Flycatcher
+2022-04-06 06:45:53,117 - ERROR - Unknown Exceptions for Bird-Red-breasted Flycatcher
+2022-04-06 06:46:10,415 - ERROR - Unknown Exceptions for Bird-Red-throated Flycatcher
+2022-04-06 06:46:28,464 - ERROR - Unknown Exceptions for Bird-Kashmir Flycatcher
+2022-04-06 06:46:46,337 - ERROR - Unknown Exceptions for Bird-Semi-collared Flycatcher
+2022-04-06 06:47:03,337 - ERROR - Unknown Exceptions for Bird-European Pied Flycatcher
+2022-04-06 06:47:23,848 - ERROR - Unknown Exceptions for Bird-Collared Flycatcher
+2022-04-06 06:47:43,089 - ERROR - Unknown Exceptions for Bird-Damar Flycatcher
+2022-04-06 06:48:00,700 - ERROR - Unknown Exceptions for Bird-Rufous-throated Flycatcher
+2022-04-06 06:48:21,166 - ERROR - Unknown Exceptions for Bird-Cinnamon-chested Flycatcher
+2022-04-06 06:48:37,958 - ERROR - Unknown Exceptions for Bird-Sumba Flycatcher
+2022-04-06 06:48:55,720 - ERROR - Unknown Exceptions for Bird-Black-banded Flycatcher
+2022-04-06 06:49:11,689 - ERROR - Unknown Exceptions for Bird-Little Slaty Flycatcher
+2022-04-06 06:49:27,684 - ERROR - Unknown Exceptions for Bird-Thicket Flycatcher
+2022-04-06 06:49:45,947 - ERROR - Unknown Exceptions for Bird-Cryptic Flycatcher
+2022-04-06 06:50:02,918 - ERROR - Unknown Exceptions for Bird-Lompobattang Flycatcher
+2022-04-06 06:50:19,643 - ERROR - Unknown Exceptions for Bird-Black-and-orange Flycatcher
+2022-04-06 06:50:36,816 - ERROR - Unknown Exceptions for Bird-Rufous-chested Flycatcher
+2022-04-06 06:50:59,888 - ERROR - Unknown Exceptions for Bird-Tanimbar Flycatcher
+2022-04-06 06:51:17,498 - ERROR - Unknown Exceptions for Bird-Furtive Flycatcher
+2022-04-06 06:51:35,788 - ERROR - Unknown Exceptions for Bird-Palawan Flycatcher
+2022-04-06 06:51:53,732 - ERROR - Unknown Exceptions for Bird-Ala Shan Redstart
+2022-04-06 06:52:11,090 - ERROR - Unknown Exceptions for Bird-Eversmann's Redstart
+2022-04-06 06:52:31,371 - ERROR - Unknown Exceptions for Bird-Blue-fronted Redstart
+2022-04-06 06:52:48,406 - ERROR - Unknown Exceptions for Bird-Blue-capped Redstart
+2022-04-06 06:53:05,634 - ERROR - Unknown Exceptions for Bird-White-throated Redstart
+2022-04-06 06:53:24,081 - ERROR - Unknown Exceptions for Bird-White-capped Water-redstart
+2022-04-06 06:53:40,248 - ERROR - Unknown Exceptions for Bird-Plumbeous Water-redstart
+2022-04-06 06:53:57,624 - ERROR - Unknown Exceptions for Bird-Luzon Water-redstart
+2022-04-06 06:54:14,331 - ERROR - Unknown Exceptions for Bird-Black Redstart
+2022-04-06 06:54:31,294 - ERROR - Unknown Exceptions for Bird-Common Redstart
+2022-04-06 06:54:47,697 - ERROR - Unknown Exceptions for Bird-Moussier's Redstart
+2022-04-06 06:55:04,396 - ERROR - Unknown Exceptions for Bird-Daurian Redstart
+2022-04-06 06:55:23,727 - ERROR - Unknown Exceptions for Bird-White-winged Redstart
+2022-04-06 06:55:42,437 - ERROR - Unknown Exceptions for Bird-Hodgson's Redstart
+2022-04-06 06:55:59,968 - ERROR - Unknown Exceptions for Bird-Blue-capped Rock-thrush
+2022-04-06 06:56:21,639 - ERROR - Unknown Exceptions for Bird-Chestnut-bellied Rock-thrush
+2022-04-06 06:56:39,429 - ERROR - Unknown Exceptions for Bird-White-throated Rock-thrush
+2022-04-06 06:56:55,775 - ERROR - Unknown Exceptions for Bird-Short-toed Rock-thrush
+2022-04-06 06:57:13,327 - ERROR - Unknown Exceptions for Bird-Sentinel Rock-thrush
+2022-04-06 06:57:30,748 - ERROR - Unknown Exceptions for Bird-Littoral Rock-thrush
+2022-04-06 06:57:47,634 - ERROR - Unknown Exceptions for Bird-Amber Mountain Rock-thrush
+2022-04-06 06:58:07,802 - ERROR - Unknown Exceptions for Bird-Forest Rock-thrush
+2022-04-06 06:58:26,439 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Rock-thrush
+2022-04-06 06:58:44,971 - ERROR - Unknown Exceptions for Bird-Blue Rock-thrush
+2022-04-06 06:59:01,866 - ERROR - Unknown Exceptions for Bird-Little Rock-thrush
+2022-04-06 06:59:18,663 - ERROR - Unknown Exceptions for Bird-White-winged Cliff-chat
+2022-04-06 06:59:36,489 - ERROR - Unknown Exceptions for Bird-Miombo Rock-thrush
+2022-04-06 06:59:53,685 - ERROR - Unknown Exceptions for Bird-Cape Rock-thrush
+2022-04-06 07:00:11,054 - ERROR - Unknown Exceptions for Bird-Jerdon's Bushchat
+2022-04-06 07:00:28,180 - ERROR - Unknown Exceptions for Bird-Grey Bushchat
+2022-04-06 07:00:48,257 - ERROR - Unknown Exceptions for Bird-White-bellied Bushchat
+2022-04-06 07:01:06,096 - ERROR - Unknown Exceptions for Bird-Whinchat
+2022-04-06 07:01:23,228 - ERROR - Unknown Exceptions for Bird-White-browed Bushchat
+2022-04-06 07:01:40,558 - ERROR - Unknown Exceptions for Bird-White-throated Bushchat
+2022-04-06 07:01:57,847 - ERROR - Unknown Exceptions for Bird-Pied Bushchat
+2022-04-06 07:02:15,476 - ERROR - Unknown Exceptions for Bird-White-tailed Stonechat
+2022-04-06 07:02:31,908 - ERROR - Unknown Exceptions for Bird-Fuerteventura Stonechat
+2022-04-06 07:02:51,529 - ERROR - Unknown Exceptions for Bird-Common Stonechat
+2022-04-06 07:03:08,783 - ERROR - Unknown Exceptions for Bird-Reunion Stonechat
+2022-04-06 07:03:26,235 - ERROR - Unknown Exceptions for Bird-Buff-streaked Chat
+2022-04-06 07:03:42,551 - ERROR - Unknown Exceptions for Bird-Karoo Chat
+2022-04-06 07:03:59,688 - ERROR - Unknown Exceptions for Bird-Sickle-winged Chat
+2022-04-06 07:04:17,090 - ERROR - Unknown Exceptions for Bird-Tractrac Chat
+2022-04-06 07:04:36,119 - ERROR - Unknown Exceptions for Bird-Moorland Chat
+2022-04-06 07:04:55,119 - ERROR - Unknown Exceptions for Bird-Mocking Cliff-chat
+2022-04-06 07:05:13,505 - ERROR - Unknown Exceptions for Bird-Sooty Chat
+2022-04-06 07:05:31,566 - ERROR - Unknown Exceptions for Bird-Northern Anteater-chat
+2022-04-06 07:05:50,768 - ERROR - Unknown Exceptions for Bird-Congo Moor-chat
+2022-04-06 07:06:07,716 - ERROR - Unknown Exceptions for Bird-Southern Anteater-chat
+2022-04-06 07:06:25,942 - ERROR - Unknown Exceptions for Bird-Mountain Wheatear
+2022-04-06 07:06:43,214 - ERROR - Unknown Exceptions for Bird-Rüppell's Chat
+2022-04-06 07:07:01,557 - ERROR - Unknown Exceptions for Bird-Arnot's Chat
+2022-04-06 07:07:18,211 - ERROR - Unknown Exceptions for Bird-Northern Wheatear
+2022-04-06 07:07:34,940 - ERROR - Unknown Exceptions for Bird-Black-throated Wheatear
+2022-04-06 07:07:55,782 - ERROR - Unknown Exceptions for Bird-Capped Wheatear
+2022-04-06 07:08:09,338 - ERROR - Unknown Exceptions for Bird-Rusty-breasted Wheatear
+2022-04-06 07:08:27,864 - ERROR - Unknown Exceptions for Bird-Buff-breasted Wheatear
+2022-04-06 07:08:47,064 - ERROR - Unknown Exceptions for Bird-Heuglin's Wheatear
+2022-04-06 07:09:04,123 - ERROR - Unknown Exceptions for Bird-Isabelline Wheatear
+2022-04-06 07:09:20,185 - ERROR - Unknown Exceptions for Bird-Hooded Wheatear
+2022-04-06 07:09:36,751 - ERROR - Unknown Exceptions for Bird-Desert Wheatear
+2022-04-06 07:09:51,272 - ERROR - Unknown Exceptions for Bird-Black-eared Wheatear
+2022-04-06 07:10:06,377 - ERROR - Unknown Exceptions for Bird-Cyprus Wheatear
+2022-04-06 07:10:21,975 - ERROR - Unknown Exceptions for Bird-Pied Wheatear
+2022-04-06 07:10:40,303 - ERROR - Unknown Exceptions for Bird-White-fronted Black-chat
+2022-04-06 07:10:57,346 - ERROR - Unknown Exceptions for Bird-Somali Wheatear
+2022-04-06 07:11:29,038 - ERROR - Unknown Exceptions for Bird-Buff-rumped Wheatear
+2022-04-06 07:11:44,667 - ERROR - Unknown Exceptions for Bird-Blackstart
+2022-04-06 07:11:59,671 - ERROR - Unknown Exceptions for Bird-Familiar Chat
+2022-04-06 07:12:15,289 - ERROR - Unknown Exceptions for Bird-Brown-tailed Chat
+2022-04-06 07:12:30,834 - ERROR - Unknown Exceptions for Bird-Sombre Rockchat
+2022-04-06 07:12:49,886 - ERROR - Unknown Exceptions for Bird-Brown Rockchat
+2022-04-06 07:13:05,833 - ERROR - Unknown Exceptions for Bird-Variable Wheatear
+2022-04-06 07:13:21,554 - ERROR - Unknown Exceptions for Bird-Black Wheatear
+2022-04-06 07:13:38,039 - ERROR - Unknown Exceptions for Bird-White-crowned Wheatear
+2022-04-06 07:13:53,077 - ERROR - Unknown Exceptions for Bird-Hume's Wheatear
+2022-04-06 07:14:07,923 - ERROR - Unknown Exceptions for Bird-Finsch's Wheatear
+2022-04-06 07:14:23,836 - ERROR - Unknown Exceptions for Bird-Mourning Wheatear
+2022-04-06 07:14:40,511 - ERROR - Unknown Exceptions for Bird-Red-tailed Wheatear
+2022-04-06 07:14:56,197 - ERROR - Unknown Exceptions for Bird-Kurdish Wheatear
+2022-04-06 07:15:11,556 - ERROR - Unknown Exceptions for Bird-Boulder Chat
+2022-04-06 07:15:29,840 - ERROR - Unknown Exceptions for Bird-Ruby-crowned Kinglet
+2022-04-06 07:15:44,775 - ERROR - Unknown Exceptions for Bird-Golden-crowned Kinglet
+2022-04-06 07:16:00,034 - ERROR - Unknown Exceptions for Bird-Flamecrest
+2022-04-06 07:16:18,713 - ERROR - Unknown Exceptions for Bird-Goldcrest
+2022-04-06 07:16:34,581 - ERROR - Unknown Exceptions for Bird-Madeira Firecrest
+2022-04-06 07:16:51,010 - ERROR - Unknown Exceptions for Bird-Common Firecrest
+2022-04-06 07:17:06,264 - ERROR - Unknown Exceptions for Bird-Palmchat
+2022-04-06 07:17:21,666 - ERROR - Unknown Exceptions for Bird-Hypocolius
+2022-04-06 07:17:36,979 - ERROR - Unknown Exceptions for Bird-Northern Hylocitrea
+2022-04-06 07:17:55,217 - ERROR - Unknown Exceptions for Bird-Southern Hylocitrea
+2022-04-06 07:18:11,225 - ERROR - Unknown Exceptions for Bird-Bohemian Waxwing
+2022-04-06 07:18:26,727 - ERROR - Unknown Exceptions for Bird-Japanese Waxwing
+2022-04-06 07:18:42,423 - ERROR - Unknown Exceptions for Bird-Cedar Waxwing
+2022-04-06 07:18:57,406 - ERROR - Unknown Exceptions for Bird-Black-and-yellow Silky-flycatcher
+2022-04-06 07:19:12,227 - ERROR - Unknown Exceptions for Bird-Phainopepla
+2022-04-06 07:19:28,233 - ERROR - Unknown Exceptions for Bird-Grey Silky-flycatcher
+2022-04-06 07:19:43,322 - ERROR - Unknown Exceptions for Bird-Long-tailed Silky-flycatcher
+2022-04-06 07:19:58,308 - ERROR - Unknown Exceptions for Bird-Kauai Oo
+2022-04-06 07:20:14,070 - ERROR - Unknown Exceptions for Bird-Oahu Oo
+2022-04-06 07:20:29,825 - ERROR - Unknown Exceptions for Bird-Bishop's Oo
+2022-04-06 07:20:46,138 - ERROR - Unknown Exceptions for Bird-Hawaii Oo
+2022-04-06 07:21:00,785 - ERROR - Unknown Exceptions for Bird-Kioea
+2022-04-06 07:21:15,380 - ERROR - Unknown Exceptions for Bird-Spotted Elachura
+2022-04-06 07:21:29,954 - ERROR - Unknown Exceptions for Bird-Cape Sugarbird
+2022-04-06 07:21:49,221 - ERROR - Unknown Exceptions for Bird-Gurney's Sugarbird
+2022-04-06 07:22:04,518 - ERROR - Unknown Exceptions for Bird-Dapple-throat
+2022-04-06 07:22:19,593 - ERROR - Unknown Exceptions for Bird-Spot-throat
+2022-04-06 07:22:34,330 - ERROR - Unknown Exceptions for Bird-Grey-chested Kakamega
+2022-04-06 07:22:49,284 - ERROR - Unknown Exceptions for Bird-Asian Fairy-bluebird
+2022-04-06 07:23:04,547 - ERROR - Unknown Exceptions for Bird-Palawan Fairy-bluebird
+2022-04-06 07:23:19,185 - ERROR - Unknown Exceptions for Bird-Philippine Fairy-bluebird
+2022-04-06 07:23:35,299 - ERROR - Unknown Exceptions for Bird-Sumatran Leafbird
+2022-04-06 07:23:50,707 - ERROR - Unknown Exceptions for Bird-Greater Green Leafbird
+2022-04-06 07:24:05,538 - ERROR - Unknown Exceptions for Bird-Lesser Green Leafbird
+2022-04-06 07:24:20,297 - ERROR - Unknown Exceptions for Bird-Yellow-throated Leafbird
+2022-04-06 07:24:42,535 - ERROR - Unknown Exceptions for Bird-Philippine Leafbird
+2022-04-06 07:24:59,057 - ERROR - Unknown Exceptions for Bird-Golden-fronted Leafbird
+2022-04-06 07:25:14,856 - ERROR - Unknown Exceptions for Bird-Blue-masked Leafbird
+2022-04-06 07:25:29,192 - ERROR - Unknown Exceptions for Bird-Jerdon's Leafbird
+2022-04-06 07:25:44,219 - ERROR - Unknown Exceptions for Bird-Orange-bellied Leafbird
+2022-04-06 07:25:59,292 - ERROR - Unknown Exceptions for Bird-Greyish-crowned Leafbird
+2022-04-06 07:26:14,726 - ERROR - Unknown Exceptions for Bird-Bornean Leafbird
+2022-04-06 07:26:29,492 - ERROR - Unknown Exceptions for Bird-Blue-winged Leafbird
+2022-04-06 07:26:43,983 - ERROR - Unknown Exceptions for Bird-Javan Leafbird
+2022-04-06 07:26:59,835 - ERROR - Unknown Exceptions for Bird-Olive-backed Flowerpecker
+2022-04-06 07:27:15,720 - ERROR - Unknown Exceptions for Bird-Yellow-breasted Flowerpecker
+2022-04-06 07:27:30,813 - ERROR - Unknown Exceptions for Bird-Scarlet-breasted Flowerpecker
+2022-04-06 07:27:47,187 - ERROR - Unknown Exceptions for Bird-Yellow-rumped Flowerpecker
+2022-04-06 07:28:02,659 - ERROR - Unknown Exceptions for Bird-Crimson-breasted Flowerpecker
+2022-04-06 07:28:19,156 - ERROR - Unknown Exceptions for Bird-Palawan Flowerpecker
+2022-04-06 07:28:34,326 - ERROR - Unknown Exceptions for Bird-Yellow-bellied Flowerpecker
+2022-04-06 07:28:49,378 - ERROR - Unknown Exceptions for Bird-Yellow-vented Flowerpecker
+2022-04-06 07:29:05,854 - ERROR - Unknown Exceptions for Bird-White-throated Flowerpecker
+2022-04-06 07:29:21,842 - ERROR - Unknown Exceptions for Bird-Golden-rumped Flowerpecker
+2022-04-06 07:29:36,859 - ERROR - Unknown Exceptions for Bird-Spectacled Flowerpecker
+2022-04-06 07:29:51,357 - ERROR - Unknown Exceptions for Bird-Thick-billed Flowerpecker
+2022-04-06 07:30:06,501 - ERROR - Unknown Exceptions for Bird-Brown-backed Flowerpecker
+2022-04-06 07:30:22,458 - ERROR - Unknown Exceptions for Bird-Whiskered Flowerpecker
+2022-04-06 07:30:36,280 - ERROR - Unknown Exceptions for Bird-Yellow-crowned Flowerpecker
+2022-04-06 07:30:51,088 - ERROR - Unknown Exceptions for Bird-Flame-crowned Flowerpecker
+2022-04-06 07:31:06,947 - ERROR - Unknown Exceptions for Bird-Bicoloured Flowerpecker
+2022-04-06 07:31:21,730 - ERROR - Unknown Exceptions for Bird-Yellow-sided Flowerpecker
+2022-04-06 07:31:36,530 - ERROR - Unknown Exceptions for Bird-Orange-bellied Flowerpecker
+2022-04-06 07:31:50,787 - ERROR - Unknown Exceptions for Bird-Red-keeled Flowerpecker
+2022-04-06 07:32:06,864 - ERROR - Unknown Exceptions for Bird-Black-belted Flowerpecker
+2022-04-06 07:32:21,665 - ERROR - Unknown Exceptions for Bird-Scarlet-collared Flowerpecker
+2022-04-06 07:32:37,105 - ERROR - Unknown Exceptions for Bird-Cebu Flowerpecker
+2022-04-06 07:32:52,436 - ERROR - Unknown Exceptions for Bird-Buzzing Flowerpecker
+2022-04-06 07:33:12,058 - ERROR - Unknown Exceptions for Bird-Olive-capped Flowerpecker
+2022-04-06 07:33:27,229 - ERROR - Unknown Exceptions for Bird-Pale-billed Flowerpecker
+2022-04-06 07:33:41,991 - ERROR - Unknown Exceptions for Bird-Nilgiri Flowerpecker
+2022-04-06 07:33:56,714 - ERROR - Unknown Exceptions for Bird-Plain Flowerpecker
+2022-04-06 07:34:12,582 - ERROR - Unknown Exceptions for Bird-Pygmy Flowerpecker
+2022-04-06 07:34:27,475 - ERROR - Unknown Exceptions for Bird-Crimson-crowned Flowerpecker
+2022-04-06 07:34:45,799 - ERROR - Unknown Exceptions for Bird-Halmahera Flowerpecker
+2022-04-06 07:35:01,383 - ERROR - Unknown Exceptions for Bird-Buru Flowerpecker
+2022-04-06 07:35:17,130 - ERROR - Unknown Exceptions for Bird-Ashy Flowerpecker
+2022-04-06 07:35:32,574 - ERROR - Unknown Exceptions for Bird-Olive-crowned Flowerpecker
+2022-04-06 07:35:47,049 - ERROR - Unknown Exceptions for Bird-Blood-breasted Flowerpecker
+2022-04-06 07:36:03,686 - ERROR - Unknown Exceptions for Bird-Sumba Flowerpecker
+2022-04-06 07:36:18,997 - ERROR - Unknown Exceptions for Bird-Timor Flowerpecker
+2022-04-06 07:36:35,851 - ERROR - Unknown Exceptions for Bird-Scarlet-backed Flowerpecker
+2022-04-06 07:36:51,269 - ERROR - Unknown Exceptions for Bird-Scarlet-headed Flowerpecker
+2022-04-06 07:37:06,487 - ERROR - Unknown Exceptions for Bird-Black-fronted Flowerpecker
+2022-04-06 07:37:21,345 - ERROR - Unknown Exceptions for Bird-Red-chested Flowerpecker
+2022-04-06 07:37:36,379 - ERROR - Unknown Exceptions for Bird-Grey-sided Flowerpecker
+2022-04-06 07:37:52,273 - ERROR - Unknown Exceptions for Bird-Black-sided Flowerpecker
+2022-04-06 07:38:07,959 - ERROR - Unknown Exceptions for Bird-Fire-breasted Flowerpecker
+2022-04-06 07:38:25,914 - ERROR - Unknown Exceptions for Bird-Cambodian Flowerpecker
+2022-04-06 07:38:41,717 - ERROR - Unknown Exceptions for Bird-Sumatran Flowerpecker
+2022-04-06 07:38:56,986 - ERROR - Unknown Exceptions for Bird-Fire-throated Flowerpecker
+2022-04-06 07:39:11,283 - ERROR - Unknown Exceptions for Bird-Midget Flowerpecker
+2022-04-06 07:39:26,816 - ERROR - Unknown Exceptions for Bird-Red-banded Flowerpecker
+2022-04-06 07:39:43,205 - ERROR - Unknown Exceptions for Bird-Mottled Flowerpecker
+2022-04-06 07:39:58,587 - ERROR - Unknown Exceptions for Bird-Louisiade Flowerpecker
+2022-04-06 07:40:16,729 - ERROR - Unknown Exceptions for Bird-Pink-breasted Flowerpecker
+2022-04-06 07:40:32,393 - ERROR - Unknown Exceptions for Bird-Aru Flowerpecker
+2022-04-06 07:40:47,316 - ERROR - Unknown Exceptions for Bird-Mistletoebird
+2022-04-06 07:41:01,396 - ERROR - Unknown Exceptions for Bird-Red-capped Flowerpecker
+2022-04-06 07:41:15,507 - ERROR - Unknown Exceptions for Bird-Thick-billed Spiderhunter
+2022-04-06 07:41:31,293 - ERROR - Unknown Exceptions for Bird-Long-billed Spiderhunter
+2022-04-06 07:41:49,267 - ERROR - Unknown Exceptions for Bird-Little Spiderhunter
+2022-04-06 07:42:04,047 - ERROR - Unknown Exceptions for Bird-Palawan Spiderhunter
+2022-04-06 07:42:18,404 - ERROR - Unknown Exceptions for Bird-Orange-tufted Spiderhunter
+2022-04-06 07:42:37,082 - ERROR - Unknown Exceptions for Bird-Whitehead's Spiderhunter
+2022-04-06 07:42:51,623 - ERROR - Unknown Exceptions for Bird-Naked-faced Spiderhunter
+2022-04-06 07:43:04,456 - ERROR - Unknown Exceptions for Bird-Yellow-eared Spiderhunter
+2022-04-06 07:43:22,802 - ERROR - Unknown Exceptions for Bird-Streaked Spiderhunter
+2022-04-06 07:43:41,720 - ERROR - Unknown Exceptions for Bird-Spectacled Spiderhunter
+2022-04-06 07:43:55,235 - ERROR - Unknown Exceptions for Bird-Streaky-breasted Spiderhunter
+2022-04-06 07:44:08,442 - ERROR - Unknown Exceptions for Bird-Grey-breasted Spiderhunter
+2022-04-06 07:44:22,689 - ERROR - Unknown Exceptions for Bird-Purple-naped Sunbird
+2022-04-06 07:44:42,445 - ERROR - Unknown Exceptions for Bird-Ruby-cheeked Sunbird
+2022-04-06 07:45:02,821 - ERROR - Unknown Exceptions for Bird-Fraser's Sunbird
+2022-04-06 07:45:19,496 - ERROR - Unknown Exceptions for Bird-Grey-headed Sunbird
+2022-04-06 07:45:37,982 - ERROR - Unknown Exceptions for Bird-Plain-backed Sunbird
+2022-04-06 07:45:50,974 - ERROR - Unknown Exceptions for Bird-Anchieta's Sunbird
+2022-04-06 07:46:03,620 - ERROR - Unknown Exceptions for Bird-Plain Sunbird
+2022-04-06 07:46:18,948 - ERROR - Unknown Exceptions for Bird-Brown-throated Sunbird
+2022-04-06 07:46:41,230 - ERROR - Unknown Exceptions for Bird-Grey-throated Sunbird
+2022-04-06 07:46:59,943 - ERROR - Unknown Exceptions for Bird-Red-throated Sunbird
+2022-04-06 07:47:19,621 - ERROR - Unknown Exceptions for Bird-Mouse-brown Sunbird
+2022-04-06 07:47:42,872 - ERROR - Unknown Exceptions for Bird-Western Violet-backed Sunbird
+2022-04-06 07:48:02,570 - ERROR - Unknown Exceptions for Bird-Eastern Violet-backed Sunbird
+2022-04-06 07:48:22,356 - ERROR - Unknown Exceptions for Bird-Uluguru Violet-backed Sunbird
+2022-04-06 07:48:39,722 - ERROR - Unknown Exceptions for Bird-Violet-tailed Sunbird
+2022-04-06 07:48:55,892 - ERROR - Unknown Exceptions for Bird-Little Green Sunbird
+2022-04-06 07:49:10,506 - ERROR - Unknown Exceptions for Bird-Yellow-chinned Sunbird
+2022-04-06 07:49:25,741 - ERROR - Unknown Exceptions for Bird-Grey-chinned Sunbird
+2022-04-06 07:49:42,017 - ERROR - Unknown Exceptions for Bird-Banded Sunbird
+2022-04-06 07:49:57,152 - ERROR - Unknown Exceptions for Bird-Collared Sunbird
+2022-04-06 07:50:14,453 - ERROR - Unknown Exceptions for Bird-Pygmy Sunbird
+2022-04-06 07:50:33,510 - ERROR - Unknown Exceptions for Bird-Nile Valley Sunbird
+2022-04-06 07:50:49,095 - ERROR - Unknown Exceptions for Bird-Amani Sunbird
+2022-04-06 07:51:07,217 - ERROR - Unknown Exceptions for Bird-Reichenbach's Sunbird
+2022-04-06 07:51:22,737 - ERROR - Unknown Exceptions for Bird-Principe Sunbird
+2022-04-06 07:51:38,971 - ERROR - Unknown Exceptions for Bird-Newton's Sunbird
+2022-04-06 07:51:54,188 - ERROR - Unknown Exceptions for Bird-Giant Sunbird
+2022-04-06 07:52:08,114 - ERROR - Unknown Exceptions for Bird-Orange-breasted Sunbird
+2022-04-06 07:52:21,791 - ERROR - Unknown Exceptions for Bird-Green-headed Sunbird
+2022-04-06 07:52:35,610 - ERROR - Unknown Exceptions for Bird-Bannerman's Sunbird
+2022-04-06 07:52:49,074 - ERROR - Unknown Exceptions for Bird-Blue-throated Brown Sunbird
+2022-04-06 07:53:07,313 - ERROR - Unknown Exceptions for Bird-Cameroon Sunbird
+2022-04-06 07:53:21,119 - ERROR - Unknown Exceptions for Bird-Blue-headed Sunbird
+2022-04-06 07:53:34,585 - ERROR - Unknown Exceptions for Bird-Olive Sunbird
+2022-04-06 07:53:47,839 - ERROR - Unknown Exceptions for Bird-Mouse-coloured Sunbird
+2022-04-06 07:54:01,394 - ERROR - Unknown Exceptions for Bird-Buff-throated Sunbird
+2022-04-06 07:54:17,178 - ERROR - Unknown Exceptions for Bird-Carmelite Sunbird
+2022-04-06 07:54:31,113 - ERROR - Unknown Exceptions for Bird-Green-throated Sunbird
+2022-04-06 07:54:43,974 - ERROR - Unknown Exceptions for Bird-Amethyst Sunbird
+2022-04-06 07:54:56,872 - ERROR - Unknown Exceptions for Bird-Scarlet-chested Sunbird
+2022-04-06 07:55:10,172 - ERROR - Unknown Exceptions for Bird-Hunter's Sunbird
+2022-04-06 07:55:23,005 - ERROR - Unknown Exceptions for Bird-Socotra Sunbird
+2022-04-06 07:55:36,658 - ERROR - Unknown Exceptions for Bird-Purple-rumped Sunbird
+2022-04-06 07:55:49,656 - ERROR - Unknown Exceptions for Bird-Crimson-backed Sunbird
+2022-04-06 07:56:02,770 - ERROR - Unknown Exceptions for Bird-Maroon-bellied Sunbird
+2022-04-06 07:56:18,931 - ERROR - Unknown Exceptions for Bird-Purple-throated Sunbird
+2022-04-06 07:56:32,570 - ERROR - Unknown Exceptions for Bird-Orange-lined Sunbird
+2022-04-06 07:56:45,353 - ERROR - Unknown Exceptions for Bird-Black Sunbird
+2022-04-06 07:56:58,333 - ERROR - Unknown Exceptions for Bird-Copper-throated Sunbird
+2022-04-06 07:57:11,701 - ERROR - Unknown Exceptions for Bird-Bocage's Sunbird
+2022-04-06 07:57:30,226 - ERROR - Unknown Exceptions for Bird-Purple-breasted Sunbird
+2022-04-06 07:57:44,489 - ERROR - Unknown Exceptions for Bird-Tacazze Sunbird
+2022-04-06 07:57:56,778 - ERROR - Unknown Exceptions for Bird-Bronze Sunbird
+2022-04-06 07:58:11,932 - ERROR - Unknown Exceptions for Bird-Malachite Sunbird
+2022-04-06 07:58:26,254 - ERROR - Unknown Exceptions for Bird-Red-tufted Sunbird
+2022-04-06 07:58:40,437 - ERROR - Unknown Exceptions for Bird-Golden-winged Sunbird
+2022-04-06 07:58:53,516 - ERROR - Unknown Exceptions for Bird-Olive-bellied Sunbird
+2022-04-06 07:59:06,556 - ERROR - Unknown Exceptions for Bird-Tiny Sunbird
+2022-04-06 07:59:20,309 - ERROR - Unknown Exceptions for Bird-Western Miombo Sunbird
+2022-04-06 07:59:33,669 - ERROR - Unknown Exceptions for Bird-Eastern Miombo Sunbird
+2022-04-06 07:59:48,598 - ERROR - Unknown Exceptions for Bird-Southern Double-collared Sunbird
+2022-04-06 08:00:02,502 - ERROR - Unknown Exceptions for Bird-Neergaard's Sunbird
+2022-04-06 08:00:15,473 - ERROR - Unknown Exceptions for Bird-Greater Double-collared Sunbird
+2022-04-06 08:00:28,768 - ERROR - Unknown Exceptions for Bird-Ruwenzori Double-collared Sunbird
+2022-04-06 08:00:42,268 - ERROR - Unknown Exceptions for Bird-Prigogine's Double-collared Sunbird
+2022-04-06 08:00:56,883 - ERROR - Unknown Exceptions for Bird-Montane Double-collared Sunbird
+2022-04-06 08:01:10,616 - ERROR - Unknown Exceptions for Bird-Northern Double-collared Sunbird
+2022-04-06 08:01:23,872 - ERROR - Unknown Exceptions for Bird-Regal Sunbird
+2022-04-06 08:01:36,940 - ERROR - Unknown Exceptions for Bird-Rockefeller's Sunbird
+2022-04-06 08:01:50,080 - ERROR - Unknown Exceptions for Bird-Eastern Double-collared Sunbird
+2022-04-06 08:02:03,996 - ERROR - Unknown Exceptions for Bird-Usambara Double-collared Sunbird
+2022-04-06 08:02:17,987 - ERROR - Unknown Exceptions for Bird-Forest Double-collared Sunbird
+2022-04-06 08:02:30,690 - ERROR - Unknown Exceptions for Bird-Moreau's Sunbird
+2022-04-06 08:02:43,540 - ERROR - Unknown Exceptions for Bird-Loveridge's Sunbird
+2022-04-06 08:02:57,306 - ERROR - Unknown Exceptions for Bird-Beautiful Sunbird
+2022-04-06 08:03:12,270 - ERROR - Unknown Exceptions for Bird-Gorgeous Sunbird
+2022-04-06 08:03:25,547 - ERROR - Unknown Exceptions for Bird-Mariqua Sunbird
+2022-04-06 08:03:38,645 - ERROR - Unknown Exceptions for Bird-Shelley's Sunbird
+2022-04-06 08:03:51,857 - ERROR - Unknown Exceptions for Bird-Congo Sunbird
+2022-04-06 08:04:04,949 - ERROR - Unknown Exceptions for Bird-Red-chested Sunbird
+2022-04-06 08:04:18,231 - ERROR - Unknown Exceptions for Bird-Black-bellied Sunbird
+2022-04-06 08:04:32,758 - ERROR - Unknown Exceptions for Bird-Purple-banded Sunbird
+2022-04-06 08:04:45,325 - ERROR - Unknown Exceptions for Bird-Tsavo Sunbird
+2022-04-06 08:04:58,068 - ERROR - Unknown Exceptions for Bird-Violet-breasted Sunbird
+2022-04-06 08:05:11,092 - ERROR - Unknown Exceptions for Bird-Pemba Sunbird
+2022-04-06 08:05:24,677 - ERROR - Unknown Exceptions for Bird-Orange-tufted Sunbird
+2022-04-06 08:05:37,651 - ERROR - Unknown Exceptions for Bird-Palestine Sunbird
+2022-04-06 08:05:51,755 - ERROR - Unknown Exceptions for Bird-Shining Sunbird
+2022-04-06 08:06:04,814 - ERROR - Unknown Exceptions for Bird-Arabian Sunbird
+2022-04-06 08:06:17,844 - ERROR - Unknown Exceptions for Bird-Splendid Sunbird
+2022-04-06 08:06:31,116 - ERROR - Unknown Exceptions for Bird-Johanna's Sunbird
+2022-04-06 08:06:49,160 - ERROR - Unknown Exceptions for Bird-Superb Sunbird
+2022-04-06 08:07:03,849 - ERROR - Unknown Exceptions for Bird-Rufous-winged Sunbird
+2022-04-06 08:07:17,342 - ERROR - Unknown Exceptions for Bird-Oustalet's Sunbird
+2022-04-06 08:07:30,042 - ERROR - Unknown Exceptions for Bird-White-breasted Sunbird
+2022-04-06 08:07:42,835 - ERROR - Unknown Exceptions for Bird-Variable Sunbird
+2022-04-06 08:07:56,382 - ERROR - Unknown Exceptions for Bird-Dusky Sunbird
+2022-04-06 08:08:09,295 - ERROR - Unknown Exceptions for Bird-Ursula's Sunbird
+2022-04-06 08:08:22,490 - ERROR - Unknown Exceptions for Bird-Bates's Sunbird
+2022-04-06 08:08:36,174 - ERROR - Unknown Exceptions for Bird-Copper Sunbird
+2022-04-06 08:08:51,125 - ERROR - Unknown Exceptions for Bird-Purple Sunbird
+2022-04-06 08:09:04,531 - ERROR - Unknown Exceptions for Bird-Olive-backed Sunbird
+2022-04-06 08:09:17,809 - ERROR - Unknown Exceptions for Bird-Rand's Sunbird
+2022-04-06 08:09:30,948 - ERROR - Unknown Exceptions for Bird-Apricot-breasted Sunbird
+2022-04-06 08:09:44,144 - ERROR - Unknown Exceptions for Bird-Flame-breasted Sunbird
+2022-04-06 08:09:57,231 - ERROR - Unknown Exceptions for Bird-Souimanga Sunbird
+2022-04-06 08:10:10,777 - ERROR - Unknown Exceptions for Bird-Humblot's Sunbird
+2022-04-06 08:10:23,978 - ERROR - Unknown Exceptions for Bird-Anjouan Sunbird
+2022-04-06 08:10:37,032 - ERROR - Unknown Exceptions for Bird-Mayotte Sunbird
+2022-04-06 08:10:50,952 - ERROR - Unknown Exceptions for Bird-Seychelles Sunbird
+2022-04-06 08:11:04,666 - ERROR - Unknown Exceptions for Bird-Grand Comoro Sunbird
+2022-04-06 08:11:19,611 - ERROR - Unknown Exceptions for Bird-Moheli Sunbird
+2022-04-06 08:11:32,531 - ERROR - Unknown Exceptions for Bird-Long-billed Sunbird
+2022-04-06 08:11:46,389 - ERROR - Unknown Exceptions for Bird-Loten's Sunbird
+2022-04-06 08:12:00,756 - ERROR - Unknown Exceptions for Bird-Elegant Sunbird
+2022-04-06 08:12:13,633 - ERROR - Unknown Exceptions for Bird-Fire-tailed Sunbird
+2022-04-06 08:12:26,376 - ERROR - Unknown Exceptions for Bird-Black-throated Sunbird
+2022-04-06 08:12:40,406 - ERROR - Unknown Exceptions for Bird-Green-tailed Sunbird
+2022-04-06 08:12:53,488 - ERROR - Unknown Exceptions for Bird-Gould's Sunbird
+2022-04-06 08:13:05,119 - ERROR - Unknown Exceptions for Bird-Temminck's Sunbird
+2022-04-06 08:13:17,984 - ERROR - Unknown Exceptions for Bird-Javan Sunbird
+2022-04-06 08:13:30,427 - ERROR - Unknown Exceptions for Bird-Lovely Sunbird
+2022-04-06 08:13:43,017 - ERROR - Unknown Exceptions for Bird-Sahyadri Sunbird
+2022-04-06 08:13:55,566 - ERROR - Unknown Exceptions for Bird-Crimson Sunbird
+2022-04-06 08:14:08,274 - ERROR - Unknown Exceptions for Bird-Magnificent Sunbird
+2022-04-06 08:14:25,501 - ERROR - Unknown Exceptions for Bird-Metallic-winged Sunbird
+2022-04-06 08:14:38,652 - ERROR - Unknown Exceptions for Bird-Flaming Sunbird
+2022-04-06 08:14:51,233 - ERROR - Unknown Exceptions for Bird-Maroon-naped Sunbird
+2022-04-06 08:15:04,016 - ERROR - Unknown Exceptions for Bird-Handsome Sunbird
+2022-04-06 08:15:18,791 - ERROR - Unknown Exceptions for Bird-White-flanked Sunbird
+2022-04-06 08:15:31,799 - ERROR - Unknown Exceptions for Bird-Fork-tailed Sunbird
+2022-04-06 08:15:44,922 - ERROR - Unknown Exceptions for Bird-Hainan Sunbird
+2022-04-06 08:15:58,831 - ERROR - Unknown Exceptions for Bird-Lina's Sunbird
+2022-04-06 08:16:13,918 - ERROR - Unknown Exceptions for Bird-Grey-hooded Sunbird
+2022-04-06 08:16:28,487 - ERROR - Unknown Exceptions for Bird-Apo Sunbird
+2022-04-06 08:16:43,124 - ERROR - Unknown Exceptions for Bird-Altai Accentor
+2022-04-06 08:16:56,987 - ERROR - Unknown Exceptions for Bird-Alpine Accentor
+2022-04-06 08:17:14,852 - ERROR - Unknown Exceptions for Bird-Maroon-backed Accentor
+2022-04-06 08:17:31,237 - ERROR - Unknown Exceptions for Bird-Robin Accentor
+2022-04-06 08:17:44,860 - ERROR - Unknown Exceptions for Bird-Rufous-breasted Accentor
+2022-04-06 08:17:59,262 - ERROR - Unknown Exceptions for Bird-Brown Accentor
+2022-04-06 08:18:15,536 - ERROR - Unknown Exceptions for Bird-Mongolian Accentor
+2022-04-06 08:18:28,787 - ERROR - Unknown Exceptions for Bird-Japanese Accentor
+2022-04-06 08:18:42,141 - ERROR - Unknown Exceptions for Bird-Siberian Accentor
+2022-04-06 08:18:54,941 - ERROR - Unknown Exceptions for Bird-Dunnock
+2022-04-06 08:19:08,168 - ERROR - Unknown Exceptions for Bird-Black-throated Accentor
+2022-04-06 08:19:23,871 - ERROR - Unknown Exceptions for Bird-Radde's Accentor
+2022-04-06 08:19:36,882 - ERROR - Unknown Exceptions for Bird-Olive Warbler
+2022-04-06 08:19:50,829 - ERROR - Unknown Exceptions for Bird-Przevalski's Rosefinch
+2022-04-06 08:20:03,694 - ERROR - Unknown Exceptions for Bird-White-billed Buffalo-weaver
+2022-04-06 08:20:18,652 - ERROR - Unknown Exceptions for Bird-Red-billed Buffalo-weaver
+2022-04-06 08:20:33,352 - ERROR - Unknown Exceptions for Bird-White-headed Buffalo-weaver
+2022-04-06 08:20:47,182 - ERROR - Unknown Exceptions for Bird-White-browed Sparrow-weaver
+2022-04-06 08:21:00,089 - ERROR - Unknown Exceptions for Bird-Chestnut-crowned Sparrow-weaver
+2022-04-06 08:21:15,902 - ERROR - Unknown Exceptions for Bird-Donaldson-Smith's Sparrow-weaver
+2022-04-06 08:21:38,021 - ERROR - Unknown Exceptions for Bird-Chestnut-backed Sparrow-weaver
+2022-04-06 08:21:53,669 - ERROR - Unknown Exceptions for Bird-Rufous-tailed Weaver
+2022-04-06 08:22:08,313 - ERROR - Unknown Exceptions for Bird-Scaly-fronted Weaver
+2022-04-06 08:22:21,330 - ERROR - Unknown Exceptions for Bird-Speckle-fronted Weaver
+2022-04-06 08:22:35,421 - ERROR - Unknown Exceptions for Bird-Grey-capped Social-weaver
+2022-04-06 08:22:49,891 - ERROR - Unknown Exceptions for Bird-Black-capped Social-weaver
+2022-04-06 08:23:03,471 - ERROR - Unknown Exceptions for Bird-Sociable Weaver
+2022-04-06 08:23:21,248 - ERROR - Unknown Exceptions for Bird-Thick-billed Weaver
+2022-04-06 08:23:36,624 - ERROR - Unknown Exceptions for Bird-Cardinal Quelea
+2022-04-06 08:23:52,392 - ERROR - Unknown Exceptions for Bird-Red-headed Quelea
+2022-04-06 08:24:11,658 - ERROR - Unknown Exceptions for Bird-Red-billed Quelea
+2022-04-06 08:24:27,986 - ERROR - Unknown Exceptions for Bird-Yellow-crowned Bishop
+2022-04-06 08:24:48,417 - ERROR - Unknown Exceptions for Bird-Fire-fronted Bishop
+2022-04-06 08:25:06,022 - ERROR - Unknown Exceptions for Bird-Golden-backed Bishop
+2022-04-06 08:25:21,206 - ERROR - Unknown Exceptions for Bird-Black Bishop
+2022-04-06 08:25:35,735 - ERROR - Unknown Exceptions for Bird-Black-winged Bishop
+2022-04-06 08:25:50,364 - ERROR - Unknown Exceptions for Bird-Northern Red Bishop
+2022-04-06 08:26:05,676 - ERROR - Unknown Exceptions for Bird-Southern Red Bishop
+2022-04-06 08:26:25,964 - ERROR - Unknown Exceptions for Bird-Zanzibar Red Bishop
+2022-04-06 08:26:41,358 - ERROR - Unknown Exceptions for Bird-Red-collared Widowbird
+2022-04-06 08:26:55,844 - ERROR - Unknown Exceptions for Bird-Red-cowled Widowbird
+2022-04-06 08:27:09,722 - ERROR - Unknown Exceptions for Bird-Yellow Bishop
+2022-04-06 08:27:23,354 - ERROR - Unknown Exceptions for Bird-Yellow-mantled Widowbird
+2022-04-06 08:27:42,688 - ERROR - Unknown Exceptions for Bird-Fan-tailed Widowbird
+2022-04-06 08:27:57,885 - ERROR - Unknown Exceptions for Bird-White-winged Widowbird
+2022-04-06 08:28:11,817 - ERROR - Unknown Exceptions for Bird-Marsh Widowbird
+2022-04-06 08:28:32,931 - ERROR - Unknown Exceptions for Bird-Jackson's Widowbird
+2022-04-06 08:28:52,388 - ERROR - Unknown Exceptions for Bird-Montane Widowbird
+2022-04-06 08:29:12,244 - ERROR - Unknown Exceptions for Bird-Long-tailed Widowbird
+2022-04-06 08:29:26,316 - ERROR - Unknown Exceptions for Bird-Red Fody
+2022-04-06 08:29:41,167 - ERROR - Unknown Exceptions for Bird-Aldabra Fody
+2022-04-06 08:29:54,622 - ERROR - Unknown Exceptions for Bird-Grand Comoro Fody
+2022-04-06 08:30:08,817 - ERROR - Unknown Exceptions for Bird-Red-headed Fody
+2022-04-06 08:30:22,225 - ERROR - Unknown Exceptions for Bird-Forest Fody
+2022-04-06 08:30:40,933 - ERROR - Unknown Exceptions for Bird-Reunion Fody
+2022-04-06 08:30:54,917 - ERROR - Unknown Exceptions for Bird-Mauritius Fody
+2022-04-06 08:31:09,568 - ERROR - Unknown Exceptions for Bird-Seychelles Fody
+2022-04-06 08:31:24,520 - ERROR - Unknown Exceptions for Bird-Rodrigues Fody
+2022-04-06 08:31:41,328 - ERROR - Unknown Exceptions for Bird-Bob-tailed Weaver
+2022-04-06 08:31:56,305 - ERROR - Unknown Exceptions for Bird-Baglafecht Weaver
+2022-04-06 08:32:14,261 - ERROR - Unknown Exceptions for Bird-Bannerman's Weaver
+2022-04-06 08:32:29,731 - ERROR - Unknown Exceptions for Bird-Bates's Weaver
+2022-04-06 08:32:45,767 - ERROR - Unknown Exceptions for Bird-Black-chinned Weaver
+2022-04-06 08:32:59,639 - ERROR - Unknown Exceptions for Bird-Bertram's Weaver
+2022-04-06 08:33:13,347 - ERROR - Unknown Exceptions for Bird-Slender-billed Weaver
+2022-04-06 08:33:29,219 - ERROR - Unknown Exceptions for Bird-Loango Weaver
+2022-04-06 08:33:44,197 - ERROR - Unknown Exceptions for Bird-Little Weaver
+2022-04-06 08:34:04,502 - ERROR - Unknown Exceptions for Bird-Spectacled Weaver
+2022-04-06 08:34:25,052 - ERROR - Unknown Exceptions for Bird-Olive-naped Weaver
+2022-04-06 08:34:41,758 - ERROR - Unknown Exceptions for Bird-Black-necked Weaver
+2022-04-06 08:34:57,084 - ERROR - Unknown Exceptions for Bird-Strange Weaver
+2022-04-06 08:35:14,141 - ERROR - Unknown Exceptions for Bird-Black-billed Weaver
+2022-04-06 08:35:28,611 - ERROR - Unknown Exceptions for Bird-Cape Weaver
+2022-04-06 08:35:44,870 - ERROR - Unknown Exceptions for Bird-Bocage's Weaver
+2022-04-06 08:36:12,507 - ERROR - Unknown Exceptions for Bird-African Golden Weaver
+2022-04-06 08:36:37,412 - ERROR - Unknown Exceptions for Bird-Holub's Golden Weaver
+2022-04-06 08:36:54,658 - ERROR - Unknown Exceptions for Bird-Orange Weaver
+2022-04-06 08:37:10,175 - ERROR - Unknown Exceptions for Bird-Heuglin's Masked Weaver
+2022-04-06 08:37:25,735 - ERROR - Unknown Exceptions for Bird-Golden Palm Weaver
+2022-04-06 08:37:42,844 - ERROR - Unknown Exceptions for Bird-Taveta Golden Weaver
+2022-04-06 08:37:58,470 - ERROR - Unknown Exceptions for Bird-Principe Golden Weaver
+2022-04-06 08:38:15,684 - ERROR - Unknown Exceptions for Bird-Northern Brown-throated Weaver
+2022-04-06 08:38:29,592 - ERROR - Unknown Exceptions for Bird-Southern Brown-throated Weaver
+2022-04-06 08:38:43,804 - ERROR - Unknown Exceptions for Bird-Kilombero Weaver
+2022-04-06 08:38:56,982 - ERROR - Unknown Exceptions for Bird-Rüppell's Weaver
+2022-04-06 08:39:10,567 - ERROR - Unknown Exceptions for Bird-Northern Masked Weaver
+2022-04-06 08:39:26,126 - ERROR - Unknown Exceptions for Bird-Lesser Masked Weaver
+2022-04-06 08:39:39,650 - ERROR - Unknown Exceptions for Bird-Southern Masked Weaver
+2022-04-06 08:39:53,119 - ERROR - Unknown Exceptions for Bird-Upemba Masked Weaver
+2022-04-06 08:40:06,882 - ERROR - Unknown Exceptions for Bird-Katanga Masked Weaver
+2022-04-06 08:40:20,266 - ERROR - Unknown Exceptions for Bird-Lufira Masked Weaver
+2022-04-06 08:40:34,834 - ERROR - Unknown Exceptions for Bird-Tanzanian Masked Weaver
+2022-04-06 08:40:48,607 - ERROR - Unknown Exceptions for Bird-Vitelline Masked Weaver
+2022-04-06 08:41:05,582 - ERROR - Unknown Exceptions for Bird-Speke's Weaver
+2022-04-06 08:41:19,249 - ERROR - Unknown Exceptions for Bird-Fox's Weaver
+2022-04-06 08:41:33,404 - ERROR - Unknown Exceptions for Bird-Village Weaver
+2022-04-06 08:41:52,625 - ERROR - Unknown Exceptions for Bird-Giant Weaver
+2022-04-06 08:42:16,428 - ERROR - Unknown Exceptions for Bird-Chestnut-and-black Weaver
+2022-04-06 08:42:30,750 - ERROR - Unknown Exceptions for Bird-Vieillot's Black Weaver
+2022-04-06 08:42:46,767 - ERROR - Unknown Exceptions for Bird-Weyns's Weaver
+2022-04-06 08:43:02,508 - ERROR - Unknown Exceptions for Bird-Clarke's Weaver
+2022-04-06 08:43:14,949 - ERROR - Unknown Exceptions for Bird-Juba Weaver
+2022-04-06 08:43:30,538 - ERROR - Unknown Exceptions for Bird-Black-headed Weaver
+2022-04-06 08:43:47,490 - ERROR - Unknown Exceptions for Bird-Golden-backed Weaver
+2022-04-06 08:44:08,002 - ERROR - Unknown Exceptions for Bird-Cinnamon Weaver
+2022-04-06 08:44:25,387 - ERROR - Unknown Exceptions for Bird-Chestnut Weaver
+2022-04-06 08:44:40,259 - ERROR - Unknown Exceptions for Bird-Golden-naped Weaver
+2022-04-06 08:44:55,299 - ERROR - Unknown Exceptions for Bird-Yellow-mantled Weaver
+2022-04-06 08:45:10,517 - ERROR - Unknown Exceptions for Bird-Maxwell's Black Weaver
+2022-04-06 08:45:26,731 - ERROR - Unknown Exceptions for Bird-Nelicourvi Weaver
+2022-04-06 08:45:44,889 - ERROR - Unknown Exceptions for Bird-Sakalava Weaver
+2022-04-06 08:46:05,083 - ERROR - Unknown Exceptions for Bird-Asian Golden Weaver
+2022-04-06 08:46:23,191 - ERROR - Unknown Exceptions for Bird-Compact Weaver
+2022-04-06 08:46:41,339 - ERROR - Unknown Exceptions for Bird-Black-breasted Weaver
+2022-04-06 08:47:00,711 - ERROR - Unknown Exceptions for Bird-Streaked Weaver
+2022-04-06 08:47:24,575 - ERROR - Unknown Exceptions for Bird-Baya Weaver
+2022-04-06 08:47:44,194 - ERROR - Unknown Exceptions for Bird-Finn's Weaver
+2022-04-06 08:48:00,697 - ERROR - Unknown Exceptions for Bird-Dark-backed Weaver
+2022-04-06 08:48:14,994 - ERROR - Unknown Exceptions for Bird-Preuss's Weaver
+2022-04-06 08:48:31,626 - ERROR - Unknown Exceptions for Bird-Yellow-capped Weaver
+2022-04-06 08:48:49,183 - ERROR - Unknown Exceptions for Bird-Olive-headed Weaver
+2022-04-06 08:49:09,642 - ERROR - Unknown Exceptions for Bird-Usambara Weaver
+2022-04-06 08:49:27,300 - ERROR - Unknown Exceptions for Bird-Brown-capped Weaver
+2022-04-06 08:49:42,428 - ERROR - Unknown Exceptions for Bird-Bar-winged Weaver
+2022-04-06 08:49:56,594 - ERROR - Unknown Exceptions for Bird-Sao Tome Weaver
+2022-04-06 08:50:11,947 - ERROR - Unknown Exceptions for Bird-Yellow-legged Weaver
+2022-04-06 08:50:27,353 - ERROR - Unknown Exceptions for Bird-Red-crowned Malimbe
+2022-04-06 08:50:46,974 - ERROR - Unknown Exceptions for Bird-Cassin's Malimbe
+2022-04-06 08:51:07,380 - ERROR - Unknown Exceptions for Bird-Rachel's Malimbe
+2022-04-06 08:51:22,115 - ERROR - Unknown Exceptions for Bird-Gola Malimbe
+2022-04-06 08:51:36,459 - ERROR - Unknown Exceptions for Bird-Red-vented Malimbe
+2022-04-06 08:51:53,969 - ERROR - Unknown Exceptions for Bird-Ibadan Malimbe
+2022-04-06 08:52:09,953 - ERROR - Unknown Exceptions for Bird-Blue-billed Malimbe
+2022-04-06 08:52:24,231 - ERROR - Unknown Exceptions for Bird-Red-headed Malimbe
+2022-04-06 08:52:38,733 - ERROR - Unknown Exceptions for Bird-Red-bellied Malimbe
+2022-04-06 08:52:58,368 - ERROR - Unknown Exceptions for Bird-Crested Malimbe
+2022-04-06 08:53:13,241 - ERROR - Unknown Exceptions for Bird-Northern Red-headed Weaver
+2022-04-06 08:53:31,654 - ERROR - Unknown Exceptions for Bird-Southern Red-headed Weaver
+2022-04-06 08:53:45,564 - ERROR - Unknown Exceptions for Bird-Red Weaver
+2022-04-06 08:53:59,797 - ERROR - Unknown Exceptions for Bird-Black-bellied Firefinch
+2022-04-06 08:54:13,872 - ERROR - Unknown Exceptions for Bird-Bar-breasted Firefinch
+2022-04-06 08:54:31,956 - ERROR - Unknown Exceptions for Bird-Brown Firefinch
+2022-04-06 08:54:47,430 - ERROR - Unknown Exceptions for Bird-Red-billed Firefinch
+2022-04-06 08:55:02,197 - ERROR - Unknown Exceptions for Bird-Rock Firefinch
+2022-04-06 08:55:16,971 - ERROR - Unknown Exceptions for Bird-Chad Firefinch
+2022-04-06 08:55:31,140 - ERROR - Unknown Exceptions for Bird-Jameson's Firefinch
+2022-04-06 08:55:48,938 - ERROR - Unknown Exceptions for Bird-Mali Firefinch
+2022-04-06 08:56:04,642 - ERROR - Unknown Exceptions for Bird-African Firefinch
+2022-04-06 08:56:20,394 - ERROR - Unknown Exceptions for Bird-Vinaceous Firefinch
+2022-04-06 08:56:37,513 - ERROR - Unknown Exceptions for Bird-Grey Firefinch
+2022-04-06 08:56:54,511 - ERROR - Unknown Exceptions for Bird-Ethiopian Firefinch
+2022-04-06 08:57:14,677 - ERROR - Unknown Exceptions for Bird-Brown Twinspot
+2022-04-06 08:57:32,027 - ERROR - Unknown Exceptions for Bird-Red-billed Pytilia
+2022-04-06 08:57:48,152 - ERROR - Unknown Exceptions for Bird-Red-winged Pytilia
+2022-04-06 08:58:02,791 - ERROR - Unknown Exceptions for Bird-Orange-winged Pytilia
+2022-04-06 08:58:18,583 - ERROR - Unknown Exceptions for Bird-Yellow-winged Pytilia
+2022-04-06 08:58:39,357 - ERROR - Unknown Exceptions for Bird-Green-winged Pytilia
+2022-04-06 08:58:55,374 - ERROR - Unknown Exceptions for Bird-Pink-throated Twinspot
+2022-04-06 08:59:11,641 - ERROR - Unknown Exceptions for Bird-Red-throated Twinspot
+2022-04-06 08:59:32,977 - ERROR - Unknown Exceptions for Bird-Dybowski's Twinspot
+2022-04-06 08:59:47,949 - ERROR - Unknown Exceptions for Bird-Dusky Twinspot
+2022-04-06 09:00:03,606 - ERROR - Unknown Exceptions for Bird-Violet-eared Waxbill
+2022-04-06 09:00:18,298 - ERROR - Unknown Exceptions for Bird-Purple Grenadier
+2022-04-06 09:00:32,271 - ERROR - Unknown Exceptions for Bird-Blue-breasted Cordon-bleu
+2022-04-06 09:00:49,773 - ERROR - Unknown Exceptions for Bird-Red-cheeked Cordon-bleu
+2022-04-06 09:01:08,439 - ERROR - Unknown Exceptions for Bird-Blue-capped Cordon-bleu
+2022-04-06 09:01:22,706 - ERROR - Unknown Exceptions for Bird-Grant's Bluebill
+2022-04-06 09:01:39,525 - ERROR - Unknown Exceptions for Bird-Western Bluebill
+2022-04-06 09:02:00,559 - ERROR - Unknown Exceptions for Bird-Red-headed Bluebill
+2022-04-06 09:02:16,619 - ERROR - Unknown Exceptions for Bird-Black-bellied Seedcracker
+2022-04-06 09:02:30,704 - ERROR - Unknown Exceptions for Bird-Crimson Seedcracker
+2022-04-06 09:02:44,556 - ERROR - Unknown Exceptions for Bird-Lesser Seedcracker
+2022-04-06 09:02:59,392 - ERROR - Unknown Exceptions for Bird-Lavender Waxbill
+2022-04-06 09:03:17,490 - ERROR - Unknown Exceptions for Bird-Black-tailed Waxbill
+2022-04-06 09:03:37,322 - ERROR - Unknown Exceptions for Bird-Cinderella Waxbill
+2022-04-06 09:03:54,954 - ERROR - Unknown Exceptions for Bird-Anambra Waxbill
+2022-04-06 09:04:09,821 - ERROR - Unknown Exceptions for Bird-Fawn-breasted Waxbill
+2022-04-06 09:04:24,823 - ERROR - Unknown Exceptions for Bird-Orange-cheeked Waxbill
+2022-04-06 09:04:39,590 - ERROR - Unknown Exceptions for Bird-Crimson-rumped Waxbill
+2022-04-06 09:04:52,450 - ERROR - Unknown Exceptions for Bird-Arabian Waxbill
+2022-04-06 09:05:07,213 - ERROR - Unknown Exceptions for Bird-Black-rumped Waxbill
+2022-04-06 09:05:25,304 - ERROR - Unknown Exceptions for Bird-Common Waxbill
+2022-04-06 09:05:41,302 - ERROR - Unknown Exceptions for Bird-Black-lored Waxbill
+2022-04-06 09:05:56,889 - ERROR - Unknown Exceptions for Bird-Black-crowned Waxbill
+2022-04-06 09:06:12,777 - ERROR - Unknown Exceptions for Bird-Black-headed Waxbill
+2022-04-06 09:06:28,991 - ERROR - Unknown Exceptions for Bird-Kandt's Waxbill
+2022-04-06 09:06:45,952 - ERROR - Unknown Exceptions for Bird-Black-cheeked Waxbill
+2022-04-06 09:07:01,583 - ERROR - Unknown Exceptions for Bird-Black-faced Waxbill
+2022-04-06 09:07:18,607 - ERROR - Unknown Exceptions for Bird-Green Twinspot
+2022-04-06 09:07:36,352 - ERROR - Unknown Exceptions for Bird-Red-faced Crimsonwing
+2022-04-06 09:07:52,890 - ERROR - Unknown Exceptions for Bird-Abyssinian Crimsonwing
+2022-04-06 09:08:11,082 - ERROR - Unknown Exceptions for Bird-Dusky Crimsonwing
+2022-04-06 09:08:27,096 - ERROR - Unknown Exceptions for Bird-Shelley's Crimsonwing
+2022-04-06 09:08:43,676 - ERROR - Unknown Exceptions for Bird-Angola Waxbill
+2022-04-06 09:08:58,550 - ERROR - Unknown Exceptions for Bird-Swee Waxbill
+2022-04-06 09:09:15,903 - ERROR - Unknown Exceptions for Bird-Yellow-bellied Waxbill
+2022-04-06 09:09:30,961 - ERROR - Unknown Exceptions for Bird-Shelley's Oliveback
+2022-04-06 09:09:46,630 - ERROR - Unknown Exceptions for Bird-White-collared Oliveback
+2022-04-06 09:10:02,493 - ERROR - Unknown Exceptions for Bird-Grey-headed Oliveback
+2022-04-06 09:10:17,811 - ERROR - Unknown Exceptions for Bird-White-breasted Nigrita
+2022-04-06 09:10:32,108 - ERROR - Unknown Exceptions for Bird-Chestnut-breasted Nigrita
+2022-04-06 09:10:47,238 - ERROR - Unknown Exceptions for Bird-Pale-fronted Nigrita
+2022-04-06 09:11:01,845 - ERROR - Unknown Exceptions for Bird-Grey-headed Nigrita
+2022-04-06 09:11:19,140 - ERROR - Unknown Exceptions for Bird-Woodhouse's Antpecker
+2022-04-06 09:11:33,560 - ERROR - Unknown Exceptions for Bird-Red-fronted Antpecker
+2022-04-06 09:11:49,074 - ERROR - Unknown Exceptions for Bird-Jameson's Antpecker
+2022-04-06 09:12:03,799 - ERROR - Unknown Exceptions for Bird-Red-headed Finch
+2022-04-06 09:12:20,777 - ERROR - Unknown Exceptions for Bird-Cut-throat Finch
+2022-04-06 09:12:39,403 - ERROR - Unknown Exceptions for Bird-African Quailfinch
+2022-04-06 09:12:55,546 - ERROR - Unknown Exceptions for Bird-Red Avadavat
+2022-04-06 09:13:11,157 - ERROR - Unknown Exceptions for Bird-Green Avadavat
+2022-04-06 09:13:27,967 - ERROR - Unknown Exceptions for Bird-Zebra Waxbill
+2022-04-06 09:13:43,625 - ERROR - Unknown Exceptions for Bird-Locust Finch
+2022-04-06 09:13:58,748 - ERROR - Unknown Exceptions for Bird-Bronze Mannikin
+2022-04-06 09:14:13,869 - ERROR - Unknown Exceptions for Bird-Black-and-white Mannikin
+2022-04-06 09:14:28,664 - ERROR - Unknown Exceptions for Bird-Magpie Mannikin
+2022-04-06 09:14:44,986 - ERROR - Unknown Exceptions for Bird-Grey-headed Silverbill
+2022-04-06 09:15:00,768 - ERROR - Unknown Exceptions for Bird-Madagascar Munia
+2022-04-06 09:15:16,156 - ERROR - Unknown Exceptions for Bird-African Silverbill
+2022-04-06 09:15:31,287 - ERROR - Unknown Exceptions for Bird-Indian Silverbill
+2022-04-06 09:15:46,151 - ERROR - Unknown Exceptions for Bird-White-rumped Munia
+2022-04-06 09:16:01,371 - ERROR - Unknown Exceptions for Bird-Javan Munia
+2022-04-06 09:16:17,567 - ERROR - Unknown Exceptions for Bird-Dusky Munia
+2022-04-06 09:16:33,907 - ERROR - Unknown Exceptions for Bird-Black-faced Munia
+2022-04-06 09:16:50,328 - ERROR - Unknown Exceptions for Bird-Scaly-breasted Munia
+2022-04-06 09:17:06,114 - ERROR - Unknown Exceptions for Bird-Black-throated Munia
+2022-04-06 09:17:20,711 - ERROR - Unknown Exceptions for Bird-White-bellied Munia
+2022-04-06 09:17:35,860 - ERROR - Unknown Exceptions for Bird-Streak-headed Mannikin
+2022-04-06 09:17:53,950 - ERROR - Unknown Exceptions for Bird-White-spotted Mannikin
+2022-04-06 09:18:09,073 - ERROR - Unknown Exceptions for Bird-Five-coloured Munia
+2022-04-06 09:18:24,157 - ERROR - Unknown Exceptions for Bird-Tricoloured Munia

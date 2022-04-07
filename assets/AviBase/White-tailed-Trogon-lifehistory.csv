@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-370D8E86","DISTRIB","ANNUAL","Species distribution","Geographical range","Lowlands of w Panama to Amazonian Brazil and n Bolivia","","","","","Clements 2004",""
+"avibase-370D8E86","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-370D8E86","HABITAT","ALT","Habitat","Altitude","","m","","1300","-1","Birdlife's Worldbird Database",""
+"avibase-370D8E86","HABITAT","DESCR","Habitat","Habitat description","humid forest, edge, second growth, woodland;lowlands-1300m","","","","","Sibley 1996",""

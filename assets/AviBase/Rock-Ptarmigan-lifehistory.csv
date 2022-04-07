@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-01337D82","DISTRIB","ANNUAL","Species distribution","Geographical range","Alpine region from Savoy to central Austria.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-01337D82","DISTRIB","ANNUAL","Species distribution","Geographical range","Alps (Savoie to central Austria)","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-01337D82","DISTRIB","ANNUAL","Species distribution","Geographical range","Alps","","","","","IOC 12.1","http://www.worldbirdnames.org/"

@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-68577232","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-68577232","HABITAT","ALT","Habitat","Altitude","","m","","1350","-1","Birdlife's Worldbird Database",""
+"avibase-68577232","HABITAT","DESCR","Habitat","Habitat description","humid forest undergrowth;lowlands-500m","","","","","Sibley 1996",""

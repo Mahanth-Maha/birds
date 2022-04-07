@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-EDDA42ED","DISTRIB","ANNUAL","Species distribution","Geographical range","Auckland Islands.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-EDDA42ED","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Auckland Is. Extinct; last reported 1902","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-EDDA42ED","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-EDDA42ED","HABITAT","DESCR","Habitat","Habitat description","sheltered inlets, creeks.Extinct since 1905","","","","","Sibley 1996",""
+"avibase-EDDA42ED","BODY","MASS","Body measurements","Body mass","898","g","898","898","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-EDDA42ED","BODY","MASS_U","Body measurements","Body mass (sex unknown)","898","g","898","898","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"

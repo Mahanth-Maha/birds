@@ -1,0 +1,6 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-19F54513","DISTRIB","ANNUAL","Species distribution","Geographical range","Humid forests of ne India to sw China, SE Asia and Hainan","","","","","Clements 2004",""
+"avibase-19F54513","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: Southeast Asia","","","","","IOC 2.01","http://worldbirdnames.org/"
+"avibase-19F54513","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: Southeast Asia","","","","","IOC 2.02","http://worldbirdnames.org/"
+"avibase-19F54513","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-19F54513","HABITAT","DESCR","Habitat","Habitat description","lush evergreen and semi-evergreen forest with dense understorey, including bamboo;to .1800m in Thailand and 2000m in Yunnan but typically lower","","","","","Sibley 1996",""
