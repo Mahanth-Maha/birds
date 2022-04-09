@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-05525BAA","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: ne India to Borneo","","","","","IOC 12.1","http://www.worldbirdnames.org/"
+"avibase-05525BAA","DISTRIB","MIGRATION","Species distribution","Migration strategy","Sedentary","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-05525BAA","HABITAT","DENSITY","Habitat","Habitat density (1-3)","Dense habitats","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-05525BAA","HABITAT","DESCR","Habitat","Habitat description","Forest","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-05525BAA","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-05525BAA","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Frugivore","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-05525BAA","BODY","MASS","Body measurements","Body mass","33.3","g","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"

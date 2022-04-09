@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-0EFF2CA3","DISTRIB","ANNUAL","Species distribution","Geographical range","Apparently confined to the Parry group of the Bonin Islands. Now extinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-0EFF2CA3","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Bonin Is. Extinct; last reported 1889","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-0EFF2CA3","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-0EFF2CA3","HABITAT","DESCR","Habitat","Habitat description","Subtropical forest.Extinct 1889","","","","","Sibley 1996",""

@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-63B5CFC7","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct 1900. Tristan da Cunha","","","","","Clements 2004",""
+"avibase-63B5CFC7","DISTRIB","ANNUAL","Species distribution","Geographical range","Resident, dense tussock grass in shrub and tree fern zones: Gough Is (comeri); nesiotis extinct on Tristan but comeri now introduced.","","","","-1","africanbirdclub.org","http://africanbirdclub.org/resources/checklist.html"
+"avibase-63B5CFC7","DISTRIB","ANNUAL","Species distribution","Geographical range","Atlantic Ocean: Gough Island","","","","","IOC 1.01","http://worldbirdnames.org/"
+"avibase-63B5CFC7","DISTRIB","REALM","Species distribution","Realm","Afrotropic","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-63B5CFC7","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-63B5CFC7","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

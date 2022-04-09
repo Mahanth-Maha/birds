@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-7328A120","DISTRIB","ANNUAL","Species distribution","Geographical range","Norfolk Island, Phillip Island. Now extinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-7328A120","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Norfolk I. and Phillip I. Extinct; last reported 1851","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-7328A120","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-7328A120","HABITAT","DESCR","Habitat","Habitat description","trees, rocky areas.Extinct ca 1851.","","","","","Sibley 1996",""

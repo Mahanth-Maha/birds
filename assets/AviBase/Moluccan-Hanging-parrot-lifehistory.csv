@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-980375D2","DISTRIB","ANNUAL","Species distribution","Geographical range","Australasia: n Moluccas","","","","","IOC 1.01","http://worldbirdnames.org/"
+"avibase-980375D2","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-980375D2","HABITAT","DESCR","Habitat","Habitat description","Forest edges, secondary growth and towns","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"

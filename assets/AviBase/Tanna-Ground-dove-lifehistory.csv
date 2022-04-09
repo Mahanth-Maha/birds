@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-8832822E","DISTRIB","ANNUAL","Species distribution","Geographical range","Van, Malo","","","","-1","www.birdsofmelanesia.net","http://www.birdsofmelanesia.net/"
+"avibase-8832822E","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Tanna Island (Vanuatu). Extinct; not reported since 1774","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-8832822E","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-8832822E","HABITAT","DESCR","Habitat","Habitat description","?forest.Extinct.May have been race of G.sanctaecrucis.","","","","","Sibley 1996",""

@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-8C3CD124","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct. Formerly occurred on Mauritius; last record from between 1673-1675","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-8C3CD124","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-8C3CD124","HABITAT","DESCR","Habitat","Habitat description","Extinct sometime after 1638","","","","","Sibley 1996",""

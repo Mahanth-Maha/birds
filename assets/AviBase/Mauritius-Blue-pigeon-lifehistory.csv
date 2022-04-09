@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-BE8566B0","DISTRIB","ANNUAL","Species distribution","Geographical range","Mauritius. Now extinct.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-BE8566B0","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Mauritius I. Extinct; last seen 1840","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-BE8566B0","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-BE8566B0","HABITAT","DESCR","Habitat","Habitat description","?riparian forest.Extinct ca 1826","","","","","Sibley 1996",""

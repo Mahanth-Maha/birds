@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-4AFCB0A6","BODY","BILL_F","Body measurements","Bill length (females) - Culmen","3.59","cm","","","1","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-4AFCB0A6","BODY","BILL_M","Body measurements","Bill length (males) - Culmen","4.21","cm","","","1","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-4AFCB0A6","BODY","MASS_F","Body measurements","Body mass (females)","5.5","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-4AFCB0A6","BODY","MASS_M","Body measurements","Body mass (males)","6","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-4AFCB0A6","EGGS","MASS","Eggs","Egg mass","0.85","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-4AFCB0A6","REPROD","SYSTEM","Reproduction","Reproductive system","lek or promiscuous","","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"

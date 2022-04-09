@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-80897D19","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct. Believed to have bred formerly in Labrador. Wintered from Grand Manan to Chesapeake Bay(?) but chiefly off Long Island, N. Y.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-80897D19","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-80897D19","HABITAT","DESCR","Habitat","Habitat description","Breeding habitat unknown; winter habitat included sandy bays and estuaries. ","","","","","AOU Checklist","http://www.aou.org/checklist/north/print.php"
+"avibase-80897D19","HABITAT","DESCR","Habitat","Habitat description","?sandy bays, estuaries.Extinct, last recorded 1878","","","","","Sibley 1996",""
+"avibase-80897D19","BODY","MASS","Body measurements","Body mass","864","g","482","865","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-80897D19","BODY","MASS_F","Body measurements","Body mass (females)","482","g","482","482","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-80897D19","BODY","MASS_M","Body measurements","Body mass (males)","865","g","865","865","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"

@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-CB21BCEA","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct. Formerly occurred on Mangare Island and Chatham Island of the Chatham Group.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-CB21BCEA","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Chatham Is. Extinct; last seen 1900","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-CB21BCEA","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-CB21BCEA","HABITAT","DESCR","Habitat","Habitat description","tussock grass.Extinct ca. 1900","","","","","Sibley 1996",""

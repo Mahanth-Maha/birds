@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-6F0D6AB1","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct. Formerly occurred on Réunion Island.","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-6F0D6AB1","DISTRIB","ANNUAL","Species distribution","Geographical range","Réunion I.","","","","","IOC 12.1","http://www.worldbirdnames.org/"
+"avibase-6F0D6AB1","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""

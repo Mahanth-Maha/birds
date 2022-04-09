@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-69261FBE","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: Southeast Asia to Borneo & Java","","","","","IOC 1.05","http://worldbirdnames.org/"
+"avibase-69261FBE","DISTRIB","REALM","Species distribution","Realm","Indo_Malay","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-69261FBE","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-69261FBE","HABITAT","DESCR","Habitat","Habitat description","humid riparian forest, second growth;lowlands-1500m","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"
+"avibase-69261FBE","FOOD","FORAGINGNICHE","Food and feeding habits","Foraging niche","Vertivore perch","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-69261FBE","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Carnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-69261FBE","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Vertivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-4D1B22B5","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-4D1B22B5","HABITAT","ALT","Habitat","Altitude","","m","","1700","-1","Birdlife's Worldbird Database",""
+"avibase-4D1B22B5","HABITAT","DESCR","Habitat","Habitat description","forest edge, thickets, woodland;lowlands-1900m","","","","","Sibley 1996",""

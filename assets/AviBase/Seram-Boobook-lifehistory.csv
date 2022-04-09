@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-5A5474B2","DISTRIB","ANNUAL","Species distribution","Geographical range","Australasia: Buru Is, Seram Is.","","","","","IOC 8.2","http://www.worldbirdnames.org/"
+"avibase-5A5474B2","BODY","MASS","Body measurements","Body mass","210","g","210","210","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-5A5474B2","BODY","MASS_U","Body measurements","Body mass (sex unknown)","210","g","210","210","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"

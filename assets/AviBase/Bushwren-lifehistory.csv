@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-9232F027","DISTRIB","ANNUAL","Species distribution","Geographical range","Australasia: North, South and Stewart is. (New Zealand)","","","","","IOC 12.1","http://www.worldbirdnames.org/"
+"avibase-9232F027","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-9232F027","HABITAT","DESCR","Habitat","Habitat description","dense mountain forest, coastal forest or scrub.Last record 1972","","","","","Sibley 1996",""
+"avibase-9232F027","BODY","MASS","Body measurements","Body mass","16","g","15","17","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-9232F027","BODY","MASS_F","Body measurements","Body mass (females)","17","g","17","17","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-9232F027","BODY","MASS_M","Body measurements","Body mass (males)","15","g","15","15","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"

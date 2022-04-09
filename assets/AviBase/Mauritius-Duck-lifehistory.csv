@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-08F2BBC6","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct; formerly occurred on Mauritius and Réunion Island","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-08F2BBC6","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-08F2BBC6","HABITAT","DESCR","Habitat","Habitat description","Extinct after 1726.","","","","","Sibley 1996",""

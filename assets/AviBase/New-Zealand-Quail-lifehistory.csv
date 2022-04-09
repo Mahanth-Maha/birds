@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-48E3A389","DISTRIB","ANNUAL","Species distribution","Geographical range","New Zealand. Extinct since about 1870.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-48E3A389","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly New Zealand. Extinct; last reported 1875","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-48E3A389","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-48E3A389","HABITAT","DESCR","Habitat","Habitat description","rank grassland, farmlands.Extinct ca 1870","","","","","Sibley 1996",""
+"avibase-48E3A389","BODY","MASS","Body measurements","Body mass","200","g","128","220","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-48E3A389","BODY","MASS_F","Body measurements","Body mass (females)","200","g","200","200","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-48E3A389","BODY","MASS_M","Body measurements","Body mass (males)","220","g","220","220","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"

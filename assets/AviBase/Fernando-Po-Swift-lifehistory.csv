@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-DEE4829A","DISTRIB","ANNUAL","Species distribution","Geographical range","Resident in western Transvaal, Natal, Cape Province and southern Nyasaland; straggler (?) to the interior of Kenya Colony.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-DEE4829A","DISTRIB","MIGRATION","Species distribution","Migration strategy","Partially migratory","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-DEE4829A","HABITAT","DENSITY","Habitat","Habitat density (1-3)","Dense habitats","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-DEE4829A","HABITAT","DESCR","Habitat","Habitat description","Rock","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-DEE4829A","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Carnivore","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-DEE4829A","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Invertivore","","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"
+"avibase-DEE4829A","BODY","MASS","Body measurements","Body mass","42.8","g","","","","Tobias et al. 2021","https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898"

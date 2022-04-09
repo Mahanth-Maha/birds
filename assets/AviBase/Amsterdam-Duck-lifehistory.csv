@@ -1,0 +1,4 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-B52611C1","DISTRIB","ANNUAL","Species distribution","Geographical range","Extinct; formerly occurred on Amsterdam and St. Paul Islands; last reported in 1793","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-B52611C1","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-B52611C1","HABITAT","DESCR","Habitat","Habitat description","?Extinct ca.1780","","","","","Sibley 1996",""

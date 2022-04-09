@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-D2B7A339","DISTRIB","ANNUAL","Species distribution","Geographical range","Andes of Venezuela to Tierra del Fuego","","","","","Clements 2004",""
+"avibase-D2B7A339","DISTRIB","ANNUAL","Species distribution","Geographical range","Vagrant: Tristan.","","","","-1","africanbirdclub.org","http://africanbirdclub.org/resources/checklist.html"
+"avibase-D2B7A339","HABITAT","DESCR","Habitat","Habitat description","lakes, rivers of puna zone, lakes marshes, coast","","","","","Sibley 1996",""
+"avibase-D2B7A339","BODY","MASS_F","Body measurements","Body mass (females)","394","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-D2B7A339","BODY","MASS_M","Body measurements","Body mass (males)","429","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-D2B7A339","EGGS","MASS","Eggs","Egg mass","39","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"

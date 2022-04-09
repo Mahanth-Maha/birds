@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-CA23ED8D","DISTRIB","ANNUAL","Species distribution","Geographical range","Ranges widely in Atlantic, Pacific and Indian Ocean","","","","","Clements 2004",""
+"avibase-CA23ED8D","DISTRIB","ANNUAL","Species distribution","Geographical range","NCal, Grande Terre","","","","-1","www.birdsofmelanesia.net","http://www.birdsofmelanesia.net/"
+"avibase-CA23ED8D","BODY","BILL_U","Body measurements","Bill length (sex unknown) - Culmen","2.61","cm","","","8","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-CA23ED8D","BODY","WING_U","Body measurements","Wing length (sex unknown)","18.4","cm","","","7","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-CA23ED8D","EGGS","MASS","Eggs","Egg mass","32","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-CA23ED8D","REPROD","CLUTCHSZ","Reproduction","Clutch size","1","","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-CA23ED8D","REPROD","SYSTEM","Reproduction","Reproductive system","monogamy (<5% polygyny)","","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"

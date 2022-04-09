@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-4FE907D5","DISTRIB","ANNUAL","Species distribution","Geographical range","Savanna of Guianas, se Venezuela and n Amazonian Brazil","","","","","Clements 2004",""
+"avibase-4FE907D5","DISTRIB","ANNUAL","Species distribution","Geographical range","The Guianas and the Rio Branco region of northwestern Brazil.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-4FE907D5","DISTRIB","ANNUAL","Species distribution","Geographical range","South America: ne, e Amazonia","","","","","IOC 1.01","http://worldbirdnames.org/"
+"avibase-4FE907D5","DISTRIB","REALM","Species distribution","Realm","Neotropic","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-4FE907D5","FOOD","FORAGINGNICHE","Food and feeding habits","Foraging niche","Fugivore glean","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-4FE907D5","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-4FE907D5","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Frugivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

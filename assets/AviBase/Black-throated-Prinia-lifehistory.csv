@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-4CCC10AE","DISTRIB","ANNUAL","Species distribution","Geographical range","Asia: e Himalayas to Sumatra","","","","","IOC 1.05","http://worldbirdnames.org/"
+"avibase-4CCC10AE","DISTRIB","REALM","Species distribution","Realm","Indo_Malay","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-4CCC10AE","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-4CCC10AE","HABITAT","DESCR","Habitat","Habitat description","grassland, dense low scrub, forest edge;mountains 600-2450m","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"
+"avibase-4CCC10AE","FOOD","FORAGINGNICHE","Food and feeding habits","Foraging niche","Invertivore glean arboreal","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-4CCC10AE","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Carnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-4CCC10AE","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Invertivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"

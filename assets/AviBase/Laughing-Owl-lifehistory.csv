@@ -1,0 +1,6 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-1F14F0A8","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly New Zealand. Extinct; last reported 1970","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-1F14F0A8","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-1F14F0A8","HABITAT","DESCR","Habitat","Habitat description","forest.Almost certainly extinct, last recorded 1914","","","","","Sibley 1996",""
+"avibase-1F14F0A8","BODY","MASS","Body measurements","Body mass","600","g","600","600","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
+"avibase-1F14F0A8","BODY","MASS_U","Body measurements","Body mass (sex unknown)","600","g","600","600","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"

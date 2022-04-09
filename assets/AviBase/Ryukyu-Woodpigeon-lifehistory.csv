@@ -1,0 +1,5 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-33D2620F","DISTRIB","ANNUAL","Species distribution","Geographical range","Riu Kiu Islands: Ihya, Ijina, Okinawa, Yagachi, Zamami; Borodino Islands.","","","","","Peter's Checklist of the Birds of the World","http://www.biodiversitylibrary.org/bibliography/14581"
+"avibase-33D2620F","DISTRIB","ANNUAL","Species distribution","Geographical range","Formerly Okinawa and Daito Is. Extinct; last seen 1936","","","","","Clements 2021","https://www.birds.cornell.edu/clementschecklist/download/"
+"avibase-33D2620F","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-33D2620F","HABITAT","DESCR","Habitat","Habitat description","forest.Endangered or more likely extinct ca 1936.Last seen Daito Is 1936.","","","","","Sibley 1996",""

@@ -1,0 +1,7 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-417C8D3D","DISTRIB","ANNUAL","Species distribution","Geographical range","Central Panama to n Bolivia and Amazonian Brazil","","","","","Clements 2004",""
+"avibase-417C8D3D","RANGE","RESTRICTED","Range and population size","Has restricted range?","N","","","","-1","Birdlife's Worldbird Database",""
+"avibase-417C8D3D","HABITAT","ALT","Habitat","Altitude","","m","","1000","-1","Birdlife's Worldbird Database",""
+"avibase-417C8D3D","HABITAT","DESCR","Habitat","Habitat description","humid forest;lowlands-2200m","","","","","Sibley 1996",""
+"avibase-417C8D3D","BODY","MASS_M","Body measurements","Body mass (males)","112","grams","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"
+"avibase-417C8D3D","REPROD","SYSTEM","Reproduction","Reproductive system","monogamy (<5% polygyny)","","","","","Lisleland et al. 2007","https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/06-2054"

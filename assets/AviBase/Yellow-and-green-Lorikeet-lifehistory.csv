@@ -1,0 +1,8 @@
+﻿"avibase_id","categ","subcateg","categ_descr","subcat_descr","value","units","min_value","max_value","samplesize","refer","url"
+"avibase-6728C5CE","DISTRIB","ANNUAL","Species distribution","Geographical range","Australasia: Sulawesi and Sula Is.","","","","","IOC 11.1","http://www.worldbirdnames.org/"
+"avibase-6728C5CE","DISTRIB","REALM","Species distribution","Realm","Australian","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-6728C5CE","RANGE","RESTRICTED","Range and population size","Has restricted range?","Y","","","","-1","Birdlife's Worldbird Database",""
+"avibase-6728C5CE","HABITAT","DESCR","Habitat","Habitat description","primary hill & montane forest and edge and primary tall secondary and selectively logged lowland forest;mainly 800-2400m, occasionallly lowlands","","","","","http://www.noord.bart.nl/~edcolijn/bird.html","http://www.noord.bart.nl/~edcolijn/bird.html"
+"avibase-6728C5CE","FOOD","TROPHICLEVEL","Food and feeding habits","Trophic level","Herbivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-6728C5CE","FOOD","TROPHICNICHE","Food and feeding habits","Trophic niche","Omnivore","","","","-1","Pigot et al. 2020","https://doi.org/10.1038/s41559-019-1070-4"
+"avibase-6728C5CE","REPROD","CLUTCHSZ","Reproduction","Clutch size","2","n","2","2","","Myhrvold et al. 2015","https://figshare.com/collections/An_amniote_life-history_database_to_perform_comparative_analyses_with_birds_mammals_and_reptiles/3308127"
