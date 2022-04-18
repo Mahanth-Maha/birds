@@ -1,0 +1,157 @@
+{%- macro info(Bird_Original_Name,Bird_Original_Name_Telugu,Conservation_status_code,Page_Id,image,Order_Telugu,Genus_Telugu,Species_Telugu,Scientist_Telugu,Synonymous_Name_Telugu) -%}
+
+{{'{{taxobox'}}
+| name= {{Bird_Original_Name_Telugu}}
+{%- if Conservation_status_code!= 'NaN' %}
+| status = {{Conservation_status_code}}
+{%- endif %}
+| status_system = IUCN3.1
+{%- if Page_Id!= 'NaN' %}
+| status_ref=<ref name="iucn status 18 November 2021">{{'{{'}}cite iucn |author=BirdLife International |date=2016 |title=''{{Bird_Original_Name}}'' |volume=2016 |page=e.{{Page_Id}} |doi=10.2305/IUCN.UK.2016-3.RLTS.{{Page_Id}}.en |access-date=18 November 2021{{'}}'}}</ref>
+{%- endif %}
+{%- if image!= 'NaN' %}
+| image = {{image}}
+{%- endif %}
+| regnum= జంతువులు
+| phylum= కార్డేట్
+| classis=[[పక్షులు|ఏవ్స్]] 
+{%- if Order_Telugu!= 'NaN' %}
+| ordo={{Order_Telugu}}
+{%- endif %}
+{%- if Family_Telugu!= 'NaN' %}
+| familia={{Family_Telugu}}
+{%- endif %}
+{%- if Genus_Telugu!= 'NaN' %}
+| genus =''{{Genus_Telugu}}''
+{%- endif %}
+{%- if Species_Telugu!= 'NaN' %}
+| species = '''''{{Species_Telugu}}'''''
+{%- endif %}
+{%- if Scientist_Telugu!= 'NaN' and founded != 'NaN' %}
+| authority = ([[{{Scientist_Telugu}}]], {{founded}})
+{%- endif %}
+{%- if Synonymous_Name!= 'NaN' %}
+| synonyms = {{Synonymous_Name_Telugu}}
+{%- endif %}
+{{'}}'}}
+
+{%- endmacro -%}
+
+{%- macro intro(Bird_Original_Name_Telugu, Bird_Original_Name, Scientific_Name_Telugu, Scientific_Name, Synonymous_Name, Synonymous_Name_Telugu,Old_latin_name_for_bird_Telugu,Old_latin_name_for_bird, Conservation_status_Telugu, Family_Telugu,Kingdom_Telugu, Subkingdom_Telugu, Infrakingdom_Telugu, Phylum_Telugu, Subphylum_Telugu, Infraphylum_Telugu, Superclass_Telugu, Class_Telugu, Order_Telugu) -%}
+	{%- set scientific_line=[
+									Scientific_Name_Telugu +"("+ Scientific_Name+")"+ " దీని శాస్త్రీయ నామం. ",
+									" దీని శాస్త్రీయ నామం "+Scientific_Name_Telugu+"("+Scientific_Name+"). "
+								] | random
+	-%}
+	{{Bird_Original_Name_Telugu}}({{ Bird_Original_Name}}){{scientific_line}},{{Family_Telugu}} కుటుంబంలోని పక్షి.  పక్షికి లాటిన్ పేరు(పాత) {{Old_latin_name_for_bird_Telugu}}. దీనిని {{Synonymous_Name_Telugu}} ( {{Synonymous_Name}} ) అని కూడా అంటారు .ఇది {{Kingdom_Telugu}} జాతికి చెందినది .{{Bird_Original_Name_Telugu}} యొక్క  ఉపరాజ్యం బిలేటేరియా మరియు {{"డ్యూటెరోస్టోమియా"}} దీని ఇన్ఫ్రా కింగ్డమ్. ఈ పక్షి యొక్క ఫైలం {{'చోర్డేటా'}}, సబ్ ఫైలం {{"వెన్నుపూస"}} మరియు ఇన్ఫ్రా ఫైలం {{"గ్నాథోస్టోమాటా"}}. ఇవి {{"పక్షులు"}} తరగతి కి చెందినవి. ఈ పక్షి యొక్క ఆర్డర్ {{Order_Telugu}}. ఐ.యు.సి.ఎన్. ఈ జాతులను {{Conservation_status_Telugu}} పక్షిగా వర్గీకరించింది.
+{%- endmacro -%}
+
+{%- macro gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) -%}
+    {%- if Scientist_Telugu != 'NaN' and founded != 'NaN' %}
+        {%- set find_line=[
+            Bird_Original_Name_Telugu + " అన్న పేరుతో ప్రకృతి శాస్త్రవేత్త "+ Scientist_Telugu +" "+ founded +"లో మొట్టమొదటిసారిగా ఈ పక్షిని కనుగొన్నారు.",
+            "ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త "+Scientist_Telugu+" గారు "+ founded +" లో కనుగొన్నారు."
+            ] | random
+        -%}
+        ==గుర్తింపు==
+        {{find_line}}
+    {%- endif %}
+{%- endmacro -%}
+
+{%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu) -%}
+    ==లక్షణాలు==
+        {%- if auditory_system_Telugu != 'NaN' and auditory_system_Telugu != 'ఓటోలిత్స్' %}
+            {%- if hearing_range_Telugu != 'NaN' %}
+                {%- set audi_line=[
+                "టిమ్పానిక్ (మధ్య చెవి) ద్వారా " + hearing_range_Telugu + " వరకు ఈ పక్షులు వినగలవు. " ,
+                "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం మరియు " + hearing_range_Telugu + " వరకు వినగలవు. "] | random
+                -%}
+            {% else -%}
+                {%- set audi_line=[
+                "టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు. " ,
+                "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం. "] | random
+                -%}
+            {%- endif %}
+        {% elif auditory_system_Telugu != 'NaN' and auditory_system_Telugu == 'ఓటోలిత్స్' -%}
+            {%- if hearing_range_Telugu != 'NaN' %}
+                {%- set audi_line=[
+                "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని ,శరీర కదలికలు గమనమార్గని చూపుతాయి, వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు.",
+                    ] | random
+                -%}
+            {% else -%}
+                {%- set audi_line=[
+                "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని ,శరీర కదలికలు గమనమార్గని నిర్దేశిస్తాయి. ",
+                    ] | random
+                -%}
+            {%- endif %}
+        {%- endif %}{{audi_line}}
+        {%- if hearing_threshold_Telugu != 'NaN' %}వీటికి {{hearing_threshold_Telugu}} నుండి శబ్దాలను గ్రహించే సామర్ధ్యం వుంది.
+        {%- endif %}
+{%- endmacro -%}
+
+{%- macro jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu) -%}
+    ==జీవన విధానం==
+    {%- if Habitat_Telugu != 'NaN' %}
+        {%- set realm_line=[
+            "ఇవి ఎక్కువగా "+Habitat_Telugu+"లో నివసిస్తాయి. ",
+            "వీటి నివాస స్థలం " + Habitat_Telugu + ". "] | random
+        -%}
+        {{realm_line}}
+    {%- endif %}
+    {%- if Breeding_region_Telugu != 'NaN' %}
+        {%- set region_line=[
+            "వీటి సంతానోత్పత్తి ప్రాంతం "+Breeding_region_Telugu + ". ",
+            "సంతానోత్పత్తి నేల " + Breeding_region_Telugu + ". ",
+            "ఈ జాతి పక్షులు"+Breeding_region_Telugu+"లో సంతానోత్పత్తి చేస్తాయి"+ ". " ] | random
+        -%}
+        {{region_line}} 
+    {%- endif %}
+    {%- if Breeding_subregion_Telugu != 'NaN' %}
+        {%- set subreg_line=[
+            "వీటి సంతానోత్పత్తి ఉపప్రాంతాలు "+Breeding_subregion_Telugu+ ". ",
+            Breeding_subregion_Telugu +" సంతానోత్పత్తి ఉపప్రాంతాలు "+ ". " ] | random
+        -%}
+        {{subreg_line}}
+    {%- endif %}
+    {%- if Life_Span_Telugu != 'NaN' %}
+        {%- set lspan_line=[
+            Bird_Original_Name_Telugu+" జీవితకాలం సాధారణంగా "+ Life_Span_Telugu +"గా తెలుపబడినది.",
+            "వీటి జీవితకాలం "+ Life_Span_Telugu+". " ] | random
+        -%}
+        {{lspan_line}}
+    {%- endif %}
+    {%- if altitude_Telugu != 'NaN' %}
+        {%- set alt_line=[
+            "ఇవి భౌగోళికంగా "+altitude_Telugu+" ఎత్తు ప్రాంతాలవరకు జీవించగలవు.",
+            "వీటికి తగిన ఆక్సిజన్ "+altitude_Telugu +"ఎత్తు వరకు లభిస్తుంది. " ] | random
+        -%}
+        {{alt_line}}
+    {%- endif %}
+{%- endmacro -%}
+
+{%- macro references(county, state, district, block, village) -%}
+==మూలాలు==
+<references />
+{{"\n"}}
+[[వర్గం:తెవికీ పక్షులు]] 
+{%- if Family_Telugu != 'NaN' %}[[వర్గం:{{Family_Telugu}} కుటుంబంలో పక్షులు]]{%- endif %} 
+{%- if Conservation_status_Telugu != 'NaN' %}[[వర్గం:{{Conservation_status_Telugu}} పక్షులు]]{%- endif %} 
+{%- if Country_Telugu != 'NaN' %}[[వర్గం:{{Country_Telugu}}లో పక్షులు]]{%- endif %} 
+{%- endmacro -%}
+
+
+{# Start of Main Page #}
+
+{{- info(Bird_Original_Name,Bird_Original_Name_Telugu,Conservation_status_code,Page_Id,image,Order_Telugu,Genus_Telugu,Species_Telugu,Scientist_Telugu,Synonymous_Name_Telugu) }}
+{{'\n'}}
+{{- intro(Bird_Original_Name_Telugu, Bird_Original_Name, Scientific_Name_Telugu, Scientific_Name, Synonymous_Name, Synonymous_Name_Telugu,Old_latin_name_for_bird_Telugu,Old_latin_name_for_bird, Conservation_status_Telugu, Family_Telugu,Kingdom_Telugu, Subkingdom_Telugu, Infrakingdom_Telugu, Phylum_Telugu, Subphylum_Telugu, Infraphylum_Telugu, Superclass_Telugu, Class_Telugu, Order_Telugu) }}
+{{'\n'}}
+{{- gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) }}
+{{'\n'}}
+{{- laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu) }}
+{{'\n'}}
+{{- jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu) }}
+{{'\n'}}
+{{- references(county, state, district, block, village)}}
+{{'\n'}}
+{{'{{Taxonbar|from='}}{{Wikidata_Id}}{{'}}'}}

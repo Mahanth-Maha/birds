@@ -1,0 +1,19 @@
+{%- macro intro(Bird_Original_Name_Telugu, Bird_Original_Name, Scientific_Name_Telugu, Scientific_Name, Synonymous_Name, Synonymous_Name_Telugu
+,Old_latin_name_for_bird_Telugu,Old_latin_name_for_bird, Conservation_status_Telugu, Family_Telugu,Kingdom_Telugu, Subkingdom_Telugu, Infrakingdom_Telugu, Phylum_Telugu, 
+Subphylum_Telugu, Infraphylum_Telugu, Superclass_Telugu, Class_Telugu, Order_Telugu) -%}
+	{%- set scientific_line=[
+									Scientific_Name_Telugu +"("+ Scientific_Name+")"+ " దీని శాస్త్రీయ నామం ",
+									" దీని శాస్త్రీయ నామం "+Scientific_Name_Telugu+"("+Scientific_Name+")."
+								] | random
+	-%}
+	{{Bird_Original_Name_Telugu}}({{ Bird_Original_Name}}){{scientific_line}},{{Family_Telugu}} కుటుంబంలోని పక్షి.  పక్షికి లాటిన్ పేరు(పాత) {{Old_latin_name_for_bird_Telugu}}.
+	దీనిని {{Synonymous_Name_Telugu}} ( {{Synonymous_Name}} ) అని కూడా అంటారు .ఇది {{Kingdom_Telugu}} జాతికి చెందినది .{{Bird_Original_Name_Telugu}} యొక్క  ఉపరాజ్యం బిలేటేరియా మరియు {{"డ్యూటెరోస్టోమియా"}} దీని ఇన్ఫ్రా కింగ్డమ్  
+	ఈ పక్షి యొక్క ఫైలం {{'చోర్డేటా'}}, సబ్ ఫైలం {{"వెన్నుపూస"}} మరియు ఇన్ఫ్రా ఫైలం {{"గ్నాథోస్టోమాటా"}}. ఇవి {{"పక్షులు"}} తరగతి కి చెందినవి 
+	ఈ పక్షి యొక్క ఆర్డర్ {{Order_Telugu}}. ఐ.యు.సి.ఎన్. ఈ జాతులను {{Conservation_status_Telugu}} పక్షిగా వర్గీకరించింది.
+{%- endmacro -%}
+
+
+
+{{- intro(Bird_Original_Name_Telugu, Bird_Original_Name, Scientific_Name_Telugu, Scientific_Name, Synonymous_Name, Synonymous_Name_Telugu
+,Old_latin_name_for_bird_Telugu,Old_latin_name_for_bird, Conservation_status_Telugu, Family_Telugu,Kingdom_Telugu, Subkingdom_Telugu, Infrakingdom_Telugu, Phylum_Telugu, 
+Subphylum_Telugu, Infraphylum_Telugu, Superclass_Telugu, Class_Telugu, Order_Telugu) }}

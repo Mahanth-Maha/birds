@@ -1,0 +1,12 @@
+{%- macro gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) -%}
+    {%- if Scientist_Telugu != 'NaN' and founded != 'NaN' %}
+        {%- set find_line=[
+            Bird_Original_Name_Telugu + " అన్న పేరుతో ప్రకృతి శాస్త్రవేత్త "+ Scientist_Telugu +" "+ founded +"లో మొట్టమొదటిసారిగా ఈ పక్షిని కనుగొన్నారు.",
+            "ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త "+Scientist_Telugu+" గారు "+ founded +" లో కనుగొన్నారు."
+            ] | random
+        -%}
+        {{find_line}}
+    {%- endif %}
+{%- endmacro -%}
+
+{{- gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) }}

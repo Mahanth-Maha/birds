@@ -1,0 +1,32 @@
+{%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu) -%}
+    {%- if auditory_system_Telugu != 'NaN' and auditory_system_Telugu != 'ఓటోలిత్స్' %}
+        {%- if hearing_range_Telugu != 'NaN' %}
+            {%- set audi_line=[
+                "టిమ్పానిక్ (మధ్య చెవి) ద్వారా " + hearing_range_Telugu + " వరకు ఈ పక్షులు వినగలవు. " ,
+                "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం మరియు " + hearing_range_Telugu + " వరకు వినగలవు. "] | random
+            -%}
+        {% else -%}
+            {%- set audi_line=[
+                "టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు. " ,
+                "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం. "] | random
+            -%}
+        {%- endif %}
+    {% elif auditory_system_Telugu != 'NaN' and auditory_system_Telugu == 'ఓటోలిత్స్' -%}
+        {%- if hearing_range_Telugu != 'NaN' %}
+            {%- set audi_line=[
+                "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని ,శరీర కదలికలు గమనమార్గని చూపుతాయి, వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు.",
+                ] | random
+            -%}
+        {% else -%}
+            {%- set audi_line=[
+                "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని ,శరీర కదలికలు గమనమార్గని నిర్దేశిస్తాయి. ",
+                ] | random
+            -%}
+        {%- endif %}
+    {%- endif %}{{audi_line}}
+    {%- if hearing_threshold_Telugu != 'NaN' %}వీటికి {{hearing_threshold_Telugu}} నుండి శబ్దాలను గ్రహించే సామర్ధ్యం వుంది.
+    {%- endif %}
+{%- endmacro -%}
+
+{{- laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu) }}
+

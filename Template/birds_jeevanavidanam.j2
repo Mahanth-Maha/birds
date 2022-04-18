@@ -1,1 +1,40 @@
-{% macro jv() -%}
+{%- macro jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu) -%}
+    {%- if Habitat_Telugu != 'NaN' %}
+        {%- set realm_line=[
+            "ఇవి ఎక్కువగా "+Habitat_Telugu+"లో నివసిస్తాయి. ",
+            "వీటి నివాస స్థలం " + Habitat_Telugu + ". "] | random
+        -%}
+        {{realm_line}}
+    {%- endif %}
+    {%- if Breeding_region_Telugu != 'NaN' %}
+        {%- set region_line=[
+            "వీటి సంతానోత్పత్తి ప్రాంతం "+Breeding_region_Telugu + ". ",
+            "సంతానోత్పత్తి నేల " + Breeding_region_Telugu + ". ",
+            "ఈ జాతి పక్షులు"+Breeding_region_Telugu+"లో సంతానోత్పత్తి చేస్తాయి"+ ". " ] | random
+        -%}
+        {{region_line}} 
+    {%- endif %}
+    {%- if Breeding_subregion_Telugu != 'NaN' %}
+        {%- set subreg_line=[
+            "వీటి సంతానోత్పత్తి ఉపప్రాంతాలు "+Breeding_subregion_Telugu+ ". ",
+            Breeding_subregion_Telugu +" సంతానోత్పత్తి ఉపప్రాంతాలు "+ ". " ] | random
+        -%}
+        {{subreg_line}}
+    {%- endif %}
+    {%- if Life_Span_Telugu != 'NaN' %}
+        {%- set lspan_line=[
+            Bird_Original_Name_Telugu+" జీవితకాలం సాధారణంగా "+ Life_Span_Telugu +"గా తెలుపబడినది.",
+            "వీటి జీవితకాలం "+ Life_Span_Telugu+". " ] | random
+        -%}
+        {{lspan_line}}
+    {%- endif %}
+    {%- if altitude_Telugu != 'NaN' %}
+        {%- set alt_line=[
+            "ఇవి భౌగోళికంగా "+altitude_Telugu+" ఎత్తు ప్రాంతాలవరకు జీవించగలవు.",
+            "వీటికి తగిన ఆక్సిజన్ "+altitude_Telugu +"ఎత్తు వరకు లభిస్తుంది. " ] | random
+        -%}
+        {{alt_line}}
+    {%- endif %}
+{%- endmacro -%}
+
+{{- jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu) }}
