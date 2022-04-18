@@ -1,0 +1,20 @@
+{%- macro intro(Bird Original Name Telugu, Bird Original Name, Scientific Name Telugu, Scientific Name, Synonyms, Synonyms Telugu
+,Old latin name for bird Telugu,Old latin name for bird, Conservation status Telugu, Family Telugu,Kingdom Telugu, Subkingdom Telugu, Infrakingdom Telugu, Phylum Telugu, 
+Subphylum Telugu, Infraphylum Telugu, Superclass Telugu, Class Telugu, Order Telugu) -%}
+	{%- set scientific_line=[
+									Scientific Name Telugu+'('+Scientific Name+')'+ ' దీని శాస్త్రీయ నామం ',
+									' దీని శాస్త్రీయ నామం '+Scientific Name Telugu+'('+Scientific Name+').'
+
+								] | random
+	-%}
+	{{Bird Original Name Telugu}}({{ Bird Original Name}}){{scientific_line}},{{Family Telugu}} కుటుంబంలోని పక్షి.  పక్షికి లాటిన్ పేరు(పాత) {{Old latin name for bird Telugu}}({{Old latin name for bird}} ).
+	దీనిని {{Synonyms Telugu}}{{ (Synonyms) }}అని కూడా అంటారు .ఇది {{Kingdom Telugu}} జాతికి చెందినది .{{Bird Original Name Telugu}} యొక్క  ఉపరాజ్యం బిలేటేరియా మరియు {{Infrakingdom Telugu}} దీని ఇన్ఫ్రా కింగ్డమ్  
+	ఈ పక్షి యొక్క ఫైలం {{Phylum Telugu}}, సబ్ ఫైలం {{Subphylum Telugu}} మరియు ఇన్ఫ్రా ఫైలం {{Infraphylum Telugu}}. ఇవి {{Class Telugu}} తరగతి కి చెందినవి 
+	ఈ పక్షి యొక్క ఆర్డర్ {{Order Telugu}}. ఐ.యు.సి.ఎన్. ఈ జాతులను {{Conservation status Telugu}} పక్షిగా వర్గీకరించింది
+{%- endmacro -%}
+
+
+
+{{- intro(Bird Original Name Telugu, Bird Original Name, Scientific Name Telugu, Scientific Name, Synonyms, Synonyms Telugu, 
+Old latin name for bird, Conservation status Telugu, Family Telugu, Subkingdom Telugu, Infrakingdom Telugu, Phylum Telugu, 
+Subphylum Telugu, Infraphylum Telugu, Superclass Telugu, Class Telugu, Order Telugu) }}
