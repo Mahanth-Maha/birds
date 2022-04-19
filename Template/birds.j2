@@ -43,7 +43,6 @@
 {%- endif %}
 {{'}}'}}
 {%- endmacro -%}
-
 {%- macro intro(Bird_Original_Name_Telugu, Bird_Original_Name, Scientific_Name_Telugu, Scientific_Name, Synonymous_Name, Synonymous_Name_Telugu,Old_latin_name_for_bird_Telugu,Old_latin_name_for_bird, Conservation_status_Telugu, Family_Telugu,Kingdom_Telugu, Subkingdom_Telugu, Infrakingdom_Telugu, Phylum_Telugu, Subphylum_Telugu, Infraphylum_Telugu, Superclass_Telugu, Class_Telugu, Order_Telugu,IUCN_link) -%}
 	{%- if IUCN_link != 'NaN' %}
         {%- set iucn_link_line="<ref>{{Cite web|url="+IUCN_link+" | title="+Scientific_Name+"("+Bird_Original_Name+")|website=www.iucnredlist.org|access-date=2022-04-05}}</ref> " -%}
@@ -77,14 +76,13 @@
         -%}
     {%- endif %}
     {%- set common_line=[
-        "ఇది {{'జంతువులు'}} రాజ్యానికి చెందినది. " + Bird_Original_Name_Telugu +" యొక్క ఉపరాజ్యం {{'బిలేటేరియా'}} +మరియు {{'డ్యూటెరోస్టోమియా'}} దీని ఇన్ఫ్రా కింగ్డమ్. ఈ పక్షి యొక్క విభాగం/వర్గం {{'కార్డేటా'}}, ఉపవిభాగం/ఉపవర్గం {{'సకశేరుకాలు'}} మరియు ఇన్ఫ్రా విభాగం/వర్గం {{'గ్నాథోస్టోమాటా'}}. ఈ పక్షులు {{'టెట్రాపోడా'}} అధి తరగతికి చెందినవి . ఇవి {{'పక్షులు'}} తరగతి కి చెందినవి. ",
-        "ఇది {{'జంతువులు'}} రాజ్యానికి చెందినది. " + Bird_Original_Name_Telugu +" యొక్క ఉపరాజ్యం {{'బిలేటేరియా'}} +మరియు {{'డ్యూటెరోస్టోమియా'}} దీని ఇన్ఫ్రా కింగ్డమ్. ఈ పక్షి యొక్క విభాగం/వర్గం {{'కార్డేటా'}}, ఉపవిభాగం/ఉపవర్గం {{'సకశేరుకాలు'}} మరియు ఇన్ఫ్రా విభాగం/వర్గం {{'గ్నాథోస్టోమాటా'}}. " + Bird_Original_Name_Telugu +" {{'టెట్రాపోడా'}} అధితరగతికి చెందినవి . ఇది {{'పక్షులు'}} తరగతి కి చెందినవి. "
+        "ఇది జంతువులు రాజ్యానికి చెందినది. " + Bird_Original_Name_Telugu +" యొక్క ఉపరాజ్యం బిలేటేరియా మరియు డ్యూటెరోస్టోమియా దీని ఇన్ఫ్రా కింగ్డమ్. ఈ పక్షి యొక్క విభాగం/వర్గం కార్డేటా, ఉపవిభాగం/ఉపవర్గం సకశేరుకాలు మరియు ఇన్ఫ్రా విభాగం/వర్గం గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధి తరగతికి చెందినవి . ఇవి పక్షులు తరగతి కి చెందినవి. ",
+        "ఇది జంతువులు రాజ్యానికి చెందినది. " + Bird_Original_Name_Telugu +" యొక్క ఉపరాజ్యం బిలేటేరియా మరియు డ్యూటెరోస్టోమియా దీని ఇన్ఫ్రా కింగ్డమ్. ఈ పక్షి యొక్క విభాగం/వర్గం కార్డేటా, ఉపవిభాగం/ఉపవర్గం సకశేరుకాలు మరియు ఇన్ఫ్రా విభాగం/వర్గం గ్నాథోస్టోమాటా. " + Bird_Original_Name_Telugu +" టెట్రాపోడా అధితరగతికి చెందినవి . ఇది పక్షులు తరగతి కి చెందినవి. "
         ] | random
-        -%}
-    {%- endif %}
+    -%}
     {%- if Order_Telugu != 'NaN' %}
         {%- set ord_line=[
-        "ఈ పక్షి యొక్క క్రమం +"Order_Telugu +". ",
+        "ఈ పక్షి యొక్క క్రమం "+Order_Telugu +". ",
         Bird_Original_Name_Telugu + Order_Telugu +" క్రమానికి చెందినవి. ",
         ] | random
         -%}
@@ -92,32 +90,28 @@
     {%- if locomotion_Telugu != 'NaN' %}
         {%- set loc_line=[
             Bird_Original_Name_Telugu+"లు "+locomotion_Telugu+" ద్వారా కదులుతాయి.",
-            locomotion_Telugu+" ద్వారా "+ Bird_Original_Name_Telugu+"లకు కదలిక సాధ్యం."
+            locomotion_Telugu+" ద్వారా "+ Bird_Original_Name_Telugu+" లకు కదలిక సాధ్యం."
         ] | random
         -%}
     {%- endif %}
-
     {%- if Population_Growth_Telugu != 'NaN' and Population_Growth_Telugu == 'స్థిరమైన' %}
         {%- set pg_line = "ఈ జాతుల జనాభా పెరుగుదల స్థిరంగా వుంది. " %}
     {%- elif Population_Growth_Telugu != 'NaN' and Population_Growth_Telugu != 'స్థిరమైన' %}
         {%- set pg_line = "ఈ జాతుల జనాభా పెరుగుదల స్థిరంగా "+Population_Growth_Telugu+". " %}
     {%- endif %}
-    
-    {{"'''"}}{{Bird_Original_Name_Telugu}}{{"''' "}}({{ Bird_Original_Name}}) {{scientific_line}}, {{fam_line}}{{latin_line}}దీనిని {% for synonym_name,synonym_name_tel in zip(Synonymous_Name_Telugu.split(','),Synonymous_Name.split(',')) %} {{synonym_name}} ( {{synonym_name_tel}} ) {% endfor %} అని కూడా అంటారు. {{common_line}}{{ord_line}}{{iucn_line}}{{loc_line}}
+{{"'''"}}{{Bird_Original_Name_Telugu}}{{"''' "}}({{ Bird_Original_Name}}) {{scientific_line}}, {{fam_line}}{{latin_line}}దీనిని {% for synonym_name,synonym_name_tel in zip(Synonymous_Name_Telugu.split(','),Synonymous_Name.split(',')) %} {{synonym_name}} ( {{synonym_name_tel}} ) {% endfor %} అని కూడా అంటారు. {{common_line}}{{ord_line}}{{iucn_line}}{{loc_line}}
 {%- endmacro -%}
-
 {%- macro gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) -%}
     {%- if Scientist_Telugu != 'NaN' and founded != 'NaN' %}
         {%- set find_line=[
             Bird_Original_Name_Telugu + " అన్న పేరుతో ప్రకృతి శాస్త్రవేత్త '''"+ Scientist_Telugu +"''' "+ founded +"లో మొట్టమొదటిసారిగా ఈ పక్షిని కనుగొన్నారు.",
-            "ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' " + founded +" లో కనుగొన్నారు."
-            founded +" లో ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' కనుగొన్నారు."
+            "ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' " + founded +" లో కనుగొన్నారు. ",
+            founded +" లో ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' కనుగొన్నారు. "
         ] | random
         -%}
     {%- endif %}
 ==గుర్తింపు=={{'\n'}}{{find_line}}
 {%- endmacro -%}
-
 {%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link) -%}
     {%- if Eol_Link != 'NaN' %}
         {%- set eol_line="<ref>{{Cite web|url="+Eol_Link+"|title="+Bird_Original_Name+" - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}</ref> " -%}
@@ -154,9 +148,7 @@
         {%- endif %}
 ==లక్షణాలు=={{'\n'}}{{audi_line}}{{thersh_line}}
 {%- endmacro -%}
-
 {%- macro jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) -%}
-    
     {%- if Ebird_Link != 'NaN' %}
         {%- set ebird_line="<ref>{{Cite web|url="+ Ebird_Link +" |title=" +Bird_Original_Name+ " - eBird|website=ebird.com|language=en|access-date=2022-04-05}}</ref> " -%}
     {%- endif %}
@@ -166,7 +158,7 @@
     {%- if Country_Telugu != 'NaN' %}
         {%- set country_line=[
             "ఇవి "+Country_Telugu +" దేశంలో ఎక్కువగా కనిపిస్తాయి "+ebird_line+". ",
-            Bird_Original_Name_Telugu+ Country_Telugu+" దేశానికి చెందినవి "+ebird_line+". "] | random
+            Bird_Original_Name_Telugu+ " " +Country_Telugu+" దేశానికి చెందినవి "+ebird_line+". "] | random
             -%}
     {%- endif %}
     {%- if Habitat_Telugu != 'NaN' %}
@@ -197,12 +189,12 @@
     {%- if altitude_Telugu != 'NaN' %}
         {%- set alt_line=[
             "ఇవి భౌగోళికంగా "+altitude_Telugu+" ఎత్తుగల ప్రాంతాలవరకు జీవించగలవు. ",
-            {{Bird_Original_Name_Telugu}}+altitude_Telugu +" ఎత్తు వరకు శ్వాసిస్తాయి. " ] | random
+            Bird_Original_Name_Telugu+altitude_Telugu +" ఎత్తు వరకు శ్వాసిస్తాయి. " 
+        ] | random
         -%}
     {%- endif %}
 ==జీవన విధానం=={{'\n'}}{{country_line}}{{realm_line}}{{region_line}}{{subreg_line}}{{lspan_line}}{{alt_line}}
 {%- endmacro -%}
-
 {%- macro references(Family_Telugu,Conservation_status_Telugu,Country_Telugu) -%}
 ==మూలాలు=={{'\n'}}<references />{{"\n"}}
 [[వర్గం:తెవికీ పక్షులు]]
