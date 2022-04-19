@@ -38,7 +38,7 @@
 {%- if Scientist_Telugu!= 'NaN' and founded != 'NaN' %}
 | authority = ([[{{Scientist_Telugu}}]], {{founded}})
 {%- endif %}
-{%- if Synonymous_Name!= 'NaN' %}
+{%- if Synonymous_Name != 'NaN' %}
 | synonyms = {% for synonym_name in Synonymous_Name_Telugu.split(',') %} {{'\n'}}* ''{{synonym_name}}''{% endfor %}
 {%- endif %}
 {{'}}'}}
@@ -63,8 +63,8 @@
     {%- endif %}
     {%- if Conservation_status_Telugu != 'NaN' %}
         {%- set iucn_line=[
-            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ " పక్షిగా వర్గీకరించింది "+iucn_link_line+" . ",
-            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ " పక్షిగా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది "+iucn_link_line+" . "
+            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ " పక్షిగా వర్గీకరించింది "+iucn_link_line+". ",
+            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ " పక్షిగా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది "+iucn_link_line+". "
         ] | random
         -%}
     {%- endif %}
@@ -99,7 +99,7 @@
     {%- elif Population_Growth_Telugu != 'NaN' and Population_Growth_Telugu != 'స్థిరమైన' %}
         {%- set pg_line = "ఈ జాతుల జనాభా పెరుగుదల స్థిరంగా "+Population_Growth_Telugu+". " %}
     {%- endif %}
-{{"'''"}}{{Bird_Original_Name_Telugu}}{{"''' "}}({{ Bird_Original_Name}}) {{scientific_line}}, {{fam_line}}{{latin_line}}దీనిని {% for synonym_name,synonym_name_tel in zip(Synonymous_Name_Telugu.split(','),Synonymous_Name.split(',')) %} {{synonym_name}} ( {{synonym_name_tel}} ) {% endfor %} అని కూడా అంటారు. {{common_line}}{{ord_line}}{{iucn_line}}{{loc_line}}
+{{"'''"}}{{Bird_Original_Name_Telugu}}{{"''' "}}({{ Bird_Original_Name}}) {{scientific_line}} {{fam_line}}{{latin_line}}{%- if Synonymous_Name_Telugu != 'NaN' %}దీనిని{% for synonym_name,synonym_name_tel in zip(Synonymous_Name_Telugu.split(','),Synonymous_Name.split(',')) %} {{synonym_name}} ( {{synonym_name_tel}} ) {% endfor %} అని కూడా అంటారు. {%- endif %}{{common_line}}{{ord_line}}{{iucn_line}}{{loc_line}}
 {%- endmacro -%}
 {%- macro gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) -%}
     {%- if Scientist_Telugu != 'NaN' and founded != 'NaN' %}
@@ -112,7 +112,7 @@
     {%- endif %}
 ==గుర్తింపు=={{'\n'}}{{find_line}}
 {%- endmacro -%}
-{%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link) -%}
+{%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu) -%}
     {%- if Eol_Link != 'NaN' %}
         {%- set eol_line="<ref>{{Cite web|url="+Eol_Link+"|title="+Bird_Original_Name+" - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}</ref> " -%}
     {%- endif %}
@@ -146,7 +146,7 @@
             ] | random
             -%}
         {%- endif %}
-==లక్షణాలు=={{'\n'}}{{audi_line}}{{thersh_line}}
+==లక్షణాలు=={{'\n'}}{{Ebird_Description_Telugu}}{{audi_line}}{{thersh_line}}
 {%- endmacro -%}
 {%- macro jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) -%}
     {%- if Ebird_Link != 'NaN' %}
@@ -189,7 +189,7 @@
     {%- if altitude_Telugu != 'NaN' %}
         {%- set alt_line=[
             "ఇవి భౌగోళికంగా "+altitude_Telugu+" ఎత్తుగల ప్రాంతాలవరకు జీవించగలవు. ",
-            Bird_Original_Name_Telugu+altitude_Telugu +" ఎత్తు వరకు శ్వాసిస్తాయి. " 
+            Bird_Original_Name_Telugu+ " "+altitude_Telugu +" ఎత్తు వరకు శ్వాసిస్తాయి. " 
         ] | random
         -%}
     {%- endif %}
@@ -212,7 +212,7 @@
 {{'\n'}}
 {{- gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) }}
 {{'\n'}}
-{{- laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link) }}
+{{- laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu) }}
 {{'\n'}}
 {{- jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) }}
 {{'\n'}}
