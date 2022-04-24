@@ -61,12 +61,20 @@
             ] | random
         -%}
     {%- endif %}
-    {%- if Conservation_status_Telugu != 'NaN' %}
+    {%- if Conservation_status_Telugu != 'NaN' and IUCN_link != 'NaN' %}
         {%- set iucn_line=[
-            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ " పక్షిగా వర్గీకరించింది "+iucn_link_line+". ",
-            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ " పక్షిగా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది "+iucn_link_line+". "
+            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ "గా వర్గీకరించింది "+iucn_link_line+". ",
+            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ "గా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది "+iucn_link_line+". "
         ] | random
         -%}
+    {%- elif Conservation_status_Telugu != 'NaN' and IUCN_link == 'NaN' %}
+        {%- set iucn_line=[
+            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ "గా వర్గీకరించింది . ",
+            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ "గా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది . "
+        ] | random
+        -%}
+    {%- else %}
+        {%- set iucn_line = "" -%}
     {%- endif %}
 	{%- if Family_Telugu != 'NaN' %}
         {%- set fam_line=[
@@ -76,8 +84,8 @@
         -%}
     {%- endif %}
     {%- set common_line=[
-        "ఇది జంతువులు రాజ్యానికి చెందినది. " + Bird_Original_Name_Telugu +" యొక్క ఉపరాజ్యం బిలేటేరియా మరియు డ్యూటెరోస్టోమియా దీని ఇన్ఫ్రా కింగ్డమ్. ఈ పక్షి యొక్క విభాగం/వర్గం కార్డేటా, ఉపవిభాగం/ఉపవర్గం సకశేరుకాలు మరియు ఇన్ఫ్రా విభాగం/వర్గం గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధి తరగతికి చెందినవి . ఇవి పక్షులు తరగతి కి చెందినవి. ",
-        "ఇది జంతువులు రాజ్యానికి చెందినది. " + Bird_Original_Name_Telugu +" యొక్క ఉపరాజ్యం బిలేటేరియా మరియు డ్యూటెరోస్టోమియా దీని ఇన్ఫ్రా కింగ్డమ్. ఈ పక్షి యొక్క విభాగం/వర్గం కార్డేటా, ఉపవిభాగం/ఉపవర్గం సకశేరుకాలు మరియు ఇన్ఫ్రా విభాగం/వర్గం గ్నాథోస్టోమాటా. " + Bird_Original_Name_Telugu +" టెట్రాపోడా అధితరగతికి చెందినవి . ఇది పక్షులు తరగతి కి చెందినవి. "
+        " ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతికి చెందినవి. ఇవి పక్షులు తరగతి కి చెందినవి. ",
+        " ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతికి చెందినవి. ఇవి పక్షులు తరగతి కి చెందినవి. "
         ] | random
     -%}
     {%- if Order_Telugu != 'NaN' %}
@@ -90,7 +98,7 @@
     {%- if locomotion_Telugu != 'NaN' %}
         {%- set loc_line=[
             Bird_Original_Name_Telugu+"లు "+locomotion_Telugu+" ద్వారా కదులుతాయి.",
-            locomotion_Telugu+" ద్వారా "+ Bird_Original_Name_Telugu+" లకు కదలిక సాధ్యం."
+            locomotion_Telugu+" ద్వారా "+ Bird_Original_Name_Telugu+"లు ముందుకు పయనిస్తాయి."
         ] | random
         -%}
     {%- endif %}
@@ -99,61 +107,76 @@
     {%- elif Population_Growth_Telugu != 'NaN' and Population_Growth_Telugu != 'స్థిరమైన' %}
         {%- set pg_line = "ఈ జాతుల జనాభా పెరుగుదల స్థిరంగా "+Population_Growth_Telugu+". " %}
     {%- endif %}
-{{"'''"}}{{Bird_Original_Name_Telugu}}{{"''' "}}({{ Bird_Original_Name}}) {{scientific_line}} {{fam_line}}{{latin_line}}{%- if Synonymous_Name_Telugu != 'NaN' %}దీనిని{% for synonym_name,synonym_name_tel in zip(Synonymous_Name_Telugu.split(','),Synonymous_Name.split(',')) %} {{synonym_name}} ( {{synonym_name_tel}} ) {% endfor %} అని కూడా అంటారు. {%- endif %}{{common_line}}{{ord_line}}{{iucn_line}}{{loc_line}}
+{{"'''"}}{{Bird_Original_Name_Telugu}}{{"''' "}}({{ Bird_Original_Name}}) {{scientific_line}} {{fam_line}}{{latin_line}}{%- if Synonymous_Name_Telugu != 'NaN' %}దీనిని{% for synonym_name,synonym_name_tel in zip(Synonymous_Name_Telugu.split(','),Synonymous_Name.split(',')) %} {{synonym_name}} ( {{synonym_name_tel}} ) {% endfor %} అని కూడా అంటారు. {%- endif %}{{common_line}}{{ord_line}}{{iucn_line}}{{loc_line}}{{'\n'}}
 {%- endmacro -%}
 {%- macro gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) -%}
     {%- if Scientist_Telugu != 'NaN' and founded != 'NaN' %}
         {%- set find_line=[
             Bird_Original_Name_Telugu + " అన్న పేరుతో ప్రకృతి శాస్త్రవేత్త '''"+ Scientist_Telugu +"''' "+ founded +"లో మొట్టమొదటిసారిగా ఈ పక్షిని కనుగొన్నారు.",
             "ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' " + founded +" లో కనుగొన్నారు. ",
-            founded +" లో ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' కనుగొన్నారు. "
+            founded +" లో ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' కనుగొన్నారు. ",
+            founded +" లో ఈ పక్షిని '''"+Scientist_Telugu +"''' ప్రకృతి శాస్త్రవేత్త గుర్తించారు. ",
+            "ఈ పక్షి " + founded +" లో ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' కనుగొన్నారు. ",
+            "ఈ పక్షి " + founded +" లో '''"+Scientist_Telugu +"''' కనుగొన్నారు. ",
         ] | random
         -%}
+{{'\n'}}==గుర్తింపు=={{'\n'}}{{find_line}}{{'\n'}}
     {%- endif %}
-==గుర్తింపు=={{'\n'}}{{find_line}}
 {%- endmacro -%}
 {%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu) -%}
     {%- if Eol_Link != 'NaN' %}
         {%- set eol_line="<ref>{{Cite web|url="+Eol_Link+"|title="+Bird_Original_Name+" - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}</ref> " -%}
+    {% else -%}
+        {%- set eol_line="" -%}
     {%- endif %}
-        {%- if auditory_system_Telugu != 'NaN' and auditory_system_Telugu != 'ఓటోలిత్స్' %}
-            {%- if hearing_range_Telugu != 'NaN' %}
-                {%- set audi_line=["టిమ్పానిక్ (మధ్య చెవి) ద్వారా " + hearing_range_Telugu + " వరకు ఈ పక్షులు వినగలవు "+ eol_line +" . " ,
-                "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం మరియు " + hearing_range_Telugu + " వరకు వినగలవు "+ eol_line +" . "] | random
-                -%}
-            {% else -%}
-                {%- set audi_line=[
-                "టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు "+ eol_line +" . " ,
-                "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం "+ eol_line +" . "] | random
-                -%}
-            {%- endif %}
-        {% elif auditory_system_Telugu != 'NaN' and auditory_system_Telugu == 'ఓటోలిత్స్' -%}
-            {%- if hearing_range_Telugu != 'NaN' %}
-                {%- set audi_line=[
-                "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని ,శరీర కదలికలు గమనమార్గని చూపుతాయి, వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు "+ eol_line +" .",
-                    ] | random
-                -%}
-            {% else -%}
-                {%- set audi_line=[
-                "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని ,శరీర కదలికలు గమనమార్గని నిర్దేశిస్తాయి "+ eol_line +" . ",
-                    ] | random
-                -%}
-            {%- endif %}
-        {%- endif %}
-        {%- if hearing_threshold_Telugu != 'NaN' %}
-        {%- set thersh_line = [ 
-            "వీటికి "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించే సామర్ధ్యం వుంది. ",
-            ] | random
+    {%- if auditory_system_Telugu != 'NaN' and auditory_system_Telugu != 'ఓటోలిత్స్' %}
+        {%- if hearing_range_Telugu != 'NaN' %}
+            {%- set audi_line=[
+            "టిమ్పానిక్ (మధ్య చెవి) ద్వారా " + hearing_range_Telugu + " వరకు ఈ పక్షులు వినగలవు "+ eol_line +". " ,
+            "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం, " + hearing_range_Telugu + " వరకు వినగలవు "+ eol_line +". "] | random
+            -%}
+        {% else -%}
+            {%- set audi_line=[
+            "టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు "+ eol_line +". " ,
+            "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం "+ eol_line +". "] | random
             -%}
         {%- endif %}
-==లక్షణాలు=={{'\n'}}{{Ebird_Description_Telugu}}{{audi_line}}{{thersh_line}}
+    {% elif auditory_system_Telugu != 'NaN' and auditory_system_Telugu == 'ఓటోలిత్స్' -%}
+        {%- if hearing_range_Telugu != 'NaN' %}
+            {%- set audi_line=[
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని, శరీర కదలికలు గమనమార్గని చూపుతాయి, వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు "+ eol_line +". ",
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి శరీర కదలికలు, భూమి ఆకర్షణ శక్తిని వినియోగించుకొని వాటి గమనమార్గని నిర్దేశించుకుంటాయి ,వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు "+ eol_line +". "
+                ] | random
+            -%}
+        {% else -%}
+            {%- set audi_line=[
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తిని వినియోగించుకొని, శరీర కదలికలు గమనమార్గని నిర్దేశిస్తాయి "+ eol_line +". ",
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి శరీర కదలికలు, భూమి ఆకర్షణ శక్తిని వినియోగించుకొని వాటి గమనమార్గని నిర్దేశించుకుంటాయి "+ eol_line +". "
+                ] | random
+            -%}
+        {%- endif %}
+    {%- endif %}
+    {%- if hearing_threshold_Telugu != 'NaN' %}
+    {%- set thersh_line = [ 
+        "వీటికి "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించే సామర్ధ్యం వుంది. ",
+        Bird_Original_Name_Telugu + "లకు "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించగలవు. "
+        ] | random
+        -%}
+    {%- endif %}
+{%- if auditory_system_Telugu != 'NaN' or hearing_threshold_Telugu != 'NaN' %}
+{{'\n'}}==లక్షణాలు=={{'\n'}}{{Ebird_Description_Telugu}}{{audi_line}}{{thersh_line}}{{'\n'}}
+{%- endif %}
 {%- endmacro -%}
 {%- macro jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) -%}
     {%- if Ebird_Link != 'NaN' %}
         {%- set ebird_line="<ref>{{Cite web|url="+ Ebird_Link +" |title=" +Bird_Original_Name+ " - eBird|website=ebird.com|language=en|access-date=2022-04-05}}</ref> " -%}
+    {% else -%}
+        {%- set ebird_line="" -%}
     {%- endif %}
     {%- if Dibird_Link != 'NaN' %}
         {%- set dibird_line="<ref>{{Cite web|url="+Dibird_Link+" |title="+Bird_Original_Name+" bird photo call and song/ "+ Scientific_Name +" |website=dibird.com|language=en|access-date=2022-04-05}}</ref> " -%}
+    {% else -%}
+        {%- set dibird_line="" -%}
     {%- endif %}
     {%- if Country_Telugu != 'NaN' %}
         {%- set country_line=[
@@ -188,15 +211,17 @@
     {%- endif %}
     {%- if altitude_Telugu != 'NaN' %}
         {%- set alt_line=[
-            "ఇవి భౌగోళికంగా "+altitude_Telugu+" ఎత్తుగల ప్రాంతాలవరకు జీవించగలవు. ",
-            Bird_Original_Name_Telugu+ " "+altitude_Telugu +" ఎత్తు వరకు శ్వాసిస్తాయి. " 
+            "ఇవి భౌగోళికంగా "+altitude_Telugu+" ఎత్తులొ గల ప్రాంతాలవరకు జీవించగలవు. ",
+            Bird_Original_Name_Telugu+ " "+altitude_Telugu +" ఎత్తు వరకు శ్వాసను పొందగలవు. " 
         ] | random
         -%}
     {%- endif %}
-==జీవన విధానం=={{'\n'}}{{country_line}}{{realm_line}}{{region_line}}{{subreg_line}}{{lspan_line}}{{alt_line}}
+{%- if Country_Telugu != 'NaN' or Habitat_Telugu != 'NaN' or Breeding_region_Telugu != 'NaN' or Breeding_subregion_Telugu != 'NaN' or Life_Span_Telugu != 'NaN' or altitude_Telugu != 'NaN' %}
+{{'\n'}}==జీవన విధానం=={{'\n'}}{{country_line}}{{realm_line}}{{region_line}}{{subreg_line}}{{lspan_line}}{{alt_line}}{{'\n'}}
+{%- endif %}
 {%- endmacro -%}
 {%- macro references(Family_Telugu,Conservation_status_Telugu,Country_Telugu) -%}
-==మూలాలు=={{'\n'}}<references />{{"\n"}}
+{{'\n'}}==మూలాలు=={{'\n'}}<references />{{"\n"}}
 [[వర్గం:తెవికీ పక్షులు]]
 {%- if Family_Telugu != 'NaN' %}[[వర్గం:{{Family_Telugu}} కుటుంబంలో పక్షులు]]{%- endif %} 
 {%- if Conservation_status_Telugu != 'NaN' %}[[వర్గం:{{Conservation_status_Telugu}} పక్షులు]]{%- endif %} 
@@ -209,13 +234,9 @@
 {{- info(Bird_Original_Name,Bird_Original_Name_Telugu,Conservation_status_code,Page_Id,image,Order_Telugu,Genus_Telugu,Species_Telugu,Scientist_Telugu,Synonymous_Name_Telugu) }}
 {{'\n'}}
 {{- intro(Bird_Original_Name_Telugu, Bird_Original_Name, Scientific_Name_Telugu, Scientific_Name, Synonymous_Name, Synonymous_Name_Telugu,Old_latin_name_for_bird_Telugu,Old_latin_name_for_bird, Conservation_status_Telugu, Family_Telugu,Kingdom_Telugu, Subkingdom_Telugu, Infrakingdom_Telugu, Phylum_Telugu, Subphylum_Telugu, Infraphylum_Telugu, Superclass_Telugu, Class_Telugu, Order_Telugu,IUCN_link) }}
-{{'\n'}}
 {{- gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) }}
-{{'\n'}}
 {{- laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu) }}
-{{'\n'}}
 {{- jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) }}
-{{'\n'}}
 {{- references(Family_Telugu,Conservation_status_Telugu,Country_Telugu)}}
 {{'\n'}}
 {{'{{Taxonbar|from='}}{{Wikidata_Id}}{{'}}'}}
