@@ -84,20 +84,20 @@
         -%}
     {%- endif %}
     {%- set common_line=[
-        " ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతికి చెందినవి. ఇవి పక్షులు తరగతి కి చెందినవి. ",
-        " ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతికి చెందినవి. ఇవి పక్షులు తరగతి కి చెందినవి. "
+        "ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి.",
+        "ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి."
         ] | random
     -%}
     {%- if Order_Telugu != 'NaN' %}
         {%- set ord_line=[
-        "ఈ పక్షి యొక్క క్రమం "+Order_Telugu +". ",
-        Bird_Original_Name_Telugu + Order_Telugu +" క్రమానికి చెందినవి. ",
+        "ఈ పక్షి క్రమం "+Order_Telugu +". ",
+        Bird_Original_Name_Telugu +" "+ Order_Telugu +" క్రమానికి చెందినవి. ",
         ] | random
         -%}
     {%- endif %}
     {%- if locomotion_Telugu != 'NaN' %}
         {%- set loc_line=[
-            Bird_Original_Name_Telugu+"లు "+locomotion_Telugu+" ద్వారా కదులుతాయి.",
+            Bird_Original_Name_Telugu+"లు "+locomotion_Telugu+" ద్వారా ముందుకు పయనిస్తాయి.",
             locomotion_Telugu+" ద్వారా "+ Bird_Original_Name_Telugu+"లు ముందుకు పయనిస్తాయి."
         ] | random
         -%}
@@ -123,11 +123,25 @@
 {{'\n'}}==గుర్తింపు=={{'\n'}}{{find_line}}{{'\n'}}
     {%- endif %}
 {%- endmacro -%}
-{%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu) -%}
+{%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu,body_mass_Telugu,mineralized_skeleton_contains_Telugu) -%}
     {%- if Eol_Link != 'NaN' %}
         {%- set eol_line="<ref>{{Cite web|url="+Eol_Link+"|title="+Bird_Original_Name+" - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}</ref> " -%}
     {% else -%}
         {%- set eol_line="" -%}
+    {%- endif %}
+    {%- if body_mass_Telugu != 'NaN' %}
+        {%- set mass_line=[
+            "ఈ జాతి పక్షులు సుమారు "+body_mass_Telugu+" బరువు ఉంటుంది. ",
+            Bird_Original_Name_Telugu+ " " +body_mass_Telugu+" బరువు ఉంటుంది. "
+            ] | random
+            -%}
+    {%- endif %}
+    {%- if mineralized_skeleton_contains_Telugu != 'NaN' %}
+        {%- if mineralized_skeleton_contains_Telugu == 'అపటైట్' %}
+            {%- set skeleton_line = "ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం ఫ్లోరైడ్ ఫాస్ఫేట్(Ca<sub>2</sub>FO<sub>4</sub>P) లేదా కాల్షియం క్లోరైడ్ ఫాస్ఫేట్(Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>) లతో  కలిగి ఉంటుంది." %}
+        {%- else %}
+            {%- set skeleton_line = "ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం కార్బోనేట్(CaCO<sub>3</sub>) ఖనిజలతో కలిగి ఉంటుంది. " %}
+        {%- endif %}
     {%- endif %}
     {%- if auditory_system_Telugu != 'NaN' and auditory_system_Telugu != 'ఓటోలిత్స్' %}
         {%- if hearing_range_Telugu != 'NaN' %}
@@ -164,7 +178,7 @@
         -%}
     {%- endif %}
 {%- if auditory_system_Telugu != 'NaN' or hearing_threshold_Telugu != 'NaN' %}
-{{'\n'}}==లక్షణాలు=={{'\n'}}{{Ebird_Description_Telugu}}{{audi_line}}{{thersh_line}}{{'\n'}}
+{{'\n'}}==లక్షణాలు=={{'\n'}}{{mass_line}}{{skeleton_line}}{{Ebird_Description_Telugu}}{{audi_line}}{{thersh_line}}{{'\n'}}
 {%- endif %}
 {%- endmacro -%}
 {%- macro jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) -%}
@@ -235,7 +249,7 @@
 {{'\n'}}
 {{- intro(Bird_Original_Name_Telugu, Bird_Original_Name, Scientific_Name_Telugu, Scientific_Name, Synonymous_Name, Synonymous_Name_Telugu,Old_latin_name_for_bird_Telugu,Old_latin_name_for_bird, Conservation_status_Telugu, Family_Telugu,Kingdom_Telugu, Subkingdom_Telugu, Infrakingdom_Telugu, Phylum_Telugu, Subphylum_Telugu, Infraphylum_Telugu, Superclass_Telugu, Class_Telugu, Order_Telugu,IUCN_link) }}
 {{- gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) }}
-{{- laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu) }}
+{{- laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu,body_mass_Telugu,mineralized_skeleton_contains_Telugu) }}
 {{- jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) }}
 {{- references(Family_Telugu,Conservation_status_Telugu,Country_Telugu)}}
 {{'\n'}}
