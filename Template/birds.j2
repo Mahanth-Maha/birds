@@ -48,8 +48,8 @@
         {%- set iucn_link_line="<ref>{{Cite web|url="+IUCN_link+" | title="+Scientific_Name+"("+Bird_Original_Name+")|website=www.iucnredlist.org|access-date=2022-04-05}}</ref> " -%}
     {%- endif %}
     {%- set scientific_line=[
-        " '''"+Scientific_Name_Telugu +"''' ( ''"+ Scientific_Name+"'' )"+ " దీని శాస్త్రీయ నామం. ",
-        " దీని శాస్త్రీయ నామం '''"+Scientific_Name_Telugu+"''' ( ''"+Scientific_Name+"''). ",
+        " '''''"+Scientific_Name_Telugu +"''''' ( ''"+ Scientific_Name+"'' )"+ " దీని శాస్త్రీయ నామం. ",
+        " దీని శాస్త్రీయ నామం '''''"+Scientific_Name_Telugu+"''''' ( ''"+Scientific_Name+"''). ",
         ] | random
 	-%}
     {%- if Old_latin_name_for_bird_Telugu != 'NaN' %}
@@ -69,8 +69,8 @@
         -%}
     {%- elif Conservation_status_Telugu != 'NaN' and IUCN_link == 'NaN' %}
         {%- set iucn_line=[
-            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ "గా వర్గీకరించింది . ",
-            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ "గా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది . "
+            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ "గా వర్గీకరించింది. ",
+            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ "గా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది. "
         ] | random
         -%}
     {%- else %}
@@ -84,8 +84,8 @@
         -%}
     {%- endif %}
     {%- set common_line=[
-        "ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి.",
-        "ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి."
+        "ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి. ",
+        "ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి. "
         ] | random
     -%}
     {%- if Order_Telugu != 'NaN' %}
@@ -97,8 +97,8 @@
     {%- endif %}
     {%- if locomotion_Telugu != 'NaN' %}
         {%- set loc_line=[
-            Bird_Original_Name_Telugu+"లు "+locomotion_Telugu+" ద్వారా ముందుకు పయనిస్తాయి.",
-            locomotion_Telugu+" ద్వారా "+ Bird_Original_Name_Telugu+"లు ముందుకు పయనిస్తాయి."
+            Bird_Original_Name_Telugu+"లు "+locomotion_Telugu+" ద్వారా ముందుకు పయనిస్తాయి. ",
+            locomotion_Telugu+" ద్వారా "+ Bird_Original_Name_Telugu+"లు ముందుకు పయనిస్తాయి. "
         ] | random
         -%}
     {%- endif %}
@@ -125,7 +125,7 @@
 {%- endmacro -%}
 {%- macro laksh(Bird_Original_Name_Telugu,auditory_system_Telugu,hearing_range_Telugu,hearing_threshold_Telugu,Eol_Link,Ebird_Description_Telugu,body_mass_Telugu,mineralized_skeleton_contains_Telugu) -%}
     {%- if Eol_Link != 'NaN' %}
-        {%- set eol_line="<ref>{{Cite web|url="+Eol_Link+"|title="+Bird_Original_Name+" - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}</ref> " -%}
+        {%- set eol_line="<ref>{{Cite web|url="+Eol_Link+"|title="+Bird_Original_Name+" - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}</ref>" -%}
     {% else -%}
         {%- set eol_line="" -%}
     {%- endif %}
@@ -138,7 +138,11 @@
     {%- endif %}
     {%- if mineralized_skeleton_contains_Telugu != 'NaN' %}
         {%- if mineralized_skeleton_contains_Telugu == 'అపటైట్' %}
+<<<<<<< HEAD
             {%- set skeleton_line = "ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం ఫ్లోరైడ్ ఫాస్ఫేట్(Ca<sub>2</sub>FO<sub>4</sub>P) లేదా కాల్షియం క్లోరైడ్ ఫాస్ఫేట్(Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>)లతో  కలిగి ఉంటుంది." %}
+=======
+            {%- set skeleton_line = "ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం ఫ్లోరైడ్ ఫాస్ఫేట్(Ca<sub>2</sub>FO<sub>4</sub>P) లేదా కాల్షియం క్లోరైడ్ ఫాస్ఫేట్(Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>) లతో  కలిగి ఉంటుంది. " %}
+>>>>>>> 3c5e54bafc5d151da775707b04921aabcd0dd8b6
         {%- else %}
             {%- set skeleton_line = "ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం కార్బోనేట్(CaCO<sub>3</sub>) ఖనిజాలతో కలిగి ఉంటుంది. " %}
         {%- endif %}
@@ -173,7 +177,7 @@
     {%- if hearing_threshold_Telugu != 'NaN' %}
     {%- set thersh_line = [ 
         "వీటికి "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించే సామర్ధ్యం వుంది. ",
-        Bird_Original_Name_Telugu + "లకు "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించగలవు. "
+        Bird_Original_Name_Telugu + " లకు "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించగలవు. "
         ] | random
         -%}
     {%- endif %}
@@ -183,12 +187,12 @@
 {%- endmacro -%}
 {%- macro jv(Bird_Original_Name_Telugu,Habitat_Telugu,Breeding_region_Telugu,Breeding_subregion_Telugu,Life_Span_Telugu,altitude_Telugu,Dibird_Link,Country_Telugu,Ebird_Link) -%}
     {%- if Ebird_Link != 'NaN' %}
-        {%- set ebird_line="<ref>{{Cite web|url="+ Ebird_Link +" |title=" +Bird_Original_Name+ " - eBird|website=ebird.com|language=en|access-date=2022-04-05}}</ref> " -%}
+        {%- set ebird_line="<ref>{{Cite web|url="+ Ebird_Link +" |title=" +Bird_Original_Name+ " - eBird|website=ebird.com|language=en|access-date=2022-04-05}}</ref>" -%}
     {% else -%}
         {%- set ebird_line="" -%}
     {%- endif %}
     {%- if Dibird_Link != 'NaN' %}
-        {%- set dibird_line="<ref>{{Cite web|url="+Dibird_Link+" |title="+Bird_Original_Name+" bird photo call and song/ "+ Scientific_Name +" |website=dibird.com|language=en|access-date=2022-04-05}}</ref> " -%}
+        {%- set dibird_line="<ref>{{Cite web|url="+Dibird_Link+" |title="+Bird_Original_Name+" bird photo call and song/ "+ Scientific_Name +" |website=dibird.com|language=en|access-date=2022-04-05}}</ref>" -%}
     {% else -%}
         {%- set dibird_line="" -%}
     {%- endif %}
@@ -219,7 +223,7 @@
     {%- endif %}
     {%- if Life_Span_Telugu != 'NaN' %}
         {%- set lspan_line=[
-            Bird_Original_Name_Telugu+" జీవితకాలం సాధారణంగా "+ Life_Span_Telugu +"గా తెలుపబడినది.",
+            Bird_Original_Name_Telugu+" జీవితకాలం సాధారణంగా "+ Life_Span_Telugu +"గా తెలుపబడినది. ",
             "వీటి జీవితకాలం "+ Life_Span_Telugu+". " ] | random
         -%}
     {%- endif %}
