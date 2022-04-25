@@ -103,7 +103,7 @@
         -%}
     {%- endif %}
     {%- if Population_Growth_Telugu != 'NaN' and Population_Growth_Telugu == 'స్థిరమైన' %}
-        {%- set pg_line = "ఈ జాతుల జనాభా పెరుగుదల స్థిరంగా వుంది. " %}
+        {%- set pg_line = "ఈ జాతుల జనాభా పెరుగుదల స్థిరంగా ఉంది. " %}
     {%- elif Population_Growth_Telugu != 'NaN' and Population_Growth_Telugu != 'స్థిరమైన' %}
         {%- set pg_line = "ఈ జాతుల జనాభా పెరుగుదల స్థిరంగా "+Population_Growth_Telugu+". " %}
     {%- endif %}
@@ -111,6 +111,17 @@
 {%- endmacro -%}
 {%- macro gurthimpu(Bird_Original_Name_Telugu,Scientist_Telugu,founded) -%}
     {%- if Scientist_Telugu != 'NaN' and founded != 'NaN' %}
+        {%- if ',' in Scientist_Telugu or '&' in Scientist_Telugu %}
+        {%- set find_line=[
+            Bird_Original_Name_Telugu + " అన్న పేరుతో ప్రకృతి శాస్త్రవేత్తలు '''"+ Scientist_Telugu +"''' "+ founded +"లో మొట్టమొదటిసారిగా ఈ పక్షిని కనుగొన్నారు.",
+            "ఈ పక్షిని ప్రకృతి శాస్త్రవేత్తలు '''"+Scientist_Telugu +"''' " + founded +" లో కనుగొన్నారు. ",
+            founded +" లో ఈ పక్షిని ప్రకృతి శాస్త్రవేత్తలు '''"+Scientist_Telugu +"''' కనుగొన్నారు. ",
+            founded +" లో ఈ పక్షిని '''"+Scientist_Telugu +"''' ప్రకృతి శాస్త్రవేత్తలు గుర్తించారు. ",
+            "ఈ పక్షి " + founded +" లో ప్రకృతి శాస్త్రవేత్తలు '''"+Scientist_Telugu +"''' కనుగొన్నారు. ",
+            "ఈ పక్షి " + founded +" లో '''"+Scientist_Telugu +"''' లు కనుగొన్నారు. ",
+        ] | random
+        -%}
+        {%- else %}
         {%- set find_line=[
             Bird_Original_Name_Telugu + " అన్న పేరుతో ప్రకృతి శాస్త్రవేత్త '''"+ Scientist_Telugu +"''' "+ founded +"లో మొట్టమొదటిసారిగా ఈ పక్షిని కనుగొన్నారు.",
             "ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త '''"+Scientist_Telugu +"''' " + founded +" లో కనుగొన్నారు. ",
@@ -120,6 +131,7 @@
             "ఈ పక్షి " + founded +" లో '''"+Scientist_Telugu +"''' కనుగొన్నారు. ",
         ] | random
         -%}
+        {%- endif %}
 {{'\n'}}==గుర్తింపు=={{'\n'}}{{find_line}}{{'\n'}}
     {%- endif %}
 {%- endmacro -%}
@@ -172,7 +184,7 @@
     {%- endif %}
     {%- if hearing_threshold_Telugu != 'NaN' %}
     {%- set thersh_line = [ 
-        "వీటికి "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించే సామర్ధ్యం వుంది. ",
+        "వీటికి "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించే సామర్ధ్యం ఉంది. ",
         Bird_Original_Name_Telugu + " లకు "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించగలవు. "
         ] | random
         -%}
@@ -192,30 +204,45 @@
     {% else -%}
         {%- set dibird_line="" -%}
     {%- endif %}
-    {%- if Country_Telugu != 'NaN' %}
+    {%- if Country_Telugu != 'NaN' and ',' in Country_Telugu %}
+        {%- set country_line=[
+            "ఇవి "+Country_Telugu +" దేశాలలో ఎక్కువగా కనిపిస్తాయి "+ebird_line+". ",
+            Bird_Original_Name_Telugu+ " " +Country_Telugu+" దేశాలకు చెందినవి "+ebird_line+". "] | random
+        -%}
+    {%- elif Country_Telugu != 'NaN' and ',' in Country_Telugu %}
         {%- set country_line=[
             "ఇవి "+Country_Telugu +" దేశంలో ఎక్కువగా కనిపిస్తాయి "+ebird_line+". ",
             Bird_Original_Name_Telugu+ " " +Country_Telugu+" దేశానికి చెందినవి "+ebird_line+". "] | random
-            -%}
+        -%}
     {%- endif %}
-    {%- if Habitat_Telugu != 'NaN' %}
+    {%- if Habitat_Telugu != 'NaN' and ',' in Habitat_Telugu %}
+        {%- set realm_line=[
+            "ఇవి ఎక్కువగా "+Habitat_Telugu+" లలో నివసిస్తాయి. ",
+            "వీటి నివాస స్థలాలు " + Habitat_Telugu + ". "] | random
+        -%}
+    {%- elif Habitat_Telugu != 'NaN' and not ',' in Habitat_Telugu %}
         {%- set realm_line=[
             "ఇవి ఎక్కువగా "+Habitat_Telugu+" లో నివసిస్తాయి. ",
             "వీటి నివాస స్థలం " + Habitat_Telugu + ". "] | random
         -%}
     {%- endif %}
-    {%- if Breeding_region_Telugu != 'NaN' %}
+    {%- if Breeding_region_Telugu != 'NaN' and ',' in Breeding_region_Telugu %}
+        {%- set region_line=[
+            "వీటి సంతానోత్పత్తి ప్రాంతాలు "+Breeding_region_Telugu+ " " + dibird_line + ". ",
+            "సంతానోత్పత్తికి అనువైన ప్రదేశాలు " + Breeding_region_Telugu + " " + dibird_line + ". ",
+            "ఈ జాతి పక్షులు "+Breeding_region_Telugu+"లలో సంతానోత్పత్తి చేస్తాయి "+ dibird_line +". " ] | random
+        -%}
+    {%- elif Breeding_region_Telugu != 'NaN' and ',' not in Breeding_region_Telugu %}
         {%- set region_line=[
             "వీటి సంతానోత్పత్తి ప్రాంతం "+Breeding_region_Telugu+ " " + dibird_line + ". ",
             "సంతానోత్పత్తికి అనువైన ప్రదేశం " + Breeding_region_Telugu + " " + dibird_line + ". ",
             "ఈ జాతి పక్షులు "+Breeding_region_Telugu+"లో సంతానోత్పత్తి చేస్తాయి "+ dibird_line +". " ] | random
         -%}
     {%- endif %}
-    {%- if Breeding_subregion_Telugu != 'NaN' %}
-        {%- set subreg_line=[
-            "వీటి సంతానోత్పత్తి ఉపప్రాంతాలు "+Breeding_subregion_Telugu+ ". ",
-            Breeding_subregion_Telugu +" సంతానోత్పత్తి ఉపప్రాంతాలు "+ ". " ] | random
-        -%}
+    {%- if Breeding_subregion_Telugu != 'NaN' and ',' in Breeding_subregion_Telugu %}
+        {%- set subreg_line="వీటి సంతానోత్పత్తి ఉపప్రాంతాలు "+Breeding_subregion_Telugu+ ". " -%}
+    {%- elif Breeding_subregion_Telugu != 'NaN' and ',' not in Breeding_subregion_Telugu %}
+        {%- set subreg_line="వీటి సంతానోత్పత్తి ఉపప్రాంతం "+Breeding_subregion_Telugu+ ". " -%}
     {%- endif %}
     {%- if Life_Span_Telugu != 'NaN' %}
         {%- set lspan_line=[
