@@ -48,8 +48,8 @@
         {%- set iucn_link_line="<ref>{{Cite web|url="+IUCN_link+" | title="+Scientific_Name+"("+Bird_Original_Name+")|website=www.iucnredlist.org|access-date=2022-04-05}}</ref> " -%}
     {%- endif %}
     {%- set scientific_line=[
-        " '''''"+Scientific_Name_Telugu +"''''' ( ''"+ Scientific_Name+"'' )"+ " దీని శాస్త్రీయ నామం. ",
-        " దీని శాస్త్రీయ నామం '''''"+Scientific_Name_Telugu+"''''' ( ''"+Scientific_Name+"''). ",
+        " '''''"+Scientific_Name_Telugu +"''''' (''"+ Scientific_Name+"'' ) "+ " దీని శాస్త్రీయ నామం. ",
+        " దీని శాస్త్రీయ నామం '''''"+Scientific_Name_Telugu+"''''' (''"+Scientific_Name+"''). ",
         ] | random
 	-%}
     {%- if Old_latin_name_for_bird_Telugu != 'NaN' %}
@@ -63,8 +63,8 @@
     {%- endif %}
     {%- if Conservation_status_Telugu != 'NaN' and IUCN_link != 'NaN' %}
         {%- set iucn_line=[
-            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ "గా వర్గీకరించింది "+iucn_link_line+". ",
-            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ "గా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది "+iucn_link_line+". "
+            "ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను "+Conservation_status_Telugu+ "గా వర్గీకరించింది."+iucn_link_line+" ",
+            "ఈ పక్షి జాతులను "+Conservation_status_Telugu+ "గా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది."+iucn_link_line+" "
         ] | random
         -%}
     {%- elif Conservation_status_Telugu != 'NaN' and IUCN_link == 'NaN' %}
@@ -84,8 +84,8 @@
         -%}
     {%- endif %}
     {%- set common_line=[
-        "ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి. ",
-        "ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం(సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతి(సూపర్ క్లాస్) కి చెందినవి. "
+        "ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం (సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి (సూపర్ క్లాస్) కి చెందినవి. ",
+        "ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం (సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతి (సూపర్ క్లాస్) కి చెందినవి. "
         ] | random
     -%}
     {%- if Order_Telugu != 'NaN' %}
@@ -158,26 +158,26 @@
     {%- if auditory_system_Telugu != 'NaN' and auditory_system_Telugu != 'ఓటోలిత్స్' %}
         {%- if hearing_range_Telugu != 'NaN' %}
             {%- set audi_line=[
-            "టిమ్పానిక్ (మధ్య చెవి) ద్వారా " + hearing_range_Telugu + " వరకు ఈ పక్షులు వినగలవు "+ eol_line +". " ,
-            "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం, " + hearing_range_Telugu + " వరకు వినగలవు "+ eol_line +". "] | random
+            "టిమ్పానిక్ (మధ్య చెవి) ద్వారా " + hearing_range_Telugu + " వరకు ఈ పక్షులు వినగలవు."+ eol_line +" " ,
+            "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం, " + hearing_range_Telugu + " వరకు వినగలవు."+ eol_line +" "] | random
             -%}
         {% else -%}
             {%- set audi_line=[
-            "టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు "+ eol_line +". " ,
-            "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం "+ eol_line +". "] | random
+            "టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు."+ eol_line +" " ,
+            "వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం."+ eol_line +" "] | random
             -%}
         {%- endif %}
     {% elif auditory_system_Telugu != 'NaN' and auditory_system_Telugu == 'ఓటోలిత్స్' -%}
         {%- if hearing_range_Telugu != 'NaN' %}
             {%- set audi_line=[
-            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని, శరీర కదలికలు గమనమార్గాన్ని చూపుతాయి, వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు "+ eol_line +". ",
-            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి శరీర కదలికలు, భూమి ఆకర్షణ శక్తిని వినియోగించుకొని వాటి గమనమార్గాన్ని నిర్దేశించుకుంటాయి ,వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు "+ eol_line +". "
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తికి వినియోగించుకొని, శరీర కదలికలు గమనమార్గాన్ని చూపుతాయి, వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు."+ eol_line +" ",
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి శరీర కదలికలు, భూమి ఆకర్షణ శక్తిని వినియోగించుకొని వాటి గమనమార్గాన్ని నిర్దేశించుకుంటాయి ,వీటి ద్వారా కేవలం " + hearing_range_Telugu + " వరకు మాత్రమే వినగలవు."+ eol_line +" "
                 ] | random
             -%}
         {% else -%}
             {%- set audi_line=[
-            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తిని వినియోగించుకొని, శరీర కదలికలు గమనమార్గాన్ని నిర్దేశిస్తాయి "+ eol_line +". ",
-            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి శరీర కదలికలు, భూమి ఆకర్షణ శక్తిని వినియోగించుకొని వాటి గమనమార్గాన్ని నిర్దేశించుకుంటాయి "+ eol_line +". "
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి భూమి ఆకర్షణ శక్తిని వినియోగించుకొని, శరీర కదలికలు గమనమార్గాన్ని నిర్దేశిస్తాయి."+ eol_line +" ",
+            "చేపలలో లాగా "+ auditory_system_Telugu +" నిర్మాణాలు కలిగి శరీర కదలికలు, భూమి ఆకర్షణ శక్తిని వినియోగించుకొని వాటి గమనమార్గాన్ని నిర్దేశించుకుంటాయి."+ eol_line +" "
                 ] | random
             -%}
         {%- endif %}
@@ -185,7 +185,7 @@
     {%- if hearing_threshold_Telugu != 'NaN' %}
     {%- set thersh_line = [ 
         "వీటికి "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించే సామర్ధ్యం ఉంది. ",
-        Bird_Original_Name_Telugu + " లకు "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించగలవు. "
+        Bird_Original_Name_Telugu + " "+hearing_threshold_Telugu+" నుండి శబ్దాలను గ్రహించగలవు. "
         ] | random
         -%}
     {%- endif %}
@@ -206,13 +206,13 @@
     {%- endif %}
     {%- if Country_Telugu != 'NaN' and ',' in Country_Telugu %}
         {%- set country_line=[
-            "ఇవి "+Country_Telugu +" దేశాలలో ఎక్కువగా కనిపిస్తాయి "+ebird_line+". ",
-            Bird_Original_Name_Telugu+ " " +Country_Telugu+" దేశాలకు చెందినవి "+ebird_line+". "] | random
+            "ఇవి "+Country_Telugu +" దేశాలలో ఎక్కువగా కనిపిస్తాయి."+ebird_line+" ",
+            Bird_Original_Name_Telugu+ " " +Country_Telugu+" దేశాలకు చెందినవి."+ebird_line+" "] | random
         -%}
-    {%- elif Country_Telugu != 'NaN' and ',' in Country_Telugu %}
+    {%- elif Country_Telugu != 'NaN' and ',' not in Country_Telugu %}
         {%- set country_line=[
-            "ఇవి "+Country_Telugu +" దేశంలో ఎక్కువగా కనిపిస్తాయి "+ebird_line+". ",
-            Bird_Original_Name_Telugu+ " " +Country_Telugu+" దేశానికి చెందినవి "+ebird_line+". "] | random
+            "ఇవి "+Country_Telugu +" దేశంలో ఎక్కువగా కనిపిస్తాయి."+ebird_line+" ",
+            Bird_Original_Name_Telugu+ " " +Country_Telugu+" దేశానికి చెందినవి."+ebird_line+" "] | random
         -%}
     {%- endif %}
     {%- if Habitat_Telugu != 'NaN' and ',' in Habitat_Telugu %}
@@ -228,15 +228,15 @@
     {%- endif %}
     {%- if Breeding_region_Telugu != 'NaN' and ',' in Breeding_region_Telugu %}
         {%- set region_line=[
-            "వీటి సంతానోత్పత్తి ప్రాంతాలు "+Breeding_region_Telugu+ " " + dibird_line + ". ",
-            "సంతానోత్పత్తికి అనువైన ప్రదేశాలు " + Breeding_region_Telugu + " " + dibird_line + ". ",
-            "ఈ జాతి పక్షులు "+Breeding_region_Telugu+"లలో సంతానోత్పత్తి చేస్తాయి "+ dibird_line +". " ] | random
+            "వీటి సంతానోత్పత్తి ప్రాంతాలు "+Breeding_region_Telugu+ "." + dibird_line + " ",
+            "సంతానోత్పత్తికి అనువైన ప్రదేశాలు " + Breeding_region_Telugu + "." + dibird_line + " ",
+            "ఈ జాతి పక్షులు "+Breeding_region_Telugu+"లలో సంతానోత్పత్తి చేస్తాయి."+ dibird_line +" " ] | random
         -%}
     {%- elif Breeding_region_Telugu != 'NaN' and ',' not in Breeding_region_Telugu %}
         {%- set region_line=[
-            "వీటి సంతానోత్పత్తి ప్రాంతం "+Breeding_region_Telugu+ " " + dibird_line + ". ",
-            "సంతానోత్పత్తికి అనువైన ప్రదేశం " + Breeding_region_Telugu + " " + dibird_line + ". ",
-            "ఈ జాతి పక్షులు "+Breeding_region_Telugu+"లో సంతానోత్పత్తి చేస్తాయి "+ dibird_line +". " ] | random
+            "వీటి సంతానోత్పత్తి ప్రాంతం "+Breeding_region_Telugu+ "." + dibird_line + " ",
+            "సంతానోత్పత్తికి అనువైన ప్రదేశం " + Breeding_region_Telugu + "." + dibird_line + " ",
+            "ఈ జాతి పక్షులు "+Breeding_region_Telugu+"లో సంతానోత్పత్తి చేస్తాయి."+ dibird_line +" " ] | random
         -%}
     {%- endif %}
     {%- if Breeding_subregion_Telugu != 'NaN' and ',' in Breeding_subregion_Telugu %}
