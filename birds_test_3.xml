@@ -1,0 +1,393 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="te">
+  <siteinfo>
+    <sitename>tewiki</sitename>
+    <dbname>indicwiki</dbname>
+    <base>https://tewiki.iiit.ac.in/index.php?title=%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF_%E0%B0%AA%E0%B1%87%E0%B0%9C%E0%B1%80</base>
+    <generator>MediaWiki 1.34.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">మీడియా</namespace>
+      <namespace key="-1" case="first-letter">ప్రత్యేక</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">చర్చ</namespace>
+      <namespace key="2" case="first-letter">వాడుకరి</namespace>
+      <namespace key="3" case="first-letter">వాడుకరి చర్చ</namespace>
+      <namespace key="4" case="first-letter">Project</namespace>
+      <namespace key="5" case="first-letter">Project చర్చ</namespace>
+      <namespace key="6" case="first-letter">దస్త్రం</namespace>
+      <namespace key="7" case="first-letter">దస్త్రంపై చర్చ</namespace>
+      <namespace key="8" case="first-letter">మీడియావికీ</namespace>
+      <namespace key="9" case="first-letter">మీడియావికీ చర్చ</namespace>
+      <namespace key="10" case="first-letter">మూస</namespace>
+      <namespace key="11" case="first-letter">మూస చర్చ</namespace>
+      <namespace key="12" case="first-letter">సహాయం</namespace>
+      <namespace key="13" case="first-letter">సహాయం చర్చ</namespace>
+      <namespace key="14" case="first-letter">వర్గం</namespace>
+      <namespace key="15" case="first-letter">వర్గం చర్చ</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="120" case="first-letter">Item</namespace>
+      <namespace key="121" case="first-letter">Item talk</namespace>
+      <namespace key="122" case="first-letter">Property</namespace>
+      <namespace key="123" case="first-letter">Property talk</namespace>
+      <namespace key="482" case="first-letter">Config</namespace>
+      <namespace key="483" case="first-letter">Config talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">మాడ్యూల్</namespace>
+      <namespace key="829" case="first-letter">మాడ్యూల్ చర్చ</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+      <namespace key="3022" case="first-letter">Tewiki</namespace>
+      <namespace key="3023" case="first-letter">Tewiki talk</namespace>
+    </namespaces>
+  </siteinfo>
+
+
+
+	<page>
+		<title>Abbott&apos;s Booby</title>
+		<ns>0</ns>
+		<id>700000</id>
+		<revision>
+			<id>700000</id>
+			<timestamp>2022-05-09T14-04-42Z</timestamp>
+			<contributor>
+				<username>Yallamahanth</username>
+				<id>18852</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="3156">
+			
+{{taxobox
+| name= అబాట్ బూబీ
+| status = EN
+| status_system = IUCN3.1
+| status_ref=&lt;ref name=&quot;iucn status 18 November 2021&quot;&gt;{{cite iucn |author=BirdLife International |date=2016 |title=&apos;&apos;Abbott&apos;s Booby&apos;&apos; |volume=2016 |page=e.T22696649A152726109 |doi=10.2305/IUCN.UK.2016-3.RLTS.T22696649A152726109.en |access-date=18 November 2021}}&lt;/ref&gt;
+| image = Abbott&apos;s Booby.jpg
+| regnum= జంతువులు
+| subregnum = బిలేటేరియా
+| infraregnum = డ్యూటెరోస్టోమియా
+| phylum= కార్డేటా
+| subphylum = సకశేరుకాలు
+| infraphylum = గ్నాథోస్టోమాటా
+| superclassis = టెట్రాపోడా
+| classis = పక్షులు
+| ordo=సులిఫార్మ్స్
+| familia=సులిదా
+| genus =&apos;&apos;పాపసులా&apos;&apos;
+| species = &apos;&apos;&apos;&apos;&apos;పి. అబ్బోటి&apos;&apos;&apos;&apos;&apos;
+| binomial = పాపసులా అబ్బోటి
+| authority = ([[రిడ్వే]], 1893)
+}}
+
+
+&apos;&apos;&apos;అబాట్ బూబీ&apos;&apos;&apos; (Abbott&apos;s Booby) దీని శాస్త్రీయ నామం &apos;&apos;&apos;&apos;&apos;పాపసులా అబ్బోటి&apos;&apos;&apos;&apos;&apos; (&apos;&apos;Papasula abbotti&apos;&apos;). ఇది సులిదా కుటుంబానికి చెందిన పక్షి. లాటిన్ లో సుల అబ్బోటి గా పిలవబడేది. ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం (సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి (సూపర్ క్లాస్) కి చెందినవి. అబాట్ బూబీ సులిఫార్మ్స్ క్రమానికి చెందినవి. ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను అంతరించిపోతున్న జాతులుగా వర్గీకరించింది.&lt;ref&gt;{{Cite web|url=https://www.iucnredlist.org/species/22696649/152726109 | title=Papasula abbotti(Abbott&apos;s Booby)|website=www.iucnredlist.org|access-date=2022-04-05}}&lt;/ref&gt; అబాట్ బూబీలు ఎగరడం ద్వారా ముందుకు పయనిస్తాయి. 
+
+
+==గుర్తింపు==
+1893 లో ఈ పక్షిని &apos;&apos;&apos;రిడ్వే&apos;&apos;&apos; ప్రకృతి శాస్త్రవేత్త గుర్తించారు. 
+
+  
+
+==లక్షణాలు==
+ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం ఫ్లోరైడ్ ఫాస్ఫేట్(Ca&lt;sub&gt;2&lt;/sub&gt;FO&lt;sub&gt;4&lt;/sub&gt;P) లేదా కాల్షియం క్లోరైడ్ ఫాస్ఫేట్(Ca&lt;sub&gt;3&lt;/sub&gt;(PO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;) లతో కలిగి ఉంటుంది. నలుపు ఇంకా తెలుపు రంగుల సముద్రపు పక్షి. క్రిస్మస్ ద్వీపం వర్షారణ్య పందిరిలో సంతానోత్పత్తి, ప్రక్కనే ఉన్న సముద్రంలో ఆహారం తీసుకుంటుంది. విచిత్రమైన పొడవాటి మెడ, సన్నని రెక్కలు దీని ప్రత్యేకత. దవడలు ఆడపక్షిలో లేత గులాబి రంగులో, మగ పక్షులో బూడిదరంగులో ఉంటాయి.వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం, 5000 హెర్ట్జ్(Hz) వరకు వినగలవు.&lt;ref&gt;{{Cite web|url=https://eol.org/pages/45513856|title=Abbott&apos;s Booby - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}&lt;/ref&gt; వీటికి 20 డెసిబెల్స్ (dB) నుండి శబ్దాలను గ్రహించే సామర్ధ్యం ఉంది. 
+
+
+==జీవన విధానం==
+అబాట్ బూబీ క్రిస్మస్ ద్వీపం దేశానికి చెందినవి.&lt;ref&gt;{{Cite web|url=https://ebird.org/species/abbboo2 |title=Abbott&apos;s Booby - eBird|website=ebird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; వీటి నివాస స్థలాలు అటవీ, మెరైన్ నెరిటిక్, మెరైన్ ఓసియానిక్. సంతానోత్పత్తికి అనువైన ప్రదేశం ఇండియన్ మహాసముద్రం.&lt;ref&gt;{{Cite web|url=https://dibird.com/species/abbotts-booby/ |title=Abbott&apos;s Booby bird photo call and song/ Papasula abbotti |website=dibird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; వీటి సంతానోత్పత్తి ఉపప్రాంతం ఈశాన్య ప్రాంతాలు. అబాట్ బూబీ జీవితకాలం సాధారణంగా 14.1 సంవత్సరాలుగా తెలుపబడినది. అబాట్ బూబీ 260 మీటర్లు ఎత్తు వరకు శ్వాసను పొందగలవు. 
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:తెవికీ పక్షులు]][[వర్గం:సులిదా కుటుంబంలో పక్షులు]][[వర్గం:అంతరించిపోతున్న జాతులు పక్షులు]][[వర్గం:క్రిస్మస్ ద్వీపంలో పక్షులు]]
+
+
+{{Taxonbar|from=Q839854}}
+			</text>
+			<sha1>84651t5hhplnpng46r7qjaepaq7c9im</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Abbott&apos;s Starling</title>
+		<ns>0</ns>
+		<id>700001</id>
+		<revision>
+			<id>700001</id>
+			<timestamp>2022-05-09T14-04-42Z</timestamp>
+			<contributor>
+				<username>Yallamahanth</username>
+				<id>18852</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="3489">
+			
+{{taxobox
+| name= అబాట్ స్టార్లింగ్
+| status = EN
+| status_system = IUCN3.1
+| status_ref=&lt;ref name=&quot;iucn status 18 November 2021&quot;&gt;{{cite iucn |author=BirdLife International |date=2016 |title=&apos;&apos;Abbott&apos;s Starling&apos;&apos; |volume=2016 |page=e.T22710787A191046739 |doi=10.2305/IUCN.UK.2016-3.RLTS.T22710787A191046739.en |access-date=18 November 2021}}&lt;/ref&gt;
+| image = Abbott&apos;s Starling (adult).jpg
+| regnum= జంతువులు
+| subregnum = బిలేటేరియా
+| infraregnum = డ్యూటెరోస్టోమియా
+| phylum= కార్డేటా
+| subphylum = సకశేరుకాలు
+| infraphylum = గ్నాథోస్టోమాటా
+| superclassis = టెట్రాపోడా
+| classis = పక్షులు
+| ordo=పాస్రిఫార్మ్స్
+| familia=స్టర్నిడైడ్
+| genus =&apos;&apos;పూపెట్రా&apos;&apos;
+| species = &apos;&apos;&apos;&apos;&apos;పి. ఫెటోరిలిస్&apos;&apos;&apos;&apos;&apos;
+| binomial = పూపెట్రా ఫెటోరిలిస్
+| authority = ([[రిచ్ మండ్]], 1897)
+}}
+
+
+&apos;&apos;&apos;అబాట్ స్టార్లింగ్&apos;&apos;&apos; (Abbott&apos;s Starling) &apos;&apos;&apos;&apos;&apos;పూపెట్రా ఫెటోరిలిస్&apos;&apos;&apos;&apos;&apos; (&apos;&apos;Poeoptera femoralis&apos;&apos; ) దీని శాస్త్రీయ నామం. స్టర్నిడైడ్ కుటుంబంలోని పక్షి. లాటిన్ లో ఫొలియా ఫెమోరిలిస్, ఫోలిడాగ్స్ ఫెటోరిలిస్, సినీన్రిక్లు ఫెటోరిలిస్ గా పిలవబడేది. ఈ పక్షి వర్గం కార్డేటా, ఉపవర్గం సకశేరుకాలు, నిమ్నవర్గం (సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఇవి టెట్రాపోడా అధితరగతి (సూపర్ క్లాస్) కి చెందినవి. అబాట్ స్టార్లింగ్ పాస్రిఫార్మ్స్ క్రమానికి చెందినవి. ఈ పక్షి జాతులను అంతరించిపోతున్న జాతులుగా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది.&lt;ref&gt;{{Cite web|url=https://www.iucnredlist.org/species/22710787/191046739 | title=Poeoptera femoralis(Abbott&apos;s Starling)|website=www.iucnredlist.org|access-date=2022-04-05}}&lt;/ref&gt; అబాట్ స్టార్లింగ్లు ద్విపాద కదలిక ద్వారా ముందుకు పయనిస్తాయి. 
+
+
+==గుర్తింపు==
+1897 లో ఈ పక్షిని ప్రకృతి శాస్త్రవేత్త &apos;&apos;&apos;రిచ్ మండ్&apos;&apos;&apos; కనుగొన్నారు. 
+
+  
+
+==లక్షణాలు==
+ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం ఫ్లోరైడ్ ఫాస్ఫేట్(Ca&lt;sub&gt;2&lt;/sub&gt;FO&lt;sub&gt;4&lt;/sub&gt;P) లేదా కాల్షియం క్లోరైడ్ ఫాస్ఫేట్(Ca&lt;sub&gt;3&lt;/sub&gt;(PO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;) లతో కలిగి ఉంటుంది. కెన్యా, టాంజానియాలో ఒక చిన్న శ్రేణితో ఒక చిన్న, విలక్షణమైన స్టార్లింగ్. మగపక్షికి నీలం-నలుపు వెన్ను, ఛాతి కలిగి, తెల్లటి బొడ్డు ఉంటాయి. ఆడపక్షికి గోధుమ వెన్ను, ఛాతి కలిగి, గోధుమ రంగు చారలతో పాలిపోయిన బొడ్డు ఉంటాయి. ఈ పక్షులు పసుపు కన్ను తో చూస్తాయి. మాంటనే అడవిలో నివసిస్తాయి. జంటలుగా లేదా చిన్న మందలుగా, తరచుగా చనిపోయిన స్నాగ్‌లు, ఇతర బహిరంగ పెర్చ్‌లపై కనిపిస్తాయి. షార్ప్ స్టార్లింగ్ మాదిరిగానే ఉంటాయి, కానీ ముదురు ఛాతి ను కలిగి ఉంటాయి. అరుపులలో పదునైన “స్వీట్” ఉంటాయి, పాట వేగవంతమైన, ఎత్తైన టింక్లింగ్ పదబంధం.వీటి వినికిడి టిమ్పానిక్ (మధ్య చెవి) ద్వారా సాధ్యం, 5000 హెర్ట్జ్(Hz) వరకు వినగలవు.&lt;ref&gt;{{Cite web|url=https://eol.org/pages/45515541|title=Abbott&apos;s Starling - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}&lt;/ref&gt; అబాట్ స్టార్లింగ్ 10 డెసిబెల్స్ (dB) నుండి శబ్దాలను గ్రహించగలవు. 
+
+
+==జీవన విధానం==
+అబాట్ స్టార్లింగ్ కెన్యా దేశానికి చెందినవి.&lt;ref&gt;{{Cite web|url=https://ebird.org/species/abbsta2 |title=Abbott&apos;s Starling - eBird|website=ebird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; వీటి నివాస స్థలాలు ఉష్ణమండల, భూమధ్యరేఖ. సంతానోత్పత్తికి అనువైన ప్రదేశం ఆఫ్రికా ఖండం.&lt;ref&gt;{{Cite web|url=https://dibird.com/species/abbotts-starling/ |title=Abbott&apos;s Starling bird photo call and song/ Poeoptera femoralis |website=dibird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; వీటి సంతానోత్పత్తి ఉపప్రాంతాలు కెన్యా ,టాంజానియా. వీటి జీవితకాలం 3.5 సంవత్సరాలు. అబాట్ స్టార్లింగ్ 2,600 మీటర్లు ఎత్తు వరకు శ్వాసను పొందగలవు. 
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:తెవికీ పక్షులు]][[వర్గం:స్టర్నిడైడ్ కుటుంబంలో పక్షులు]][[వర్గం:అంతరించిపోతున్న జాతులు పక్షులు]][[వర్గం:కెన్యాలో పక్షులు]]
+
+
+{{Taxonbar|from=Q27075615}}
+			</text>
+			<sha1>hruuy0yo35q79rcprtp5nm1ezo3tj48</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Abd al Kuri Sparrow</title>
+		<ns>0</ns>
+		<id>700002</id>
+		<revision>
+			<id>700002</id>
+			<timestamp>2022-05-09T14-04-42Z</timestamp>
+			<contributor>
+				<username>Yallamahanth</username>
+				<id>18852</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="2451">
+			
+{{taxobox
+| name= అబ్ద్ అల్ కురి స్పారో
+| status = VU
+| status_system = IUCN3.1
+| status_ref=&lt;ref name=&quot;iucn status 18 November 2021&quot;&gt;{{cite iucn |author=BirdLife International |date=2016 |title=&apos;&apos;Abd al Kuri Sparrow&apos;&apos; |volume=2016 |page=e.T22735599A95115321 |doi=10.2305/IUCN.UK.2016-3.RLTS.T22735599A95115321.en |access-date=18 November 2021}}&lt;/ref&gt;
+| image = Passer hemileucus.jpg
+| regnum= జంతువులు
+| subregnum = బిలేటేరియా
+| infraregnum = డ్యూటెరోస్టోమియా
+| phylum= కార్డేటా
+| subphylum = సకశేరుకాలు
+| infraphylum = గ్నాథోస్టోమాటా
+| superclassis = టెట్రాపోడా
+| classis = పక్షులు
+| ordo=పాస్రిఫార్మ్స్
+| familia=ప్యాసెరిడా
+| genus =&apos;&apos;పాసర్&apos;&apos;
+| species = &apos;&apos;&apos;&apos;&apos;పి. హెమిలేయుస్&apos;&apos;&apos;&apos;&apos;
+| binomial = పాసర్ హెమిలేయుస్
+| authority = ([[ఓగిల్వీగ్రాంట్ &amp; ఫోర్బ్స్]], 1900)
+| synonyms = 
+* &apos;&apos;అబ్ద్ అల్ కురి స్పారో&apos;&apos;
+}}
+
+
+&apos;&apos;&apos;అబ్ద్ అల్ కురి స్పారో&apos;&apos;&apos; (Abd al Kuri Sparrow) దీని శాస్త్రీయ నామం &apos;&apos;&apos;&apos;&apos;పాసర్ హెమిలేయుస్&apos;&apos;&apos;&apos;&apos; (&apos;&apos;Passer hemileucus&apos;&apos;). ఇది ప్యాసెరిడా కుటుంబానికి చెందిన పక్షి. దీనిని అబ్ద్ అల్ కురి స్పారో ( Abd al Kuri Sparrow ) అని కూడా అంటారు.ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం (సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి (సూపర్ క్లాస్) కి చెందినవి. అబ్ద్ అల్ కురి స్పారో పాస్రిఫార్మ్స్ క్రమానికి చెందినవి. ఈ పక్షి జాతులను భవిషత్తులో అంతరించిపోయే అవకాశం వున్నా జాతులుగా ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) గుర్తించింది.&lt;ref&gt;{{Cite web|url=https://www.iucnredlist.org/species/22735599/95115321 | title=Passer hemileucus(Abd al Kuri Sparrow)|website=www.iucnredlist.org|access-date=2022-04-05}}&lt;/ref&gt; 
+
+
+==గుర్తింపు==
+1900 లో ఈ పక్షిని ప్రకృతి శాస్త్రవేత్తలు &apos;&apos;&apos;ఓగిల్వీగ్రాంట్ &amp; ఫోర్బ్స్&apos;&apos;&apos; కనుగొన్నారు. 
+
+
+==జీవన విధానం==
+ఇవి సోమాలియా దేశంలో ఎక్కువగా కనిపిస్తాయి. ఇవి ఎక్కువగా స్క్రబ్లాండ్, రాకీ ప్రాంతాలు (ఉదా. లోతట్టు కొండలు, పర్వత శిఖరాలు), ధరణి లలో నివసిస్తాయి. ఈ జాతి పక్షులు ఆఫ్రికా ఖండంలో సంతానోత్పత్తి చేస్తాయి.&lt;ref&gt;{{Cite web|url=https://dibird.com/species/abd-alkuri-sparrow/ |title=Abd al Kuri Sparrow bird photo call and song/ Passer hemileucus |website=dibird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; వీటి సంతానోత్పత్తి ఉపప్రాంతాలు అబ్ద్ అల్-కురి I, సోకోట్రా పడమర. అబ్ద్ అల్ కురి స్పారో జీవితకాలం సాధారణంగా 5.8 సంవత్సరాలుగా తెలుపబడినది. 
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:తెవికీ పక్షులు]][[వర్గం:ప్యాసెరిడా కుటుంబంలో పక్షులు]][[వర్గం:భవిషత్తులో అంతరించిపోయే అవకాశం వున్నా జాతులు పక్షులు]][[వర్గం:సోమాలియాలో పక్షులు]]
+
+
+{{Taxonbar|from=Q3056159}}
+			</text>
+			<sha1>22ij9ombmdllgb88yx1huhh1gq8zevr</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Abdim&apos;s Stork</title>
+		<ns>0</ns>
+		<id>700003</id>
+		<revision>
+			<id>700003</id>
+			<timestamp>2022-05-09T14-04-42Z</timestamp>
+			<contributor>
+				<username>Yallamahanth</username>
+				<id>18852</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="3151">
+			
+{{taxobox
+| name= అబ్దిమ్ కొంగ
+| status = LC
+| status_system = IUCN3.1
+| status_ref=&lt;ref name=&quot;iucn status 18 November 2021&quot;&gt;{{cite iucn |author=BirdLife International |date=2016 |title=&apos;&apos;Abdim&apos;s Stork&apos;&apos; |volume=2016 |page=e.T22697673A93629659 |doi=10.2305/IUCN.UK.2016-3.RLTS.T22697673A93629659.en |access-date=18 November 2021}}&lt;/ref&gt;
+| image = Ciconia abdimii -London Zoo-8a.jpg
+| regnum= జంతువులు
+| subregnum = బిలేటేరియా
+| infraregnum = డ్యూటెరోస్టోమియా
+| phylum= కార్డేటా
+| subphylum = సకశేరుకాలు
+| infraphylum = గ్నాథోస్టోమాటా
+| superclassis = టెట్రాపోడా
+| classis = పక్షులు
+| ordo=సికోనిఫార్మ్స్
+| familia=సికోనియిడా
+| genus =&apos;&apos;సికోనియా&apos;&apos;
+| species = &apos;&apos;&apos;&apos;&apos;సి. అబ్దిమి&apos;&apos;&apos;&apos;&apos;
+| binomial = సికోనియా అబ్దిమిఐ
+| authority = ([[లిచ్టెన్ స్టెయిన్]], 1823)
+}}
+
+
+&apos;&apos;&apos;అబ్దిమ్ కొంగ&apos;&apos;&apos; (Abdim&apos;s Stork) &apos;&apos;&apos;&apos;&apos;సికోనియా అబ్దిమిఐ&apos;&apos;&apos;&apos;&apos; (&apos;&apos;Ciconia abdimii&apos;&apos; ) దీని శాస్త్రీయ నామం. ఇది సికోనియిడా కుటుంబానికి చెందిన పక్షి. లాటిన్ లో స్ఫెనోరిన్చుస్ అబ్డిమి, స్ఫెన్నోరిచ్యున్చుస్ అబ్దిమి గా సుపరిచితం. ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం (సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి (సూపర్ క్లాస్) కి చెందినవి. అబ్దిమ్ కొంగ సికోనిఫార్మ్స్ క్రమానికి చెందినవి. ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను తక్కువ ఆందోళన జాతులుగా వర్గీకరించింది.&lt;ref&gt;{{Cite web|url=https://www.iucnredlist.org/species/22697673/93629659 | title=Ciconia abdimii(Abdim&apos;s Stork)|website=www.iucnredlist.org|access-date=2022-04-05}}&lt;/ref&gt; అబ్దిమ్ కొంగలు ఎగరడం ద్వారా ముందుకు పయనిస్తాయి. 
+
+
+==గుర్తింపు==
+1823 లో ఈ పక్షిని &apos;&apos;&apos;లిచ్టెన్ స్టెయిన్&apos;&apos;&apos; ప్రకృతి శాస్త్రవేత్త గుర్తించారు. 
+
+  
+
+==లక్షణాలు==
+ఈ జాతి పక్షులు సుమారు 1400 గ్రాముల బరువు ఉంటాయి. తెల్లటి బొడ్డుతో ఒక మధ్యస్థాయి పరిమాణం, ముదురు కొంగ. ఈ సామూహిక ఆఫ్రికన్ వలసలు తరచుగా వేలాది సంఖ్యలో ఉన్న భారీ సంచార జాతుల మందలలో కనిపిస్తాయి, సాధారణంగా భారీ వర్షాలు లేదాపెద్ద మంటలకు ప్రతిస్పందనగా సంచరిస్తాయి, ఆ తరువాత అవి కీటకాల ఉద్భవంపై ఆహారం తీసుకుంటుంది. ఇది బహిరంగ గడ్డి మైదానాలు, అడవులను ఇష్టపడుతుంది, కానీ చిత్తడి నేల అంచులు, పొలాలను కూడా ఉపయోగిస్తుంది. మరింత ఏకాంత నల్ల కొంగతో కలసిపోవచ్చు, కానీ అబ్దిమ్ కొంగ చిన్నది, తెలుపు రంప్ కలిగి ఉంటాయి, ఆకుపచ్చ-బూడిదరంగు దవడలు, నిస్తేజమైన (ప్రకాశవంతమైన ఎరుపు కాదు) కాళ్ళు కలిగి ఉంటాయి.టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు.&lt;ref&gt;{{Cite web|url=https://eol.org/pages/45515774|title=Abdim&apos;s Stork - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}&lt;/ref&gt; 
+
+
+==జీవన విధానం==
+ఇవి సుడాన్ దేశంలో ఎక్కువగా కనిపిస్తాయి.&lt;ref&gt;{{Cite web|url=https://ebird.org/species/abdsto1 |title=Abdim&apos;s Stork - eBird|website=ebird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; ఇవి ఎక్కువగా వాడీ లో నివసిస్తాయి. సంతానోత్పత్తికి అనువైన ప్రదేశం ఆఫ్రికా ఖండం.&lt;ref&gt;{{Cite web|url=https://dibird.com/species/abdims-stork/ |title=Abdim&apos;s Stork bird photo call and song/ Ciconia abdimii |website=dibird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; వీటి సంతానోత్పత్తి ఉపప్రాంతం సెనెగల్ టు ఇథియోపియా. వీటి జీవితకాలం 16.1 సంవత్సరాలు. 
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:తెవికీ పక్షులు]][[వర్గం:సికోనియిడా కుటుంబంలో పక్షులు]][[వర్గం:తక్కువ ఆందోళన జాతులు పక్షులు]][[వర్గం:సుడాన్లో పక్షులు]]
+
+
+{{Taxonbar|from=Q308199}}
+			</text>
+			<sha1>pdc53edrjb2959bdgarfiskwngrfnjb</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Aberdare Cisticola</title>
+		<ns>0</ns>
+		<id>700004</id>
+		<revision>
+			<id>700004</id>
+			<timestamp>2022-05-09T14-04-42Z</timestamp>
+			<contributor>
+				<username>Yallamahanth</username>
+				<id>18852</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="3255">
+			
+{{taxobox
+| name= అబెర్డేర్ సిస్టికోలా
+| status = VU
+| status_system = IUCN3.1
+| status_ref=&lt;ref name=&quot;iucn status 18 November 2021&quot;&gt;{{cite iucn |author=BirdLife International |date=2016 |title=&apos;&apos;Aberdare Cisticola&apos;&apos; |volume=2016 |page=e.T22713436A129880372 |doi=10.2305/IUCN.UK.2016-3.RLTS.T22713436A129880372.en |access-date=18 November 2021}}&lt;/ref&gt;
+| regnum= జంతువులు
+| subregnum = బిలేటేరియా
+| infraregnum = డ్యూటెరోస్టోమియా
+| phylum= కార్డేటా
+| subphylum = సకశేరుకాలు
+| infraphylum = గ్నాథోస్టోమాటా
+| superclassis = టెట్రాపోడా
+| classis = పక్షులు
+| ordo=పాస్రిఫార్మ్స్
+| familia=సిస్టోలిడా
+| genus =&apos;&apos;సిస్కోలా&apos;&apos;
+| binomial = సిస్కోలా అబెర్డేర్
+| authority = ([[లయన్స్]], 1930)
+}}
+
+
+&apos;&apos;&apos;అబెర్డేర్ సిస్టికోలా&apos;&apos;&apos; (Aberdare Cisticola) దీని శాస్త్రీయ నామం &apos;&apos;&apos;&apos;&apos;సిస్కోలా అబెర్డేర్&apos;&apos;&apos;&apos;&apos; (&apos;&apos;Cisticola aberdare&apos;&apos;). సిస్టోలిడా కుటుంబంలోని పక్షి. పూర్వం లాటిన్ భాషలో సిస్కోలా రొస్టా అబెర్డేర్ అని పిలవబడేది. ఈ పక్షి వర్గం కార్డేటా. ఇవి సకశేరుకాలు ఉపవర్గం కిందకి వస్తాయి. దీని నిమ్నవర్గం (సూపర్ ప్యైలమ్) గ్నాథోస్టోమాటా. ఈ పక్షులు టెట్రాపోడా అధితరగతి (సూపర్ క్లాస్) కి చెందినవి. ఈ పక్షి క్రమం పాస్రిఫార్మ్స్. ఇంటర్నేషనల్ యూనియన్ ఫర్ కన్సర్వేషన్ ఆఫ్ నేచర్ (IUCN) ఈ జాతులను భవిషత్తులో అంతరించిపోయే అవకాశం వున్నా జాతులుగా వర్గీకరించింది.&lt;ref&gt;{{Cite web|url=https://www.iucnredlist.org/species/22713436/129880372 | title=Cisticola aberdare(Aberdare Cisticola)|website=www.iucnredlist.org|access-date=2022-04-05}}&lt;/ref&gt; ఎగరడం ద్వారా అబెర్డేర్ సిస్టికోలాలు ముందుకు పయనిస్తాయి. 
+
+
+==గుర్తింపు==
+1930 లో ఈ పక్షిని &apos;&apos;&apos;లయన్స్&apos;&apos;&apos; ప్రకృతి శాస్త్రవేత్త గుర్తించారు. 
+
+  
+
+==లక్షణాలు==
+ఈ జాతి పక్షులు సుమారు 24 గ్రాముల బరువు ఉంటాయి. ఈ జాతి పక్షులకు ఖనిజ అస్థిపంజరం కాల్షియం ఫ్లోరైడ్ ఫాస్ఫేట్(Ca&lt;sub&gt;2&lt;/sub&gt;FO&lt;sub&gt;4&lt;/sub&gt;P) లేదా కాల్షియం క్లోరైడ్ ఫాస్ఫేట్(Ca&lt;sub&gt;3&lt;/sub&gt;(PO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;) లతో కలిగి ఉంటుంది. కెన్యాకు చెందినపెద్ద, సాపేక్షంగా రంగురంగుల సిస్టికోలా నివాస స్థలంగా పర్వతాలలో గడ్డి మైదానాలు భూములు, మూర్‌ల్యాండ్‌లో కనుగొనబడింది. తల పైభాగం, మెడ వెనుక భాగం ముదురు రంగు గీతలతో నిస్తేజంగా ఎరుపు రంగు తో కూడిన గోధుమ రంగు‌గా ఉంటాయి, వెనుక భాగం నల్లగా ఎక్కువగా ఉంటాయి, రెక్కలు్లో ఎరుపు రంగు తో కూడిన గోధుమ రంగు ప్యానెల్ ఉంటాయి. ఇతర సిస్టికోలాల మాదిరిగా, నివాస, స్వరాలు గుర్తించడానికి ముఖ్యమైనవి. స్టౌట్ సిస్టికోలాను పోలి ఉంటాయి, కానీ మెడ వెనుక భాగంలో గీతలు ఉంటాయి. సాధారణ స్వరాలు అనేక స్కీకీ స్వరాల శీఘ్ర శ్రేణి, తక్కువ ద్రవ గమనికల శ్రేణి.టిమ్పానిక్ (మధ్య చెవి) ద్వారా వినగలవు.&lt;ref&gt;{{Cite web|url=https://eol.org/pages/45514495|title=Aberdare Cisticola - Encyclopedia Of Life |website=eol.org |language=en |access-date=2022-04-05}}&lt;/ref&gt; వీటికి 10 డెసిబెల్స్ (dB) నుండి శబ్దాలను గ్రహించే సామర్ధ్యం ఉంది. 
+
+
+==జీవన విధానం==
+వీటి నివాస స్థలాలు ఉష్ణమండల, భూమధ్యరేఖ. వీటి సంతానోత్పత్తి ప్రాంతం ఆఫ్రికా ఖండం.&lt;ref&gt;{{Cite web|url=https://dibird.com/species/aberdare-cisticola/ |title=Aberdare Cisticola bird photo call and song/ Cisticola aberdare |website=dibird.com|language=en|access-date=2022-04-05}}&lt;/ref&gt; వీటి సంతానోత్పత్తి ఉపప్రాంతం కెన్యా. అబెర్డేర్ సిస్టికోలా జీవితకాలం సాధారణంగా 4.2 సంవత్సరాలుగా తెలుపబడినది. అబెర్డేర్ సిస్టికోలా 3,700 మీటర్లు ఎత్తు వరకు శ్వాసను పొందగలవు. 
+
+==మూలాలు==
+&lt;references /&gt;
+
+[[వర్గం:తెవికీ పక్షులు]][[వర్గం:సిస్టోలిడా కుటుంబంలో పక్షులు]][[వర్గం:భవిషత్తులో అంతరించిపోయే అవకాశం వున్నా జాతులు పక్షులు]]
+
+
+{{Taxonbar|from=Q1923584}}
+			</text>
+			<sha1>jwwapx9pbft8ip5ebpr8gbtu9jnjpvz</sha1>
+		</revision>
+	</page>
+	
+
+</mediawiki>
